@@ -3,48 +3,48 @@
   "author":"อุ๋ง อุ๋ง",
   "info": "Anime-Indy",
   "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-  "url": "Ykem3",
+  "url": "https://bit.ly/3ZcxbDD",
   "groups": [
     {
        "name":"🦭รวม🐒", 
        "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-       "url":"P9p6w",
-       "import":"true"
-    },
-    {
-       "name":"🦭พากย์ไทย🐒", 
-       "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-       "url":"YVrwb",
-       "import":"true"
-    },
-    {
-       "name":"🦭ซับไทย🐒", 
-       "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-       "url":"D1U0R",
-       "import":"true"
-    },
-    {
-       "name":"🦭จบแล้ว🐒", 
-       "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-       "url":"VnEt0",
-       "import":"true"
-    },
-    {
-       "name":"🦭ยังไม่จบ🐒", 
-       "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-       "url":"YTafy",
-       "import":"true"
-    },
-    {
-       "name":"🦭เดอะมูฟวี่🐒", 
-       "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-       "url":"h15Ks",
+       "url":"https://bit.ly/3EyKqVN",
        "import":"true"
     },
 	{
        "name":"🦭2023🐒", 
        "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-       "url":"hzV5v",
+       "url":"https://bit.ly/3RbPRS9",
+       "import":"true"
+    },
+    {
+       "name":"🦭พากย์ไทย🐒", 
+       "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+       "url":"https://bit.ly/3ZbjyVc",
+       "import":"true"
+    },
+    {
+       "name":"🦭ซับไทย🐒", 
+       "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+       "url":"https://bit.ly/3LfsmUo",
+       "import":"true"
+    },
+    {
+       "name":"🦭จบแล้ว🐒", 
+       "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+       "url":"https://bit.ly/3Rh1iYJ",
+       "import":"true"
+    },
+    {
+       "name":"🦭ยังไม่จบ🐒", 
+       "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+       "url":"https://bit.ly/3LhWEpw",
+       "import":"true"
+    },
+    {
+       "name":"🦭เดอะมูฟวี่🐒", 
+       "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
+       "url":"https://bit.ly/3RhHLaC",
        "import":"true"
     }
   ]
