@@ -3,7 +3,7 @@
 "author":"อุ๋ง อุ๋ง",
 "info": "@สลัดไง",
 "image":"https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
-"url": "http://bit.ly/3GBSaI6",
+"url": "http",
 "groups": [
 
 

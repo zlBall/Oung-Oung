@@ -2,7 +2,7 @@
 "name":"DooSeries4K",
 "author":"อุ๋ง อุ๋ง",
 "image":"https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.pngDet&rs=1",
-"url": "http://bit.ly/3KQiCA2",
+"url": "htt",
 "groups": [
 
 {
