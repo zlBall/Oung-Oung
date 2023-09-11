@@ -3,7 +3,7 @@
 "author":"อุ๋ง อุ๋ง",
 "info": "@สลัดไง",
 "image":"https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
-"url": "http",
+"url": "https://bit.ly/3Lizz61",
 "groups": [
 
 
@@ -11,31 +11,31 @@
 {
 "name":"หนัง",
 "image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-"url":"5qFAt",
+"url":"https://bit.ly/3rhIcHc",
 "import":"true"
 },
 {
 "name":"ซีรี่ย์",
 "image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-"url":"jPnDL",
+"url":"https://bit.ly/487tdQW",
 "import":"true"
 },
 {
 "name":"1970-2021",
 "image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-"url":"FYsGf",
+"url":"https://bit.ly/3Rj77VK",
 "import":"true"
 },
 {
 "name":"แยกตามประเภท",
 "image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-"url":"RxXBk",
+"url":"https://bit.ly/3rc3jLd",
 "import":"true"
 },
 {
 "name":"Cartoon",
 "image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-"url":"10wKz",
+"url":"https://bit.ly/45NasjZ",
 "import":"true"
 },
 

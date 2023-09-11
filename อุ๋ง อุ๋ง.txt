@@ -1,19 +1,20 @@
 {
 	"name":"อุ๋ง อุ๋ง",
-	"author":"อุ๋ง อุ๋ง ดูฟรี 100%",
+	"author":"อุ๋ง อุ๋ง ดูฟรี 100% ขอความกรุณาอย่านำไปขาย",
 	"info": "รายการด้านในเป็นเพียงการรวบรวมมาจากเว็บต่างๆ",
 	"image":"https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
 	"url": "https://bit.ly/Oung-Oungdoofree",
 	"groups": [
     {
         "name": "วิธีสนับสนุน",
-        "info": "",
+        "info": "ขอบคุณนะ :)",
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkTqtz9oF061oQmn54m05L5-NVqkXseF3X9PNwUIpuaTAaJE0Qrj2h_mTN--9kie8yfXbPsdXeKCVTR27eWPHNJRelH0tnhxwcYsGVON-e3sbkPTDJ19r0njx8UWZ1DpOZa-EAxH7N0WM1jotOUe1kBkRF_JLpjbdLpBKjur0z6RCKUzaWlxU-iDiHkI11/s500/pngegg.png",
         "stations": [
 	{
-		"name": "ทำตามนี้",
+		"name": "ทำตามนี้เลยจ้า",
+        "info": "ขอบคุณนะ :)",
 		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkTqtz9oF061oQmn54m05L5-NVqkXseF3X9PNwUIpuaTAaJE0Qrj2h_mTN--9kie8yfXbPsdXeKCVTR27eWPHNJRelH0tnhxwcYsGVON-e3sbkPTDJ19r0njx8UWZ1DpOZa-EAxH7N0WM1jotOUe1kBkRF_JLpjbdLpBKjur0z6RCKUzaWlxU-iDiHkI11/s500/pngegg.png",
-		"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/สนับสนุน.txt",
+		"url": "https://bit.ly/3PAo7oQ",
 		"embed": "true"
 	}
 	]
@@ -25,63 +26,93 @@
 	"import":"true"
   },
   {
-	"name":"🦭Cartoon🐒", 
+	"name":"🦭การ์ตูน🐒", 
 	"image":"https://th.bing.com/th/id/OIP.tZyIDIzGlkyuUrwgP2Xp2gAAAA?pid=ImgDet&rs=1",
-	"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/การ์ตูน/การ์ตูน.txt",
+	"url":"https://bit.ly/3PcB72S",
 	"import":"true"
   },
   {
 	"name":"🦭123-HD🐒", 
 	"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url":"http",
+	"url":"https://bit.ly/3Lizz61",
 	"import":"true"
   },
   {
 	"name":"🦭Dooseries4k🐒", 
 	"image":"https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
-	"url":"http",
-	"import":"true"
-  },
-  {
-	"name":"🦭Series-Indy🐒", 
-	"image":"https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
-	"url":"nSve2",
-	"import":"true"
-  },
-  {
-	"name":"🦭nung2hdd🐒", 
-	"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-	"url":"41AL7aN",
+	"url":"https://bit.ly/45IxyIA",
 	"import":"true"
   },
   {
 	"name":"🦭7yup🐒", 
 	"image":"https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
-	"url":"bit",
+	"url":"https://bit.ly/48cVbdS",
+	"import":"true"
+  },
+  {
+	"name":"🦭FW4FREE🐒", 
+	"image":"https://fw4free.com/images/logo7.png",
+	"url":"https://bit.ly/3ExWGpp",
 	"import":"true"
   },
   {
 	"name":"🦭TVAllseries🐒", 
 	"image":"https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-	"url":"3CzA6fl",
+	"url":"https://bit.ly/3LfIN32",
 	"import":"true"
   },
   {
 	"name":"🦭Watchlakorn.in🐒", 
 	"image":"https://cdn.watchlakorn.in/images/video_logo.png",
-	"url":"45aqPY3",
+	"url":"https://bit.ly/487Wgno",
 	"import":"true"
   },
   {
-	"name":"🦭อื่นๆ🐒", 
-	"image":"https://th.bing.com/th/id/OIP.lEYKRKVgBVzg1ydIjuMIzQHaHa?pid=ImgDet&rs=1",
-	"url":"i4nAM",
+	"name":"X10MOVIES4K",
+	"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+	"url":"https://bit.ly/3PBsK2h",
 	"import":"true"
   },
   {
-	"name":"เย้😁",
-	"image":"https://th.bing.com/th/id/R.6434d3266d94042cffbb3e22a6962422?rik=7i2NhKZJmV5RXw&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2fNXp9HM6YeuS0U%2fgiphy.gif&ehk=6BXCj64766vahLxQ6Wp13HA1s9GSdZ6iAe5Czdu5kXY%3d&risl=&pid=ImgRaw&r=0",
-	"url":"3IsXNcE",
+	"name":"🦭nung2hdd🐒", 
+	"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+	"url":"https://bit.ly/3rhQdMl",
+	"import":"true"
+  },
+  {
+	"name":"🦭Series-Indy🐒", 
+	"image":"https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
+	"url":"https://bit.ly/3PcPpk2",
+	"import":"true"
+  },
+  {
+	"name":"SERIESHD24",
+	"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeE5Od9wala1kDqzr-lGxX4BNM1-nm7R96_VU9MSstYX-1XrwqKTK4Ht1ueFvS-ILuCnrTeetVy1rWagKkeL4bPNWHgfqrI3qHL2vJTS-_Jtc7lzelDjii1tQdDArcMrkZnbMhzXy2aBsD8i3sBfAo6puxoS7Ok0J--rAeQVttZJ5RBtmQbze7hIXT-w/w640-h132/6a2dsg9p.png",
+	"url":"https://bit.ly/3raGbwC",
+	"import":"true"
+  },
+  {
+	"name":"mee-series",
+	"image":"https://www.mee-series.com/uploads/9d5e28069d3139632d817ef275b253ac.jpg",
+	"url":"https://bit.ly/3sRTL8D",
+	"import":"true"
+  },
+  {
+	"name":"SERiESMY",
+	"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+	"url":"https://bit.ly/3r24HjB",
+	"import":"true"
+  },
+  {
+	"name":"Love-Series",
+	"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ5AXLt0V56k3vE4VilvP4rhiV5fDQuuOj_tJKL75ldg_8J6oFtMhtQWNvAwwCQqZ1q3nMm_h68zIcxcZe8sCkQdnyq8y2biv2qFSle_ODaT8fgYAfP5b-35e334IQTyBskLTMjvst3uk_SLV8_Qf4_LjNHDkBlr3d5EBjN1Ndd49wHI3QQxWabK5AxoQ2/w640-h169/1.png",
+	"url":"https://bit.ly/3Pyb9XR",
+	"import":"true"
+  },
+  {
+	"name":"037hdmovie",
+	"image":"https://www.037hdmovie.com/wp-content/uploads/2020/04/1588242378408.png",
+	"url":"https://bit.ly/3RhA1Fv",
 	"import":"true"
   }
  ]
