@@ -1,0 +1,83 @@
+{
+"name":"อุ๋ง อุ๋ง",
+"author":"อุ๋ง อุ๋ง ดูฟรี 100%",
+"info": "รายการด้านในเป็นเพียงการรวมรวบมาจากเว็บต่างๆ",
+"image":"https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
+"url": "3o4jh8o",
+"groups": [
+
+{
+"name": "Refresh",
+"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7TR0FDy8YEHn4IqG9TGjNpcnEwB1qubzUEdMduUGsBNVqHPbk_k1pnloPPxNmevypd9dPwRYHtVe7jTjo2HDgK1Nu7xQOeskJ2dTrz94KoRuWqQhZlViZXJQDdThb6tR1khNAS4Kd7mUOVDHjABnGJ513dIf69luaiOpUlLFV6q1KlchDn2R-LZ4VOA/w510-h640/depositphotos_54665347-stock-photo-refresh-rotate-icon-glossy-green.jpg",
+"url": "3o4jh8o"
+},
+
+{
+"name":"🦭ทีวีดิจิตอล🐒", 
+"image":"https://www.banidea.com/wp-content/uploads/2014/04/TV-Digital-Thai-Logo.png",
+"url":"3pBzfY0",
+"import":"true"
+},
+
+{
+"name":"🦭123-HD🐒", 
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"http://bit.ly/3GBSaI6",
+"import":"true"
+},
+{
+"name":"🦭Dooseries4k🐒", 
+"image":"https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+"url":"http://bit.ly/3KQiCA2",
+"import":"true"
+},
+{
+"name":"🦭Series-Indy🐒", 
+"image":"https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
+"url":"nSve2",
+"import":"true"
+},
+{
+"name":"🦭nung2hdd🐒", 
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"41AL7aN",
+"import":"true"
+},
+{
+"name":"🦭7yup🐒", 
+"image":"https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
+"url":"http://bit.ly/3Uu9y7l",
+"import":"true"
+},
+{
+"name":"🦭TVAllseries🐒", 
+"image":"https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
+"url":"3CzA6fl",
+"import":"true"
+},
+{
+"name":"🦭watchlakorn🐒", 
+"image":"https://cdn.watchlakorn.in/images/video_logo.png",
+"url":"45aqPY3",
+"import":"true"
+},
+{
+"name":"🦭Cartoon🐒", 
+"image":"https://th.bing.com/th/id/OIP.tZyIDIzGlkyuUrwgP2Xp2gAAAA?pid=ImgDet&rs=1",
+"url":"http://bit.ly/41hsDvJ",
+"import":"true"
+},
+{
+"name":"🦭อื่นๆ🐒", 
+"image":"https://th.bing.com/th/id/OIP.lEYKRKVgBVzg1ydIjuMIzQHaHa?pid=ImgDet&rs=1",
+"url":"i4nAM",
+"import":"true"
+},
+{
+"name":"เย้😁",
+"image":"https://th.bing.com/th/id/R.6434d3266d94042cffbb3e22a6962422?rik=7i2NhKZJmV5RXw&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2fNXp9HM6YeuS0U%2fgiphy.gif&ehk=6BXCj64766vahLxQ6Wp13HA1s9GSdZ6iAe5Czdu5kXY%3d&risl=&pid=ImgRaw&r=0",
+"url":"3IsXNcE",
+"import":"true"
+},
+]
+}

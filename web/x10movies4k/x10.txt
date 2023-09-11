@@ -1,0 +1,141 @@
+{
+"name":"x10movies4k",
+"author":"อุ๋ง อุ๋ง",
+"image":"https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
+"url": "RYbX6",
+"groups": [
+
+{
+"name":"2023",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"qvRnc",
+"import":"true"
+},
+{
+"name":"Action บู๊",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"RhtcC",
+"import":"true"
+},
+{
+"name":"Adventure ผจญภัย",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"q7xeG",
+"import":"true"
+},
+{
+"name":"Animation หนังการ์ตูน",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"4onpl",
+"import":"true"
+},
+{
+"name":"Asia Movie หนังเอเชีย",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"DLP9Z",
+"import":"true"
+},
+{
+"name":"Biography ชีวิตจริง",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"OANtg",
+"import":"true"
+},
+{
+"name":"Comedy ตลก",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"czpwC",
+"import":"true"
+},
+{
+"name":"Crim อาชญากรรม",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"4tRZI",
+"import":"true"
+},
+{
+"name":"Drama ดราม่า",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"3usbG",
+"import":"true"
+},
+{
+"name":"Family ครอบครัว",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"YFJ7a",
+"import":"true"
+},
+{
+"name":"Fantasy เทพนิยาย",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"6nk9w",
+"import":"true"
+},
+{
+"name":"Ghost หนังผี",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"cUYCW",
+"import":"true"
+},
+{
+"name":"History หนังประวัติศาสตร์",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"Vydgz",
+"import":"true"
+},
+{
+"name":"Horror สยองขวัญ",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"31Mfo",
+"import":"true"
+},
+{
+"name":"Inter Movie หนังผรั่ง",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"rDX1m",
+"import":"true"
+},
+{
+"name":"Mystery ลึกลับ",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"H8N1j",
+"import":"true"
+},
+{
+"name":"Netflix Movie หนังเน็ตฟิก",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"AgqjN",
+"import":"true"
+},
+{
+"name":"Romance โรแมนติก",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"pSQgC",
+"import":"true"
+},
+{
+"name":"Sci-Fi วิทยาศาสตร์ ",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"FDCbi",
+"import":"true"
+},
+{
+"name":"Thai Movie หนังไทย",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"FDloE",
+"import":"true"
+},
+{
+"name":"Thriller ระทึกขวัญ",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"xjZGf",
+"import":"true"
+},
+{
+"name":"War สงคราม",
+"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
+"url":"3AjE6",
+"import":"true"
+}
+]
+}

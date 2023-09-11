@@ -1,0 +1,87 @@
+{
+"name":"ซีรี่ย์",
+"author":"อุ๋ง อุ๋ง",
+"image":"https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
+"url": "jPnDL",
+"groups": [
+
+{
+"name":"ดูซีรี่ย์ออนไลน์",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"VQy1x",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ใหม่ 2023",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"vtP05",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ใหม่ 2022",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"pzm30",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ใหม่ 2021",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"8aeVN",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ใหม่ 2020",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"woFng",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์พากย์ไทย",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"QrU7P",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ซับไทย",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"ju7xi",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์จีน",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"G6qjF",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์เกาหลี",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"yjENC",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ฝรั่ง",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"36bBU",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ไทย",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"vlUn5",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ญี่ปุ่น",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"3C1GO",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์วาย",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"rPs1Y",
+"import":"true"
+}
+]
+}

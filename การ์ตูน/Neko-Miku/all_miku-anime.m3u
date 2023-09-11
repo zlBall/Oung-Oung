@@ -1,0 +1,45 @@
+{
+  "name":"Neko-Miku",
+  "author":"อุ๋ง อุ๋ง",
+  "info": "Neko-Miku",
+  "image":"https://neko-miku.com/images/logo-neko-miku.png",
+  "url": "xyt8M",
+  "groups": [
+    {
+       "name":"🦭การ์ตูนอนิเมะใหม่ล่าสุด🐒", 
+       "image":"https://neko-miku.com/images/logo-neko-miku.png",
+       "url":"r5yov",
+       "import":"true"
+    },
+    {
+       "name":"🦭การ์ตูนอนิเมะที่จบแล้ว🐒", 
+       "image":"https://neko-miku.com/images/logo-neko-miku.png",
+       "url":"fe7h4",
+       "import":"true"
+    },
+    {
+       "name":"🦭การ์ตูนอนิเมะยังไม่จบ🐒", 
+       "image":"https://neko-miku.com/images/logo-neko-miku.png",
+       "url":"jlvg8",
+       "import":"true"
+    },
+    {
+       "name":"🦭การ์ตูนอนิเมะพากย์ไทย🐒", 
+       "image":"https://neko-miku.com/images/logo-neko-miku.png",
+       "url":"oFR62",
+       "import":"true"
+    },
+    {
+       "name":"🦭การ์ตูนอนิเมะซับไทย🐒", 
+       "image":"https://neko-miku.com/images/logo-neko-miku.png",
+       "url":"1gwzb",
+       "import":"true"
+    },
+    {
+       "name":"🦭การ์ตูนอนิเมะเดอะมูฟวี่🐒", 
+       "image":"https://neko-miku.com/images/logo-neko-miku.png",
+       "url":"zuE5f",
+       "import":"true"
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+"name":"แยก",
+"author":"อุ๋ง อุ๋ง",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "LYs29",
+"groups": [
+{
+"name":"หนัง Collection",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"WRadA",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ Collection",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"Lre3j",
+"import":"true"
+},
+
+{
+"name":"หนัง local",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"zCi2o",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ local",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"R02gv",
+"import":"true"
+},
+
+{
+"name":"หนัง soundtrack-thai",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"GlHs7",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ soundtrack-thai",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"q1Wtb",
+"import":"true"
+},
+{
+"name":"หนัง action",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"lq0yn",
+"import":"true"
+},
+
+{
+"name":"ซีรี่ย์ action",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"w58mS",
+"import":"true"
+},
+{
+"name":"หนัง adventure",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"e3Lhc",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ adventure",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"2XIw7",
+"import":"true"
+},
+{
+"name":"หนัง biography",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"B39zV",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ biography",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"YL46T",
+"import":"true"
+},
+{
+"name":"หนัง comedy",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"ZfiUj",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ comedy",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"Kadgj",
+"import":"true"
+},
+{
+"name":"หนัง crime",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"TSzLA",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ crime",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"1RmUe",
+"import":"true"
+},
+{
+"name":"หนัง documentary",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"O3VeD",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ documentary",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"TzHMU",
+"import":"true"
+},
+{
+"name":"หนัง drama",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"nXL3d",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ drama",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"nwBOL",
+"import":"true"
+},
+{
+"name":"หนัง family",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"xLhGg",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ family",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"La4Pn",
+"import":"true"
+},
+{
+"name":"หนัง fantasy",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"ERo0L",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ fantasy",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"bW2sY",
+"import":"true"
+},
+{
+"name":"หนัง horror",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"upH4g",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ horror",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"dJt0s",
+"import":"true"
+},
+{
+"name":"หนัง mystery",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"QJqd6",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ mystery",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"eSVb1",
+"import":"true"
+},
+{
+"name":"หนัง romance",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"7ODjJ",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ romance",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"wrY0d",
+"import":"true"
+},
+{
+"name":"หนัง sci-fi",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"q5Yi2",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ sci-fi",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"nTM19",
+"import":"true"
+},
+{
+"name":"หนัง sport",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"6NE5q",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ sport",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"p7cdk",
+"import":"true"
+},
+{
+"name":"หนัง superhero",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"mfLeB",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ superhero",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"1lD2n",
+"import":"true"
+},
+{
+"name":"หนัง teen",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"8O6bh",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ teen",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"gCKdG",
+"import":"true"
+},
+{
+"name":"หนัง thriller",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"s6kaW",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ thriller",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"8ChOZ",
+"import":"true"
+},
+{
+"name":"หนัง zombie",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"0nZUb",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ zombie",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"lLKfm",
+"import":"true"
+}
+]
+}

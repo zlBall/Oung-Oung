@@ -1,0 +1,68 @@
+{
+   "name":"Watchlakorn.in",
+   "author": "อุ๋ง อุ๋ง",
+   "image": "https://cdn.watchlakorn.in/images/video_logo.png",
+   "url": "nwRpM",
+   "groups":  [
+    {
+      "name":"กีฬา",
+      "image":"https://cdn.watchlakorn.in/images/video_logo.png",
+      "url":"EIGZL",
+      "import":"true"
+    },
+    {
+      "name":"ข่าว",
+      "image":"https://cdn.watchlakorn.in/images/video_logo.png",
+      "url":"Gj6nV",
+      "import":"true"
+    },
+    {
+      "name":"ซิกคอม",
+      "image":"https://cdn.watchlakorn.in/images/video_logo.png",
+      "url":"DP0TY",
+      "import":"true"
+    },
+    {
+      "name":"ซีรีย์",
+      "image":"https://cdn.watchlakorn.in/images/video_logo.png",
+      "url":"Icavr",
+      "import":"true"
+    },
+    {
+      "name":"ประกวด",
+      "image":"https://cdn.watchlakorn.in/images/video_logo.png",
+      "url":"W5qKX",
+      "import":"true"
+    },
+    {
+      "name":"ละคร",
+      "image":"https://cdn.watchlakorn.in/images/video_logo.png",
+      "url":"de7qr",
+      "import":"true"
+    },
+    {
+      "name":"ละคร สำรองFUll",
+      "image":"https://cdn.watchlakorn.in/images/video_logo.png",
+      "url":"P82zI",
+      "import":"true"
+    },
+    {
+      "name":"ละครเก่า",
+      "image":"https://cdn.watchlakorn.in/images/video_logo.png",
+      "url":"Y5azd",
+      "import":"true"
+    },
+    {
+      "name":"วาไรตี้",
+      "image":"https://cdn.watchlakorn.in/images/video_logo.png",
+      "url":"zyeYP",
+      "import":"true"
+    },
+    {
+      "name":"สารคดี",
+      "image":"https://cdn.watchlakorn.in/images/video_logo.png",
+      "url":"Gsbkm",
+      "import":"true"
+    }
+  ]
+}

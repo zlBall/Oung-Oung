@@ -1,0 +1,29 @@
+{
+"name":"Nung2hdd",
+"author":"อุ๋ง อุ๋ง",
+"image":"https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
+"url": "41AL7aN",
+"groups": [
+
+
+
+{
+"name":"หนัง",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"r3WD4",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"e8oib",
+"import":"true"
+},
+{
+"name":"ประเภท",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"LYs29",
+"import":"true"
+}
+]
+}

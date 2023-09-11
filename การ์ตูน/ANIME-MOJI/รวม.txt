@@ -1,0 +1,57 @@
+{
+"name":"ANIME-MOJI",
+"author":"อุ๋ง อุ๋ง",
+"image":"https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png?w=420&ssl=1",
+"url": "5xFqU",
+"groups": [
+
+{
+"name":"🦭ANIME-MOJI All🐒", 
+"image":"https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png?w=420&ssl=1",
+"url":"PIEOm",
+"import":"true"
+},
+{
+"name":"🦭อนิเมะมาใหม่ 2023🐒", 
+"image":"https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png?w=420&ssl=1",
+"url":"38Rd6",
+"import":"true"
+},
+{
+"name":"🦭อนิเมะพากย์ไทย🐒", 
+"image":"https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png?w=420&ssl=1",
+"url":"qE751",
+"import":"true"
+},
+{
+"name":"🦭อนิเมะซับไทย🐒", 
+"image":"https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png?w=420&ssl=1",
+"url":"76P8G",
+"import":"true"
+},
+{
+"name":"🦭chinaanime🐒", 
+"image":"https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png?w=420&ssl=1",
+"url":"7mo2D",
+"import":"true"
+},
+{
+"name":"🦭ยังไม่จบ🐒", 
+"image":"https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png?w=420&ssl=1",
+"url":"7RfCM",
+"import":"true"
+},
+{
+"name":"🦭จบแล้ว🐒", 
+"image":"https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png?w=420&ssl=1",
+"url":"ihIx5",
+"import":"true"
+},
+{
+"name":"🦭themovie🐒", 
+"image":"https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png?w=420&ssl=1",
+"url":"dZ7eX",
+"import":"true"
+}
+]
+}

@@ -1,0 +1,104 @@
+{
+ "name":"SERiESMY",
+ "author": "อุ๋ง อุ๋ง",
+ "image": "https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+ "url": "Q6tIu",
+ "groups":
+[
+{
+"name":"ซีรี่ย์เกาหลี",
+"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+"url":"12FSY",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์จีน",
+"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+"url":"R251M",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ญี่ปุ่น",
+"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+"url":"XkZTO",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ฝรั่ง",
+"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+"url":"IAz4t",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ไทย",
+"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+"url":"dnYiw",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์พากย์ไทย",
+"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+"url":"kwHCi",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ซับไทย",
+"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+"url":"jdrio",
+"import":"true"
+},
+{
+"name":"ซีรีย์วาย",
+"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+"url":"lTghC",
+"import":"true"
+},
+{
+"name":"ซีรีย์ใหม่ 2023",
+"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+"url":"eYMAj",
+"import":"true"
+},
+{
+"name":"ซีรีย์ใหม่ 2022",
+"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+"url":"W8e6b",
+"import":"true"
+},
+{
+"name":"ซีรีย์ใหม่ 2021",
+"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+"url":"juTlM",
+"import":"true"
+},
+{
+"name":"ซีรีย์ใหม่ 2020",
+"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+"url":"02Wnq",
+"import":"true"
+},
+{
+"name":"รายการวาไรตี้",
+"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+"url":"GiBmH",
+"import":"true"
+},
+{
+"name":"หนังการ์ตูน",
+"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+"url":"I1KnW",
+"import":"true"
+},
+{
+"name":"หนังออนไลน์",
+"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+"url":"w0r8u",
+"import":"true"
+},
+{
+"name":"อนิเมะ ANIME",
+"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+"url":"P14zh",
+"import":"true"
+}
+]}

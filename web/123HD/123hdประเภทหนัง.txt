@@ -1,0 +1,128 @@
+{
+"name":"แยกตามประเภท",
+"author":"อุ๋ง อุ๋ง",
+"image":"https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
+"url": "RxXBk",
+"groups": [
+{
+"name":"พากย์ไทย",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"ZKBtr",
+"import":"true"
+},
+{
+"name":"ซับไทย",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"NZYm3",
+"import":"true"
+},
+{
+"name":"ตอนแรก",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"jCg3B",
+"import":"true"
+},
+{
+"name":"united-states",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"Jli6u",
+"import":"true"
+},
+{
+"name":"united-kingdom",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"yTPfC",
+"import":"true"
+},
+{
+"name":"canada",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"lI0ja",
+"import":"true"
+},
+{
+"name":"germany",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"DvyFG",
+"import":"true"
+},
+{
+"name":"หนังไซไฟ",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"Iot9X",
+"import":"true"
+},
+{
+"name":"หนังแนวปริศนา",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"6hl2z",
+"import":"true"
+},
+{
+"name":"หนังระทึกขวัญ",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"jhy5H",
+"import":"true"
+},
+{
+"name":"หนังสยองขวัญ",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"uwx85",
+"import":"true"
+},
+{
+"name":"Action บู๊",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"7AKHX",
+"import":"true"
+},
+{
+"name":"Adventure ผจญภัย",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"hDUqZ",
+"import":"true"
+},
+{
+"name":" Biography ชีวิตจริง",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"Q7SpW",
+"import":"true"
+},
+{
+"name":"Comedy ตลก",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"mbTv6",
+"import":"true"
+},
+{
+"name":"Crime อาชญากรรม",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"fhQp4",
+"import":"true"
+},
+{
+"name":"Documentary สารคดี",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"WyqEL",
+"import":"true"
+},
+{
+"name":"Drama ชีวิต",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"ZFk1b",
+"import":"true"
+},
+{
+"name":"Family ครอบครัว",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"KZh1P",
+"import":"true"
+},
+{
+"name":"Fantasy แฟนตาซี",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"XpbY1",
+"import":"true"
+}
+]
+}

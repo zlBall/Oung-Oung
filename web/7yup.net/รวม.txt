@@ -1,0 +1,25 @@
+{
+"name":"🦭7yup.net🐒",
+"author":"อุ๋ง อุ๋ง",
+"image":"https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
+"url": "2f1pM",
+"groups": [
+
+
+
+{
+"name":"หนัง",
+"image":"https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
+"url":"INPly",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์",
+"image":"https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
+"url":"tRceI",
+"import":"true"
+},
+
+
+]
+}
