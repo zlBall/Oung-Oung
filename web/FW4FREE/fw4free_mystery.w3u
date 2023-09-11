@@ -1,9 +1,21 @@
 {
   "name": "mystery",
-  "author": "อุ๋ง อุ๋ง อัพ04/09/2023",
+  "author": "อุ๋ง อุ๋ง อัพ11/09/2023",
   "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
   "image": "https://fw4free.com/images/logo7.png",
   "stations": [
+    {
+      "name": "The Night Owl (Olbbaemi) (2022) บรรยายไทย",
+      "image": "https://img.inwiptv.net/postor/20230908064620ktzQ9NdQ9exmWZz8RQBDFzOk7a9.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/The_Night_Owl_2022/The_Night_Owl_2022_st_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "The Tutor (2023) บรรยายไทย",
+      "image": "https://img.inwiptv.net/postor/20230907065632wmTOuCeJnTPaAPMK19Y8Ixpi3Gl.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/The_Tutor_2023/The_Tutor_2023_st_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
     {
       "name": "Warning: Do Not Play (Amjeon) (2019) บรรยายไทยแปล",
       "image": "https://img.inwiptv.net/postor/20230830184339sHboShTlkbthNKPabdsMiYGJmVb.jpg",
@@ -13,7 +25,7 @@
     {
       "name": "Insidious: The Red Door วิญญาณตามติด: ประตูผีผ่าน (2023)",
       "image": "https://img.inwiptv.net/postor/20230826034506d07phJqCx6z5wILDYqkyraorDPi.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/Insidious_The_Red_Door_2023/Insidious_The_Red_Door_2023_th_1080.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/Insidious_The_Red_Door_2023/Insidious_The_Red_Door_2023_th_1080_inw.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {

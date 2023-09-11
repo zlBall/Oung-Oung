@@ -1,9 +1,21 @@
 {
   "name": "fantasy",
-  "author": "อุ๋ง อุ๋ง อัพ04/09/2023",
+  "author": "อุ๋ง อุ๋ง อัพ11/09/2023",
   "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
   "image": "https://fw4free.com/images/logo7.png",
   "stations": [
+    {
+      "name": "The Little Mermaid เงือกน้อยผจญภัย (2023)",
+      "image": "https://img.inwiptv.net/postor/20230907064426dxwSJy75BlnBhxOa9RKZgD4mBnG.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/The_Little_Mermaid_2023/The_Little_Mermaid_2023_th_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "Z.1 Ninja vs Shark นินจา ปะทะ ฉลาม (2023)",
+      "image": "https://img.inwiptv.net/postor/20230906074817csacascas.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Ninja_vs_Shark_2023/Ninja_vs_Shark_2023_thr_z1.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
     {
       "name": "Kamen Rider Geats × Revice: Movie Battle Royale มาสค์ไรเดอร์ กีทส์ X รีไวซ์: มูฟวี่ แบทเทิลรอยัล (2022)",
       "image": "https://img.inwiptv.net/postor/20230819223607wwKOQPKYijGqLdqY7Bp4orYmA5E.jpg",
@@ -32,12 +44,6 @@
       "name": "ขุนพันธ์ 3 Khun Pan 3 (2023)",
       "image": "https://img.inwiptv.net/postor/20230804194238xaspbqQ6r43MPEpQWUwTYqALqOy.jpg",
       "url": "https://m1free.inwstream.com:1936/movie3/Khun_Pan_3_2023/Khun_Pan_3_2023_th_1080.mp4/playlist.m3u8",
-      "referer": "https://fw4free.com/"
-    },
-    {
-      "name": "Z.1 The Little Mermaid เงือกน้อยผจญภัย (2023)",
-      "image": "https://img.inwiptv.net/postor/20230529003715csacsacasc.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/The_Little_Mermaid_2023/The_Little_Mermaid_2023_thr_z1.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {

@@ -1,13 +1,25 @@
 {
   "name": "horror",
-  "author": "อุ๋ง อุ๋ง อัพ04/09/2023",
+  "author": "อุ๋ง อุ๋ง อัพ11/09/2023",
   "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
   "image": "https://fw4free.com/images/logo7.png",
   "stations": [
     {
+      "name": "Z.1 Ninja vs Shark นินจา ปะทะ ฉลาม (2023)",
+      "image": "https://img.inwiptv.net/postor/20230906074817csacascas.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Ninja_vs_Shark_2023/Ninja_vs_Shark_2023_thr_z1.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "Sick of Myself (2022)",
+      "image": "https://img.inwiptv.net/postor/20230906072334kLLrQk8Z5m2TAEOGc81prdIrUpW.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Sick_of_Myself_2022/Sick_of_Myself_2022_th_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
       "name": "Meg 2: The Trench เม็ก 2: อภิมหาโคตรหลามร่องนรก (2023)",
       "image": "https://img.inwiptv.net/postor/20230901121302FQHtuf2zc8suMFE28RyvFt3FJN.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/Meg_2_The_Trench_2023/Meg_2_The_Trench_2023_th_1080p_INW.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/Meg_2_The_Trench_2023/Meg_2_The_Trench_2023_th_1080.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
@@ -37,7 +49,7 @@
     {
       "name": "Insidious: The Red Door วิญญาณตามติด: ประตูผีผ่าน (2023)",
       "image": "https://img.inwiptv.net/postor/20230826034506d07phJqCx6z5wILDYqkyraorDPi.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/Insidious_The_Red_Door_2023/Insidious_The_Red_Door_2023_th_1080.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/Insidious_The_Red_Door_2023/Insidious_The_Red_Door_2023_th_1080_inw.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
@@ -2275,7 +2287,7 @@
     {
       "name": "Wind Chill คืนนรกหนาว (2007)",
       "image": "https://img.inwiptv.net/postor/20211002123019wind-chill-56c63af78da4b.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/Wind_Chill_2007/Wind_Chill_2007_TH_1080p_2.mp4?.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjMgMTo1MTo1OSBQTSZoYXNoX3ZhbHVlPVl3cFhGMzQxL1VmekhVQU1xa0Fncmc9PSZ2YWxpZG1pbnV0ZXM9NQ==playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/Wind_Chill_2007/Wind_Chill_2007_TH_1080p_2.mp4?.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIzIDEyOjIxOjQzIFBNJmhhc2hfdmFsdWU9eGtqUDZpSGlXaTBJL3BYeVY4SlBBdz09JnZhbGlkbWludXRlcz01playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {

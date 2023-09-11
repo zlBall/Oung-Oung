@@ -1,9 +1,33 @@
 {
   "name": "crime",
-  "author": "อุ๋ง อุ๋ง อัพ04/09/2023",
+  "author": "อุ๋ง อุ๋ง อัพ11/09/2023",
   "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
   "image": "https://fw4free.com/images/logo7.png",
   "stations": [
+    {
+      "name": "Rosa Peral's Tapes (2023) NETFLIX บรรยายไทย",
+      "image": "https://img.inwiptv.net/postor/202309102335128jAnsIm4qzy28IBJeJsTQCdnORE.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Rosa_Peral_s_Tapes_2023/Rosa_Peral_s_Tapes_2023_st_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "Scout's Honor: The Secret Files of the Boy Scouts of America แฟ้มลับสมาคมลูกเสือแห่งอเมริกา (2023) NETFLIX บรรยายไทย",
+      "image": "https://img.inwiptv.net/postor/20230910230113uS0KGgkF9krrUqh8tdo80THBliH.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Scout_s_Honor_The_Secret_Files_of_the_Boy_Scouts_of_America_2023/Scout_s_Honor_The_Secret_Files_of_the_Boy_Scouts_of_America_2023_st_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "V.1 Retribution เหยียบระห่ำ ดับโคตรแค้น (2023)",
+      "image": "https://img.inwiptv.net/postor/20230909120207cqwcwqc.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Retribution_2023/Retribution_2023_thr_v1.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "The Hitman's Wife's Bodyguard แสบซ่าส์ แบบว่า บอดี้การ์ด 2 (2021)",
+      "image": "https://img.inwiptv.net/postor/20220612101107oivYguzN4KDvKztDszOzqbW9NPL.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/The_Hitman_s_Wife_s_Bodyguard_2021/The_Hitman_s_Wife_s_Bodyguard_2021_th_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
     {
       "name": "Z.1 The Roundup: No Way Out บู๊ระห่ำล่าล้างนรก: ทุบนรกแตก (2023) พากย์ไทยโรง + บรรยายไทยมาสเตอร์",
       "image": "https://img.inwiptv.net/postor/20230712071527dsadsadsad.jpg",
@@ -1352,12 +1376,6 @@
       "name": "The Bad Guys วายร้ายพันธุ์ดี (2022)",
       "image": "https://img.inwiptv.net/postor/20220609103834the-bad-guys-61ba169a2b57e.jpg",
       "url": "https://m1free.inwstream.com:1936/movie3/The_Bad_Guys_2022/The_Bad_Guys_2022_th_1080p.mp4/playlist.m3u8",
-      "referer": "https://fw4free.com/"
-    },
-    {
-      "name": "The Hitman's Wife's Bodyguard แสบซ่าส์ แบบว่า บอดี้การ์ด 2 (2021)",
-      "image": "https://img.inwiptv.net/postor/20220612101107oivYguzN4KDvKztDszOzqbW9NPL.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/The_Hitman_s_Wife_s_Bodyguard_2021/The_Hitman_s_Wife_s_Bodyguard_2021_th_1080p_extended.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
@@ -9325,43 +9343,43 @@
     {
       "name": "The Silent War 701 รหัสลับคนคม",
       "image": "https://img.inwiptv.net/postor/20191121125601The Silent War 701 รหัสลับคนคม.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/the-protector/the-protector-th-1080p-fwtv.m4v/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie1/the_silent_war/the_silent_war-th-en-1080p-fwtv.m4v/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "The 51st State คู่บรรลัยใส่เกียร์ลุย",
       "image": "https://img.inwiptv.net/postor/20200328223105The 51st State คู่บรรลัยใส่เกียร์ลุย.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/the-protector/the-protector-th-1080p-fwtv.m4v/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie1/the-51st-state/the-51st-state-th-en-720p-fwtv.m4v/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Running Out of Time แหกกฏโหด มหาประลัย 1-2",
       "image": "https://img.inwiptv.net/postor/20191121123423Running Out of Time แหกกฏโหด มหาประลัย 1-2.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/the-protector/the-protector-th-1080p-fwtv.m4v/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie1/running-out-of-time-1/running-out-of-time-1-th-en-1080p-fwtv.m4v/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Dead Drop ดิ่งเวหาล่าทวงแค้น",
       "image": "https://img.inwiptv.net/postor/20200328155843Dead Drop ดิ่งเวหาล่าทวงแค้น.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/the-protector/the-protector-th-1080p-fwtv.m4v/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie1/dead-drop/dead-drop-th-en-720p-fwtv.m4v/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "The Detective สืบล่าปมฆ่าสยองโลก 1-2",
       "image": "https://img.inwiptv.net/postor/20200328154757The Detective สืบล่าปมฆ่าสยองโลก.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/the-protector/the-protector-th-1080p-fwtv.m4v/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie1/the-detective-1/the-detective-1-th-en-1080p-fwtv.m4v/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Lock Stock and Two Smoking Barrels สี่เลือดบ้า มือใหม่หัดปล้น",
       "image": "https://img.inwiptv.net/postor/20200327224801Lock Stock and Two Smoking Barrels สี่เลือดบ้า มือใหม่หัดปล้น.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/the-protector/the-protector-th-1080p-fwtv.m4v/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie1/lock-stock-and-two-smoking-barrels/lock-stock-and-two-smoking-barrels-th-en-1080p-fwtv.m4v/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "To Live And Die In L.A ปราบตาย",
       "image": "https://img.inwiptv.net/postor/20200327223152To Live And Die In L.A ปราบตาย.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/the-protector/the-protector-th-1080p-fwtv.m4v/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie1/to-live-and-die-in-la/to-live-and-die-in-la-th-en-1080p-fwtv.m4v/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {

@@ -1,13 +1,25 @@
 {
   "name": "movie-cartoon",
-  "author": "อุ๋ง อุ๋ง อัพ04/09/2023",
+  "author": "อุ๋ง อุ๋ง อัพ11/09/2023",
   "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
   "image": "https://fw4free.com/images/logo7.png",
   "stations": [
     {
+      "name": "Tad, the Lost Explorer and the Emerald Tablet (2022)",
+      "image": "https://img.inwiptv.net/postor/202309091056397FoQIGBZPMMTNhElGNp6fRq00qg.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Tad_the_Lost_Explorer_and_the_Emerald_Tablet_2022/Tad_the_Lost_Explorer_and_the_Emerald_Tablet_2022_th_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "Flushed Away หนูไฮโซ ขอเป็นฮีโร่สักวัน (2006)",
+      "image": "https://img.inwiptv.net/postor/20230908070551caFJ17YPIwYBLNtx2jaZLTgUQOS.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Flushed_Away_2006/Flushed_Away_2006_th_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
       "name": "Ruby Gillman, Teenage Kraken รูบี้ สาวน้อยอสูรทะเล (2023)",
       "image": "https://img.inwiptv.net/postor/20230901121451nw5fZTShe0TDJnukusf2vzUS3cH.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/Ruby_Gillman_Teenage_Kraken_2023/Ruby_Gillman_Teenage_Kraken_2023_th_1080p.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/Ruby_Gillman_Teenage_Kraken_2023/Ruby_Gillman_Teenage_Kraken_2023_th_1080.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {

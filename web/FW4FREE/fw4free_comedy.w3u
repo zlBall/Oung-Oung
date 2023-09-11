@@ -1,9 +1,51 @@
 {
   "name": "comedy",
-  "author": "อุ๋ง อุ๋ง อัพ04/09/2023",
+  "author": "อุ๋ง อุ๋ง อัพ11/09/2023",
   "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
   "image": "https://fw4free.com/images/logo7.png",
   "stations": [
+    {
+      "name": "Tad, the Lost Explorer and the Emerald Tablet (2022)",
+      "image": "https://img.inwiptv.net/postor/202309091056397FoQIGBZPMMTNhElGNp6fRq00qg.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Tad_the_Lost_Explorer_and_the_Emerald_Tablet_2022/Tad_the_Lost_Explorer_and_the_Emerald_Tablet_2022_th_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "Z.1 Crayon Shin-chan Movie 30: Mononoke Ninja Chinpuuden ชินจัง เดอะมูฟวี่ ตอน นินจาคาถาวายุอลเวง (2023)",
+      "image": "https://img.inwiptv.net/postor/20230908071514cqwcqwcqw.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Crayon_Shin_chan_Movie_30_Mononoke_Ninja_Chinpuuden_2023/Crayon_Shin_chan_Movie_30_Mononoke_Ninja_Chinpuuden_2023_thr_z1.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "Along Came Polly กล้า กล้าหน่อย อย่าปล่อยให้ชวดรัก (2004)",
+      "image": "https://img.inwiptv.net/postor/202309080701097Tp16THdpHkMrqgoiDresDz9CWL.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Along_Came_Polly_2004/Along_Came_Polly_2004_th_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "The Adults (2023) บรรยายไทย",
+      "image": "https://img.inwiptv.net/postor/20230906073224iA8HDbXgQE6RIEwqCMBZwPbpfxT.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/The_Adults_2023/The_Adults_2023_st_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "The Hitman's Wife's Bodyguard แสบซ่าส์ แบบว่า บอดี้การ์ด 2 (2021)",
+      "image": "https://img.inwiptv.net/postor/20220612101107oivYguzN4KDvKztDszOzqbW9NPL.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/The_Hitman_s_Wife_s_Bodyguard_2021/The_Hitman_s_Wife_s_Bodyguard_2021_th_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "Happy Ending (2023) NETFLIX",
+      "image": "https://img.inwiptv.net/postor/20230906071423rD3x0J6UCOhtv4Dj5AC7n8bxI5T.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Happy_Ending_2023/Happy_Ending_2023_th_1080_NF.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "Friday Night Plan แผนวันศุกร์คืนสนุก (2023) NETFLIX บรรยายไทย",
+      "image": "https://img.inwiptv.net/postor/202309060702218QIAFlELWwP8xfo2Xwf7oleDcUE.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Friday_Night_Plan_2023/Friday_Night_Plan_2023_st_1080_NF.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
     {
       "name": "เสือเผ่น ๑ Tiger Running (2023)",
       "image": "https://img.inwiptv.net/postor/20230902145018wR6Ah7zlT84iIgDu1OdjYC7QrKL.jpg",
@@ -3200,12 +3242,6 @@
       "name": "The Lost City ผจญภัยนครสาบสูญ (2022)",
       "image": "https://img.inwiptv.net/postor/202206121020325gRv6CRTLFVnZDMSwNjHRsn1jGX.jpg",
       "url": "https://m1free.inwstream.com:1936/movie3/The_Lost_City_2022/The_Lost_City_2022_th_1080p.mp4/playlist.m3u8",
-      "referer": "https://fw4free.com/"
-    },
-    {
-      "name": "The Hitman's Wife's Bodyguard แสบซ่าส์ แบบว่า บอดี้การ์ด 2 (2021)",
-      "image": "https://img.inwiptv.net/postor/20220612101107oivYguzN4KDvKztDszOzqbW9NPL.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/The_Hitman_s_Wife_s_Bodyguard_2021/The_Hitman_s_Wife_s_Bodyguard_2021_th_1080p_extended.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
@@ -9451,37 +9487,37 @@
     {
       "name": "The Lady Enforcer (Pretty Man In The City) (2018)",
       "image": "https://img.inwiptv.net/postor/20200924021249the lady enforcer 2018.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/The_Ladykillers_2004/The_Ladykillers_2004_TH_1080p_FW.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/The_Lady_Enforcer_2018/The_Lady_Enforcer_2018_th_1080p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Home Alone 4: Taking Back the House โดดเดี่ยวผู้น่ารัก 4 (2002)",
       "image": "https://img.inwiptv.net/postor/20200921210119home-alone-4-taking-back-the-house-585f695526b11.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/The_Ladykillers_2004/The_Ladykillers_2004_TH_1080p_FW.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/Home_Alone_4_Taking_Back_the_House_2002/Home_Alone_4_Taking_Back_the_House_2002_TH_1080p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Agent Toby Barks (Spy Dog) (2020) HDTV",
       "image": "https://img.inwiptv.net/postor/20200921165139P_HO00007711.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/The_Ladykillers_2004/The_Ladykillers_2004_TH_1080p_FW.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/Spy_Dog_2020/Spy_Dog_2020_th_1080p_HDTV.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Home Alone: The Holiday Heist โดดเดี่ยวผู้น่ารัก 5 (2012)",
       "image": "https://img.inwiptv.net/postor/20200921130638MV5BN2M2ZTg2MDctMmM0Zi00NmZiLTgzMzUtYmYxNjEyYTFhOWMxXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/The_Ladykillers_2004/The_Ladykillers_2004_TH_1080p_FW.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/Home_Alone_5_The_Holiday_Heist_2012/Home_Alone_5_The_Holiday_Heist_2012_TH_1080p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Whipped (Bucin) เปลี่ยนลายนายหงอ (2020) NETFLIX บรรยายไทย",
       "image": "https://img.inwiptv.net/postor/20200919122105MV5BN2FiNTg2ZTItMTFjMC00OTI1LThkZWQtYTNkMWE0MmQ0M2NiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/The_Ladykillers_2004/The_Ladykillers_2004_TH_1080p_FW.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/Whipped_2020/Whipped_2020_ST_1080p_NF.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Cats & Dogs 3: Paws Unite (2020) บรรยายไทย",
       "image": "https://img.inwiptv.net/postor/20200916155352images.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/The_Ladykillers_2004/The_Ladykillers_2004_TH_1080p_FW.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/Cats_and_Dogs_3_Paws_Unite_2020/Cats_and_Dogs_3_Paws_Unite_2020_EN_1080p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {

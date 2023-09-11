@@ -1,9 +1,57 @@
 {
   "name": "drama",
-  "author": "อุ๋ง อุ๋ง อัพ04/09/2023",
+  "author": "อุ๋ง อุ๋ง อัพ11/09/2023",
   "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
   "image": "https://fw4free.com/images/logo7.png",
   "stations": [
+    {
+      "name": "Seven Days (2023) บรรยายไทย",
+      "image": "https://img.inwiptv.net/postor/20230910221431ak6zUCRrEWLT8v1EwUlS1CbL3Gz.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Seven_Days_2023/Seven_Days_2023_st_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "V.1 Retribution เหยียบระห่ำ ดับโคตรแค้น (2023)",
+      "image": "https://img.inwiptv.net/postor/20230909120207cqwcwqc.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Retribution_2023/Retribution_2023_thr_v1.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "V.1 Gran Turismo GT แกร่งทะลุไมล์ (2023)",
+      "image": "https://img.inwiptv.net/postor/20230909114022cqwwqc.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Gran_Turismo_2023/Gran_Turismo_2023_thr_v1.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "Z.1 Where the Wind Blows คู่พายุเดือด (2023)",
+      "image": "https://img.inwiptv.net/postor/20230906074334qwd123213.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Where_the_Wind_Blows_2023/Where_the_Wind_Blows_2023_thr_z1.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "The Adults (2023) บรรยายไทย",
+      "image": "https://img.inwiptv.net/postor/20230906073224iA8HDbXgQE6RIEwqCMBZwPbpfxT.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/The_Adults_2023/The_Adults_2023_st_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "Sick of Myself (2022)",
+      "image": "https://img.inwiptv.net/postor/20230906072334kLLrQk8Z5m2TAEOGc81prdIrUpW.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Sick_of_Myself_2022/Sick_of_Myself_2022_th_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "A Day and a Half (En dag och en halv) หนึ่งวันครึ่ง (2023) NETFLIX",
+      "image": "https://img.inwiptv.net/postor/20230906070836cyBAKzMdHfUBvKbij4d2JwgETkw.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/A_Day_and_a_Half_2023/A_Day_and_a_Half_2023_th_1080_NF.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "Friday Night Plan แผนวันศุกร์คืนสนุก (2023) NETFLIX บรรยายไทย",
+      "image": "https://img.inwiptv.net/postor/202309060702218QIAFlELWwP8xfo2Xwf7oleDcUE.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Friday_Night_Plan_2023/Friday_Night_Plan_2023_st_1080_NF.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
     {
       "name": "Z.1 The Moon ปฏิบัติการพิชิตจันทร์ (2023)",
       "image": "https://img.inwiptv.net/postor/20230830185749fasfsf.jpg",
@@ -7657,7 +7705,7 @@
     {
       "name": "Wind Chill คืนนรกหนาว (2007)",
       "image": "https://img.inwiptv.net/postor/20211002123019wind-chill-56c63af78da4b.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/Wind_Chill_2007/Wind_Chill_2007_TH_1080p_2.mp4?.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjMgMjoyMDo1NiBQTSZoYXNoX3ZhbHVlPWJ5UExQOVQ0d3c5TTNuaVMwN2MxRnc9PSZ2YWxpZG1pbnV0ZXM9NQ==playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/Wind_Chill_2007/Wind_Chill_2007_TH_1080p_2.mp4?.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIzIDEyOjU3OjM1IFBNJmhhc2hfdmFsdWU9Nk5zblU0R1BUc0o0T01ndGszWVVxZz09JnZhbGlkbWludXRlcz01playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
@@ -9409,37 +9457,37 @@
     {
       "name": "Fear of Rain (2021) HDTV",
       "image": "https://img.inwiptv.net/postor/202107010022248gcRJOhVOn1m0ZV9Xnf3MxhGvD2.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/The_Captain_2019/The_Captain_2019_th_1080p.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/Fear_of_Rain_2021/Fear_of_Rain_2021_th_1080p_HDTV.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Irreversible (Irréversible) อารมณ์รัก...พิศวาส (2002) (ฉ. 20+)",
       "image": "https://img.inwiptv.net/postor/20210630212332irreversible-5cdc026ef01b8.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/The_Captain_2019/The_Captain_2019_th_1080p.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/Irreversible_2002/Irreversible_2002_TH_1080p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Clouds (2020) Disney+ บรรยายไทย",
       "image": "https://img.inwiptv.net/postor/20210630130652clouds-600accb4b7d33.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/The_Captain_2019/The_Captain_2019_th_1080p.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/Clouds_2020/Clouds_2020_EN_1080p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Hamilton (2020) Disney+ บรรยายไทย",
       "image": "https://img.inwiptv.net/postor/20210630094930hamilton-5ebdb34800c97.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/The_Captain_2019/The_Captain_2019_th_1080p.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/Hamilton_2020/Hamilton_2020_EN_1080p_DSNP.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "The Wedding March (2016) HDTV บรรยายไทย",
       "image": "https://img.inwiptv.net/postor/20210629145655The_Wedding_March_TV-656914350-large.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/The_Captain_2019/The_Captain_2019_th_1080p.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/The_Wedding_March_2016/The_Wedding_March_2016_EN_1080p_HDTV.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Dreamland (2019) HDTV",
       "image": "https://img.inwiptv.net/postor/20210629140329v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/The_Captain_2019/The_Captain_2019_th_1080p.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/Dreamland_2019/Dreamland_2019_th_1080p_HDTV.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
@@ -24085,31 +24133,31 @@
     {
       "name": "Silverado ซิลเวอร์ราโด (1985) บรรยายไทย",
       "image": "https://img.inwiptv.net/postor/20200428173656Silverado ซิลเวอร์ราโด (1985) บรรยายไทย.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/Hang-Em-High-1968/Hang-Em-High-1968-TH-1080p.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie1/Silverado-1985/Silverado-1985-EN-1080p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Dances with Wolves จอมคนแห่งโลกที่ 5 (1990)",
       "image": "https://img.inwiptv.net/postor/20200428173247Dances with Wolves จอมคนแห่งโลกที่ 5 (1990).jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/Hang-Em-High-1968/Hang-Em-High-1968-TH-1080p.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie1/Dances-with-Wolves-1990/Dances-with-Wolves-1990-TH-1080p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Un + une เผลอเหงา แล้วรักได้ไหม (2015)",
       "image": "https://img.inwiptv.net/postor/20160928140756Un-une.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/Hang-Em-High-1968/Hang-Em-High-1968-TH-1080p.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie2/Un-Une-2015/Un-Une-2015-TH-480p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Assassination ยัยตัวร้าย สไนเปอร์ (2015)",
       "image": "https://img.inwiptv.net/postor/20191210130348Assassination ยัยตัวร้าย สไนเปอร์ (2015)....jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/Hang-Em-High-1968/Hang-Em-High-1968-TH-1080p.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie2/Assassination-2015-KR/Assassination-2015-TH-1080p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Open Range จอมคนพลิกปฐพี (2003)",
       "image": "https://img.inwiptv.net/postor/20200428164718Open Range จอมคนพลิกปฐพี (2003).jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/Hang-Em-High-1968/Hang-Em-High-1968-TH-1080p.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie1/Open-Range-2003/Open-Range-2003-TH-720p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
