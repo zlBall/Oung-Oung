@@ -1,0 +1,314 @@
+{
+  "name": "madoohd TV",
+  "author": "อุ๋ง อุ๋ง อัพเดท วันที่ 2 กันยายน 2566",
+  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
+  "image": "https://thumbs.dreamstime.com/b/live-tv-premium-red-tag-sign-live-tv-isolated-premium-red-tag-sign-abstract-illustration-123104721.jpg",
+  "groups": [
+    {
+      "name": "ทีวีดิจิตอล",
+      "image": "https://thumbs.dreamstime.com/b/live-tv-premium-red-tag-sign-live-tv-isolated-premium-red-tag-sign-abstract-illustration-123104721.jpg",
+      "stations": [
+        {
+          "name": "PPTV HD",
+          "image": "https://www.img01.xyz/assets/img/ch_logo/hd-pptv.png",
+          "url": "https://www.livedoomovies.com:4432/02_PPTVHD_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "ช่อง 7 HD",
+          "image": "https://www.img02.xyz/assets/img/ch_logo/hd-ch7.png",
+          "url": "https://www.livedoomovies.com:4432/02_7HD_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "TRUE4U",
+          "image": "https://www.img03.xyz/assets/img/ch_logo/sd-24u.png",
+          "url": "https://www.livedoomovies.com:4432/02_TRUE4U_480p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "ช่อง 3 HD",
+          "image": "https://www.img04.xyz/assets/img/ch_logo/hd-ch3.png",
+          "url": "https://www.livedoomovies.com:4432/02_3HD_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "GMM ONE HD",
+          "image": "https://www.img05.xyz/assets/img/ch_logo/hd-gmmone.png",
+          "url": "https://www.livedoomovies.com:4432/02_GMMONE_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "MCOT HD",
+          "image": "https://www.img06.xyz/assets/img/ch_logo/hd-mcot.png",
+          "url": "https://www.livedoomovies.com:4432/02_MCOTHD_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "MONO29 HD",
+          "image": "https://www.img07.xyz/assets/img/ch_logo/hd-mono.png",
+          "url": "https://www.livedoomovies.com:4432/02_MONO_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "ไทยรัฐ TV HD",
+          "image": "https://www.img08.xyz/assets/img/ch_logo/hd-thairath.png",
+          "url": "https://www.livedoomovies.com:4432/02_THAIRATH_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "WORK POINT HD",
+          "image": "https://www.img09.xyz/assets/img/ch_logo/hd-workpoint.png",
+          "url": "https://www.livedoomovies.com:4432/02_WORKPOINT_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "NBT HD",
+          "image": "https://www.img10.xyz/assets/img/ch_logo/sd-nbt.png",
+          "url": "https://www.livedoomovies.com:4432/02_NBTSD_480p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "AMARIN HD",
+          "image": "https://www.img02.xyz/assets/img/ch_logo/hd-amarin.png",
+          "url": "https://www.livedoomovies.com:4432/02_AMARINHD_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "ช่อง 5 HD",
+          "image": "https://www.img03.xyz/assets/img/ch_logo/hd-ch5.png",
+          "url": "https://www.livedoomovies.com:4432/02_5HD_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "ช่อง 8 HD",
+          "image": "https://www.img04.xyz/assets/img/ch_logo/hd-ch8.png",
+          "url": "https://www.livedoomovies.com:4432/02_8HD_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "THAI PBS HD",
+          "image": "https://www.img06.xyz/assets/img/ch_logo/hd-tpbs.png",
+          "url": "https://www.livedoomovies.com:4432/02_THAIPBS_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "TNN 24",
+          "image": "https://www.img09.xyz/assets/img/ch_logo/sd-tnn24.png",
+          "url": "https://www.livedoomovies.com:4432/02_TNN24_480p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "NOW TV",
+          "image": "https://www.img10.xyz/assets/img/ch_logo/sd-now.png",
+          "url": "https://www.livedoomovies.com:4432/02_MONO_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        }
+      ]
+    },
+    {
+      "name": "กีฬา",
+      "image": "https://thumbs.dreamstime.com/b/live-tv-premium-red-tag-sign-live-tv-isolated-premium-red-tag-sign-abstract-illustration-123104721.jpg",
+      "stations": [
+        {
+          "name": "Premier Football HD 1",
+          "image": "https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png",
+          "url": "https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8",
+          "referer": "https://sport.livedoomovies.com:4432/"
+        },
+        {
+          "name": "TRUE SPORT HD3",
+          "image": "https://www.img03.xyz/assets/img/ch_logo/hd-tsport3.png",
+          "url": "https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "FOX SPORT HD1",
+          "image": "https://www.img04.xyz/assets/img/ch_logo/hd-spotv1.png",
+          "url": "https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "BEIN SPORT HD 1",
+          "image": "https://www.img05.xyz/assets/img/ch_logo/epl-bein1.png",
+          "url": "https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
+          "referer": "https://sport.livedoomovies.com:4432/"
+        },
+        {
+          "name": "TRUE SPORT HD1",
+          "image": "https://www.img06.xyz/assets/img/ch_logo/hd-tsport1.png",
+          "url": "https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "TRUE SPORT HD2",
+          "image": "https://www.img07.xyz/assets/img/ch_logo/hd-tsport2.png",
+          "url": "https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8",
+          "referer": "https://sport.livedoomovies.com:4432/"
+        },
+        {
+          "name": "BEIN SPORT HD 2",
+          "image": "https://www.img08.xyz/assets/img/ch_logo/epl-bein2.png",
+          "url": "https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
+          "referer": "https://sport.livedoomovies.com:4432/"
+        },
+        {
+          "name": "FOX SPORT 2",
+          "image": "https://www.img09.xyz/assets/img/ch_logo/hd-spotv2.png",
+          "url": "https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "Premier Football HD 2",
+          "image": "https://www.img10.xyz/assets/img/ch_logo/doomovie-epl2.png",
+          "url": "https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8",
+          "referer": "https://sport.livedoomovies.com:4432/"
+        },
+        {
+          "name": "TRUE SPORT 7",
+          "image": "https://www.img01.xyz/assets/img/ch_logo/sd-tsport7.png",
+          "url": "https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "Premier Football HD 3",
+          "image": "https://www.img02.xyz/assets/img/ch_logo/doomovie-epl3.png",
+          "url": "https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8",
+          "referer": "https://sport.livedoomovies.com:4432/"
+        },
+        {
+          "name": "Premier Football HD 4",
+          "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl4.png",
+          "url": "https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8",
+          "referer": "https://sport.livedoomovies.com:4432/"
+        },
+        {
+          "name": "TENNIS HD",
+          "image": "https://www.img04.xyz/assets/img/ch_logo/hd-tennis.png",
+          "url": "https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "TRUE SPORT 5",
+          "image": "https://www.img05.xyz/assets/img/ch_logo/sd-tsport5.png",
+          "url": "https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "FOX SPORT 3",
+          "image": "https://www.img06.xyz/assets/img/ch_logo/sd-foxsports3.png",
+          "url": "https://www.livedoomovies.com:4432/02_FoxSport3_TH_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "TRUE SPORT 2",
+          "image": "https://www.img08.xyz/assets/img/ch_logo/sd-tsport2.png",
+          "url": "https://www.livedoomovies.com:4432/02_sport2_480p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "T Sports Channel",
+          "image": "https://www.img09.xyz/assets/img/ch_logo/TSportsChannel.png",
+          "url": "https://www.livedoomovies.com:4432/02_T_Sports_480p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "Premier Football HD 5",
+          "image": "https://www.img10.xyz/assets/img/ch_logo/doomovie-epl5.png",
+          "url": "https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8",
+          "referer": "https://sport.livedoomovies.com:4432/"
+        },
+        {
+          "name": "NBA HD",
+          "image": "https://www.img01.xyz/assets/img/ch_logo/hd-nba.png",
+          "url": "https://www.livedoomovies.com:4432/02_nbahd_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "TRUE SPORT 6",
+          "image": "https://www.img02.xyz/assets/img/ch_logo/sd-tsport6.png",
+          "url": "https://www.livedoomovies.com:4432/02_sport6_480p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "TRUE SPORT HD4",
+          "image": "https://www.img03.xyz/assets/img/ch_logo/hd-tsport4.png",
+          "url": "https://www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        }
+      ]
+    },
+    {
+      "name": "สารคดี",
+      "image": "https://thumbs.dreamstime.com/b/live-tv-premium-red-tag-sign-live-tv-isolated-premium-red-tag-sign-abstract-illustration-123104721.jpg",
+      "stations": [
+        {
+          "name": "HISTORY HD",
+          "image": "https://www.img06.xyz/assets/img/ch_logo/hd-history.png",
+          "url": "https://www.livedoomovies.com:4432/02_HISTORYHD_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "HISTORY2 HD",
+          "image": "https://www.img07.xyz/assets/img/ch_logo/hd-history2.png",
+          "url": "https://www.livedoomovies.com:4432/02_H2HD_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "DISCOVERY HD WORLD",
+          "image": "https://www.img09.xyz/assets/img/ch_logo/hd-discovery.png",
+          "url": "https://www.livedoomovies.com:4432/02_DiscoveryHDWorld/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "ANIMALPLANET",
+          "image": "https://www.img10.xyz/assets/img/ch_logo/sd-animalplanet.png",
+          "url": "https://www.livedoomovies.com:4432/02_AnimalPlanet/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        }
+      ]
+    },
+    {
+      "name": "ภาพยนต์",
+      "image": "https://thumbs.dreamstime.com/b/live-tv-premium-red-tag-sign-live-tv-isolated-premium-red-tag-sign-abstract-illustration-123104721.jpg",
+      "stations": [
+        {
+          "name": "AXN HD",
+          "image": "https://www.img08.xyz/assets/img/ch_logo/hd-axn.png",
+          "url": "https://www.livedoomovies.com:4432/02_AXNHD_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "FOX MOVIES PREMIUM TH",
+          "image": "https://www.img09.xyz/assets/img/ch_logo/hd-foxpremium.png",
+          "url": "https://www.livedoomovies.com:4432/02_FoxMoviesTH_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "FOX MOVIES PREMIUM EN",
+          "image": "https://www.img10.xyz/assets/img/ch_logo/hd-foxpremium.png",
+          "url": "https://www.livedoomovies.com:4432/02_FoxMoviesHD_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        },
+        {
+          "name": "WARNER TV HD",
+          "image": "https://www.img01.xyz/assets/img/ch_logo/hd-warnertv.png",
+          "url": "https://www.livedoomovies.com:4432/02_WarnerTVHD_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        }
+      ]
+    },
+    {
+      "name": "เพลง",
+      "image": "https://thumbs.dreamstime.com/b/live-tv-premium-red-tag-sign-live-tv-isolated-premium-red-tag-sign-abstract-illustration-123104721.jpg",
+      "stations": [
+        {
+          "name": "TRUE MUSIC",
+          "image": "https://www.img05.xyz/assets/img/ch_logo/sd-tmusic.png",
+          "url": "https://www.livedoomovies.com:4432/02_TRUEMUSIC_720p/chunklist.m3u8",
+          "referer": "https://www.livedoomovies.com:4432/"
+        }
+      ]
+    }
+  ]
+}
