@@ -27,12 +27,6 @@
 	]
   },
   {
-	"name":"🦭ทีวีดิจิตอล🐒", 
-	"image":"https://www.banidea.com/wp-content/uploads/2014/04/TV-Digital-Thai-Logo.png",
-	"url":"https://bit.ly/3ZahYDe",
-	"import":"true"
-  },
-  {
 	"name":"🦭การ์ตูน🐒", 
 	"image":"https://th.bing.com/th/id/OIP.tZyIDIzGlkyuUrwgP2Xp2gAAAA?pid=ImgDet&rs=1",
 	"url":"https://bit.ly/3PcB72S",
