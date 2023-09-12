@@ -1,39 +1,510 @@
 {
   "name": "ซีรี่ย์ไทย",
-  "author": "อุ๋ง อุ๋ง อัพวันที่ 10 กันยายน 2566",
+  "author": "อุ๋ง อุ๋ง อัพวันที่ 13 กันยายน 2566",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
     {
-      "name": "Love In Translation (2023) รักไม่รู้ภาษา",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Love-In-Translation-300x450.jpg",
+      "name": "The Bride of Naga (2023) พนมนาคา",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Bride-of-Naga-2023-พนมนาคา-300x450.jpg",
       "stations": [
         {
-          "name": "Love In Translation EP 1",
+          "name": "The Bride of Naga EP 1",
           "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Love-In-Translation-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/973a120f786bdc96d6f3386e/973a120f786bdc96d6f3386e438.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Bride-of-Naga-2023-พนมนาคา-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/94132ea6b05fff023c879a8c/94132ea6b05fff023c879a8c438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "Love In Translation EP 2",
+          "name": "The Bride of Naga EP 2",
           "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Love-In-Translation-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/e575b6d8abf0a54e1e6bed88/e575b6d8abf0a54e1e6bed88438.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Bride-of-Naga-2023-พนมนาคา-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/a506af922194e778e5255234/a506af922194e778e5255234438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "Love In Translation EP 3",
+          "name": "The Bride of Naga EP 3",
           "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Love-In-Translation-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/6e6839c978a1c08bf76bce6b/6e6839c978a1c08bf76bce6b438.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Bride-of-Naga-2023-พนมนาคา-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/ca14b819010f05b4fca0cd6b/ca14b819010f05b4fca0cd6b438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "Love In Translation EP 4",
+          "name": "The Bride of Naga EP 4",
           "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Love-In-Translation-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/33ebb7cd41d44bf2b203b372/33ebb7cd41d44bf2b203b372800.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Bride-of-Naga-2023-พนมนาคา-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/74abaadc79026dd1f7254a19/74abaadc79026dd1f7254a19800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Doctor Detective (2023) สืบลับหมอระบาด",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Doctor-Detective-2023-สืบลับหมอระบาด-300x450.jpg",
+      "stations": [
+        {
+          "name": "Doctor Detective EP 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Doctor-Detective-2023-สืบลับหมอระบาด-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/48085596f0b919135139ca8c/48085596f0b919135139ca8c438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Doctor Detective EP 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Doctor-Detective-2023-สืบลับหมอระบาด-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b4b09e1c7a955fc2e0a8ea8e/b4b09e1c7a955fc2e0a8ea8e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Doctor Detective EP 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Doctor-Detective-2023-สืบลับหมอระบาด-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/d51d2ac8913f6aa39bcc9793/d51d2ac8913f6aa39bcc9793438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Doctor Detective EP 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Doctor-Detective-2023-สืบลับหมอระบาด-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/57257a5640c07c4534fbaf9e/57257a5640c07c4534fbaf9e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Doctor Detective EP 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Doctor-Detective-2023-สืบลับหมอระบาด-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b98c4888572ae048709af6b5/b98c4888572ae048709af6b5438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Doctor Detective EP 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Doctor-Detective-2023-สืบลับหมอระบาด-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/e31f914d7fe8e885cd76cd9e/e31f914d7fe8e885cd76cd9e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Doctor Detective EP 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Doctor-Detective-2023-สืบลับหมอระบาด-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/9bd38215f289bf5d6dc22ee2/9bd38215f289bf5d6dc22ee2438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Doctor Detective EP 8",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Doctor-Detective-2023-สืบลับหมอระบาด-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/059d4bd4c8b857ade2f65b2f/059d4bd4c8b857ade2f65b2f800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Jungle (2023) เกมรัก นักล่า บาร์ลับ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Jungle EP 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/1643b9ec175ab3a1d2a67f78/1643b9ec175ab3a1d2a67f78438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Jungle EP 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/31a69cbd8d751795f6528067/31a69cbd8d751795f6528067438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Jungle EP 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/d6f2fc539061cddcd0d2bd02/d6f2fc539061cddcd0d2bd02800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Jungle EP 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/db2bf1537f726b9c7d0e9952/db2bf1537f726b9c7d0e9952438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Jungle EP 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/360d7541e97363480bb0f08d/360d7541e97363480bb0f08d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Jungle EP 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/49064a40c15c7a82f5e63ab1/49064a40c15c7a82f5e63ab1438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Jungle EP 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/d423e6591233ab1bbda3804d/d423e6591233ab1bbda3804d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Jungle EP 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/e0f932663a027f39fe681fb1/e0f932663a027f39fe681fb1438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Jungle EP 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/a421910747c74f5f1497cbc2/a421910747c74f5f1497cbc2438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Jungle EP 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/7b38d4d868b0d230259c5af4/7b38d4d868b0d230259c5af4438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Jungle EP 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/edeb39c738743ce424aa1625/edeb39c738743ce424aa1625438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Jungle EP 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/72504877e9df2b096f4abd8c/72504877e9df2b096f4abd8c438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Jungle EP 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/3bbfa3337ddacbe4f60af170/3bbfa3337ddacbe4f60af170438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Jungle EP 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/0fe3f747676002efad609678/0fe3f747676002efad609678438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Jungle EP 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/44ee1ea40b10243adb49e119/44ee1ea40b10243adb49e119438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Jungle EP 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/3289a938f6c5800eb1cf2c76/3289a938f6c5800eb1cf2c76800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Phuyai Li Sribanyen (2023) ผู้ใหญ่ลี ศรีบานเย็น",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+      "stations": [
+        {
+          "name": "Phuyai Li Sribanyen EP 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/971a69cd371862456a2b4949/971a69cd371862456a2b4949438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/0493c75f791fb0df60c9b01f/0493c75f791fb0df60c9b01f438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/25e1f188639b72d04cee0ab1/25e1f188639b72d04cee0ab1438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/be32ea07517f4b21a2ea02a2/be32ea07517f4b21a2ea02a2438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/8e0e09370aea25a25d4d9baf/8e0e09370aea25a25d4d9baf438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/f25d95ada6b1ad640ebe77b4/f25d95ada6b1ad640ebe77b4438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/5ed02cf88fd8ebdd189ce738/5ed02cf88fd8ebdd189ce738438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/c5359976ccf481092b950845/c5359976ccf481092b950845438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/816e34d3d847fb904695230e/816e34d3d847fb904695230e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/00cc0dc1015733449b37b9fb/00cc0dc1015733449b37b9fb438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/245f7795093714c317f32c59/245f7795093714c317f32c59438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/d9540840bee466854b22ba76/d9540840bee466854b22ba76438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/d709095e49be7c5b559eac81/d709095e49be7c5b559eac81438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/46bc3971a0b7a915f179e842/46bc3971a0b7a915f179e842438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/5fa8f28a942c2638b8598908/5fa8f28a942c2638b8598908438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/42e7cce597d69596191dab1e/42e7cce597d69596191dab1e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/843f754896f4c464ea6cc7fb/843f754896f4c464ea6cc7fb438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/fab86cdf7c63b649cb1b584f/fab86cdf7c63b649cb1b584f438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/053560f52293a3d53a9cdabf/053560f52293a3d53a9cdabf438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b64facb3ba681aa5427e39a2/b64facb3ba681aa5427e39a2438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/5d7661cc643cee38ce0c773d/5d7661cc643cee38ce0c773d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 22",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/4f7e2df79e224fc9b33686ae/4f7e2df79e224fc9b33686ae438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 23",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/f72f677edfcba7c51bf6f812/f72f677edfcba7c51bf6f812438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 24",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/46cadf75029b22945d913979/46cadf75029b22945d913979438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Phuyai Li Sribanyen EP 25",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/1dd601b7fbba9070a453eac9/1dd601b7fbba9070a453eac9438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Be Mine Superstar (2023) พี่พระเอกกับเด็กหมาในกอง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
+      "stations": [
+        {
+          "name": "Be Mine Superstar EP 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/56046e396da3486b4d3a42d9/56046e396da3486b4d3a42d9438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Be Mine Superstar EP 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/ea7a9cc636622961607adbea/ea7a9cc636622961607adbea438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Be Mine Superstar EP 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/bc74d5fe53e852b6ccba78ff/bc74d5fe53e852b6ccba78ff438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Be Mine Superstar EP 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/0b9dc3c06ff165c5cc83ad1d/0b9dc3c06ff165c5cc83ad1d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Be Mine Superstar EP 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/d2715c011906f4cc3a966632/d2715c011906f4cc3a966632438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Be Mine Superstar EP 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/04c3e1f12b3c919f754c3175/04c3e1f12b3c919f754c3175438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Be Mine Superstar EP 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/acb36fba33e8552b730d5c0d/acb36fba33e8552b730d5c0d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Be Mine Superstar EP 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/cd3cdb0e9a5e9ffa15a76dcd/cd3cdb0e9a5e9ffa15a76dcd438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Be Mine Superstar EP 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/c91192ed29716b64e970344b/c91192ed29716b64e970344b438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Be Mine Superstar EP 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b1db6cb7e91646e25c9886e6/b1db6cb7e91646e25c9886e6438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Be Mine Superstar EP 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/874647fe7d39569acc9e7d87/874647fe7d39569acc9e7d87438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Crazy Handsome Rich (2023) บ้านชายมอง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Crazy-Handsome-Rich-2023-บ้านชายมอง-300x450.jpg",
+      "stations": [
+        {
+          "name": "Crazy Handsome Rich EP 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Crazy-Handsome-Rich-2023-บ้านชายมอง-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/da64c3a1711d458f1fb5a65c/da64c3a1711d458f1fb5a65c438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Crazy Handsome Rich EP 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Crazy-Handsome-Rich-2023-บ้านชายมอง-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/6ac343bcc23dfe37fc213ec4/6ac343bcc23dfe37fc213ec4438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Crazy Handsome Rich EP 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Crazy-Handsome-Rich-2023-บ้านชายมอง-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/d8a82e92890991350291421d/d8a82e92890991350291421d438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -123,7 +594,158 @@
           "name": "Treasure War EP 12",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Treasure-War-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/5d585828242b39370fb09234/5d585828242b39370fb09234800.m3u8",
+          "url": "https://main.77player.xyz/m3u8/5df59d534a081d1c38412049/5df59d534a081d1c38412049438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Treasure War EP 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Treasure-War-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/6d5732a6f3252c30bcd546cd/6d5732a6f3252c30bcd546cd438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "My Universe (2023) รักเราเท่าจักรวาล",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "My Universe EP 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/fb2ea8d66b9b0d30da42d5d8/fb2ea8d66b9b0d30da42d5d8438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "My Universe EP 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/be20b8534cf29d49a5767542/be20b8534cf29d49a5767542438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "My Universe EP 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/decd1b49c4567b38b0a3e671/decd1b49c4567b38b0a3e671438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "My Universe EP 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/49c6f856f0f6cd7c5de3764f/49c6f856f0f6cd7c5de3764f438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Hidden Agenda (2023) วาระซ่อนเร้น",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
+      "stations": [
+        {
+          "name": "Hidden Agenda EP 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/12af840c70906a1bddadae22/12af840c70906a1bddadae22438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Hidden Agenda EP 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/02786003131b101ec9aba757/02786003131b101ec9aba757438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Hidden Agenda EP 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/c0a965e4ab221496eb7dbd43/c0a965e4ab221496eb7dbd43438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Hidden Agenda EP 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/5124b670e5a4d3b81487032e/5124b670e5a4d3b81487032e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Hidden Agenda EP 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/0a8990885df26718bbdbacd6/0a8990885df26718bbdbacd6438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Hidden Agenda EP 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/bb2ad578ce9c7a2efb52dbf6/bb2ad578ce9c7a2efb52dbf6438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Hidden Agenda EP 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/c81e5b19424b714da6bb14b8/c81e5b19424b714da6bb14b8438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Hidden Agenda EP 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/fb28aaed3e9c5640ca1146b0/fb28aaed3e9c5640ca1146b0438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Hidden Agenda EP 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/2d07b11aea2e9695fa4b21ff/2d07b11aea2e9695fa4b21ff438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Hidden Agenda EP 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/01cb215aa8f0fbb275dd81d7/01cb215aa8f0fbb275dd81d7438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Love In Translation (2023) รักไม่รู้ภาษา",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Love-In-Translation-300x450.jpg",
+      "stations": [
+        {
+          "name": "Love In Translation EP 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Love-In-Translation-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/973a120f786bdc96d6f3386e/973a120f786bdc96d6f3386e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Love In Translation EP 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Love-In-Translation-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/e575b6d8abf0a54e1e6bed88/e575b6d8abf0a54e1e6bed88438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Love In Translation EP 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Love-In-Translation-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/6e6839c978a1c08bf76bce6b/6e6839c978a1c08bf76bce6b438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Love In Translation EP 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Love-In-Translation-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/6c43390264a1de2ce6cbd4ed/6c43390264a1de2ce6cbd4ed438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -143,7 +765,7 @@
           "name": "Venus in the Sky EP 2",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Venus-in-the-Sky-2023-ห้ามฟ้าห่มดาว-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/a5d04fe2bc981b7e8697e78c/a5d04fe2bc981b7e8697e78c800.m3u8",
+          "url": "https://main.77player.xyz/m3u8/8875bfd0edb004cc14f9affd/8875bfd0edb004cc14f9affd438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -490,297 +1112,6 @@
       ]
     },
     {
-      "name": "The Bride of Naga (2023) พนมนาคา",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Bride-of-Naga-2023-พนมนาคา-300x450.jpg",
-      "stations": [
-        {
-          "name": "The Bride of Naga EP 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Bride-of-Naga-2023-พนมนาคา-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/94132ea6b05fff023c879a8c/94132ea6b05fff023c879a8c438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Bride of Naga EP 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Bride-of-Naga-2023-พนมนาคา-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/a506af922194e778e5255234/a506af922194e778e5255234438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Phuyai Li Sribanyen (2023) ผู้ใหญ่ลี ศรีบานเย็น",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-      "stations": [
-        {
-          "name": "Phuyai Li Sribanyen EP 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/971a69cd371862456a2b4949/971a69cd371862456a2b4949438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/0493c75f791fb0df60c9b01f/0493c75f791fb0df60c9b01f438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/25e1f188639b72d04cee0ab1/25e1f188639b72d04cee0ab1438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/be32ea07517f4b21a2ea02a2/be32ea07517f4b21a2ea02a2438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/8e0e09370aea25a25d4d9baf/8e0e09370aea25a25d4d9baf438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/f25d95ada6b1ad640ebe77b4/f25d95ada6b1ad640ebe77b4438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/5ed02cf88fd8ebdd189ce738/5ed02cf88fd8ebdd189ce738438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/c5359976ccf481092b950845/c5359976ccf481092b950845438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/816e34d3d847fb904695230e/816e34d3d847fb904695230e438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 10",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/00cc0dc1015733449b37b9fb/00cc0dc1015733449b37b9fb438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 11",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/245f7795093714c317f32c59/245f7795093714c317f32c59438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 12",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/d9540840bee466854b22ba76/d9540840bee466854b22ba76438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 13",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/d709095e49be7c5b559eac81/d709095e49be7c5b559eac81438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 14",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/46bc3971a0b7a915f179e842/46bc3971a0b7a915f179e842438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 15",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/5fa8f28a942c2638b8598908/5fa8f28a942c2638b8598908438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 16",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/42e7cce597d69596191dab1e/42e7cce597d69596191dab1e438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 17",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/843f754896f4c464ea6cc7fb/843f754896f4c464ea6cc7fb.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 18",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/fab86cdf7c63b649cb1b584f/fab86cdf7c63b649cb1b584f438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 19",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/053560f52293a3d53a9cdabf/053560f52293a3d53a9cdabf438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 20",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/b64facb3ba681aa5427e39a2/b64facb3ba681aa5427e39a2438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 21",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/5d7661cc643cee38ce0c773d/5d7661cc643cee38ce0c773d438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 22",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/4f7e2df79e224fc9b33686ae/4f7e2df79e224fc9b33686ae438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Phuyai Li Sribanyen EP 23",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Phuyai-Li-Sribanyen-2023-ผู้ใหญ่ลี-ศรีบานเย็น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/f72f677edfcba7c51bf6f812/f72f677edfcba7c51bf6f812438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "The Jungle (2023) เกมรัก นักล่า บาร์ลับ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
-      "stations": [
-        {
-          "name": "The Jungle EP 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/1643b9ec175ab3a1d2a67f78/1643b9ec175ab3a1d2a67f78438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Jungle EP 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/31a69cbd8d751795f6528067/31a69cbd8d751795f6528067438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Jungle EP 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/d6f2fc539061cddcd0d2bd02/d6f2fc539061cddcd0d2bd02800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Jungle EP 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/db2bf1537f726b9c7d0e9952/db2bf1537f726b9c7d0e9952438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Jungle EP 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/360d7541e97363480bb0f08d/360d7541e97363480bb0f08d438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Jungle EP 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/49064a40c15c7a82f5e63ab1/49064a40c15c7a82f5e63ab1438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Jungle EP 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/d423e6591233ab1bbda3804d/d423e6591233ab1bbda3804d438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Jungle EP 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/e0f932663a027f39fe681fb1/e0f932663a027f39fe681fb1438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Jungle EP 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/a421910747c74f5f1497cbc2/a421910747c74f5f1497cbc2438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Jungle EP 10",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/7b38d4d868b0d230259c5af4/7b38d4d868b0d230259c5af4438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Jungle EP 11",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/edeb39c738743ce424aa1625/edeb39c738743ce424aa1625438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Jungle EP 12",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/72504877e9df2b096f4abd8c/72504877e9df2b096f4abd8c438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Jungle EP 13",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/3bbfa3337ddacbe4f60af170/3bbfa3337ddacbe4f60af170438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Jungle EP 14",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Jungle-2023-เกมรัก-นักล่า-บาร์ลับ-พากย์ไทย-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/0fe3f747676002efad609678/0fe3f747676002efad609678438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "6ixtynin9 the Series (2023) เรื่องตลก 69 เดอะซีรีส์",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/6ixtynin9-the-Series-2023-เรื่องตลก-69-เดอะซีรีส์-300x450.jpg",
       "stations": [
@@ -829,246 +1160,6 @@
       ]
     },
     {
-      "name": "Doctor Detective (2023) สืบลับหมอระบาด",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Doctor-Detective-2023-สืบลับหมอระบาด-300x450.jpg",
-      "stations": [
-        {
-          "name": "Doctor Detective EP 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Doctor-Detective-2023-สืบลับหมอระบาด-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/48085596f0b919135139ca8c/48085596f0b919135139ca8c438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Doctor Detective EP 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Doctor-Detective-2023-สืบลับหมอระบาด-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/b4b09e1c7a955fc2e0a8ea8e/b4b09e1c7a955fc2e0a8ea8e438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Doctor Detective EP 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Doctor-Detective-2023-สืบลับหมอระบาด-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/d51d2ac8913f6aa39bcc9793/d51d2ac8913f6aa39bcc9793438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Doctor Detective EP 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Doctor-Detective-2023-สืบลับหมอระบาด-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/57257a5640c07c4534fbaf9e/57257a5640c07c4534fbaf9e438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Doctor Detective EP 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Doctor-Detective-2023-สืบลับหมอระบาด-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/b98c4888572ae048709af6b5/b98c4888572ae048709af6b5438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Doctor Detective EP 6",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Doctor-Detective-2023-สืบลับหมอระบาด-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/e31f914d7fe8e885cd76cd9e/e31f914d7fe8e885cd76cd9e438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Be Mine Superstar (2023) พี่พระเอกกับเด็กหมาในกอง",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
-      "stations": [
-        {
-          "name": "Be Mine Superstar EP 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/56046e396da3486b4d3a42d9/56046e396da3486b4d3a42d9438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Be Mine Superstar EP 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/ea7a9cc636622961607adbea/ea7a9cc636622961607adbea438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Be Mine Superstar EP 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/bc74d5fe53e852b6ccba78ff/bc74d5fe53e852b6ccba78ff438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Be Mine Superstar EP 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/0b9dc3c06ff165c5cc83ad1d/0b9dc3c06ff165c5cc83ad1d438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Be Mine Superstar EP 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/d2715c011906f4cc3a966632/d2715c011906f4cc3a966632438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Be Mine Superstar EP 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/04c3e1f12b3c919f754c3175/04c3e1f12b3c919f754c3175438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Be Mine Superstar EP 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/acb36fba33e8552b730d5c0d/acb36fba33e8552b730d5c0d438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Be Mine Superstar EP 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/cd3cdb0e9a5e9ffa15a76dcd/cd3cdb0e9a5e9ffa15a76dcd438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Be Mine Superstar EP 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/c91192ed29716b64e970344b/c91192ed29716b64e970344b438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Be Mine Superstar EP 10",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Be-Mine-Superstar-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/b1db6cb7e91646e25c9886e6/b1db6cb7e91646e25c9886e6438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Crazy Handsome Rich (2023) บ้านชายมอง",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Crazy-Handsome-Rich-2023-บ้านชายมอง-300x450.jpg",
-      "stations": [
-        {
-          "name": "Crazy Handsome Rich EP 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Crazy-Handsome-Rich-2023-บ้านชายมอง-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/da64c3a1711d458f1fb5a65c/da64c3a1711d458f1fb5a65c438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Crazy Handsome Rich EP 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Crazy-Handsome-Rich-2023-บ้านชายมอง-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/6ac343bcc23dfe37fc213ec4/6ac343bcc23dfe37fc213ec4438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "My Universe (2023) รักเราเท่าจักรวาล",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
-      "stations": [
-        {
-          "name": "My Universe EP 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/fb2ea8d66b9b0d30da42d5d8/fb2ea8d66b9b0d30da42d5d8438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "My Universe EP 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/be20b8534cf29d49a5767542/be20b8534cf29d49a5767542438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "My Universe EP 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/My-Universe-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/decd1b49c4567b38b0a3e671/decd1b49c4567b38b0a3e671438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Hidden Agenda (2023) วาระซ่อนเร้น",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
-      "stations": [
-        {
-          "name": "Hidden Agenda EP 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/12af840c70906a1bddadae22/12af840c70906a1bddadae22438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Hidden Agenda EP 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/02786003131b101ec9aba757/02786003131b101ec9aba757438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Hidden Agenda EP 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/c0a965e4ab221496eb7dbd43/c0a965e4ab221496eb7dbd43438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Hidden Agenda EP 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/5124b670e5a4d3b81487032e/5124b670e5a4d3b81487032e438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Hidden Agenda EP 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/0a8990885df26718bbdbacd6/0a8990885df26718bbdbacd6438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Hidden Agenda EP 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/bb2ad578ce9c7a2efb52dbf6/bb2ad578ce9c7a2efb52dbf6438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Hidden Agenda EP 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/c81e5b19424b714da6bb14b8/c81e5b19424b714da6bb14b8438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Hidden Agenda EP 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/fb28aaed3e9c5640ca1146b0/fb28aaed3e9c5640ca1146b0438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Hidden Agenda EP 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Hidden-Agenda-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/2d07b11aea2e9695fa4b21ff/2d07b11aea2e9695fa4b21ff438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "Laws of Attraction (2023) กฎแห่งรักดึงดูด",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Laws-of-Attraction-2023-กฎแห่งรักดึงดูด-300x450.jpg",
       "stations": [
@@ -1076,7 +1167,7 @@
           "name": "Laws of Attraction EP 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Laws-of-Attraction-2023-กฎแห่งรักดึงดูด-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/de4ea9b948aa59364d268c0c/de4ea9b948aa59364d268c0c438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/de4ea9b948aa59364d268c0c/de4ea9b948aa59364d268c0c.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1180,7 +1271,7 @@
           "name": "Wedding Plan Uncut EP 7",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Wedding-Plan-Uncut-2023-แผนการ-รัก-ร้ายของนายเจ้าบ่าว-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/ca5b9709abedf5951500ddb9/ca5b9709abedf5951500ddb9.m3u8",
+          "url": "https://main.77player.xyz/m3u8/ca5b9709abedf5951500ddb9/ca5b9709abedf5951500ddb9438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1290,6 +1381,103 @@
       ]
     },
     {
+      "name": "TharnType 2 (2023) เกลียดนักมาเป็นที่รักกันซะดีๆ 2",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/TharnType-2-2023-เกลียดนักมาเป็นที่รักกันซะดีๆ-2-300x450.jpg",
+      "stations": [
+        {
+          "name": "TharnType 2 EP 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/TharnType-2-2023-เกลียดนักมาเป็นที่รักกันซะดีๆ-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b9c5db344ed172ad7025fd65/b9c5db344ed172ad7025fd65438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "TharnType 2 EP 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/TharnType-2-2023-เกลียดนักมาเป็นที่รักกันซะดีๆ-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/d12cebc01839761be88d8b4d/d12cebc01839761be88d8b4d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "TharnType 2 EP 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/TharnType-2-2023-เกลียดนักมาเป็นที่รักกันซะดีๆ-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/dcd3e8a1730232b39f2a8bf8/dcd3e8a1730232b39f2a8bf8438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "TharnType 2 EP 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/TharnType-2-2023-เกลียดนักมาเป็นที่รักกันซะดีๆ-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/6484faa909cf8c8ed901447e/6484faa909cf8c8ed901447e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "TharnType 2 EP 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/TharnType-2-2023-เกลียดนักมาเป็นที่รักกันซะดีๆ-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/2ec3af589df921bdfbc581a7/2ec3af589df921bdfbc581a7438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "TharnType 2 EP 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/TharnType-2-2023-เกลียดนักมาเป็นที่รักกันซะดีๆ-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/16d36212f2103c3d58d6dc49/16d36212f2103c3d58d6dc49438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "TharnType 2 EP 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/TharnType-2-2023-เกลียดนักมาเป็นที่รักกันซะดีๆ-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/3da4bec620420b69e285c95a/3da4bec620420b69e285c95a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "TharnType 2 EP 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/TharnType-2-2023-เกลียดนักมาเป็นที่รักกันซะดีๆ-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/1b948c1f09a4cb0339a97200/1b948c1f09a4cb0339a97200438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "TharnType 2 EP 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/TharnType-2-2023-เกลียดนักมาเป็นที่รักกันซะดีๆ-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/36813ffcd2b87eaa5d7028e5/36813ffcd2b87eaa5d7028e5438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "TharnType 2 EP 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/TharnType-2-2023-เกลียดนักมาเป็นที่รักกันซะดีๆ-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/0c85b455aaae1c2c33311671/0c85b455aaae1c2c33311671438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "TharnType 2 EP 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/TharnType-2-2023-เกลียดนักมาเป็นที่รักกันซะดีๆ-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/ce66b6606fac5dab0aaa66cb/ce66b6606fac5dab0aaa66cb438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "TharnType 2 EP 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/TharnType-2-2023-เกลียดนักมาเป็นที่รักกันซะดีๆ-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/7d2af4b40c3d982026be5133/7d2af4b40c3d982026be5133438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "TharnType 2 EP 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/TharnType-2-2023-เกลียดนักมาเป็นที่รักกันซะดีๆ-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/5c5344893cbd33c3f3eecded/5c5344893cbd33c3f3eecded438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
       "name": "TharnType (2023) เกลียดนักมาเป็นที่รักกันซะดีๆ",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/08/TharnType-2023-เกลียดนักมาเป็นที่รักกันซะดีๆ-300x450.jpg",
       "stations": [
@@ -1346,7 +1534,7 @@
           "name": "TharnType EP 8",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/TharnType-2023-เกลียดนักมาเป็นที่รักกันซะดีๆ-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/e5a8817b3d12c622ac72495a/e5a8817b3d12c622ac72495a438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/e5a8817b3d12c622ac72495a/e5a8817b3d12c622ac72495a.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -2844,7 +3032,7 @@
           "name": "House of Stars EP 5",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/05/House-of-Stars-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/7fc170a5736dff57fbb0c72b/7fc170a5736dff57fbb0c72b.m3u8",
+          "url": "https://main.77player.xyz/m3u8/7fc170a5736dff57fbb0c72b/7fc170a5736dff57fbb0c72b438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -3198,7 +3386,7 @@
           "name": "Golden Blood EP 9",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2021/07/Golden-Blood-2021-รักมันมหาศาล-300x450.png",
-          "url": "https://main.77player.xyz/newplaylist/8ee70a29c478842c863dae78/8ee70a29c478842c863dae78.m3u8",
+          "url": "https://main.77player.xyz/m3u8/8ee70a29c478842c863dae78/8ee70a29c478842c863dae78438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3344,7 +3532,7 @@
           "name": "Step By Step EP 10",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Step-By-Step-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/d3615619280349a059d6649e/d3615619280349a059d6649e438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/d3615619280349a059d6649e/d3615619280349a059d6649e.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -4569,7 +4757,7 @@
           "name": "A Boss and a Babe EP 6",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/03/A-Boss-and-a-Babe-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/875b9d20465a422f6e8ff313/875b9d20465a422f6e8ff313438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/875b9d20465a422f6e8ff313/875b9d20465a422f6e8ff313.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -8251,7 +8439,7 @@
           "name": "Ai Long Nhai EP 11",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Ai-Long-Nhai-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/384f13e4de7304ed54f35c05/384f13e4de7304ed54f35c05438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/384f13e4de7304ed54f35c05/384f13e4de7304ed54f35c05.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -9354,13 +9542,6 @@
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "Husband in Disguise EP 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Husband-in-Disguise-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/c5c8928154a34b532aa0380a4ac050de/c5c8928154a34b532aa0380a4ac050de.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
           "name": "Husband in Disguise EP 5",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Husband-in-Disguise-300x450.png",
@@ -9637,13 +9818,6 @@
       "name": "Rose In Da House (2022)",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Rose-In-Da-House-300x450.png",
       "stations": [
-        {
-          "name": "Rose In Da House EP 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Rose-In-Da-House-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/48640f2c1de4989cb3d410d209ebf19f/48640f2c1de4989cb3d410d209ebf19f.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
         {
           "name": "Rose In Da House EP 2",
           "info": "พากย์ไทย",
@@ -10663,10 +10837,31 @@
           "referer": "https://www.123-hd.com/"
         },
         {
+          "name": "Oops Mr.Superstar Hit on Me EP 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Oops-Mr.Superstar-Hit-on-Me-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/b8636e6c249ddaff7ba5018a4ff03501/b8636e6c249ddaff7ba5018a4ff03501.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Oops Mr.Superstar Hit on Me EP 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Oops-Mr.Superstar-Hit-on-Me-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/ff3dd965597fabf1eccbf29240a14cc2/ff3dd965597fabf1eccbf29240a14cc2.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Oops Mr.Superstar Hit on Me EP 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Oops-Mr.Superstar-Hit-on-Me-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/226efa90aa7cefa36403b01f/226efa90aa7cefa36403b01f438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
           "name": "Oops Mr.Superstar Hit on Me EP 12",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Oops-Mr.Superstar-Hit-on-Me-300x450.png",
-          "url": "https://xxx.77player.xyz/autoplaylist/17dab37aeec5f1513ea5584fcd6c1c4d/17dab37aeec5f1513ea5584fcd6c1c4d.m3u8",
+          "url": "https://xxx.77player.xyz/ioshls/e13241a022411e2db22609bf26f828a0/e13241a022411e2db22609bf26f828a0.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -10679,7 +10874,7 @@
           "name": "Hurts Like Hell EP 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Hurts-Like-Hell-2022-300x450.png",
-          "url": "https://xxx.77player.xyz/autoplaylist/2fc394a7bf3de1487ec8999f2501bf60/2fc394a7bf3de1487ec8999f2501bf60.m3u8",
+          "url": "https://xxx.77player.xyz/ioshls/b273923dbc3cc4842a37d4a5f14ca048/b273923dbc3cc4842a37d4a5f14ca048.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -13248,14 +13443,14 @@
           "name": "Revenge of Love EP 2",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/02/เกมรักเกมพยาบาท-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/e05bf4e7ed0bcddeb4f586cd/e05bf4e7ed0bcddeb4f586cd438.m3u8",
+          "url": "https://main.77player.xyz/m3u8/e75382ef6bd6ebac14028672/e75382ef6bd6ebac14028672438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
           "name": "Revenge of Love EP 2",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/02/เกมรักเกมพยาบาท-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/e75382ef6bd6ebac14028672/e75382ef6bd6ebac14028672438.m3u8",
+          "url": "https://main.77player.xyz/m3u8/e05bf4e7ed0bcddeb4f586cd/e05bf4e7ed0bcddeb4f586cd438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -14893,247 +15088,200 @@
     {
       "name": "เด็กใหม่ 2 (2021) Girl From Nowhere 2",
       "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2-2021-Girl-From-Nowhere-2-300x450.png",
-      "stations": []
+      "stations": [
+        {
+          "name": "เด็กใหม่ 2 EP 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2-2021-Girl-From-Nowhere-2-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/6ceba7c91930e3bcfb857eb2a98466ff/6ceba7c91930e3bcfb857eb2a98466ff.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เด็กใหม่ 2 EP 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2-2021-Girl-From-Nowhere-2-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/796415ac377431c8fe0e2e95/796415ac377431c8fe0e2e95438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เด็กใหม่ 2 EP 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2-2021-Girl-From-Nowhere-2-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/80e6fc1f4342fc8cb98ea3ee9726124e/80e6fc1f4342fc8cb98ea3ee9726124e.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เด็กใหม่ 2 EP 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2-2021-Girl-From-Nowhere-2-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/d8bf910a12d7d057350a9ed2/d8bf910a12d7d057350a9ed2438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เด็กใหม่ 2 EP 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2-2021-Girl-From-Nowhere-2-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/0e5cd7602c81114359afc92de189e033/0e5cd7602c81114359afc92de189e033.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เด็กใหม่ 2 EP 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2-2021-Girl-From-Nowhere-2-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/d02c86d33f2cc30c7dc2c82530e39b02/d02c86d33f2cc30c7dc2c82530e39b02.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เด็กใหม่ 2 EP 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2-2021-Girl-From-Nowhere-2-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/d153689c5d0704180b0658b249f336d5/d153689c5d0704180b0658b249f336d5.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เด็กใหม่ 2 EP 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2-2021-Girl-From-Nowhere-2-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/ca34e190c09e943bd9f8038e/ca34e190c09e943bd9f8038e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
     },
     {
       "name": "เด็กใหม่ (2018) Girl From Nowhere",
       "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2018-300x450.jpeg",
-      "stations": []
+      "stations": [
+        {
+          "name": "เด็กใหม่ EP 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2018-300x450.jpeg",
+          "url": "https://main.77player.xyz/m3u8/4e9e60bf6e3724935ae1f240/4e9e60bf6e3724935ae1f240438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เด็กใหม่ EP 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2018-300x450.jpeg",
+          "url": "https://xxx.77player.xyz/ioshls/888582616ad3765dc7cc46b8e99afc17/888582616ad3765dc7cc46b8e99afc17.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เด็กใหม่ EP 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2018-300x450.jpeg",
+          "url": "https://xxx.77player.xyz/ioshls/a5e36a102ef061aecc4b824af784d722/a5e36a102ef061aecc4b824af784d722.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เด็กใหม่ EP 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2018-300x450.jpeg",
+          "url": "https://xxx.77player.xyz/ioshls/832803e6e7ee50cb54d9121c6bd70944/832803e6e7ee50cb54d9121c6bd70944.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เด็กใหม่ EP 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2018-300x450.jpeg",
+          "url": "https://xxx.77player.xyz/ioshls/5c26b4a859d1a6ff3e679aaec27194c2/5c26b4a859d1a6ff3e679aaec27194c2.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เด็กใหม่ EP 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2018-300x450.jpeg",
+          "url": "https://main.77player.xyz/m3u8/de010a418f1e25f16b6de4ed/de010a418f1e25f16b6de4ed438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เด็กใหม่ EP 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2018-300x450.jpeg",
+          "url": "https://xxx.77player.xyz/ioshls/56223ca30c8cc100d43f23fdf0380aac/56223ca30c8cc100d43f23fdf0380aac.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เด็กใหม่ EP 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2018-300x450.jpeg",
+          "url": "https://xxx.77player.xyz/ioshls/bd5c9948e0f953cc958308d837d3612e/bd5c9948e0f953cc958308d837d3612e.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เด็กใหม่ EP 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2018-300x450.jpeg",
+          "url": "https://main.77player.xyz/m3u8/8dfad1bb5588a3c2116ebcbf/8dfad1bb5588a3c2116ebcbf438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เด็กใหม่ EP 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2018-300x450.jpeg",
+          "url": "https://xxx.77player.xyz/ioshls/1b31763b8a66d94eee9404b6607a51a2/1b31763b8a66d94eee9404b6607a51a2.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เด็กใหม่ EP 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2018-300x450.jpeg",
+          "url": "https://main.77player.xyz/m3u8/44030cd4f1a9c68e3fa6f36e/44030cd4f1a9c68e3fa6f36e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เด็กใหม่ EP 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2018-300x450.jpeg",
+          "url": "https://xxx.77player.xyz/ioshls/e794cb4e943a72e835ef0c0d0a2e9d95/e794cb4e943a72e835ef0c0d0a2e9d95.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "เด็กใหม่ EP 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/05/เด็กใหม่-2018-300x450.jpeg",
+          "url": "https://main.77player.xyz/m3u8/ab3f2e5ef064a85c47fc3535/ab3f2e5ef064a85c47fc3535438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
     },
     {
       "name": "Let's Eat (2021) รักล้นพุง",
       "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Lets-Eat-2021-รักล้นพุง-300x450.jpg",
-      "stations": []
+      "stations": [
+        {
+          "name": "รักล้นพุง EP 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Lets-Eat-2021-รักล้นพุง-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/fee2e28094482ebbc16a15df/fee2e28094482ebbc16a15df438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "รักล้นพุง EP 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Lets-Eat-2021-รักล้นพุง-300x450.jpg",
+          "url": "https://xxx.77player.xyz/ioshls/adc0f9ad8f7783e6f1ef087ea2c93140/adc0f9ad8f7783e6f1ef087ea2c93140.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "รักล้นพุง EP 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Lets-Eat-2021-รักล้นพุง-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/cc28dd91d9421075e5068793/cc28dd91d9421075e5068793438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "รักล้นพุง EP 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Lets-Eat-2021-รักล้นพุง-300x450.jpg",
+          "url": "https://xxx.77player.xyz/ioshls/0c2de9e5b7d85acd2e8015498d609b6a/0c2de9e5b7d85acd2e8015498d609b6a.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
     },
     {
       "name": "วันทอง (2021) Wanthong",
       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-      "stations": [
-        {
-          "name": "วันทอง EP 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/c812c1414d32c02fd0e0ba41b105b2aa/c812c1414d32c02fd0e0ba41b105b2aa.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/4d630252969ca05a6bafdd08a957198b/4d630252969ca05a6bafdd08a957198b.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/24ebdd11c48e5a17e4b17a6a83bcc2b1/24ebdd11c48e5a17e4b17a6a83bcc2b1.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/bb1186ecde7747eddc1f1b36/bb1186ecde7747eddc1f1b36438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/f64c3f298f721b8d36322c8a/f64c3f298f721b8d36322c8a438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/3e83dcf0829ea28a315d505c16a0c403/3e83dcf0829ea28a315d505c16a0c403.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/a755bfb5017a64639fd4ba46bb5caafb/a755bfb5017a64639fd4ba46bb5caafb.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/4d95f32f50b2166382951bca100b5a76/4d95f32f50b2166382951bca100b5a76.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/8bcb6e47639602e64da59fbfbd7dd18d/8bcb6e47639602e64da59fbfbd7dd18d.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 10",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/421db53947bcd2dbfb92d94a/421db53947bcd2dbfb92d94a438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 11",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/afaa56aca8b77004489fecb5c12e33b0/afaa56aca8b77004489fecb5c12e33b0.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 12",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/4da2213b55994bf6fc617665/4da2213b55994bf6fc617665438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 13",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/8c252e94631c27c5e8e9e9927a26c523/8c252e94631c27c5e8e9e9927a26c523.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 14",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/ac76cba32bfe5573ec3e0c60cf24f029/ac76cba32bfe5573ec3e0c60cf24f029.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 15",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/b1b91d729fcbf7c4b56e787560a8eb45/b1b91d729fcbf7c4b56e787560a8eb45.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 16",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/2f6e5c3a5c21afc3e98d2f7c/2f6e5c3a5c21afc3e98d2f7c438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 17",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/e388cefa11dab1959164a16273be76c8/e388cefa11dab1959164a16273be76c8.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 18",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/dd153ce2d81c56bbe77d8a92/dd153ce2d81c56bbe77d8a92438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 19",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/18ec5a2552f988deb8684cc0/18ec5a2552f988deb8684cc0438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 20",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/ab4f3df820965d71fe0f9c48e1df70ee/ab4f3df820965d71fe0f9c48e1df70ee.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 21",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/ecb54e9bcd5a742df866c6f513a45e8f/ecb54e9bcd5a742df866c6f513a45e8f.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 22",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/efcab587bfaa9bcdc13729f03766d7b8/efcab587bfaa9bcdc13729f03766d7b8.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 23",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/6f22b826ec71c98d4267143920f19901/6f22b826ec71c98d4267143920f19901.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 24",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/5ebf71a4300316a5e316cad5f861e9e6/5ebf71a4300316a5e316cad5f861e9e6.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 25",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/fdb04e7a75ab4d3eca8b01d06e56929e/fdb04e7a75ab4d3eca8b01d06e56929e.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 26",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/e093707172ecdfbc364ead542943792a/e093707172ecdfbc364ead542943792a.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 27",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/e4729979a50b907351c8830532d94291/e4729979a50b907351c8830532d94291.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 28",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/623edf68a44f1fce89320de5d3c4bf84/623edf68a44f1fce89320de5d3c4bf84.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 29",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/dfa78cb5413c43a7d6ad78a5136cf56e/dfa78cb5413c43a7d6ad78a5136cf56e.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 30",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/a348a60fc5cd1b35a46c3bfe4bbe23df/a348a60fc5cd1b35a46c3bfe4bbe23df.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 31",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/33e0beec5046e938d4b9523978781cd5/33e0beec5046e938d4b9523978781cd5.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "วันทอง EP 32",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/วันทอง-2021-Wanthong-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/fb90739020877bc7b5d8832e5981f66f/fb90739020877bc7b5d8832e5981f66f.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
+      "stations": []
     },
     {
       "name": "THE DEBUT (2021) เดอะ เดบิวต์..อวสานไอดอล",
@@ -15359,7 +15507,64 @@
     {
       "name": "อังคารคลุมโปงเดอะซีรีส์ (2021) Angkhan Khlumpong The Series",
       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/อังคารคลุมโปงเดอะซีรีส์-300x450.png",
-      "stations": []
+      "stations": [
+        {
+          "name": "อังคารคลุมโปงเดอะซีรีส์ EP 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/อังคารคลุมโปงเดอะซีรีส์-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/3607e6f26e73990a43eaeac6/3607e6f26e73990a43eaeac6438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "อังคารคลุมโปงเดอะซีรีส์ EP 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/อังคารคลุมโปงเดอะซีรีส์-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/46efc61b7a730732f8a8e22d364a6235/46efc61b7a730732f8a8e22d364a6235.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "อังคารคลุมโปงเดอะซีรีส์ EP 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/อังคารคลุมโปงเดอะซีรีส์-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/07d7de95fcbf29269d2a3099b330af88/07d7de95fcbf29269d2a3099b330af88.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "อังคารคลุมโปงเดอะซีรีส์ EP 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/อังคารคลุมโปงเดอะซีรีส์-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/e1d8ec41876cea5de479d4cf/e1d8ec41876cea5de479d4cf438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "อังคารคลุมโปงเดอะซีรีส์ EP 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/อังคารคลุมโปงเดอะซีรีส์-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/1fe5b718f54d08ec5a1449fd18626495/1fe5b718f54d08ec5a1449fd18626495.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "อังคารคลุมโปงเดอะซีรีส์ EP 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/อังคารคลุมโปงเดอะซีรีส์-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/01b9aae41083e77c13d7d69930bba907/01b9aae41083e77c13d7d69930bba907.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "อังคารคลุมโปงเดอะซีรีส์ EP 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/อังคารคลุมโปงเดอะซีรีส์-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/d34e15b6a2fd808a1406d6aa47108547/d34e15b6a2fd808a1406d6aa47108547.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "อังคารคลุมโปงเดอะซีรีส์ EP 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/03/อังคารคลุมโปงเดอะซีรีส์-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/898143dd9006629cc7b2cf11301c8d5c/898143dd9006629cc7b2cf11301c8d5c.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
     },
     {
       "name": "You Never Eat Alone (2020) เมื่อความหิวและความเหงาตัวเท่าบ้าน",
@@ -16414,115 +16619,154 @@
       ]
     },
     {
-      "name": "อุ้มรักเกมลวง (2020)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2020/05/อุ้มรักเกมลวง-2020-300x450.png",
+      "name": "ลองของ ซีรีส์ (2020) Long Khong",
+      "image": "https://www.123-hd.com/wp-content/uploads/2020/08/ลองของ-ซีรีส์-300x450.png",
       "stations": [
         {
-          "name": "อุ้มรักเกมลวง EP 1",
+          "name": "ลองของ ซีรีส์ EP 1",
           "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/อุ้มรักเกมลวง-2020-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/0b9e2ecd9688032e1ba80174af738a7c/0b9e2ecd9688032e1ba80174af738a7c.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/08/ลองของ-ซีรีส์-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/6daf3b9ec05fe14a4b8e1baa/6daf3b9ec05fe14a4b8e1baa438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "อุ้มรักเกมลวง EP 2",
+          "name": "ลองของ ซีรีส์ EP 2",
           "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/อุ้มรักเกมลวง-2020-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/f901122d4661bb34125fd3173b525183/f901122d4661bb34125fd3173b525183.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/08/ลองของ-ซีรีส์-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/ec068767f2c2019ca5902f1f/ec068767f2c2019ca5902f1f438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "อุ้มรักเกมลวง EP 3",
+          "name": "ลองของ ซีรีส์ EP 3",
           "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/อุ้มรักเกมลวง-2020-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/bf4c3ae6f5db4358aef8116bdc2ffbf9/bf4c3ae6f5db4358aef8116bdc2ffbf9.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/08/ลองของ-ซีรีส์-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/9d94115a1c9b32013a629d95/9d94115a1c9b32013a629d95438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "อุ้มรักเกมลวง EP 4",
+          "name": "ลองของ ซีรีส์ EP 4",
           "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/อุ้มรักเกมลวง-2020-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/f4ca9f2aab87c03a08269158fb61e4e4/f4ca9f2aab87c03a08269158fb61e4e4.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/08/ลองของ-ซีรีส์-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/fec07a2418670ec2788e8acd/fec07a2418670ec2788e8acd438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "อุ้มรักเกมลวง EP 5",
+          "name": "ลองของ ซีรีส์ EP 5",
           "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/อุ้มรักเกมลวง-2020-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/a247cc85809a4492be16516463c74b0a/a247cc85809a4492be16516463c74b0a.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/08/ลองของ-ซีรีส์-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/da9d84c1b46deaf841935265/da9d84c1b46deaf841935265438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "อุ้มรักเกมลวง EP 6",
+          "name": "ลองของ ซีรีส์ EP 6",
           "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/อุ้มรักเกมลวง-2020-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/b54bb7878b04ddfb1760a703f930d203/b54bb7878b04ddfb1760a703f930d203.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/08/ลองของ-ซีรีส์-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/cf62d7719d42325861422949/cf62d7719d42325861422949438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "อุ้มรักเกมลวง EP 7",
+          "name": "ลองของ ซีรีส์ EP 7",
           "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/อุ้มรักเกมลวง-2020-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/25b851a31d851d56b52d2c6c4dc0e0be/25b851a31d851d56b52d2c6c4dc0e0be.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/08/ลองของ-ซีรีส์-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/3b654c43ec27510b5385b231/3b654c43ec27510b5385b231438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "อุ้มรักเกมลวง EP 8",
+          "name": "ลองของ ซีรีส์ EP 8",
           "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/อุ้มรักเกมลวง-2020-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/1197e06b0b00c6481e07c689674f922c/1197e06b0b00c6481e07c689674f922c.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "อุ้มรักเกมลวง EP 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/อุ้มรักเกมลวง-2020-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/1105d7952ee201a9c3c12eb1a065f5d0/1105d7952ee201a9c3c12eb1a065f5d0.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "อุ้มรักเกมลวง EP 10",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/อุ้มรักเกมลวง-2020-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/d933e28baf5295b14434e812269ac153/d933e28baf5295b14434e812269ac153.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "อุ้มรักเกมลวง EP 11",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/อุ้มรักเกมลวง-2020-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/1fb0c456b7f31899caf397b6fb8da1cf/1fb0c456b7f31899caf397b6fb8da1cf.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "อุ้มรักเกมลวง EP 12",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/อุ้มรักเกมลวง-2020-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/0a4514eb70707ff978320bcf90f02783/0a4514eb70707ff978320bcf90f02783.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "อุ้มรักเกมลวง EP 13",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/อุ้มรักเกมลวง-2020-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/75d03ce3f48fce0ddb865e86a760ca11/75d03ce3f48fce0ddb865e86a760ca11.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "อุ้มรักเกมลวง EP 14",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/อุ้มรักเกมลวง-2020-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/e95911cc24328f1165356b90b422685a/e95911cc24328f1165356b90b422685a.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "อุ้มรักเกมลวง EP 15",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/อุ้มรักเกมลวง-2020-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/42c10d7b1f7f1efc8be0c3e0446bcdbb/42c10d7b1f7f1efc8be0c3e0446bcdbb.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/08/ลองของ-ซีรีส์-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/0a0fceac909e6addebc7cd2e/0a0fceac909e6addebc7cd2e438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
+    },
+    {
+      "name": "My Bubble Tea หวานน้อยรัก 100%",
+      "image": "https://www.123-hd.com/wp-content/uploads/2020/05/My-Bubble-Tea-หวานน้อยรัก-100-300x450.png",
+      "stations": [
+        {
+          "name": "My Bubble Tea EP 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/My-Bubble-Tea-หวานน้อยรัก-100-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/079ef907db5a368d8709bee0a110a2b7/079ef907db5a368d8709bee0a110a2b7.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "My Bubble Tea EP 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/My-Bubble-Tea-หวานน้อยรัก-100-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/4514eeae4c79927cc0376a2b9e7a2f55/4514eeae4c79927cc0376a2b9e7a2f55.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "My Bubble Tea EP 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/My-Bubble-Tea-หวานน้อยรัก-100-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/90b5c8e3e7c5900cc5d0e1e930236d70/90b5c8e3e7c5900cc5d0e1e930236d70.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "My Bubble Tea EP 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/My-Bubble-Tea-หวานน้อยรัก-100-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/af11ecfca55536af8f918aba219d8870/af11ecfca55536af8f918aba219d8870.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "My Bubble Tea EP 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/My-Bubble-Tea-หวานน้อยรัก-100-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/11a455147e4787135c755fc6b0ab0399/11a455147e4787135c755fc6b0ab0399.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "My Bubble Tea EP 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/My-Bubble-Tea-หวานน้อยรัก-100-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/e378225ad417fd92362452eb08ab27d5/e378225ad417fd92362452eb08ab27d5.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "My Bubble Tea EP 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/My-Bubble-Tea-หวานน้อยรัก-100-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/a7c959a220d9abf6c65685fcb2b50949/a7c959a220d9abf6c65685fcb2b50949.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "My Bubble Tea EP 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/My-Bubble-Tea-หวานน้อยรัก-100-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/c3737cf6e1dd715a3281dda431b7dd1d/c3737cf6e1dd715a3281dda431b7dd1d.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "My Bubble Tea EP 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/My-Bubble-Tea-หวานน้อยรัก-100-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/21e1aba09c4954b5322d8a653d71d50b/21e1aba09c4954b5322d8a653d71d50b.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "My Bubble Tea EP 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/My-Bubble-Tea-หวานน้อยรัก-100-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/09c61e4f16e8f45e6a43b4c4d56a3af2/09c61e4f16e8f45e6a43b4c4d56a3af2.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "My Bubble Tea EP 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/05/My-Bubble-Tea-หวานน้อยรัก-100-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/0826b3643ce14e821754f653ea246b2e/0826b3643ce14e821754f653ea246b2e.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "อุ้มรักเกมลวง (2020)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2020/05/อุ้มรักเกมลวง-2020-300x450.png",
+      "stations": []
     },
     {
       "name": "My Husband in Law อกเกือบหักแอบรักคุณสามี",
@@ -16849,66 +17093,6 @@
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Thibaan-The-Series-Special-2019-ไทบ้านเดอะซีรีส์-สเปเชียล-ขอฮักได้ไหม-250x350.png",
           "url": "https://xxx.77player.xyz/ioshls/b6fbe68bc8882334d7b909fb0a9a8231/b6fbe68bc8882334d7b909fb0a9a8231.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "My Ambulance (2019) รักฉุดใจนายฉุกเฉิน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/My-Ambulance-2019-รักฉุดใจนายฉุกเฉิน-250x350.png",
-      "stations": []
-    },
-    {
-      "name": "The Stranded (2019) เคว้ง",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Stranded-2019-เคว้ง-250x350.png",
-      "stations": [
-        {
-          "name": "เคว้ง EP 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Stranded-2019-เคว้ง-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/7bedd0d06b8e4a5556f7d88879170fa9/7bedd0d06b8e4a5556f7d88879170fa9.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "เคว้ง EP 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Stranded-2019-เคว้ง-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/746423ebc997951a3aeb02254ee76dfc/746423ebc997951a3aeb02254ee76dfc.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "เคว้ง EP 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Stranded-2019-เคว้ง-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/c94b52a7b1a96356dd71c40c6319b301/c94b52a7b1a96356dd71c40c6319b301.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "เคว้ง EP 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Stranded-2019-เคว้ง-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/bdb959ceffd1d9fc1e50b4c5849f1b2c/bdb959ceffd1d9fc1e50b4c5849f1b2c.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "เคว้ง EP 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Stranded-2019-เคว้ง-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/767839d58fde374a768a078dbad7d78a/767839d58fde374a768a078dbad7d78a.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "เคว้ง EP 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Stranded-2019-เคว้ง-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/f832b5c427e662b0c4c0002f4bd5df6a/f832b5c427e662b0c4c0002f4bd5df6a.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "เคว้ง EP 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Stranded-2019-เคว้ง-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/0c5f09c781edecb03b59cd6fb828d417/0c5f09c781edecb03b59cd6fb828d417.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
