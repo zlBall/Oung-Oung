@@ -1,10 +1,109 @@
 {
   "name": "หนังใหม่ 2023",
-  "author": "อุ๋ง อุ๋ง อัพวันที่ 12 กันยายน 2566",
+  "author": "อุ๋ง อุ๋ง อัพวันที่ 14 กันยายน 2566",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "url": "https://bit.ly/44HFZCR",
   "groups": [
+    {
+      "name": "Freestyle (2023) ฟรีสไตล์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Freestyle-2023-ฟรีสไตล์-300x450.jpg",
+      "stations": [
+        {
+          "name": "Freestyle (2023) ฟรีสไตล์",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Freestyle-2023-ฟรีสไตล์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b508f8656e3ceb06a770adc2/b508f8656e3ceb06a770adc2168.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Freestyle (2023) ฟรีสไตล์",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Freestyle-2023-ฟรีสไตล์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/78bb9b869f57965f74e7c4de/78bb9b869f57965f74e7c4de438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Barbie (2023) บาร์บี้",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Barbie-2023-บาร์บี้-1-300x450.jpg",
+      "stations": [
+        {
+          "name": "Barbie (2023) บาร์บี้",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Barbie-2023-บาร์บี้-1-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/1efc51a184493371a866f7e4/1efc51a184493371a866f7e4438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Talk to Me (2023) จับ มือ ผี",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Talk-to-Me-2023-จับ-มือ-ผี-300x450.jpg",
+      "stations": [
+        {
+          "name": "Talk to Me (2023) จับ มือ ผี",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Talk-to-Me-2023-จับ-มือ-ผี-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/bdab2faa5fd65d645be7452b/bdab2faa5fd65d645be7452b438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Talk to Me (2023) จับ มือ ผี",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Talk-to-Me-2023-จับ-มือ-ผี-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/0476e5151c63830862aa7026/0476e5151c63830862aa7026168.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Three Musketeers D'Artagnan (2023) สามทหารเสือ กำเนิดนักรบดาร์ตาญัง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Three-Musketeers-DArtagnan-2023-สามทหารเสือ-กำเนิดนักรบดาร์ตาญัง-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Three Musketeers D'Artagnan (2023) สามทหารเสือ กำเนิดนักรบดาร์ตาญัง",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Three-Musketeers-DArtagnan-2023-สามทหารเสือ-กำเนิดนักรบดาร์ตาญัง-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/0b0ee0b944c91d99af67a544/0b0ee0b944c91d99af67a544438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Delicious Romance (2023) สูตรรัก ฉบับโรแมนซ์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Delicious-Romance-2023-สูตรรัก-ฉบับโรแมนซ์-300x450.jpg",
+      "stations": [
+        {
+          "name": "Delicious Romance (2023) สูตรรัก ฉบับโรแมนซ์",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Delicious-Romance-2023-สูตรรัก-ฉบับโรแมนซ์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/097b064508de9b0d6698b4b6/097b064508de9b0d6698b4b6438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Where the Wind Blows (2023) คู่พายุเดือด",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Where-the-Wind-Blows-2023-คู่พายุเดือด-300x450.jpg",
+      "stations": [
+        {
+          "name": "Where the Wind Blows (2023) คู่พายุเดือด",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Where-the-Wind-Blows-2023-คู่พายุเดือด-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/24fa0bd52ef88ba2ff9c051a/24fa0bd52ef88ba2ff9c051a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Where the Wind Blows (2023) คู่พายุเดือด",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Where-the-Wind-Blows-2023-คู่พายุเดือด-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/e7107050dee3b8076aba2336/e7107050dee3b8076aba2336438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
     {
       "name": "The Devil Conspiracy (2023)",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Devil-Conspiracy-2023-300x450.jpg",
