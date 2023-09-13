@@ -1,9 +1,37 @@
 {
  "name": "เดอะมูฟวี่",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 30 สิงหาคม 2566",
+ "author": "อุ๋ง อุ๋ง อัพวันที่ 14 กันยายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png?w=420&ssl=1",
  "groups": [
+  {
+   "name": "Dragon Ball Z Movie 14 Kami to Kami ดราก้อนบอล แซด เดอะมูฟวี่ 14",
+   "info": "จบแล้ว พากย์ไทย",
+   "image": "https://animemoji.net/wp-content/uploads/2023/09/Dragon-Ball-Z-Movie-14-Kami-to-Kami.jpg",
+   "stations": [
+    {
+     "name": "ตอน ศึกสงครามเทพเจ้า พากย์ไทย",
+     "info": "จบแล้ว พากย์ไทย",
+     "image": "https://animemoji.net/wp-content/uploads/2023/09/Dragon-Ball-Z-Movie-14-Kami-to-Kami.jpg",
+     "url": "https://moji.abcdxzy.xyz:8443/vod/FzoEIw5FM/video.mp4/playlist.m3u8",
+     "referer": "https://abcdxzy.xyz/"
+    }
+   ]
+  },
+  {
+   "name": "Sword Art Online Progressive Scherzo of Deep Night ซอร์ด อาร์ต ออนไลน์ โปรเกรสซีฟ เดอะมูฟวี่ สแกรโซแห่งสนธยาโศก",
+   "info": "จบแล้ว พากย์ไทย",
+   "image": "https://animemoji.net/wp-content/uploads/2023/09/Sword-Art-Online-Progressive-Scherzo-of-Deep-Night.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1 พากย์ไทย",
+     "info": "จบแล้ว พากย์ไทย",
+     "image": "https://animemoji.net/wp-content/uploads/2023/09/Sword-Art-Online-Progressive-Scherzo-of-Deep-Night.jpg",
+     "url": "https://moji.abcdxzy.xyz:8443/vod/19zBYq0bA0/video.mp4/playlist.m3u8",
+     "referer": "https://abcdxzy.xyz/"
+    }
+   ]
+  },
   {
    "name": "Resident Evil Death Island (2023) ผีชีวะ วิกฤตเกาะมรณะ ",
    "info": "จบแล้ว พากย์ไทย",
@@ -574,20 +602,6 @@
      "info": "จบแล้ว พากย์ไทย",
      "image": "https://animemoji.net/wp-content/uploads/2022/03/Detective-Conan-The-Movie-24.jpg",
      "url": "https://moji.abcdxzy.xyz:8443/vod/suZAneBg/video.mp4/playlist.m3u8",
-     "referer": "https://abcdxzy.xyz/"
-    }
-   ]
-  },
-  {
-   "name": "My Hero Academia The Movie World Heroes Mission มายฮีโร่ อคาเดเมีย รวมพลฮีโร่กู้วิกฤตโลก เดอะมูฟวี่ ซับไทย",
-   "info": "จบแล้ว ซับไทย",
-   "image": "https://animemoji.net/wp-content/uploads/2022/03/My-Hero-Academia-The-Movie-World-Heroes-Mission.jpg",
-   "stations": [
-    {
-     "name": "ตอนMy Hero Academia มายฮีโร่ อคาเดเมีย รวมพลฮีโร่กู้วิกฤตโลก เดอะมูฟวี่ ซับไทย",
-     "info": "จบแล้ว ซับไทย",
-     "image": "https://animemoji.net/wp-content/uploads/2022/03/My-Hero-Academia-The-Movie-World-Heroes-Mission.jpg",
-     "url": "https://moji.abcdxzy.xyz:8443/vod/S4OnCw5u/video.mp4/playlist.m3u8",
      "referer": "https://abcdxzy.xyz/"
     }
    ]
