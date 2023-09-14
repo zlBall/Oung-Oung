@@ -6,6 +6,52 @@
   "url": "https://bit.ly/44HFZCR",
   "groups": [
     {
+      "name": "Thunder Monk (2023) อาตมาฟ้าผ่า",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Thunder-Monk-2023-อาตมาฟ้าผ่า-300x450.jpg",
+      "stations": [
+        {
+          "name": "Thunder Monk (2023) อาตมาฟ้าผ่า",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Thunder-Monk-2023-อาตมาฟ้าผ่า-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/d1546a369f1ad9f1a57e8d4b/d1546a369f1ad9f1a57e8d4b438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Once Upon a Crime (2023) กาลครั้งหนึ่งกับคดีปริศนา",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Once-Upon-a-Crime-2023-กาลครั้งหนึ่งกับคดีปริศนา-300x450.jpg",
+      "stations": [
+        {
+          "name": "Once Upon a Crime (2023) กาลครั้งหนึ่งกับคดีปริศนา",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Once-Upon-a-Crime-2023-กาลครั้งหนึ่งกับคดีปริศนา-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/6536c9993e9a8c05df5301de/6536c9993e9a8c05df5301de.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Once Upon a Crime (2023) กาลครั้งหนึ่งกับคดีปริศนา",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Once-Upon-a-Crime-2023-กาลครั้งหนึ่งกับคดีปริศนา-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/bf6a09a8b9cd5ff8cf7294eb/bf6a09a8b9cd5ff8cf7294eb438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Elemental (2023) เมืองอลวนธาตุอลเวง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Elemental-2023-เมืองอลวนธาตุอลเวง-300x450.jpg",
+      "stations": [
+        {
+          "name": "Elemental (2023) เมืองอลวนธาตุอลเวง",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Elemental-2023-เมืองอลวนธาตุอลเวง-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/7681e28c9623adc0344c2166/7681e28c9623adc0344c2166438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
       "name": "Freestyle (2023) ฟรีสไตล์",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Freestyle-2023-ฟรีสไตล์-300x450.jpg",
       "stations": [
@@ -13,7 +59,7 @@
           "name": "Freestyle (2023) ฟรีสไตล์",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Freestyle-2023-ฟรีสไตล์-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/b508f8656e3ceb06a770adc2/b508f8656e3ceb06a770adc2168.m3u8",
+          "url": "https://main.77player.xyz/m3u8/b508f8656e3ceb06a770adc2/b508f8656e3ceb06a770adc2438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -33,7 +79,7 @@
           "name": "Barbie (2023) บาร์บี้",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Barbie-2023-บาร์บี้-1-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/1efc51a184493371a866f7e4/1efc51a184493371a866f7e4438.m3u8",
+          "url": "https://main.77player.xyz/m3u8/f3220aad072db322a7f6a223/f3220aad072db322a7f6a223438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
