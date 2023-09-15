@@ -1,9 +1,15 @@
 {
   "name": "fantasy",
-  "author": "อุ๋ง อุ๋ง อัพ11/09/2023",
+  "author": "อุ๋ง อุ๋ง อัพ15/09/2023",
   "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
   "image": "https://fw4free.com/images/logo7.png",
   "stations": [
+    {
+      "name": "Barbie บาร์บี้ (2023) บรรยายไทย",
+      "image": "https://img.inwiptv.net/postor/20230913193407iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Barbie_2023/Barbie_2023_st_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
     {
       "name": "The Little Mermaid เงือกน้อยผจญภัย (2023)",
       "image": "https://img.inwiptv.net/postor/20230907064426dxwSJy75BlnBhxOa9RKZgD4mBnG.jpg",

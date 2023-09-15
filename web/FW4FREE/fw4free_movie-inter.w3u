@@ -1,9 +1,21 @@
 {
   "name": "movie-inter",
-  "author": "อุ๋ง อุ๋ง อัพ11/09/2023",
+  "author": "อุ๋ง อุ๋ง อัพ15/09/2023",
   "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
   "image": "https://fw4free.com/images/logo7.png",
   "stations": [
+    {
+      "name": "Barbie บาร์บี้ (2023) บรรยายไทย",
+      "image": "https://img.inwiptv.net/postor/20230913193407iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Barbie_2023/Barbie_2023_st_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "What If (2023) NETFLIX",
+      "image": "https://img.inwiptv.net/postor/202309121301179dp0LlnahtNMwVk673H9fd1fat3.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/What_If_2023/What_If_2023_th_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
     {
       "name": "Rosa Peral's Tapes (2023) NETFLIX บรรยายไทย",
       "image": "https://img.inwiptv.net/postor/202309102335128jAnsIm4qzy28IBJeJsTQCdnORE.jpg",
@@ -10879,7 +10891,7 @@
     {
       "name": "Wind Chill คืนนรกหนาว (2007)",
       "image": "https://img.inwiptv.net/postor/20211002123019wind-chill-56c63af78da4b.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/Wind_Chill_2007/Wind_Chill_2007_TH_1080p_2.mp4?.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIzIDE6MTM6MDEgUE0maGFzaF92YWx1ZT00LzRFLzY3dXYrNVB3NmFhRmhlWlFRPT0mdmFsaWRtaW51dGVzPTU=playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/Wind_Chill_2007/Wind_Chill_2007_TH_1080p_2.mp4?.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIzIDg6Mjg6MDggUE0maGFzaF92YWx1ZT10Q0hpdlQ2K1FSWVQ3Q21lRE1PUUp3PT0mdmFsaWRtaW51dGVzPTU=playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
@@ -18931,55 +18943,55 @@
     {
       "name": "The Paramedic (El practicante) ฆ่าให้สมแค้น (2020) NETFLIX บรรยายไทย",
       "image": "https://img.inwiptv.net/postor/20200917082024images.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/The_Paramedic_2020/The_Paramedic_2020_ST_1080p_NF.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/On_Deadly_Ground_1994/On_Deadly_Ground_1994_TH_1080p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "I Still Believe จะรักให้ร้อง จะร้องให้รัก (2020)",
       "image": "https://img.inwiptv.net/postor/20200917065824i-still-believe-5e52dd2394c8c.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/I_Still_Believe_2020/I_Still_Believe_2020_TH_1080p.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/On_Deadly_Ground_1994/On_Deadly_Ground_1994_TH_1080p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "The Devil All the Time ศรัทธาคนบาป (2020) NETFLIX บรรยายไทย",
       "image": "https://img.inwiptv.net/postor/202009161906341_BwUoMIpU2L16cSV9205WcQ.jpeg",
-      "url": "https://m1free.inwstream.com:1936/movie3/The_Devil_All_the_Time_2020/The_Devil_All_the_Time_2020_EN_1080p_NF.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/On_Deadly_Ground_1994/On_Deadly_Ground_1994_TH_1080p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "A Hidden Life (2019)",
       "image": "https://img.inwiptv.net/postor/2020091616253391Oc3g+W0wL._RI_.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/A_Hidden_Life_2019/A_Hidden_Life_2019_TH_1080p.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/On_Deadly_Ground_1994/On_Deadly_Ground_1994_TH_1080p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Cats & Dogs 3: Paws Unite (2020) บรรยายไทย",
       "image": "https://img.inwiptv.net/postor/20200916155352images.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/Cats_and_Dogs_3_Paws_Unite_2020/Cats_and_Dogs_3_Paws_Unite_2020_EN_1080p.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/On_Deadly_Ground_1994/On_Deadly_Ground_1994_TH_1080p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Z (2019) บรรยายไทย (Exclusive @ FWIPTV)",
       "image": "https://img.inwiptv.net/postor/20200915171814poster.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/Z_2019/Z_2019_EN_1080p.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/On_Deadly_Ground_1994/On_Deadly_Ground_1994_TH_1080p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Back to School (La grande classe) คืนสู่เหย้า (2019) NETFLIX บรรยายไทย",
       "image": "https://img.inwiptv.net/postor/20200914173928images.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/Back_to_School_2019/Back_to_School_2019_ST_1080p_NF.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/On_Deadly_Ground_1994/On_Deadly_Ground_1994_TH_1080p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "To the Beat!: Back 2 School (2020) HDTV",
       "image": "https://img.inwiptv.net/postor/20200914024933oiFxdnsQyGs3DBLzHzW92GrDR6w.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/To_the_Beat_Back_2_School_2020/To_the_Beat_Back_2_School_2020_th_1080p_HDTV.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/On_Deadly_Ground_1994/On_Deadly_Ground_1994_TH_1080p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Amazing Grace (2018) HDTV บรรยายไทย",
       "image": "https://img.inwiptv.net/postor/20200914024352eABsBr5TnW8FBSSSsAKFnwDW1BW.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/Amazing_Grace_2018/Amazing_Grace_2018_en_1080p_HDTV.mp4/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/On_Deadly_Ground_1994/On_Deadly_Ground_1994_TH_1080p.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
@@ -52579,7 +52591,7 @@
     {
       "name": "Ninja นินจา นักฆ่าพญายม 2009",
       "image": "https://img.inwiptv.net/postor/20200406164448Ninja นินจา นักฆ่าพญายม 2009.jpg",
-      "url": "/--ระบบนี้ใช้ได้กับWifiเท่านั้น--?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIzIDQ6MTg6NTEgUE0maGFzaF92YWx1ZT1jWURtays3Vzl2ZVl0WGVvMkoxWHVBPT0mdmFsaWRtaW51dGVzPTU=playlist.m3u8",
+      "url": "/--ระบบนี้ใช้ได้กับWifiเท่านั้น--?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIzIDExOjQ0OjAyIFBNJmhhc2hfdmFsdWU9VFpUUmdDbmNZYUFSU1NIUmgxVUxwQT09JnZhbGlkbWludXRlcz01playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {

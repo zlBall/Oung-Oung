@@ -1,9 +1,27 @@
 {
   "name": "adventure",
-  "author": "อุ๋ง อุ๋ง อัพ11/09/2023",
+  "author": "อุ๋ง อุ๋ง อัพ15/09/2023",
   "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
   "image": "https://fw4free.com/images/logo7.png",
   "stations": [
+    {
+      "name": "Elemental เมืองอลวนธาตุอลเวง (2023)",
+      "image": "https://img.inwiptv.net/postor/202309131939276oH378KUfCEitzJkm07r97L0RsZ.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Elemental_2023/Elemental_2023_th_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "Barbie บาร์บี้ (2023) บรรยายไทย",
+      "image": "https://img.inwiptv.net/postor/20230913193407iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Barbie_2023/Barbie_2023_st_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "Z.1 The Three Musketeers: D'Artagnan สามทหารเสือ กำเนิดนักรบดาร์ตาญัง (2023)",
+      "image": "https://img.inwiptv.net/postor/20230912131234dasdsadsad.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/The_Three_Musketeers_D_Artagnan_2023/The_Three_Musketeers_D_Artagnan_2023_thr_z1.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
     {
       "name": "V.1 Gran Turismo GT แกร่งทะลุไมล์ (2023)",
       "image": "https://img.inwiptv.net/postor/20230909114022cqwwqc.jpg",
@@ -266,12 +284,6 @@
       "name": "Z.1 The Wandering Earth 2 (Liu lang di qiu 2) ฝ่ามหันตภัยเพลิงสุริยะ (2023)",
       "image": "https://img.inwiptv.net/postor/20230628013947แฟหแแฟหแหฟแหฟแ.jpg",
       "url": "https://m1free.inwstream.com:1936/movie3/The_Wandering_Earth_2_2023/The_Wandering_Earth_2_2023_thr_z1.mp4/playlist.m3u8",
-      "referer": "https://fw4free.com/"
-    },
-    {
-      "name": "V.1 Elemental เมืองอลวนธาตุอลเวง (2023)",
-      "image": "https://img.inwiptv.net/postor/20230628013557cqwcqwcwq.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/Elemental_2023/Elemental_2023_thr_v1.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
@@ -2515,7 +2527,7 @@
     {
       "name": "Wind Chill คืนนรกหนาว (2007)",
       "image": "https://img.inwiptv.net/postor/20211002123019wind-chill-56c63af78da4b.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/Wind_Chill_2007/Wind_Chill_2007_TH_1080p_2.mp4?.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIzIDEyOjIzOjEzIFBNJmhhc2hfdmFsdWU9NjlXNVBLWkVqeUtnQjBFVkdzYXd4dz09JnZhbGlkbWludXRlcz01playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/Wind_Chill_2007/Wind_Chill_2007_TH_1080p_2.mp4?.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIzIDY6NTQ6NDUgUE0maGFzaF92YWx1ZT1qRVlmV3lCaXE2VUljdGNuZWJqUktBPT0mdmFsaWRtaW51dGVzPTU=playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {

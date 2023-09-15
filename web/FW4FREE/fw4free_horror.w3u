@@ -1,9 +1,15 @@
 {
   "name": "horror",
-  "author": "อุ๋ง อุ๋ง อัพ11/09/2023",
+  "author": "อุ๋ง อุ๋ง อัพ15/09/2023",
   "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
   "image": "https://fw4free.com/images/logo7.png",
   "stations": [
+    {
+      "name": "V.1 Talk to Me จับ มือ ผี (2023)",
+      "image": "https://img.inwiptv.net/postor/20230912131315asdadasdasd.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Talk_to_Me_2023/Talk_to_Me_2023_thr_v1.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
     {
       "name": "Z.1 Ninja vs Shark นินจา ปะทะ ฉลาม (2023)",
       "image": "https://img.inwiptv.net/postor/20230906074817csacascas.jpg",
@@ -2287,7 +2293,7 @@
     {
       "name": "Wind Chill คืนนรกหนาว (2007)",
       "image": "https://img.inwiptv.net/postor/20211002123019wind-chill-56c63af78da4b.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/Wind_Chill_2007/Wind_Chill_2007_TH_1080p_2.mp4?.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIzIDEyOjIxOjQzIFBNJmhhc2hfdmFsdWU9eGtqUDZpSGlXaTBJL3BYeVY4SlBBdz09JnZhbGlkbWludXRlcz01playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie3/Wind_Chill_2007/Wind_Chill_2007_TH_1080p_2.mp4?.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIzIDY6NTE6MjYgUE0maGFzaF92YWx1ZT11WDJtN2pVc0xwdTlBakgySlJCN2xBPT0mdmFsaWRtaW51dGVzPTU=playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {

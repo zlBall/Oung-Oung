@@ -1,9 +1,33 @@
 {
   "name": "comedy",
-  "author": "อุ๋ง อุ๋ง อัพ11/09/2023",
+  "author": "อุ๋ง อุ๋ง อัพ15/09/2023",
   "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
   "image": "https://fw4free.com/images/logo7.png",
   "stations": [
+    {
+      "name": "Elemental เมืองอลวนธาตุอลเวง (2023)",
+      "image": "https://img.inwiptv.net/postor/202309131939276oH378KUfCEitzJkm07r97L0RsZ.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Elemental_2023/Elemental_2023_th_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "Carl's Date เดตของคาร์ล (2023)",
+      "image": "https://img.inwiptv.net/postor/20230913193747wakoF2UgsEE3fGs5KpuwMWsaNr2.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Carl_s_Date_2023/Carl_s_Date_2023_th_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "Barbie บาร์บี้ (2023) บรรยายไทย",
+      "image": "https://img.inwiptv.net/postor/20230913193407iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Barbie_2023/Barbie_2023_st_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
+    {
+      "name": "Delicious Romance สูตรรัก ฉบับโรแมนซ์ (2023) บรรยายไทย",
+      "image": "https://img.inwiptv.net/postor/20230912125151j7cn710u11xKeWeClp84FsF0yZH.jpg",
+      "url": "https://m1free.inwstream.com:1936/movie3/Delicious_Romance_2023/Delicious_Romance_2023_st_1080.mp4/playlist.m3u8",
+      "referer": "https://fw4free.com/"
+    },
     {
       "name": "Tad, the Lost Explorer and the Emerald Tablet (2022)",
       "image": "https://img.inwiptv.net/postor/202309091056397FoQIGBZPMMTNhElGNp6fRq00qg.jpg",
@@ -314,12 +338,6 @@
       "name": "Sam & Kate (2022) บรรยายไทย",
       "image": "https://img.inwiptv.net/postor/20230702044243fzQN7YcIgboMavMMwrOTaqz8agm.jpg",
       "url": "https://m1free.inwstream.com:1936/movie3/Sam_and_Kate_2022/Sam_and_Kate_2022_st_1080p.mp4/playlist.m3u8",
-      "referer": "https://fw4free.com/"
-    },
-    {
-      "name": "V.1 Elemental เมืองอลวนธาตุอลเวง (2023)",
-      "image": "https://img.inwiptv.net/postor/20230628013557cqwcqwcwq.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie3/Elemental_2023/Elemental_2023_thr_v1.mp4/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
@@ -19081,55 +19099,55 @@
     {
       "name": "7 Days to leave my wife ยังไงก็รัก",
       "image": "https://img.inwiptv.net/postor/202001221258447 Days to leave my wife ยังไงก็รัก.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/7-days-to-leave-my-wife/7-days-to-leave-my-wife-th-720p-fwtv.m4v/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie1/free-birds/free_birds_th-en-1080p-fwtv.m4v/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Hoedown Showdown มนต์เพลงลูกทุ่งเอฟเอ็ม",
       "image": "https://img.inwiptv.net/postor/20200122125326Hoedown Showdown มนต์เพลงลูกทุ่งเอฟเอ็ม.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/hoedown-showdown/hoedown-showdown-th-720p-fwtv.m4v/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie1/free-birds/free_birds_th-en-1080p-fwtv.m4v/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Million Dollar Crocodile โคตรไอ้เข้เงินล้าน",
       "image": "https://img.inwiptv.net/postor/20191127135710Million Dollar Crocodile โคตรไอ้เข้เงินล้าน.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/million-dollar-crocodile/million-dollar-crocodile-th-en-720p-fwtv.m4v/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie1/free-birds/free_birds_th-en-1080p-fwtv.m4v/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Kaizoku Sentai Gokaiger vs. Space Sheriff Gavan: The Movie ขบวนการโจรสลัด โกไคเจอร์ ปะทะ ตำรวจอวกาศ เกียบัน เดอะมูฟวี่",
       "image": "https://img.inwiptv.net/postor/20191127135328Kaizoku Sentai Gokaiger vs. Space Sheriff Gavan. The Movie ขบวนการโจรสลัด โกไคเจอร์ ปะทะ ตำรวจอวกาศ เกียบัน เดอะมูฟวี่.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/kaizoku-sentai-gokaiger-vs-space-sheriff-gavan-the-movie/kaizoku-sentai-gokaiger-vs-space-sheriff-gavan-the-movie-th-en-720p-fwtv.m4v/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie1/free-birds/free_birds_th-en-1080p-fwtv.m4v/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Looktung Millionaire รวมพลคนลูกทุ่งเงินล้าน",
       "image": "https://img.inwiptv.net/postor/20200122125034Looktung Millionaire รวมพลคนลูกทุ่งเงินล้าน.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/looktung-millionaire/looktung-millionaire-th-720p-fwtv.m4v/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie1/free-birds/free_birds_th-en-1080p-fwtv.m4v/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Tarbosaurus The Mightiest Ever ทาร์โบซอรัส เจ้าแห่งไดโนเสาร์ [ สารคดี ]",
       "image": "https://img.inwiptv.net/postor/20200402180201Tarbosaurus The Mightiest Ever ทาร์โบซอรัส เจ้าแห่งไดโนเสาร์  [ สารคดี ].jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/tarbosaurus-the-mightiest-ever/tarbosaurus-the-mightiest-ever-th-720p-fwtv.m4v/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie1/free-birds/free_birds_th-en-1080p-fwtv.m4v/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Mardi Gras Spring Break สามโจ๋ซ่าส์ปาร์ตี้สะบึม",
       "image": "https://img.inwiptv.net/postor/20200402173721Mardi Gras Spring Break สามโจ๋ซ่าส์ปาร์ตี้สะบึม.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/mardi-gras-spring-break/mardi-gras-spring-break-th-en-720p-fwtv.m4v/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie1/free-birds/free_birds_th-en-1080p-fwtv.m4v/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Drunken Master ไอ้หนุ่มหมัดเมา [ 1-2 ]",
       "image": "https://img.inwiptv.net/postor/20191127135040Drunken Master ไอ้หนุ่มหมัดเมา [ 1-2 ].jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/drunken-master-1-2/drunken-master-1-th-1080p-fwtv.m4v/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie1/free-birds/free_birds_th-en-1080p-fwtv.m4v/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
       "name": "Bad Milo เบ่งมาขย้ำ",
       "image": "https://img.inwiptv.net/postor/20200402172352Bad Milo เบ่งมาขย้ำ.jpg",
-      "url": "https://m1free.inwstream.com:1936/movie1/bad-milo/bad-milo-th-en-1080p-fwtv.m4v/playlist.m3u8",
+      "url": "https://m1free.inwstream.com:1936/movie1/free-birds/free_birds_th-en-1080p-fwtv.m4v/playlist.m3u8",
       "referer": "https://fw4free.com/"
     },
     {
