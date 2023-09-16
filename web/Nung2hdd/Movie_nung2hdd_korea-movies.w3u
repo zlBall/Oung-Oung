@@ -1,9 +1,66 @@
 {
   "name": "หนังเกาหลี | Nung2HD",
-  "author": "อุ๋ง อุ๋ง อัพวันที่ 04/08/2023",
+  "author": "อุ๋ง อุ๋ง อัพวันที่ 9 สิงหาคม 2566",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
   "groups": [
+    {
+      "name": "Ghost Mansion (2021) โกสต์แมนชั่น",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Ghost-Mansion-2021.jpg",
+      "stations": [
+        {
+          "name": "Ghost Mansion (2021) โกสต์แมนชั่น(พากย์ไทย)",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Ghost-Mansion-2021.jpg",
+          "url": "https://streamhls.com/view/f98d5508-d132-53ab-91b6-c682e5c9d69e.m3u8"
+        },
+        {
+          "name": "Ghost Mansion (2021) โกสต์แมนชั่น(Soundtrack ซับ)",
+          "info": "Soundtrack ซับ",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Ghost-Mansion-2021.jpg",
+          "url": "https://streamhls.com/view/6edbb3db-394e-5a9f-8769-4bdede9958df.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Contorted (2022) บ้านขังผี",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Contorted-2022.jpg",
+      "stations": [
+        {
+          "name": "Contorted (2022) บ้านขังผี(พากย์ไทย)",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Contorted-2022.jpg",
+          "url": "https://streamhls.com/view/46c2aaf4-0079-50ef-8669-735241f2e51e.m3u8"
+        },
+        {
+          "name": "Contorted (2022) บ้านขังผี(Soundtrack ซับ)",
+          "info": "Soundtrack ซับ",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Contorted-2022.jpg",
+          "url": "https://streamhls.com/view/ada9ecaf-debf-5eca-88c0-e5aebd8d63b0.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Remember (2022) แค้นเดือดคนดุ",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Remember-2022.jpg",
+      "stations": [
+        {
+          "name": "Remember (2022) แค้นเดือดคนดุ(พากย์ไทย)",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Remember-2022.jpg",
+          "url": "https://streamhls.com/view/7eef6640-149c-5d7d-9b37-cdf0eb29c76f.m3u8"
+        },
+        {
+          "name": "Remember (2022) แค้นเดือดคนดุ(Soundtrack ซับ)",
+          "info": "Soundtrack ซับ",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/08/Remember-2022.jpg",
+          "url": "https://streamhls.com/view/edccb56e-5d93-55a3-a892-bd4e4d415f96.m3u8"
+        }
+      ]
+    },
     {
       "name": "My Heart Puppy (2023)",
       "info": "HD SoundTrack(TH)",
@@ -313,12 +370,6 @@
           "url": "https://streamhls.com/view/cd2bab14-690f-5ecf-9010-8b72cf6d32e4.m3u8"
         }
       ]
-    },
-    {
-      "name": "Stealer: The Treasure Keeper (2023)",
-      "info": "HD SoundTrack(TH)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/10/Stealer-The-Treasure-Keeper-2023-Poster.jpg",
-      "stations": []
     },
     {
       "name": "Mouse: The Predator (2021) เมาส์ (เวอร์ชันภาพยนตร์)",
@@ -2419,19 +2470,6 @@
       ]
     },
     {
-      "name": "Arahan (2004) ศึกทะยานฟ้ากวดวิชาถล่มมาร",
-      "info": "HD Thai",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2021/07/98c0nyZOLW9xdGJwvkzWQMiAgBT-200x300.jpg",
-      "stations": [
-        {
-          "name": "Arahan (2004) ศึกทะยานฟ้ากวดวิชาถล่มมาร(พากย์ไทย)",
-          "info": "พากย์ไทย",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2021/07/98c0nyZOLW9xdGJwvkzWQMiAgBT-200x300.jpg",
-          "url": "https://streamhls.com/view/893808f9-0280-508d-9f80-339e1531b313.m3u8"
-        }
-      ]
-    },
-    {
       "name": "Cyborg Girl (2008) ยัยนี่…น่ารักจัง",
       "info": "HD Thai",
       "image": "https://www.nung2hdd.com/wp-content/uploads/2021/08/kt2wjQjJqTh15IRirPOBByFVAEe-200x300.jpg",
@@ -2454,6 +2492,19 @@
           "info": "พากย์ไทย",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2021/08/mFpZjurGhtvBa1Jyzfw58Me7ZQ6-200x300.jpg",
           "url": "https://streamhls.com/view/f1bf16fe-ee66-5e34-8f1e-dc3d3c5e34da.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Arahan (2004) ศึกทะยานฟ้ากวดวิชาถล่มมาร",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2021/07/98c0nyZOLW9xdGJwvkzWQMiAgBT-200x300.jpg",
+      "stations": [
+        {
+          "name": "Arahan (2004) ศึกทะยานฟ้ากวดวิชาถล่มมาร(พากย์ไทย)",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2021/07/98c0nyZOLW9xdGJwvkzWQMiAgBT-200x300.jpg",
+          "url": "https://streamhls.com/view/893808f9-0280-508d-9f80-339e1531b313.m3u8"
         }
       ]
     },
