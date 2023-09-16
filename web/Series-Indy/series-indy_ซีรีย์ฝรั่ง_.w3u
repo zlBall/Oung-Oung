@@ -1,9 +1,260 @@
 {
  "name": "ซีรีย์ฝรั่ง",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 17 สิงหาคม 2566",
+ "author": "อุ๋ง อุ๋ง อัพวันที่ 16 กันยายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
  "groups": [
+  {
+   "name": "Ahsoka – อาโซก้า (พากย์ไทย)",
+   "info": "Ahsoka – อาโซก้า (พากย์ไทย) 2023  ซีซั่น 1 Ep 5",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/Ahsoka-อาโซก้า-.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/Ahsoka-อาโซก้า-.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/7LDviuED7X/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/Ahsoka-อาโซก้า-.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/BIyZuSlahP/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/Ahsoka-อาโซก้า-.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Z1mwmjIsKG/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/Ahsoka-อาโซก้า-.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/FNSiizmPEH/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/Ahsoka-อาโซก้า-.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/efNdvM07/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "One Piece 2023 – วันพีซ (พากย์ไทย)",
+   "info": "One Piece 2023 – วันพีซ (พากย์ไทย) 2023  ซีซั่น 1 Ep 8",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final-2.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final-2.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/DW8SxhuNmC/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final-2.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/e8PvPF3R/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final-2.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/5BXTggWFFv/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final-2.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/DzyG5qHFgn/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final-2.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/2swLRQHNj6/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final-2.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/kdv3kW2ra/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final-2.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/hnretQ25i1/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final-2.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/uu1SxgSxJd/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "And Just Like That Season 2 – แอนด์จัสต์ไลก์แดต ภาค 2 (ซับไทย)",
+   "info": "And Just Like That Season 2 – แอนด์จัสต์ไลก์แดต ภาค 2 (ซับไทย) 2023  ซีซั่น 2 Ep 11",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/qI37SQA83w/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/M7B17LxxP9/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/zHxx7DhWQ/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/hEA2Gnz3GB/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/AdXnrtkTZw/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/7h3m8ZmNAg/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/IjeZvuW3HF/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/gmZ2IvypZn/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/AQnnKizX2S/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/JaUfjuIWR/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/MwucUNig5V/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "Ragnarok Season 3 – มหาศึกชี้ชะตา ภาค 3 (ซับไทย)",
+   "info": "Ragnarok Season 3 – มหาศึกชี้ชะตา ภาค 3 (ซับไทย) 2023  ซีซั่น 3 Ep 6",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/Ragnarok-Season-3.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/Ragnarok-Season-3.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/lzBPv0mdyu/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/Ragnarok-Season-3.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/XwbOa0XqBY/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/Ragnarok-Season-3.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Ff6jzI2PA1/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/Ragnarok-Season-3.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/blRphzKZfh/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/Ragnarok-Season-3.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/UjEfdXGYUZ/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/Ragnarok-Season-3.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/2lIp6AKUNI/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "Ragnarok Season 1 มหาศึกชี้ชะตา (ซับไทย)",
+   "info": "Ragnarok Season 1 มหาศึกชี้ชะตา (ซับไทย) 2020  ซีซั่น 1 Ep 6",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/ragnarok1.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/ragnarok1.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/qNI3fcOd/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/ragnarok1.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/wnZZBDQW/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/ragnarok1.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/k3lSwyrN/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/ragnarok1.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/bEKk4y8/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/ragnarok1.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/x2vUBG6I/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/ragnarok1.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/YliiJBc/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
   {
    "name": "Outlander Season 7 – เอาท์แลนเดอร์ ภาค 7 (ซับไทย)",
    "info": "Outlander Season 7 – เอาท์แลนเดอร์ ภาค 7 (ซับไทย) 2023  ซีซั่น 7 Ep 8",
@@ -335,73 +586,6 @@
    ]
   },
   {
-   "name": "Carnival Row Season 2 – ปริศนาโลกต่างสายพันธุ์ ซีซั่น 2 (ซับไทย)",
-   "info": "Carnival Row Season 2 – ปริศนาโลกต่างสายพันธุ์ ซีซั่น 2 (ซับไทย) 2023  ซีซั่น 2 Ep 10",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Carnival-Row-Season-2-ปริศนาโลกต่างสายพันธุ์-ซีซั่น-2.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Carnival-Row-Season-2-ปริศนาโลกต่างสายพันธุ์-ซีซั่น-2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/PHq9L5VP/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Carnival-Row-Season-2-ปริศนาโลกต่างสายพันธุ์-ซีซั่น-2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/ZUdqWBPP/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Carnival-Row-Season-2-ปริศนาโลกต่างสายพันธุ์-ซีซั่น-2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/bozxC2Fm/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Carnival-Row-Season-2-ปริศนาโลกต่างสายพันธุ์-ซีซั่น-2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/GYi8SIzz/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Carnival-Row-Season-2-ปริศนาโลกต่างสายพันธุ์-ซีซั่น-2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/UYDzhhzO/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Carnival-Row-Season-2-ปริศนาโลกต่างสายพันธุ์-ซีซั่น-2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/eMEn1bID/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Carnival-Row-Season-2-ปริศนาโลกต่างสายพันธุ์-ซีซั่น-2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/oFxYkhLt/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Carnival-Row-Season-2-ปริศนาโลกต่างสายพันธุ์-ซีซั่น-2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/dHBMsKa/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Carnival-Row-Season-2-ปริศนาโลกต่างสายพันธุ์-ซีซั่น-2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/0i4F8ct/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Carnival-Row-Season-2-ปริศนาโลกต่างสายพันธุ์-ซีซั่น-2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/cOBLxqsO/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
    "name": "The Mandalorian Season 2 (ซับไทย)",
    "info": "The Mandalorian Season 2 (ซับไทย) 2020  ซีซั่น 2 Ep 8",
    "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/01/The-Mandalorian-Season-2.jpg",
@@ -452,55 +636,6 @@
      "name": "ตอนที่ 8",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/01/The-Mandalorian-Season-2.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/7Sgxo06A/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "And Just Like That Season 2 – แอนด์จัสต์ไลก์แดต ภาค 2 (ซับไทย)",
-   "info": "And Just Like That Season 2 – แอนด์จัสต์ไลก์แดต ภาค 2 (ซับไทย) 2023  ซีซั่น 2 Ep 7",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/qI37SQA83w/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/M7B17LxxP9/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/zHxx7DhWQ/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/hEA2Gnz3GB/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/AdXnrtkTZw/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/7h3m8ZmNAg/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1687440868-6876-ckl3YTckH7JeeTx55NQMFf7pMRL.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/IjeZvuW3HF/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     }
    ]
@@ -11225,18 +11360,6 @@
      "name": "ตอนที่ 10",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/Teletubbies-2022.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/RJB6EsNO/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/Teletubbies-2022.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/vLWT6B9y/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/Teletubbies-2022.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/m1TV56X6/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     },
     {
@@ -26472,53 +26595,53 @@
   {
    "name": "God’s Favorite Idiot Season 1 – เซ่อซ่า…พระเจ้ายังโปลด 1 (ซับไทย)",
    "info": "God’s Favorite Idiot Season 1 – เซ่อซ่า…พระเจ้ายังโปลด 1 (ซับไทย) 2022  ซีซั่น 1 Ep 8",
-   "image": "https://series-indy.com/wp-content/uploads/2022/06/1655283061-2730-klVZke2dC1hNBigJ3UR1vi6t9ic-200x300.jpg",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/1655283061-2730-klVZke2dC1hNBigJ3UR1vi6t9ic.jpg",
    "stations": [
     {
      "name": "ตอนที่ 1",
-     "image": "https://series-indy.com/wp-content/uploads/2022/06/1655283061-2730-klVZke2dC1hNBigJ3UR1vi6t9ic-200x300.jpg",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/1655283061-2730-klVZke2dC1hNBigJ3UR1vi6t9ic.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/hho0PObN/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 2",
-     "image": "https://series-indy.com/wp-content/uploads/2022/06/1655283061-2730-klVZke2dC1hNBigJ3UR1vi6t9ic-200x300.jpg",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/1655283061-2730-klVZke2dC1hNBigJ3UR1vi6t9ic.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/lMe74SX5/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 3",
-     "image": "https://series-indy.com/wp-content/uploads/2022/06/1655283061-2730-klVZke2dC1hNBigJ3UR1vi6t9ic-200x300.jpg",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/1655283061-2730-klVZke2dC1hNBigJ3UR1vi6t9ic.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/SmRZma7b/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 4",
-     "image": "https://series-indy.com/wp-content/uploads/2022/06/1655283061-2730-klVZke2dC1hNBigJ3UR1vi6t9ic-200x300.jpg",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/1655283061-2730-klVZke2dC1hNBigJ3UR1vi6t9ic.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/KzYTuKui/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 5",
-     "image": "https://series-indy.com/wp-content/uploads/2022/06/1655283061-2730-klVZke2dC1hNBigJ3UR1vi6t9ic-200x300.jpg",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/1655283061-2730-klVZke2dC1hNBigJ3UR1vi6t9ic.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/t6Zl3Kqd/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 6",
-     "image": "https://series-indy.com/wp-content/uploads/2022/06/1655283061-2730-klVZke2dC1hNBigJ3UR1vi6t9ic-200x300.jpg",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/1655283061-2730-klVZke2dC1hNBigJ3UR1vi6t9ic.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/UP0PJzjE/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 7",
-     "image": "https://series-indy.com/wp-content/uploads/2022/06/1655283061-2730-klVZke2dC1hNBigJ3UR1vi6t9ic-200x300.jpg",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/1655283061-2730-klVZke2dC1hNBigJ3UR1vi6t9ic.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/ws1kIwLG/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 8",
-     "image": "https://series-indy.com/wp-content/uploads/2022/06/1655283061-2730-klVZke2dC1hNBigJ3UR1vi6t9ic-200x300.jpg",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/1655283061-2730-klVZke2dC1hNBigJ3UR1vi6t9ic.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/Vj0YZuAy/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     }
@@ -45163,49 +45286,6 @@
      "name": "ตอนที่ 8",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Ratched-จิตอำมหิต.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/x5FxS3us/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Ragnarok Season 1 มหาศึกชี้ชะตา (ซับไทย)",
-   "info": "Ragnarok Season 1 มหาศึกชี้ชะตา (ซับไทย) 2020  ซีซั่น 1 Ep 6",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/ragnarok1.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/ragnarok1.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/qNI3fcOd/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/ragnarok1.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/wnZZBDQW/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/ragnarok1.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/k3lSwyrN/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/ragnarok1.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/bEKk4y8/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/ragnarok1.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/x2vUBG6I/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/ragnarok1.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/YliiJBc/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     }
    ]

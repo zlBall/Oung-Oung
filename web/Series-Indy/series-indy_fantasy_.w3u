@@ -1,157 +1,592 @@
 {
  "name": "Fantasy",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 17 สิงหาคม 2566",
+ "author": "อุ๋ง อุ๋ง อัพวันที่ 16 กันยายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
  "groups": [
   {
-   "name": "Fall In Love Stockade – ทะลุมิติรักนายนายหญิง (ซับไทย)",
-   "info": "Fall In Love Stockade – ทะลุมิติรักนายนายหญิง (ซับไทย) 2023  ซีซั่น 1 Ep 24",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
+   "name": "Arthdal Chronicles – อาธดัล สงครามสยบบัลลังค์ (ซับไทย)",
+   "info": "Arthdal Chronicles – อาธดัล สงครามสยบบัลลังค์ (ซับไทย) 2019  ซีซั่น 1 Ep 18",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
    "stations": [
     {
      "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6357828897314/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/HUDz9Gyn/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6357820312098/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/zbJCzzO/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6357820377634/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/NkjnohIU/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6357820508706/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/bRrVeBjT/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6357835188770/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/N1G66o6r/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6357820639778/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/SIlCVlP3/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 7",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6357820574242/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/FwfYyAb0/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 8",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6357820443170/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/KQ5zIJT3/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 9",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6360695114274/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/9IH8ewjC/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 10",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6360695179810/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/irirDygN/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 11",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6363954350626/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/5XFJU6HL/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 12",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6363954481698/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/mZpmLqyh/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 13",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6380250204706/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/xUK17kXw/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 14",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6380250270242/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/wWYvRHzR/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 15",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6383309556258/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/HSnkCF0g/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 16",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6383309490722/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/t6DtxmXL/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 17",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6386086709794/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/nQKnb47P/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 18",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6386086644258/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/XZ8Z5YK6/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "The General’s Sweety 2023 – ภรรยาตัวป่วนของท่านแม่ทัพ (ซับไทย)",
+   "info": "The General’s Sweety 2023 – ภรรยาตัวป่วนของท่านแม่ทัพ (ซับไทย) 2023  ซีซั่น 1 Ep 10",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/The-Generals-Sweety.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/The-Generals-Sweety.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/w2t7J5DDdG/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/The-Generals-Sweety.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/v80N5bykO6/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/The-Generals-Sweety.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/TQD96eddgJ/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/The-Generals-Sweety.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/UPgjRa0WJi/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/The-Generals-Sweety.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/K2farb1AW/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/The-Generals-Sweety.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/XYM2cXwoRn/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/The-Generals-Sweety.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/zCccbTuizg/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/The-Generals-Sweety.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Wj0mcBeGsy/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/The-Generals-Sweety.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/O3E6aypuR8/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/The-Generals-Sweety.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/IlVl8kU3a/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "My Journey To You 2023 – เหนือเมฆาชะตาลิขิต (ซับไทย)",
+   "info": "My Journey To You 2023 – เหนือเมฆาชะตาลิขิต (ซับไทย) 2023  ซีซั่น 1 Ep 24",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Q7sD1WShvZ/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/ZUlHZLOlK2/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/FlI4pBEEDE/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/La3xFBRhMV/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Ysy9NTUdLA/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/IPo9wOXKwn/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/KNZlPsRX4Y/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/dkbVcCsuVF/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/X93O7AXjfV/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Lxa56rwze7/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/CAxiBcd8SS/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/nfXgmDT0XG/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/N1P3sNgz5J/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/m1fQVoBlE6/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/FB2xidrGbq/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/wxX3VJDFVE/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/0e26aJz31r/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/jHryVJoUi1/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 19",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6419771820578/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/WsTCGsnhy0/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 20",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6419771886114/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/tNwC4AsGn/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 21",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6422916762146/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/OfNoc201gs/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 22",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6422916827682/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/QnUklu734W/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 23",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6425982077474/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/GKnj9k4qeQ/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     },
     {
      "name": "ตอนที่ 24",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690784872-4776-cm2IZ2U1qDmDCH9n0qR2cc8kNUt.jpg",
-     "url": "https://ok.ru/videoembed/6425976441378/",
-     "referer": "https://ok.ru/"
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1693668954-4114-mkhWfnBNf6oVEmiLzccZTvafWA6.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/RMlalZPOSg/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "The Legend of Zhuohua – ขุนนางหญิงยอดเสน่หา (ซับไทย)",
+   "info": "The Legend of Zhuohua – ขุนนางหญิงยอดเสน่หา (ซับไทย) 2023  ซีซั่น 1 Ep 40",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/UEf311yiV/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/JGo1D58NyP/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/tTlTOEFlc/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/yxFIS67D1L/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/MqaCCptHPk/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/K2NXSzpxVG/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/37k9zfWfny/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/GD9LdlfH96/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Qqrl1TT9is/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/V4AIaBQ1T0/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/L9BlJ4vWQV/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/17wTAZ4Ogy/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/RmyFWmj7q/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/u4le3O2Qta/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/nYRyssr4X8/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/ihUWyGK0MO/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/24Z6cOuEOf/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/jkvUYHRXwJ/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/YWZXvUSGlA/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/uBaza6SQN1/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/2K9ind8z9O/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/N9oN1FtpcS/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/N9oN1FtpcS/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/136AqAX9sH/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/LHNNwtPUB/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 25",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/p9tGlVnfq0/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/vy2l8dC6Q9/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 27",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/oX3y1ERgd/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/yUwiDaDkUx/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 29",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/jJx6GCz3qu/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 30",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/sxHRE5fRdi/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 31",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/rNXX6edatX/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 32",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/aZbJiewBky/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 33",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/McGCJ5XxUW/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 34",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/g3oo7W1jX5/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 35",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/a3Z0L8Tqme/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 36",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/C3Ck1S1pq7/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 37",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/kIFNMdUEK4/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 38",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Y8RKQMGFng/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 39",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/t4O9fEHEFu/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 40",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692444069-8450-ipQU5lpARZCnyyzoHmQKYVvMY.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/uVefaKFMy7/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
     }
    ]
   },
@@ -681,426 +1116,10 @@
    ]
   },
   {
-   "name": "My Marvellous Fable – หนังสือมหัศจรรย์ฤดูร้อน (ซับไทย)",
-   "info": "My Marvellous Fable – หนังสือมหัศจรรย์ฤดูร้อน (ซับไทย) 2023  ซีซั่น 1 Ep 24",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
+   "name": "Story of Kunning Palace – เล่ห์รักวังคุนหนิง (ซับไทย)",
+   "info": "Story of Kunning Palace – เล่ห์รักวังคุนหนิง (ซับไทย) 2023",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/1684491258-5816-yXPclHZUbwiTfW0FQLxGIknWByz.jpg",
    "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5568064653858/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5568059738658/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5568062294562/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5568078285346/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5568059804194/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5568078547490/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5583279557154/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5583279753762/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5597591898658/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5612794808866/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5624718690850/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5624718756386/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5628882389538/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5628882455074/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 15",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5633477970466/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 16",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5723924204066/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 17",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5723924269602/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 18",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5758730177058/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 19",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5758729980450/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 20",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5791903975970/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 21",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5957125147170/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 22",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5957125081634/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 23",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5987697429026/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 24",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/My-Marvellous-Fable.jpg",
-     "url": "https://ok.ru/videoembed/5987697494562/",
-     "referer": "https://ok.ru/"
-    }
-   ]
-  },
-  {
-   "name": "Back From the Brink – ล่าหัวใจมังกร (ซับไทย)",
-   "info": "Back From the Brink – ล่าหัวใจมังกร (ซับไทย) 2023  ซีซั่น 1 Ep 41",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5256020560418/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5257432336930/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5256020363810/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5256020298274/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5256020232738/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5268835863074/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5268835863074/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5269523532322/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5283963603490/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5296299837986/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5310049684002/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5320290929186/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5331396135458/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5331396200994/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5335886727714/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 15",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5349810047522/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 16",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5363682642466/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 17",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5379698788898/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 18",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5425922181666/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 19",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5425922116130/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 20",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5439596530210/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 21",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5451536009762/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 22",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5451535944226/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 23",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5456352250402/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 24",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5463650601506/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 25",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5473722829346/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 26",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5473722894882/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 27",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5476304423458/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 28",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5484166711842/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 29",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5484728879650/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 30",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5487582579234/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 31",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5490922228258/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 32",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5504070912546/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 33",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5504070847010/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 34",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5508848814626/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 35",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5519623653922/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 36",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5521071344162/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 37",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5525212301858/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 38",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5528454236706/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 39",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5528432544290/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 40",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5528432740898/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 41",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Back-From-the-Brink.jpg",
-     "url": "https://ok.ru/videoembed/5528399120930/",
-     "referer": "https://ok.ru/"
-    }
-   ]
-  },
-  {
-   "name": "Warm on a Cold Night (2023) – อุ่นรัก เจ้าชายคลายหนาว (พากย์ไทย)",
-   "info": "Warm on a Cold Night (2023) – อุ่นรัก เจ้าชายคลายหนาว (พากย์ไทย) 2023  ซีซั่น 1 Ep 36",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/03/Warm-on-a-Cold-Night-TH.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/03/Warm-on-a-Cold-Night-TH.jpg",
-     "url": "https://ok.ru/videoembed/4408659151587/",
-     "referer": "https://ok.ru/"
-    },
     {
      "name": "ตอนที่ 1",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/03/Warm-on-a-Cold-Night-TH.jpg",
@@ -1762,19 +1781,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Belated-First-Love.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/0dZwp8aZ/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Order of the Sommelier (2022) – สุราบัญชารัก (ซับไทย)",
-   "info": "Order of the Sommelier (2022) – สุราบัญชารัก (ซับไทย) 2022  ซีซั่น 1 Ep 64",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Order-of-the-Sommelier.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Order-of-the-Sommelier.jpg",
-     "url": "https://ok.ru/videoembed/4310531115747/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -2798,19 +2804,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/The-Journey-of-Chongzi-2023.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/Nj37mkpS/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "San Sheng Yuan Qi Shi Qing Huan (2022) – ลิขิตรักสามภพเทพบุปผา (ซับไทย)",
-   "info": "San Sheng Yuan Qi Shi Qing Huan (2022) – ลิขิตรักสามภพเทพบุปผา (ซับไทย) 2022  ซีซั่น 1 Ep 23",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/San-Sheng-Yuan-Qi-Shi-Qing-Huan.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/San-Sheng-Yuan-Qi-Shi-Qing-Huan.jpg",
-     "url": "https://ok.ru/videoembed/4311253191395/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -2949,19 +2942,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/San-Sheng-Yuan-Qi-Shi-Qing-Huan.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/nazPdd7/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Summer In Love (2023) – รักหมดใจนายฤดูร้อน (ซับไทย)",
-   "info": "Summer In Love (2023) – รักหมดใจนายฤดูร้อน (ซับไทย) 2023  ซีซั่น 1 Ep 18",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Summer-In-Love-2023.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Summer-In-Love-2023.jpg",
-     "url": "https://ok.ru/videoembed/4313292540643/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -3070,19 +3050,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Summer-In-Love-2023.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/g6OZhF9E/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "The Senior Grand Secretary Can Read Minds (2023) – สามีข้ามีวิชาอ่านใจ (ซับไทย)",
-   "info": "The Senior Grand Secretary Can Read Minds (2023) – สามีข้ามีวิชาอ่านใจ (ซับไทย) 2023  ซีซั่น 1 Ep 20",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/The-Senior-Grand-Secretary-Can-Read-Minds-2023.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/The-Senior-Grand-Secretary-Can-Read-Minds-2023.jpg",
-     "url": "https://ok.ru/videoembed/4296006765283/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -3203,19 +3170,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/The-Senior-Grand-Secretary-Can-Read-Minds-2023.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/28ajM0p1/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Guyuan Imperial College (2022) – อลวนรักสถานศึกษากู่หย่วน (ซับไทย)",
-   "info": "Guyuan Imperial College (2022) – อลวนรักสถานศึกษากู่หย่วน (ซับไทย) 2022  ซีซั่น 1 Ep 24",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Guyuan-Imperial-College-2022.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Guyuan-Imperial-College-2022.jpg",
-     "url": "https://ok.ru/videoembed/4294770363107/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -3360,19 +3314,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Guyuan-Imperial-College-2022.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/kE2g1Wwf/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Lord of Mine (2023) – ลิขิตรักปลายปากกา (ซับไทย)",
-   "info": "Lord of Mine (2023) – ลิขิตรักปลายปากกา (ซับไทย) 2023  ซีซั่น 1 Ep 24",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Lord-of-Mine-2023.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Lord-of-Mine-2023.jpg",
-     "url": "https://ok.ru/videoembed/4262455347939/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -3517,19 +3458,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Lord-of-Mine-2023.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/rbDT4RE2/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Please Don’t Spoil Me Season 4 (2023) – ฝ่าบาทโปรดอย่ารักข้า 4 (ซับไทย)",
-   "info": "Please Don’t Spoil Me Season 4 (2023) – ฝ่าบาทโปรดอย่ารักข้า 4 (ซับไทย) 2023  ซีซั่น 4 Ep 24",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Please-Dont-Spoil-Me-Season-4.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Please-Dont-Spoil-Me-Season-4.jpg",
-     "url": "https://ok.ru/videoembed/4248174988003/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -3580,18 +3508,6 @@
      "referer": "https://series.team-indy.net/"
     },
     {
-     "name": "ตอนที่ 9",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Please-Dont-Spoil-Me-Season-4.jpg",
-     "url": "https://ok.ru/videoembed/4276976945891/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Please-Dont-Spoil-Me-Season-4.jpg",
-     "url": "https://ok.ru/videoembed/4276976880355/",
-     "referer": "https://ok.ru/"
-    },
-    {
      "name": "ตอนที่ 11",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Please-Dont-Spoil-Me-Season-4.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/W103riIH/video.mp4/playlist.m3u8",
@@ -3602,42 +3518,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Please-Dont-Spoil-Me-Season-4.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/XvKIirUL/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Please-Dont-Spoil-Me-Season-4.jpg",
-     "url": "https://ok.ru/videoembed/4294773246691/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Please-Dont-Spoil-Me-Season-4.jpg",
-     "url": "https://ok.ru/videoembed/4294773181155/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 15",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Please-Dont-Spoil-Me-Season-4.jpg",
-     "url": "https://ok.ru/videoembed/4297971403491/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 16",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Please-Dont-Spoil-Me-Season-4.jpg",
-     "url": "https://ok.ru/videoembed/4297971337955/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 17",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Please-Dont-Spoil-Me-Season-4.jpg",
-     "url": "https://ok.ru/videoembed/4301175196387/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 18",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Please-Dont-Spoil-Me-Season-4.jpg",
-     "url": "https://ok.ru/videoembed/4301175261923/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 19",
@@ -3891,19 +3771,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/My-Dear-Brothers-TH.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/256fKvg1/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Hello There (2023) – ชะตาร้าย ชะตารัก (ซับไทย)",
-   "info": "Hello There (2023) – ชะตาร้าย ชะตารัก (ซับไทย) 2023  ซีซั่น 1 Ep 20",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Hello-There.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Hello-There.jpg",
-     "url": "https://ok.ru/videoembed/4250774407907/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -4024,19 +3891,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Hello-There.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/Rb9Odgua/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Love Me in Three Days (2022) – รักเธอในสามวัน (ซับไทย)",
-   "info": "Love Me in Three Days (2022) – รักเธอในสามวัน (ซับไทย) 2022  ซีซั่น 1 Ep 24",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Love-Me-in-Three-Days.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Love-Me-in-Three-Days.jpg",
-     "url": "https://ok.ru/videoembed/4207321352931/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -4181,19 +4035,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Love-Me-in-Three-Days.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/4imPZ0N/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "My Uncanny Destiny (2023) – โชคชะตาลิขิตให้มาพบรัก (ซับไทย)",
-   "info": "My Uncanny Destiny (2023) – โชคชะตาลิขิตให้มาพบรัก (ซับไทย) 2023  ซีซั่น 1 Ep 24",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/My-Uncanny-Destiny-2023.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/My-Uncanny-Destiny-2023.jpg",
-     "url": "https://ok.ru/videoembed/4210886380259/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -4411,19 +4252,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/1671101190-9537-fkbibxqjnQ4iAT3Z71o10p3yaS8.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/fM0wAtT9/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Song of the Moon (2022) – บทเพลงแห่งจันทรา (ซับไทย)",
-   "info": "Song of the Moon (2022) – บทเพลงแห่งจันทรา (ซับไทย) 2022  ซีซั่น 1 Ep 40",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Song-of-the-Moon.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Song-of-the-Moon.jpg",
-     "url": "https://ok.ru/videoembed/4107593124579/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -5406,19 +5234,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/A-Puppetry.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/DfXJ6bF6/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Miss Crow with Mr. Lizard (2021) – กระตุกรัก หัวใจไฟช็อต (พากย์ไทย)",
-   "info": "Miss Crow with Mr. Lizard (2021) – กระตุกรัก หัวใจไฟช็อต (พากย์ไทย) 2021  ซีซั่น 1 Ep 36",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/Miss-Crow-with-Mr.-Lizard-2021-กระตุกรัก-หัวใจไฟช็อต-พากย์ไทย.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/Miss-Crow-with-Mr.-Lizard-2021-กระตุกรัก-หัวใจไฟช็อต-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3970437679843/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -5660,19 +5475,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/Reibai-Tantei-Jozuka-Hisui-2022-นักสืบสื่อวิญญาณ-ซับไทย.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/zIOM03PG/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Thousand Years For You (2022) – รักข้ามสหัสวรรษ (พากย์ไทย)",
-   "info": "Thousand Years For You (2022) – รักข้ามสหัสวรรษ (พากย์ไทย) 2022  ซีซั่น 1 Ep 36",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/Thousand-Years-For-You-2022-รักข้ามสหัสวรรษ-พากย์ไทย.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/Thousand-Years-For-You-2022-รักข้ามสหัสวรรษ-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3942259296995/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -5889,19 +5691,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/Thousand-Years-For-You-2022-รักข้ามสหัสวรรษ-พากย์ไทย.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/GVYziL8L/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "New Life Begins (2022) – ป่วนรักวิวาห์ว้าวุ่น (ซับไทย)",
-   "info": "New Life Begins (2022) – ป่วนรักวิวาห์ว้าวุ่น (ซับไทย) 2022  ซีซั่น 1 Ep 40",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/New-Life-Begins-2022-ป่วนรักวิวาห์ว้าวุ่น-ซับไทย.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/New-Life-Begins-2022-ป่วนรักวิวาห์ว้าวุ่น-ซับไทย.jpg",
-     "url": "https://ok.ru/videoembed/3952155036387/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -6142,19 +5931,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/New-Life-Begins-2022-ป่วนรักวิวาห์ว้าวุ่น-ซับไทย.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/dbiaUdN/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Mr. Bad (2022) – ตัวร้ายที่รัก (พากย์ไทย)",
-   "info": "Mr. Bad (2022) – ตัวร้ายที่รัก (พากย์ไทย) 2022  ซีซั่น 1 Ep 24",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/Mr.-Bad-2022-ตัวร้ายที่รัก-พากย์ไทย.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/Mr.-Bad-2022-ตัวร้ายที่รัก-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3828010978019/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -6299,19 +6075,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/Mr.-Bad-2022-ตัวร้ายที่รัก-พากย์ไทย.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/3yVVV1iR/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Fu Jun Qing Zi Zhong (2022) – สามีข้าเป็นคนคลั่งรัก (ซับไทย)",
-   "info": "Fu Jun Qing Zi Zhong (2022) – สามีข้าเป็นคนคลั่งรัก (ซับไทย) 2022  ซีซั่น 1 Ep 24",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/Fu-Jun-Qing-Zi-Zhong-2022-สามีข้าเป็นคนคลั่งรัก-ซับไทย.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/Fu-Jun-Qing-Zi-Zhong-2022-สามีข้าเป็นคนคลั่งรัก-ซับไทย.jpg",
-     "url": "https://ok.ru/videoembed/3805575514851/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -7055,19 +6818,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/Good-and-Evil-2021-ปกรณัมราชาปีศาจ-พากย์ไทย.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/LQfuKkS4/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Lady from Tang Dynasty (2022) – อุบัติรักแห่งต้าถัง (ซับไทย)",
-   "info": "Lady from Tang Dynasty (2022) – อุบัติรักแห่งต้าถัง (ซับไทย) 2022  ซีซั่น 1 Ep 24",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/Lady-from-Tang-Dynasty-2022-อุบัติรักแห่งต้าถัง-ซับไทย-1.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/Lady-from-Tang-Dynasty-2022-อุบัติรักแห่งต้าถัง-ซับไทย-1.jpg",
-     "url": "https://ok.ru/videoembed/3806974315235/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -7267,19 +7017,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/Youkai-Sharehouse-2020-สาวบ้านเช่า-กับเหล่าภูตผี-ซับไทย.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/piYeVA9o/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Demon Emperor’s Little Matchmaker (2022) – แม่สื่อตัวน้อยของราชาปีศาจ (ซับไทย)",
-   "info": "Demon Emperor’s Little Matchmaker (2022) – แม่สื่อตัวน้อยของราชาปีศาจ (ซับไทย) 2022  ซีซั่น 1 Ep 30",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/Demon-Emperors-Little-Matchmaker-2022-แม่สื่อตัวน้อยของราชาปีศาจ-ซับไทย.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/Demon-Emperors-Little-Matchmaker-2022-แม่สื่อตัวน้อยของราชาปีศาจ-ซับไทย.jpg",
-     "url": "https://ok.ru/videoembed/3780631202531/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -7460,19 +7197,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/Demon-Emperors-Little-Matchmaker-2022-แม่สื่อตัวน้อยของราชาปีศาจ-ซับไทย.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/YeskQF7Q/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Love in Time (2022) – ลิขิตรักทะลุมิติ (ซับไทย)",
-   "info": "Love in Time (2022) – ลิขิตรักทะลุมิติ (ซับไทย) 2022  ซีซั่น 1 Ep 24",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/Love-in-Time-2022-ลิขิตรักทะลุมิติ-ซับไทย.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/Love-in-Time-2022-ลิขิตรักทะลุมิติ-ซับไทย.jpg",
-     "url": "https://ok.ru/videoembed/3813558586083/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -7774,19 +7498,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/Mr.-Bad-2022-ตัวร้ายที่รัก-ซับไทย.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/ZKRaXFvx/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Hello My Noisy Mp3 (2022) – เสียงนั้น คือฉันอีกคน (ซับไทย)",
-   "info": "Hello My Noisy Mp3 (2022) – เสียงนั้น คือฉันอีกคน (ซับไทย) 2022  ซีซั่น 1 Ep 25",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/Hello-My-Noisy-Mp3-2022-เสียงนั้น-คือฉันอีกคน-ซับไทย.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/Hello-My-Noisy-Mp3-2022-เสียงนั้น-คือฉันอีกคน-ซับไทย.jpg",
-     "url": "https://ok.ru/videoembed/3782869977827/",
-     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -7936,121 +7647,6 @@
      "name": "ตอนที่ 25",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/Hello-My-Noisy-Mp3-2022-เสียงนั้น-คือฉันอีกคน-ซับไทย.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/u9JTtVTc/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Arthdal Chronicles – อาธดัล สงครามสยบบัลลังค์ (ซับไทย)",
-   "info": "Arthdal Chronicles – อาธดัล สงครามสยบบัลลังค์ (ซับไทย) 2019  ซีซั่น 1 Ep 18",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/HUDz9Gyn/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/zbJCzzO/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/NkjnohIU/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/bRrVeBjT/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/N1G66o6r/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/SIlCVlP3/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/FwfYyAb0/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/KQ5zIJT3/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/9IH8ewjC/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/irirDygN/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5XFJU6HL/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/mZpmLqyh/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/xUK17kXw/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/wWYvRHzR/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 15",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/HSnkCF0g/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 16",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/t6DtxmXL/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 17",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/nQKnb47P/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 18",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Arthdal-Chronicles.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/XZ8Z5YK6/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     }
    ]
@@ -19532,192 +19128,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/XKRTbuHR/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669393017378/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669393869346/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669393148450/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669393279522/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669392755234/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669392624162/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669394000418/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669393410594/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669393476130/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669392296482/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669392689698/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669392820770/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669392362018/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 15",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669392558626/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 16",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669393541666/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 17",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669392951842/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 18",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669394131490/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 19",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669392493090/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 20",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669393213986/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 21",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669392230946/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 22",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669393607202/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 23",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669393934882/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 24",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669393803810/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 25",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669393738274/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 26",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669394197026/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 27",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669394065954/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 28",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669392427554/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 29",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669393082914/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 30",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669393345058/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 31",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669393672738/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 32",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/nmjT0h2ikDSxU6HfjFcCKs0PpXM.jpg",
-     "url": "https://ok.ru/videoembed/3669394262562/",
-     "referer": "https://ok.ru/"
     }
    ]
   },
@@ -21908,175 +21318,6 @@
    ]
   },
   {
-   "name": "Unique Lady Season 2 (2020) – เกมรักทะลุมิติ ปี 2 (พากย์ไทย)",
-   "info": "Unique Lady Season 2 (2020) – เกมรักทะลุมิติ ปี 2 (พากย์ไทย) 2020  ซีซั่น 1 Ep 27",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722733488674/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722733554210/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722733619746/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722733423138/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722733685282/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722734078498/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722734209570/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722733947426/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722734012962/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722734144034/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722734406178/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722734537250/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722734340642/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722734275106/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 15",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722734471714/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 16",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722734668322/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 17",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722734733858/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 18",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722734602786/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 19",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722734799394/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 20",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722734864930/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 21",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722735258146/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 22",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722735061538/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 23",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722735127074/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 24",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722777791010/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 25",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722735192610/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 26",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722735585826/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 27",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Unique-Lady-Season-2-2020-–-เกมรักทะลุมิติ-ปี-2-พากย์ไทย.jpg",
-     "url": "https://ok.ru/videoembed/3722735651362/",
-     "referer": "https://ok.ru/"
-    }
-   ]
-  },
-  {
    "name": "Designated Love (2022) – รักนี้ดีไซน์ได้ (ซับไทย)",
    "info": "Designated Love (2022) – รักนี้ดีไซน์ได้ (ซับไทย) 2022  ซีซั่น 1 Ep 15",
    "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Designated-Love-2022-รักนี้ดีไซน์ได้-ซับไทย.jpg",
@@ -22321,157 +21562,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/03/Chong-Ming-Wei-2018-ปริศนาลับราชวงศ์หมิง-พากย์ไทย.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/CqQgK7KX/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "My Queen (2021) – ท่านหญิงอย่าน่ารักเกินไป (ซับไทย)",
-   "info": "My Queen (2021) – ท่านหญิงอย่าน่ารักเกินไป (ซับไทย) 2021  ซีซั่น 1 Ep 24",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722559097378/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722559031842/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722559228450/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722559162914/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722559293986/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722559621666/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722559425058/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722559556130/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722559359522/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722559490594/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722559687202/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722559883810/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722559752738/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722559818274/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 15",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722559949346/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 16",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722580331042/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 17",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722580265506/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 18",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722580199970/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 19",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722580462114/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 20",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722580396578/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 21",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722580593186/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 22",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722580658722/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 23",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722580527650/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 24",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Queen.jpg",
-     "url": "https://ok.ru/videoembed/3722580724258/",
-     "referer": "https://ok.ru/"
     }
    ]
   },

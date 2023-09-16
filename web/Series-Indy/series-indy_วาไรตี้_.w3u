@@ -1,9 +1,88 @@
 {
  "name": "วาไรตี้",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 17 สิงหาคม 2566",
+ "author": "อุ๋ง อุ๋ง อัพวันที่ 16 กันยายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
  "groups": [
+  {
+   "name": "Is She the Wolf? 2023  – ใครหนอ…เป็นหมาป่า (ซับไทย)",
+   "info": "Is She the Wolf? 2023  – ใครหนอ…เป็นหมาป่า (ซับไทย) 2023  ซีซั่น 14 Ep 12",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/Is-She-the-Wolf-2023-ใครหนอ-เป็นหมาป่า.webp",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/Is-She-the-Wolf-2023-ใครหนอ-เป็นหมาป่า.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/9b8d3yeZWZ/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/Is-She-the-Wolf-2023-ใครหนอ-เป็นหมาป่า.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/oWcJKCF6ii/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/Is-She-the-Wolf-2023-ใครหนอ-เป็นหมาป่า.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Tp37j6heGg/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/Is-She-the-Wolf-2023-ใครหนอ-เป็นหมาป่า.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/xLlw6atxYv/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/Is-She-the-Wolf-2023-ใครหนอ-เป็นหมาป่า.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/DcSRRFmAzk/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/Is-She-the-Wolf-2023-ใครหนอ-เป็นหมาป่า.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/ilXmy8hev1/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/Is-She-the-Wolf-2023-ใครหนอ-เป็นหมาป่า.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/YPf52hVnBl/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/Is-She-the-Wolf-2023-ใครหนอ-เป็นหมาป่า.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/XN2PDidyD/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/Is-She-the-Wolf-2023-ใครหนอ-เป็นหมาป่า.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/fXVzUJ5qV/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/Is-She-the-Wolf-2023-ใครหนอ-เป็นหมาป่า.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/ovUgjGPmnY/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/Is-She-the-Wolf-2023-ใครหนอ-เป็นหมาป่า.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/DkRbdQnhL6/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/Is-She-the-Wolf-2023-ใครหนอ-เป็นหมาป่า.webp",
+     "url": "https://series-cdn.team-indy.net:8443/vod/a0C5xibiC/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
   {
    "name": "Too Hot to Handle Season 5 – ฮอตนักจับไม่อยู่ ซีซั่น 5 (พากย์ไทย)",
    "info": "Too Hot to Handle Season 5 – ฮอตนักจับไม่อยู่ ซีซั่น 5 (พากย์ไทย) 2023  ซีซั่น 5 Ep 7",
@@ -194,31 +273,6 @@
    ]
   },
   {
-   "name": "MH370 – เครื่องบินที่หายไป (ซับไทย)",
-   "info": "MH370 – เครื่องบินที่หายไป (ซับไทย) 2023  ซีซั่น 1 Ep 3",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/03/MH370.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/03/MH370.jpg",
-     "url": "https://ok.ru/videoembed/4735743494690/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/03/MH370.jpg",
-     "url": "https://ok.ru/videoembed/4735743560226/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/03/MH370.jpg",
-     "url": "https://ok.ru/videoembed/4735761648162/",
-     "referer": "https://ok.ru/"
-    }
-   ]
-  },
-  {
    "name": "House on Wheels ซีซั่น 4 (ซับไทย)",
    "info": "House on Wheels ซีซั่น 4 (ซับไทย) 2022  ซีซั่น 4 Ep 8",
    "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/1667092694-1874-14hIvihcoIfXkgPrnqCJublyzrP.jpg",
@@ -240,36 +294,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/1667092694-1874-14hIvihcoIfXkgPrnqCJublyzrP.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/brHmKmt7/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/1667092694-1874-14hIvihcoIfXkgPrnqCJublyzrP.jpg",
-     "url": "https://ok.ru/videoembed/4349286812194/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/1667092694-1874-14hIvihcoIfXkgPrnqCJublyzrP.jpg",
-     "url": "https://ok.ru/videoembed/4349287074338/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/1667092694-1874-14hIvihcoIfXkgPrnqCJublyzrP.jpg",
-     "url": "https://ok.ru/videoembed/4349287139874/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/1667092694-1874-14hIvihcoIfXkgPrnqCJublyzrP.jpg",
-     "url": "https://ok.ru/videoembed/4408617929250/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/10/1667092694-1874-14hIvihcoIfXkgPrnqCJublyzrP.jpg",
-     "url": "https://ok.ru/videoembed/4408617994786/",
-     "referer": "https://ok.ru/"
     }
    ]
   },
@@ -485,73 +509,6 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/08/In-the-soop.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/newvidu4WCsxEg/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Falling in Love Like a Romantic Drama Season 1 – ตกหลุมรักเหมือนหนังโรแมนติก",
-   "info": "Falling in Love Like a Romantic Drama Season 1 – ตกหลุมรักเหมือนหนังโรแมนติก 2018  ซีซั่น 1 Ep 10",
-   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
-     "url": "https://ok.ru/videoembed/3339312302593/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
-     "url": "https://ok.ru/videoembed/3339311843841/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
-     "url": "https://ok.ru/videoembed/3339312433665/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
-     "url": "https://ok.ru/videoembed/3339312105985/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
-     "url": "https://ok.ru/videoembed/3339312368129/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
-     "url": "https://ok.ru/videoembed/3339312171521/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
-     "url": "https://ok.ru/videoembed/3339312237057/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
-     "url": "https://ok.ru/videoembed/3339311909377/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
-     "url": "https://ok.ru/videoembed/3339311974913/",
-     "referer": "https://ok.ru/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
-     "url": "https://ok.ru/videoembed/3339312040449/",
-     "referer": "https://ok.ru/"
     }
    ]
   },
