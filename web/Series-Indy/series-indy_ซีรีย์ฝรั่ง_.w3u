@@ -1,6 +1,6 @@
 {
  "name": "ซีรีย์ฝรั่ง",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 16 กันยายน 2566",
+ "author": "อุ๋ง อุ๋ง อัพวันที่ 17 กันยายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
  "groups": [
@@ -1537,6 +1537,12 @@
    ]
   },
   {
+   "name": "Vortex – วอร์เท็กซ์ (ซับไทย)",
+   "info": "Vortex – วอร์เท็กซ์ (ซับไทย) 2023",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1685697349-3724-mkORP6XFqn8q8fifOX5tpUIaUPS.jpg",
+   "stations": []
+  },
+  {
    "name": "Manifest Season 4 – เที่ยวบินพิศวง ภาค 4 (ซับไทย)",
    "info": "Manifest Season 4 – เที่ยวบินพิศวง ภาค 4 (ซับไทย) 2022  ซีซั่น 4 Ep 20",
    "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/Manifest-Season-4-เที่ยวบินพิศวง-ภาค-4.jpg",
@@ -2700,6 +2706,12 @@
      "referer": "https://series.team-indy.net/"
     }
    ]
+  },
+  {
+   "name": "Sky High Season 1 – ชีวิตเฉียดฟ้า เดอะ ซีรีส์ ภาค 1 (ซับไทย)",
+   "info": "Sky High Season 1 – ชีวิตเฉียดฟ้า เดอะ ซีรีส์ ภาค 1 (ซับไทย) 2023",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/1680355063-5826-q35B5iw1h1Xwg1ziMUZZJTlWjDJ.jpg",
+   "stations": []
   },
   {
    "name": "Shadow and Bone Season 2 – ตำนานกรีชา ภาค 2 (พากย์ไทย)",
@@ -11360,6 +11372,18 @@
      "name": "ตอนที่ 10",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/Teletubbies-2022.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/RJB6EsNO/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/Teletubbies-2022.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/vLWT6B9y/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/Teletubbies-2022.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/m1TV56X6/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     },
     {
@@ -43108,6 +43132,12 @@
      "referer": "https://series.team-indy.net/"
     }
    ]
+  },
+  {
+   "name": "Naomi Season 1 (ซับไทย)",
+   "info": "Naomi Season 1 (ซับไทย) 2022",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/01/naomi.png",
+   "stations": []
   },
   {
    "name": "The Woman in the House Across the Street from the Girl in the Window – ลางหลอน ซ่อนมรณะจ๊ะ (พากย์ไทย)",

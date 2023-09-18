@@ -1,6 +1,6 @@
 {
  "name": "ซีรีย์ญี่ปุ่น",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 16 กันยายน 2566",
+ "author": "อุ๋ง อุ๋ง อัพวันที่ 17 กันยายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
  "groups": [
@@ -836,6 +836,19 @@
    ]
   },
   {
+   "name": "Nigeru wa Haji da ga Yaku ni Tatsu: Ganbare Jinrui! Shinshun Special (2021) – ฉันแต่งงานเป็นอาชีพ ตอนพิเศษ (ซับไทย)",
+   "info": "Nigeru wa Haji da ga Yaku ni Tatsu: Ganbare Jinrui! Shinshun Special (2021) – ฉันแต่งงานเป็นอาชีพ ตอนพิเศษ (ซับไทย) 2021  ซีซั่น 2 Ep 1",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Nigeru-wa-Haji-da-ga-Yaku-ni-Tatsu-Ganbare-Jinrui-Shinshun-Special-2021.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Nigeru-wa-Haji-da-ga-Yaku-ni-Tatsu-Ganbare-Jinrui-Shinshun-Special-2021.jpg",
+     "url": "https://ok.ru/videoembed/4335910193891/",
+     "referer": "https://ok.ru/"
+    }
+   ]
+  },
+  {
    "name": "Map for The Wedding (2022) ซับไทย",
    "info": "Map for The Wedding (2022) ซับไทย 2022  ซีซั่น 1 Ep 10",
    "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Map-for-The-Wedding-2022.jpg",
@@ -1332,6 +1345,19 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Old-Enough-2.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/YF29DSGg/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "Cooking for the Maiko House (2023) – แม่ครัวแห่งบ้านไมโกะ (ซับไทย)",
+   "info": "Cooking for the Maiko House (2023) – แม่ครัวแห่งบ้านไมโกะ (ซับไทย) 2023  ซีซั่น 1 Ep 9",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/The-Makanai-Cooking-for-the-Maiko-House.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ Tr",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/The-Makanai-Cooking-for-the-Maiko-House.jpg",
+     "url": "https://ok.ru/videoembed/4150355167971/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -1575,6 +1601,19 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Kiss-×-Kiss-×-Kiss-Melting-Night.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/Mu9WOcpu/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "Alice in Borderland 2 (2022) – อลิสในแดนมรณะ 2 (ซับไทย)",
+   "info": "Alice in Borderland 2 (2022) – อลิสในแดนมรณะ 2 (ซับไทย) 2022  ซีซั่น 2 Ep 8",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Alice-in-Borderland-2.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ Tr",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Alice-in-Borderland-2.jpg",
+     "url": "https://ok.ru/videoembed/4080652651235/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -2691,6 +2730,19 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/First-Love-TH.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/bebctLu8/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "First Love (2022) – รักแรก (ซับไทย)",
+   "info": "First Love (2022) – รักแรก (ซับไทย) 2022  ซีซั่น 1 Ep 9",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/First-Love-2022-รักแรก-ซับไทย.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ Tr",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/11/First-Love-2022-รักแรก-ซับไทย.jpg",
+     "url": "https://ok.ru/videoembed/3942863407843/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -5160,6 +5212,73 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Asuka-High-School-March-2011-วุ่นนักชีวิตสาวเทคนิค-ซับไทย.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/jEHcZNGg/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "Falling in Love Like a Romantic Drama Season 1 – ตกหลุมรักเหมือนหนังโรแมนติก",
+   "info": "Falling in Love Like a Romantic Drama Season 1 – ตกหลุมรักเหมือนหนังโรแมนติก 2018  ซีซั่น 1 Ep 10",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
+     "url": "https://ok.ru/videoembed/3339312302593/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
+     "url": "https://ok.ru/videoembed/3339311843841/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
+     "url": "https://ok.ru/videoembed/3339312433665/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
+     "url": "https://ok.ru/videoembed/3339312105985/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
+     "url": "https://ok.ru/videoembed/3339312368129/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
+     "url": "https://ok.ru/videoembed/3339312171521/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
+     "url": "https://ok.ru/videoembed/3339312237057/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
+     "url": "https://ok.ru/videoembed/3339311909377/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
+     "url": "https://ok.ru/videoembed/3339311974913/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/06/Falling-in-Love-Like-a-Romantic-Drama-1.jpg",
+     "url": "https://ok.ru/videoembed/3339312040449/",
+     "referer": "https://ok.ru/"
     }
    ]
   },
@@ -9712,6 +9831,73 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/01/บันทึกน้ำตาหนึ่งลิตร.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/pfEUP6Q/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "Alive: Dr. Kokoro, The Medical Oncologist (2020) – ซับไทย",
+   "info": "Alive: Dr. Kokoro, The Medical Oncologist (2020) – ซับไทย 2020  ซีซั่น 1 Ep 10",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/01/1641402174-3444-8aekysV0L1FMs3MzmMvb7tWt0iY.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/01/1641402174-3444-8aekysV0L1FMs3MzmMvb7tWt0iY.jpg",
+     "url": "https://ok.ru/videoembed/3070513777379/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/01/1641402174-3444-8aekysV0L1FMs3MzmMvb7tWt0iY.jpg",
+     "url": "https://ok.ru/videoembed/3069410806499/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/01/1641402174-3444-8aekysV0L1FMs3MzmMvb7tWt0iY.jpg",
+     "url": "https://ok.ru/videoembed/3070513842915/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/01/1641402174-3444-8aekysV0L1FMs3MzmMvb7tWt0iY.jpg",
+     "url": "https://ok.ru/videoembed/3070514039523/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/01/1641402174-3444-8aekysV0L1FMs3MzmMvb7tWt0iY.jpg",
+     "url": "https://ok.ru/videoembed/3070514105059/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/01/1641402174-3444-8aekysV0L1FMs3MzmMvb7tWt0iY.jpg",
+     "url": "https://ok.ru/videoembed/3070513908451/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/01/1641402174-3444-8aekysV0L1FMs3MzmMvb7tWt0iY.jpg",
+     "url": "https://ok.ru/videoembed/3070513973987/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/01/1641402174-3444-8aekysV0L1FMs3MzmMvb7tWt0iY.jpg",
+     "url": "https://ok.ru/videoembed/3070514236131/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/01/1641402174-3444-8aekysV0L1FMs3MzmMvb7tWt0iY.jpg",
+     "url": "https://ok.ru/videoembed/3070513646307/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/01/1641402174-3444-8aekysV0L1FMs3MzmMvb7tWt0iY.jpg",
+     "url": "https://ok.ru/videoembed/3070513711843/",
+     "referer": "https://ok.ru/"
     }
    ]
   },

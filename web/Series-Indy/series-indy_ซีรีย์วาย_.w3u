@@ -1,6 +1,6 @@
 {
  "name": "ซีรีย์วาย",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 16 กันยายน 2566",
+ "author": "อุ๋ง อุ๋ง อัพวันที่ 17 กันยายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
  "groups": [
@@ -38,6 +38,110 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692701683-1254-ryPh1eDxQmH81sswQG6cMrbnccR.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/HlV861uGrm/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
+  {
+   "name": "Jun and Jun – จุน และ จุน (ซับไทย)",
+   "info": "Jun and Jun – จุน และ จุน (ซับไทย) 2023  ซีซั่น 1 Ep 7",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690464265-8284-c2Y2qj6cYj2IdNF8YnPJOJRqZJv.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690464265-8284-c2Y2qj6cYj2IdNF8YnPJOJRqZJv.jpg",
+     "url": "https://ok.ru/videoembed/6346228238882/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690464265-8284-c2Y2qj6cYj2IdNF8YnPJOJRqZJv.jpg",
+     "url": "https://ok.ru/videoembed/6346228304418/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690464265-8284-c2Y2qj6cYj2IdNF8YnPJOJRqZJv.jpg",
+     "url": "https://ok.ru/videoembed/6369355172386/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690464265-8284-c2Y2qj6cYj2IdNF8YnPJOJRqZJv.jpg",
+     "url": "https://ok.ru/videoembed/6406858344994/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690464265-8284-c2Y2qj6cYj2IdNF8YnPJOJRqZJv.jpg",
+     "url": "https://ok.ru/videoembed/6429568666146/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690464265-8284-c2Y2qj6cYj2IdNF8YnPJOJRqZJv.jpg",
+     "url": "https://ok.ru/videoembed/6474090547746/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690464265-8284-c2Y2qj6cYj2IdNF8YnPJOJRqZJv.jpg",
+     "url": "https://ok.ru/videoembed/6474090613282/",
+     "referer": "https://ok.ru/"
+    }
+   ]
+  },
+  {
+   "name": "SING MY CRUSH – ปล่อยใจไปกับลม (ซับไทย)",
+   "info": "SING MY CRUSH – ปล่อยใจไปกับลม (ซับไทย) 2023  ซีซั่น 1 Ep 8",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1690960014-9308-h7fXcr8ukqvBg9nI0QUt50goPTQ.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1690960014-9308-h7fXcr8ukqvBg9nI0QUt50goPTQ.jpg",
+     "url": "https://ok.ru/videoembed/6364446394914/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1690960014-9308-h7fXcr8ukqvBg9nI0QUt50goPTQ.jpg",
+     "url": "https://ok.ru/videoembed/6364446460450/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1690960014-9308-h7fXcr8ukqvBg9nI0QUt50goPTQ.jpg",
+     "url": "https://ok.ru/videoembed/6364446525986/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1690960014-9308-h7fXcr8ukqvBg9nI0QUt50goPTQ.jpg",
+     "url": "https://ok.ru/videoembed/6364446067234/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1690960014-9308-h7fXcr8ukqvBg9nI0QUt50goPTQ.jpg",
+     "url": "https://ok.ru/videoembed/6364446198306/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1690960014-9308-h7fXcr8ukqvBg9nI0QUt50goPTQ.jpg",
+     "url": "https://ok.ru/videoembed/6364446132770/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1690960014-9308-h7fXcr8ukqvBg9nI0QUt50goPTQ.jpg",
+     "url": "https://ok.ru/videoembed/6364446263842/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1690960014-9308-h7fXcr8ukqvBg9nI0QUt50goPTQ.jpg",
+     "url": "https://ok.ru/videoembed/6364446329378/",
+     "referer": "https://ok.ru/"
     }
    ]
   },
@@ -749,6 +853,12 @@
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/07/Our-Season-Spring-with-Park-Jae-Chan.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/x0MMoobm/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/07/Our-Season-Spring-with-Park-Jae-Chan.jpg",
+     "url": "https://ok.ru/videoembed/3853985253922/",
+     "referer": "https://ok.ru/"
     }
    ]
   },

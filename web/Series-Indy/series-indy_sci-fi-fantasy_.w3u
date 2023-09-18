@@ -1,9 +1,52 @@
 {
  "name": "Sci-Fi & Fantasy",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 16 กันยายน 2566",
+ "author": "อุ๋ง อุ๋ง อัพวันที่ 17 กันยายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
  "groups": [
+  {
+   "name": "Love Is An Accident 2023 – พานพบประสบรัก (ซับไทย)",
+   "info": "Love Is An Accident 2023 – พานพบประสบรัก (ซับไทย) 2023  ซีซั่น 1 Ep 6",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1694951612-7061-dgYXyeRzWCndsxWPSDrebQAf6FD.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1694951612-7061-dgYXyeRzWCndsxWPSDrebQAf6FD.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/HjQNOORgOH/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1694951612-7061-dgYXyeRzWCndsxWPSDrebQAf6FD.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/Y2DfuJWAOc/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1694951612-7061-dgYXyeRzWCndsxWPSDrebQAf6FD.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/eUoaxJoKJr/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1694951612-7061-dgYXyeRzWCndsxWPSDrebQAf6FD.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/RPGWTfksgu/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1694951612-7061-dgYXyeRzWCndsxWPSDrebQAf6FD.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/nooyKNNc9/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1694951612-7061-dgYXyeRzWCndsxWPSDrebQAf6FD.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/MescAxOZW6/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
   {
    "name": "Behind Your Touch – สืบสัมผัส (ซับไทย)",
    "info": "Behind Your Touch – สืบสัมผัส (ซับไทย) 2023  ซีซั่น 1 Ep 11",
@@ -278,128 +321,128 @@
     {
      "name": "ตอนที่ 1",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6463573461538/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6463573461538/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 2",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6463573527074/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6463573527074/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 3",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6463573789218/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6463573789218/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 4",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6463583423010/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6463583423010/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 5",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6463532894754/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6463532894754/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 6",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6463532239394/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6463532239394/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 7",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6463532304930/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6463532304930/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 8",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6466770176546/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6466770176546/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 9",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6470065261090/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6470065261090/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 10",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6473797339682/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6473797339682/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 11",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6477690309154/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6477690309154/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 12",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6487769090594/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6487769090594/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 13",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6490814548514/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6490814548514/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 14",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6493909355042/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6493909355042/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 15",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6496939739682/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6496939739682/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 16",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6499902884386/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6499902884386/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 17",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6509407046178/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6509407046178/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 18",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6512463907362/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6512463907362/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 19",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6515455494690/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6515455494690/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 20",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6518384560674/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6518384560674/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 21",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/final.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6521463966242/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6521463966242/",
+     "referer": "https://ok.ru/"
     }
    ]
   },
@@ -612,242 +655,242 @@
     {
      "name": "ตอนที่ 1",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6345792686626/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6345792686626/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 2",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6345792752162/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6345792752162/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 3",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6345798715938/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6345798715938/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 4",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6345799305762/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6345799305762/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 5",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6345822439970/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6345822439970/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 6",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6345822374434/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6345822374434/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 7",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6345832729122/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6345832729122/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 8",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6345836399138/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6345836399138/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 9",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6349060901410/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6349060901410/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 10",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6349060835874/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6349060835874/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 11",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6355183929890/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6355183929890/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 12",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6355184060962/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6355184060962/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 13",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6368771901986/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6368771901986/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 14",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6368771181090/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6368771181090/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 15",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6375002343970/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6375002343970/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 16",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6375002409506/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6375002409506/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 17",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6406711740962/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6406711740962/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 18",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6406711806498/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6406711806498/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 19",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6406671632930/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6406671632930/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 20",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6406671567394/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6406671567394/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 21",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6410981280290/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6410981280290/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 22",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6410981214754/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6410981214754/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 23",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6414126025250/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6414126025250/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 24",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6414126090786/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6414126090786/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 25",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6429771434530/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6429771434530/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 26",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6429771500066/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6429771500066/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 27",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6432717212194/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6432717212194/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 28",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6432717277730/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6432717277730/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 29",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6435915696674/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6435915696674/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 30",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6435915762210/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6435915762210/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 31",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6450870094370/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6450870094370/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 32",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6450870159906/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6450870159906/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 33",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6453762984482/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6453762984482/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 34",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6453763050018/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6453763050018/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 35",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6457011210786/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6457011210786/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 36",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6457011276322/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6457011276322/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 37",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6473780103714/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6473780103714/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 38",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6473796946466/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6473796946466/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 39",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6477827803682/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6477827803682/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 40",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/The-Longest-Promise-th.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6477827869218/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6477827869218/",
+     "referer": "https://ok.ru/"
     }
    ]
   },
@@ -1149,158 +1192,158 @@
     {
      "name": "ตอนที่ 1",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6411123886626/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6411123886626/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 2",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6411123821090/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6411123821090/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 3",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6411123624482/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6411123624482/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 4",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6411123755554/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6411123755554/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 5",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6411123493410/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6411123493410/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 6",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6411123427874/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6411123427874/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 7",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6411123362338/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6411123362338/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 8",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6411123296802/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6411123296802/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 9",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6414004783650/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6414004783650/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 10",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6417188325922/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6417188325922/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 11",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6420468861474/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6420468861474/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 12",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6420491274786/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6420491274786/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 13",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6423790815778/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6423790815778/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 14",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6426630425122/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6426630425122/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 15",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6426630359586/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6426630359586/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 16",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6429588261410/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6429588261410/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 17",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6441843886626/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6441843886626/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 18",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6441843952162/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6441843952162/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 19",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6444860705314/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6444860705314/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 20",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6451470338594/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6451470338594/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 21",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6451470404130/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6451470404130/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 22",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6451486460450/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6451486460450/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 23",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6463999314466/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6463999314466/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 24",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6463999380002/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6463999380002/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 25",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6466594998818/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6466594998818/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 26",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1691753000-7348-vHRCUVluPdTndVi7qKbTCv9JcIi.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6470124702242/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6470124702242/",
+     "referer": "https://ok.ru/"
     }
    ]
   },
@@ -1398,236 +1441,236 @@
     {
      "name": "ตอนที่ 1",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6336700484130/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6336700484130/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 2",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6336700549666/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6336700549666/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 3",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6336700615202/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6336700615202/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 4",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6336700680738/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6336700680738/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 5",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6339647638050/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6339647638050/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 6",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6339640363554/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6339640363554/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 7",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6342718589474/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6342718589474/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 8",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6342705416738/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6342705416738/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 9",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6345708669474/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6345708669474/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 10",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6345708735010/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6345708735010/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 11",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6348873992738/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6348873992738/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 12",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6348873861666/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6348873861666/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 13",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6351991540258/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6351991540258/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 14",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6355233933858/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6355233933858/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 15",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6358397553186/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6358397553186/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 16",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6358397618722/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6358397618722/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 17",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6361453103650/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6361453103650/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 18",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6361453169186/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6361453169186/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 19",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6364562000418/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6364562000418/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 20",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6364561934882/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6364561934882/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 21",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6368703875618/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6368703875618/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 22",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6371860875810/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6371860875810/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 23",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6381050595874/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6381050595874/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 24",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6381050530338/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6381050530338/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 25",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6383933196834/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6383933196834/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 26",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6383933262370/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6383933262370/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 27",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6391967058466/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6391967058466/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 28",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6391967124002/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6391967124002/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 29",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6404956621346/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6404956621346/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 30",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6404956686882/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6404956686882/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 31",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6420468795938/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6420468795938/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 32",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6420468927010/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6420468927010/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 33",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6423776135714/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6423776135714/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 34",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6423776201250/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6423776201250/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 35",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6426622233122/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6426622233122/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 36",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6426622298658/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6426622298658/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 37",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6432884656674/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6432884656674/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 38",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6432870697506/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6432870697506/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 39",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690193027-5708-l4XuzcB3w6PDd0X5Ya80G8sTJw2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6432870763042/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6432870763042/",
+     "referer": "https://ok.ru/"
     }
    ]
   },
@@ -1639,98 +1682,98 @@
     {
      "name": "ตอนที่ 1",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1688139150-6013-qdFpbXZy3GzXJPqvI6DiqKYVQsp.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5891979479586/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5891979479586/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 2",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1688139150-6013-qdFpbXZy3GzXJPqvI6DiqKYVQsp.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5891979610658/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5891979610658/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 3",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1688139150-6013-qdFpbXZy3GzXJPqvI6DiqKYVQsp.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6053055367714/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6053055367714/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 4",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1688139150-6013-qdFpbXZy3GzXJPqvI6DiqKYVQsp.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6088483146274/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6088483146274/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 5",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1688139150-6013-qdFpbXZy3GzXJPqvI6DiqKYVQsp.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6149460396578/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6149460396578/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 6",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1688139150-6013-qdFpbXZy3GzXJPqvI6DiqKYVQsp.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6187084155426/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6187084155426/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 7",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1688139150-6013-qdFpbXZy3GzXJPqvI6DiqKYVQsp.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6297931745826/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6297931745826/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 8",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1688139150-6013-qdFpbXZy3GzXJPqvI6DiqKYVQsp.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6300850915874/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6300850915874/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 9",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1688139150-6013-qdFpbXZy3GzXJPqvI6DiqKYVQsp.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6343461308962/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6343461308962/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 10",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1688139150-6013-qdFpbXZy3GzXJPqvI6DiqKYVQsp.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6346461088290/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6346461088290/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 11",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1688139150-6013-qdFpbXZy3GzXJPqvI6DiqKYVQsp.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6365347645986/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6365347645986/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 12",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1688139150-6013-qdFpbXZy3GzXJPqvI6DiqKYVQsp.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6369666402850/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6369666402850/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 13",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1688139150-6013-qdFpbXZy3GzXJPqvI6DiqKYVQsp.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6392599546402/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6392599546402/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 14",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1688139150-6013-qdFpbXZy3GzXJPqvI6DiqKYVQsp.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6407177374242/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6407177374242/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 15",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1688139150-6013-qdFpbXZy3GzXJPqvI6DiqKYVQsp.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6427431995938/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6427431995938/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 16",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1688139150-6013-qdFpbXZy3GzXJPqvI6DiqKYVQsp.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6430326196770/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6430326196770/",
+     "referer": "https://ok.ru/"
     }
    ]
   },
@@ -1742,98 +1785,98 @@
     {
      "name": "ตอนที่ 1",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/Durians-Affair.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5692742896162/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5692742896162/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 2",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/Durians-Affair.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5730062502434/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5730062502434/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 3",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/Durians-Affair.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5927888947746/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5927888947746/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 4",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/Durians-Affair.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5957764844066/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5957764844066/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 5",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/Durians-Affair.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6133052344866/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6133052344866/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 6",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/Durians-Affair.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6136147479074/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6136147479074/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 7",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/Durians-Affair.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6237395159586/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6237395159586/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 8",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/Durians-Affair.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6261274642978/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6261274642978/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 9",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/Durians-Affair.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6306981218850/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6306981218850/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 10",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/Durians-Affair.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6330004015650/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6330004015650/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 11",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/Durians-Affair.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6352811985442/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6352811985442/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 12",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/Durians-Affair.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6356082952738/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6356082952738/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 13",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/Durians-Affair.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6375837207074/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6375837207074/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 14",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/Durians-Affair.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6378876570146/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6378876570146/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 15",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/Durians-Affair.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6414840171042/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6414840171042/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 16",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/Durians-Affair.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6417999792674/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6417999792674/",
+     "referer": "https://ok.ru/"
     }
    ]
   },
@@ -2314,62 +2357,62 @@
     {
      "name": "ตอนที่ 1",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690263108-6852-feGJQlwi8EC0ujU66QRYz9zb7Yh.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6279834110519/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6279834110519/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 2",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690263108-6852-feGJQlwi8EC0ujU66QRYz9zb7Yh.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6279834569271/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6279834569271/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 3",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690263108-6852-feGJQlwi8EC0ujU66QRYz9zb7Yh.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6279834896951/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6279834896951/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 4",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690263108-6852-feGJQlwi8EC0ujU66QRYz9zb7Yh.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6279835093559/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6279835093559/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 5",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690263108-6852-feGJQlwi8EC0ujU66QRYz9zb7Yh.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6279835159095/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6279835159095/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 6",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690263108-6852-feGJQlwi8EC0ujU66QRYz9zb7Yh.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6279835290167/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6279835290167/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 7",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690263108-6852-feGJQlwi8EC0ujU66QRYz9zb7Yh.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6279835421239/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6279835421239/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 8",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690263108-6852-feGJQlwi8EC0ujU66QRYz9zb7Yh.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6280142326327/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6280142326327/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 9",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690263108-6852-feGJQlwi8EC0ujU66QRYz9zb7Yh.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5997664799296/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5997664799296/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 10",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1690263108-6852-feGJQlwi8EC0ujU66QRYz9zb7Yh.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5997664864832/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5997664864832/",
+     "referer": "https://ok.ru/"
     }
    ]
   },
@@ -2537,38 +2580,38 @@
     {
      "name": "ตอนที่ 27",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1688302741-2855-lZtE6GQQgefxEGF2GzIBetIIVQ2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5878729280064/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5878729280064/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 28",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1688302741-2855-lZtE6GQQgefxEGF2GzIBetIIVQ2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5879165618752/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5879165618752/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 29",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1688302741-2855-lZtE6GQQgefxEGF2GzIBetIIVQ2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6175953652279/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6175953652279/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 30",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1688302741-2855-lZtE6GQQgefxEGF2GzIBetIIVQ2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6175953848887/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6175953848887/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 31",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1688302741-2855-lZtE6GQQgefxEGF2GzIBetIIVQ2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6195511626295/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6195511626295/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 32",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1688302741-2855-lZtE6GQQgefxEGF2GzIBetIIVQ2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6195513723447/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6195513723447/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 33",
@@ -2585,38 +2628,38 @@
     {
      "name": "ตอนที่ 35",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1688302741-2855-lZtE6GQQgefxEGF2GzIBetIIVQ2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6294802467362/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6294802467362/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 36",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1688302741-2855-lZtE6GQQgefxEGF2GzIBetIIVQ2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6294788311586/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6294788311586/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 37",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1688302741-2855-lZtE6GQQgefxEGF2GzIBetIIVQ2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6297242765858/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6297242765858/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 38",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1688302741-2855-lZtE6GQQgefxEGF2GzIBetIIVQ2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6297242831394/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6297242831394/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 39",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1688302741-2855-lZtE6GQQgefxEGF2GzIBetIIVQ2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6300199684642/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6300199684642/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 40",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/07/1688302741-2855-lZtE6GQQgefxEGF2GzIBetIIVQ2.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/6300199750178/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/6300199750178/",
+     "referer": "https://ok.ru/"
     }
    ]
   },
@@ -3246,98 +3289,98 @@
     {
      "name": "ตอนที่ 1",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/1682946025-1406-iuPXMIH0BJSn2Bzy84Gm3HGkTHE.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5165234457122/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5165234457122/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 2",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/1682946025-1406-iuPXMIH0BJSn2Bzy84Gm3HGkTHE.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5170583046690/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5170583046690/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 3",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/1682946025-1406-iuPXMIH0BJSn2Bzy84Gm3HGkTHE.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5242319079970/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5242319079970/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 4",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/1682946025-1406-iuPXMIH0BJSn2Bzy84Gm3HGkTHE.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5257389083170/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5257389083170/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 5",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/1682946025-1406-iuPXMIH0BJSn2Bzy84Gm3HGkTHE.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5332195019298/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5332195019298/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 6",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/1682946025-1406-iuPXMIH0BJSn2Bzy84Gm3HGkTHE.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5337991154210/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5337991154210/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 7",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/1682946025-1406-iuPXMIH0BJSn2Bzy84Gm3HGkTHE.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5426350852642/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5426350852642/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 8",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/1682946025-1406-iuPXMIH0BJSn2Bzy84Gm3HGkTHE.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5440382503458/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5440382503458/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 9",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/1682946025-1406-iuPXMIH0BJSn2Bzy84Gm3HGkTHE.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5473934510626/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5473934510626/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 10",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/1682946025-1406-iuPXMIH0BJSn2Bzy84Gm3HGkTHE.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5476870392354/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5476870392354/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 11",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/1682946025-1406-iuPXMIH0BJSn2Bzy84Gm3HGkTHE.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5504580717090/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5504580717090/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 12",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/1682946025-1406-iuPXMIH0BJSn2Bzy84Gm3HGkTHE.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5510518016546/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5510518016546/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 13",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/1682946025-1406-iuPXMIH0BJSn2Bzy84Gm3HGkTHE.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5571642853922/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5571642853922/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 14",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/1682946025-1406-iuPXMIH0BJSn2Bzy84Gm3HGkTHE.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5587087264290/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5587087264290/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 15",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/1682946025-1406-iuPXMIH0BJSn2Bzy84Gm3HGkTHE.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5629330721314/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5629330721314/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 16",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/1682946025-1406-iuPXMIH0BJSn2Bzy84Gm3HGkTHE.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5633846676002/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5633846676002/",
+     "referer": "https://ok.ru/"
     }
    ]
   },
@@ -3688,244 +3731,250 @@
     {
      "name": "ตอนที่ 1",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5165527665186/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5165527665186/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 2",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5165527730722/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5165527730722/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 3",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5165527861794/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5165527861794/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 4",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5165527796258/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5165527796258/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 5",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5165943949858/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5165943949858/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 6",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5165943884322/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5165943884322/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 7",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5165941459490/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5165941459490/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 8",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5165941525026/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5165941525026/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 9",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5165941197346/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5165941197346/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 10",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5165941262882/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5165941262882/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 11",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5165941393954/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5165941393954/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 12",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5165941131810/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5165941131810/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 13",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5242128173602/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5242128173602/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 14",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5242128304674/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5242128304674/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 15",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5242128370210/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5242128370210/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 16",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5242128042530/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5242128042530/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 17",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5242204326434/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5242204326434/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 18",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5242204391970/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5242204391970/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 19",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5331446991394/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5331446991394/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 20",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5331759598114/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5331759598114/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 21",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5331753306658/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5331753306658/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 22",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5331753175586/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5331753175586/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 23",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5331897682466/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5331897682466/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 24",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5331808291362/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5331808291362/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 25",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5427400018466/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5427400018466/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 26",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5427359451682/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5427359451682/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 27",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5427400084002/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5427400084002/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 28",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5427339856418/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5427339856418/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 29",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5427339987490/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5427339987490/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 30",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5427352767010/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5427352767010/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 31",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5474038778402/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5474038778402/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 32",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5474038843938/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5474038843938/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 33",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5474009811490/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5474009811490/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 34",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5474009745954/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5474009745954/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 35",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5473994738210/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5473994738210/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 36",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5473994672674/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5473994672674/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 37",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5504302254626/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5504302254626/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 38",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5504302189090/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5504302189090/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 39",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5504341445154/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5504341445154/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 40",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/05/Song-of-the-Moon-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5504341379618/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5504341379618/",
+     "referer": "https://ok.ru/"
     }
    ]
+  },
+  {
+   "name": "Vortex – วอร์เท็กซ์ (ซับไทย)",
+   "info": "Vortex – วอร์เท็กซ์ (ซับไทย) 2023",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/06/1685697349-3724-mkORP6XFqn8q8fifOX5tpUIaUPS.jpg",
+   "stations": []
   },
   {
    "name": "Manifest Season 4 – เที่ยวบินพิศวง ภาค 4 (ซับไทย)",
@@ -4245,182 +4294,182 @@
     {
      "name": "ตอนที่ 1",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4991736875554/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4991736875554/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 2",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5010034461218/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5010034461218/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 3",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5010034395682/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5010034395682/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 4",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5014472231458/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5014472231458/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 5",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5014472296994/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5014472296994/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 6",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5027751070242/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5027751070242/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 7",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5027751004706/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5027751004706/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 8",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4996552198711/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4996552198711/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 9",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4997120461367/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4997120461367/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 10",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5081166383650/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5081166383650/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 11",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5081034721826/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5081034721826/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 12",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5081034656290/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5081034656290/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 13",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5085960931874/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5085960931874/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 14",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5085960866338/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5085960866338/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 15",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5118870424098/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5118870424098/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 16",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5120513477154/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5120513477154/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 17",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5139475532322/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5139475532322/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 18",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5139417664034/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5139417664034/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 19",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5140106381858/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5140106381858/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 20",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5165685738018/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5165685738018/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 21",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5165685672482/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5165685672482/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 22",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5165685606946/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5165685606946/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 23",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5181282126370/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5181282126370/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 24",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5181282060834/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5181282060834/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 25",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5191675939362/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5191675939362/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 26",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5191675742754/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5191675742754/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 27",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5203746621986/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5203746621986/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 28",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5203746556450/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5203746556450/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 29",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5254632049186/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5254632049186/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 30",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/The-Trust-สลับร่างป่วนบัลลังก์.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5258460465698/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5258460465698/",
+     "referer": "https://ok.ru/"
     }
    ]
   },
@@ -4542,98 +4591,98 @@
     {
      "name": "ตอนที่ 1",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Reborn-Rich.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4452515580450/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4452515580450/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 2",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Reborn-Rich.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4457818753570/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4457818753570/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 3",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Reborn-Rich.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/483674016290/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/483674016290/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 4",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Reborn-Rich.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4485895752226/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4485895752226/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 5",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Reborn-Rich.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4509814688290/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4509814688290/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 6",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Reborn-Rich.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4512392415778/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4512392415778/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 7",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Reborn-Rich.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4532304087586/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4532304087586/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 8",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Reborn-Rich.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4547073608226/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4547073608226/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 9",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Reborn-Rich.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4553215773218/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4553215773218/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 10",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Reborn-Rich.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4558560365090/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4558560365090/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 11",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Reborn-Rich.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4574866246178/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4574866246178/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 12",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Reborn-Rich.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4596155943458/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4596155943458/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 13",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Reborn-Rich.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4596125469218/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4596125469218/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 14",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Reborn-Rich.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4598501411362/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4598501411362/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 15",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Reborn-Rich.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4616556120610/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4616556120610/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 16",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Reborn-Rich.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4620299274786/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4620299274786/",
+     "referer": "https://ok.ru/"
     }
    ]
   },
@@ -4645,62 +4694,62 @@
     {
      "name": "ตอนที่ 1",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/1680369188-6344-vSXHKxGX17I7CgjzkLGUYCMaIyG.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4910644398626/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4910644398626/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 2",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/1680369188-6344-vSXHKxGX17I7CgjzkLGUYCMaIyG.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4910644857378/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4910644857378/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 3",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/1680369188-6344-vSXHKxGX17I7CgjzkLGUYCMaIyG.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4910665108002/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4910665108002/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 4",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/1680369188-6344-vSXHKxGX17I7CgjzkLGUYCMaIyG.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4918262565410/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4918262565410/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 5",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/1680369188-6344-vSXHKxGX17I7CgjzkLGUYCMaIyG.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4918262499874/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4918262499874/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 6",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/1680369188-6344-vSXHKxGX17I7CgjzkLGUYCMaIyG.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4918262630946/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4918262630946/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 7",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/1680369188-6344-vSXHKxGX17I7CgjzkLGUYCMaIyG.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5085585738274/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5085585738274/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 8",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/1680369188-6344-vSXHKxGX17I7CgjzkLGUYCMaIyG.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5085586000418/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5085586000418/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 9",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/1680369188-6344-vSXHKxGX17I7CgjzkLGUYCMaIyG.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5085585869346/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5085585869346/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 10",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/04/1680369188-6344-vSXHKxGX17I7CgjzkLGUYCMaIyG.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/5085594192418/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/5085594192418/",
+     "referer": "https://ok.ru/"
     }
    ]
   },
@@ -5041,8 +5090,8 @@
     {
      "name": "ตอนที่ Tr",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/02/Go-and-Domain-Your-Game.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4347794819811/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4347794819811/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -5234,8 +5283,8 @@
     {
      "name": "ตอนที่ Tr",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/12/Cry-Me-A-River-of-Stars-2021-TH.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4120979114723/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4120979114723/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -5922,8 +5971,8 @@
     {
      "name": "ตอนที่ Tr",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Three-Body-2023.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4229507713763/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4229507713763/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -6689,8 +6738,8 @@
     {
      "name": "ตอนที่ Tr",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/Love-Me-in-Three-Days.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/4207321352931/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/4207321352931/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 1",
@@ -22867,8 +22916,8 @@
     {
      "name": "ตอนที่ 23",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/r6Pk2_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3663983675938/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3663983675938/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 24",
@@ -27024,92 +27073,92 @@
     {
      "name": "ตอนที่ 1",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722531310114/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722531310114/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 2",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722531441186/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722531441186/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 3",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722531179042/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722531179042/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 4",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722531375650/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722531375650/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 5",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722531244578/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722531244578/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 6",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722531637794/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722531637794/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 7",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722531703330/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722531703330/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 8",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722531572258/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722531572258/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 9",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722531768866/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722531768866/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 10",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722531834402/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722531834402/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 11",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722532031010/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722532031010/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 12",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722531965474/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722531965474/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 13",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722532096546/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722532096546/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 14",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722532227618/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722532227618/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 15",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722532162082/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722532162082/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 16",
@@ -27120,50 +27169,50 @@
     {
      "name": "ตอนที่ 17",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722532555298/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722532555298/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 18",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722532293154/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722532293154/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 19",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722532489762/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722532489762/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 20",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722532358690/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722532358690/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 21",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722532882978/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722532882978/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 22",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722532948514/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722532948514/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 23",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722532751906/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722532751906/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 24",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/11/2vkvd_4f.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/3722532817442/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/3722532817442/",
+     "referer": "https://ok.ru/"
     }
    ]
   },
@@ -29559,6 +29608,12 @@
      "referer": "https://series.team-indy.net/"
     }
    ]
+  },
+  {
+   "name": "Naomi Season 1 (ซับไทย)",
+   "info": "Naomi Season 1 (ซับไทย) 2022",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/01/naomi.png",
+   "stations": []
   },
   {
    "name": "Bad and Crazy (ซับไทย)",
@@ -32316,50 +32371,50 @@
     {
      "name": "ตอนที่ 1",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Futmalls.Com-2020-เว็บไซต์ปริศนา-พากย์ไทย.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/2626369555198/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/2626369555198/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 2",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Futmalls.Com-2020-เว็บไซต์ปริศนา-พากย์ไทย.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/2628623141630/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/2628623141630/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 3",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Futmalls.Com-2020-เว็บไซต์ปริศนา-พากย์ไทย.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/2631918553854/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/2631918553854/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 4",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Futmalls.Com-2020-เว็บไซต์ปริศนา-พากย์ไทย.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/2634164538110/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/2634164538110/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 5",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Futmalls.Com-2020-เว็บไซต์ปริศนา-พากย์ไทย.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/2636499651326/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/2636499651326/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 6",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Futmalls.Com-2020-เว็บไซต์ปริศนา-พากย์ไทย.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/2638909016830/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/2638909016830/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 7",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Futmalls.Com-2020-เว็บไซต์ปริศนา-พากย์ไทย.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/2641276177150/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/2641276177150/",
+     "referer": "https://ok.ru/"
     },
     {
      "name": "ตอนที่ 8",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Futmalls.Com-2020-เว็บไซต์ปริศนา-พากย์ไทย.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/2644376226558/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
+     "url": "https://ok.ru/videoembed/2644376226558/",
+     "referer": "https://ok.ru/"
     }
    ]
   },
