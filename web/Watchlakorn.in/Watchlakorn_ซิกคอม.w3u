@@ -1,8 +1,8 @@
 {
  "name": "ซิกคอม",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 13 กันยายน 2566",
+ "author": "อุ๋ง อุ๋ง อัพวันที่ 19 กันยายน 2566",
  "info": "Watchlakorn.in",
- "image": "",
+ "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
   {
    "name": "หกฉากครับอาจารย์",
@@ -631,6 +631,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1570954956.jpg",
      "url": "https://www.watchlakorn.in/egdeny/16eef92990be3f5205f59612984ce4e8/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "หกฉากครับอาจารย์",
+     "info": "วันที่ 17 กันยายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1570954956.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a227f3593dd73c0b5a951ae83efdcb12/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -1254,6 +1261,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1641641927.jpg",
      "url": "https://www.watchlakorn.in/egdeny/d7b44fc1211f8a5b689ed602d18be86b/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "โอมเพี้ยงอาจารย์คง คงหมดแพสชั่น",
+     "info": "วันที่ 16 กันยายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1641641927.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a98fb5e75605e38439edb8dfad6af3e0/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -1407,6 +1421,13 @@
      "info": "วันที่ 9 กันยายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1682143649.webp",
      "url": "https://www.watchlakorn.in/egdeny/b449fd6a1bf67c75c58431fdcf68911d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "รู้ไว้ใช่เลย  เสียเป็นแสนแขนไม่ได้จับ  ตอนที่ 22",
+     "info": "วันที่ 16 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1682143649.webp",
+     "url": "https://www.watchlakorn.in/egdeny/5b0ceb10263bf7545d5095093c052c0b/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1603,6 +1624,13 @@
      "info": "วันที่ 7 กันยายน2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1679402584.jpg",
      "url": "https://www.watchlakorn.in/egdeny/4836bde23f859cef699b9383c9bbdcef/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เป็นต่อ 2022 ทองแย้ม อีจัน&amp;พี่ผากทอง น้องยี่",
+     "info": "วันที่ 14 กันยายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1679402584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f4beafaa2770879bcccec3f524149f3d/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
