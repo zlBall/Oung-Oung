@@ -1,10 +1,96 @@
 {
   "name": "หนังใหม่ 2023",
-  "author": "อุ๋ง อุ๋ง อัพวันที่ 19 กันยายน 2566",
+  "author": "อุ๋ง อุ๋ง อัพวันที่ 20 กันยายน 2566",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "url": "https://bit.ly/44HFZCR",
-  "groups": [
+    {
+      "name": "The Equalizer (2014) มัจจุราชไร้เงา",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Equalizer-2014-มัจจุราชไร้เงา.png",
+      "stations": [
+        {
+          "name": "The Equalizer 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Equalizer-2014-มัจจุราชไร้เงา.png",
+          "url": "https://xxx.77player.xyz/ioshls/92a1aaff638cdc7395ca89e0e3b15ed2/92a1aaff638cdc7395ca89e0e3b15ed2.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Equalizer 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Equalizer-2014-มัจจุราชไร้เงา.png",
+          "url": "https://xxx.77player.xyz/ioshls/0a27f8dc0899bdd594f6c70056f2d3ee/0a27f8dc0899bdd594f6c70056f2d3ee.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Equalizer 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Equalizer-2-2018-มัจจุราชไร้เงา-2.png",
+          "url": "https://xxx.77player.xyz/ioshls/457e53f02fdcf7abfb07467e70aafad1/457e53f02fdcf7abfb07467e70aafad1.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Equalizer 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Equalizer-2-2018-มัจจุราชไร้เงา-2.png",
+          "url": "https://xxx.77player.xyz/ioshls/3ff30871c4896ea5dab8ca3154473286/3ff30871c4896ea5dab8ca3154473286.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Equalizer ภาค 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Equalizer-3-2023-มัจจุราชไร้เงา-3.jpg",
+          "url": "https://main.77player.xyz/m3u8/d559d767403203a27bafc111/d559d767403203a27bafc111438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Blue Beetle (2023) บลู บีเทิล",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Blue-Beetle-2023-บลู-บีเทิล-1-300x450.jpg",
+      "stations": [
+        {
+          "name": "Blue Beetle (2023) บลู บีเทิล",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Blue-Beetle-2023-บลู-บีเทิล-1-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/d6f5449ec0945798302e602f/d6f5449ec0945798302e602f438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Blue Beetle (2023) บลู บีเทิล",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Blue-Beetle-2023-บลู-บีเทิล-1-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/76d57c6328a06df20d13c29d/76d57c6328a06df20d13c29d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Bro (2023) โบร!",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Bro-2023-โบร-300x450.jpg",
+      "stations": [
+        {
+          "name": "Bro (2023) โบร!",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Bro-2023-โบร-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/22577d6eae3106823f532c97/22577d6eae3106823f532c97438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Bhola Shankar (2023) แท็กซี่ผู้พิทักษ์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Bhola-Shankar-2023-แท็กซี่ผู้พิทักษ์-300x450.jpg",
+      "stations": [
+        {
+          "name": "Bhola Shankar (2023) แท็กซี่ผู้พิทักษ์",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Bhola-Shankar-2023-แท็กซี่ผู้พิทักษ์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/6724d93543c94c1753e222fb/6724d93543c94c1753e222fb438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
     {
       "name": "A Haunting in Venice (2023) ฆาตกรรมหลอนแห่งนครเวนิส",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023-ฆาตกรรมหลอนแห่งนครเวนิส-1-300x450.jpg",
@@ -26,14 +112,14 @@
           "name": "Retribution (2023) เหยียบระห่ำ ดับโคตรแค้น",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Retribution-2023-เหยียบระห่ำ-ดับโคตรแค้น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/07be56b61a73ddfb3a786ef9/07be56b61a73ddfb3a786ef9438.m3u8",
+          "url": "https://main.77player.xyz/m3u8/63f7094778fd8804f1318fe6/63f7094778fd8804f1318fe6438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
           "name": "Retribution (2023) เหยียบระห่ำ ดับโคตรแค้น",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Retribution-2023-เหยียบระห่ำ-ดับโคตรแค้น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/60f2dfdd1266162287a868b3/60f2dfdd1266162287a868b3438.m3u8",
+          "url": "https://main.77player.xyz/m3u8/60ee467448696c0402000397/60ee467448696c0402000397438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -46,14 +132,14 @@
           "name": "Talk to Me (2023) จับ มือ ผี",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Talk-to-Me-2023-จับ-มือ-ผี-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/bdab2faa5fd65d645be7452b/bdab2faa5fd65d645be7452b438.m3u8",
+          "url": "https://main.77player.xyz/m3u8/dc3c841510c21255de2ef962/dc3c841510c21255de2ef962438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
           "name": "Talk to Me (2023) จับ มือ ผี",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Talk-to-Me-2023-จับ-มือ-ผี-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/0476e5151c63830862aa7026/0476e5151c63830862aa7026438.m3u8",
+          "url": "https://main.77player.xyz/m3u8/c160e7bcfc7682637dddc288/c160e7bcfc7682637dddc288438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
