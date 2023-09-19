@@ -1,10 +1,31 @@
 {
  "name": "ละคร-ONAIR",
- "author": "อุ๋ง อุ๋ง อัพ วันที่ 19 กันยายน 2566",
+ "author": "อุ๋ง อุ๋ง อัพ วันที่ 20 กันยายน 2566",
  "info": "Watchlakorn.in",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "url": "https://bit.ly/3sQ4lgo",
  "groups": [
+  {
+   "name": "ลัดฟ้าล่าฝัน",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg",
+   "stations": [
+    {
+     "name": "ลัดฟ้าล่าฝัน  ตอนที่ 1",
+     "info": "วันที่ 9 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/9dee45c6c141db3ae32fb5fd4a6af821/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ลัดฟ้าล่าฝัน  ตอนที่ 2",
+     "info": "วันที่ 16 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/1034ba26fc1b481fdce9cd1339c164df/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
   {
    "name": "เกมรักทรยศ",
    "info": "Watchlakorn.in",
@@ -419,6 +440,55 @@
    ]
   },
   {
+   "name": "พนมนาคา",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
+   "stations": [
+    {
+     "name": "พนมนาคา  ตอนที่ 1",
+     "info": "วันที่ 4 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/59fbad7d46c710398795fbcef5bc6d89/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พนมนาคา  ตอนที่ 2",
+     "info": "วันที่ 5 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/9671886fe47396b8023dc6f5be1f1d0c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พนมนาคา  ตอนที่ 3",
+     "info": "วันที่ 11 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/df28b698f80e334be5e4046013245e6f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พนมนาคา  ตอนที่ 4",
+     "info": "วันที่ 12 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/543a43328986170b998c6fd8efedf951/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พนมนาคา  ตอนที่ 5",
+     "info": "วันที่ 18 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e4fb35500915d6de5db21fe61f4a233f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พนมนาคา  ตอนที่ 6",
+     "info": "วันที่ 19 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/6d14f0300ea526a8c5d4b8ff8bd6e311/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
    "name": "สืบลับหมอระบาด",
    "info": "Watchlakorn.in",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1692611939.webp",
@@ -485,47 +555,12 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1692611939.webp",
      "url": "https://www.watchlakorn.in/egdeny/ef8895ac260e1a2ea467b094880a9944/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "พนมนาคา",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-   "stations": [
-    {
-     "name": "พนมนาคา  ตอนที่ 1",
-     "info": "วันที่ 4 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/59fbad7d46c710398795fbcef5bc6d89/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
     },
     {
-     "name": "พนมนาคา  ตอนที่ 2",
-     "info": "วันที่ 5 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/9671886fe47396b8023dc6f5be1f1d0c/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 3",
-     "info": "วันที่ 11 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/df28b698f80e334be5e4046013245e6f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 4",
-     "info": "วันที่ 12 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/543a43328986170b998c6fd8efedf951/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 5",
-     "info": "วันที่ 18 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e4fb35500915d6de5db21fe61f4a233f/aGQ=/master.m3u8",
+     "name": "สืบลับหมอระบาด  ตอนที่ 10",
+     "info": "วันที่ 19 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692611939.webp",
+     "url": "https://www.watchlakorn.in/egdeny/9ec6ed840cc12d9168f70ec538595419/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -582,6 +617,223 @@
      "info": "วันที่ 18 กันยายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg",
      "url": "https://www.watchlakorn.in/egdeny/17568bff56be5c66e1a3ebb5cdb40d9c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ลมพัดผ่านดาว  ตอนที่ 8",
+     "info": "วันที่ 19 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/da9abbf28636c2eac6fc0b3a949c2da5/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "ไมโครโฟนม่วนป่วนรัก",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1694789547.jpg",
+   "stations": [
+    {
+     "name": "ไมโครโฟนม่วนป่วนรัก  ตอนที่ 1",
+     "info": "วันที่ 15 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1694789547.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/faba69c92b4e6eb31ee5183015f5b778/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ไมโครโฟนม่วนป่วนรัก  ตอนที่ 2",
+     "info": "วันที่ 18 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1694789547.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/2a1fb7a4bec0f83cd415c06ac71a4bdf/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ไมโครโฟนม่วนป่วนรัก  ตอนที่ 3",
+     "info": "วันที่ 19 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1694789547.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/6ed013d865980bdf8242ebb9bbfccafb/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "มาเฟียลำซิ่ง",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+   "stations": [
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 1",
+     "info": "วันที่ 16 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/57364999c1e39234426d3a53ec74e5c6/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 2",
+     "info": "วันที่ 17 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/d06bcc4d6ff60f3a8b0e3ceefc84fad0/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 3",
+     "info": "วันที่ 18 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f3ac773691b90c97d4299228bd24dbc2/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 4",
+     "info": "วันที่ 21 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/2e2a7a2845568f5d28b023f9f7f590ac/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 5",
+     "info": "วันที่ 22 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/c71ffd7ae2cd9742d576103aaa002548/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 6",
+     "info": "วันที่ 23 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/290bd60daa74c069bbd09f95138dbab4/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 7",
+     "info": "วันที่ 24 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f507bbf14f1b82799b6fa34679c507f7/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 8",
+     "info": "วันที่ 25 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f60195cb400fc4117460f9c87eadc2f0/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 9",
+     "info": "วันที่ 28 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/2b4ae208be98abb0642ca2c407e733ab/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 10",
+     "info": "วันที่ 29 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f0e82a76b7d00964ad6ea33c53bab3d1/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 11",
+     "info": "วันที่ 30 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/008bb497fa4b6325ba2035a448969af6/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 12",
+     "info": "วันที่ 31 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/b4e69e1e20a6a9f8952f21971cf3d7f7/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 13",
+     "info": "วันที่ 1 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/c1466d2bf220861a14bfde159063f802/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 14",
+     "info": "วันที่ 4 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/06e5f531448b4639f15c634ed69d2c65/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 15",
+     "info": "วันที่ 5 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/b0cd2ecd9baa28ba43e2bd8f4c79bb13/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 16",
+     "info": "วันที่ 6 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/c485a00f8c804978f4772d9e44278cf0/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 17",
+     "info": "วันที่ 7 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/6ce9d28f199a7881fe0aaa1189e17b26/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 18",
+     "info": "วันที่ 8 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e40087a04a0042b913b73dd6d779d1b6/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 19",
+     "info": "วันที่ 11 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/0b215706ebb920e1c0e56327599ef742/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 20",
+     "info": "วันที่ 12 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/b5216d408ff9f450a870ca598884c0d6/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 21",
+     "info": "วันที่ 13 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/1c122c3e698b4e086a233b20ad9a2a4a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 22",
+     "info": "วันที่ 14 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e1cfabe41c3bf81984abaa6465f503c0/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 23",
+     "info": "วันที่ 15 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/2463aacbcf4af4b2cc47ee87b49250ee/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 24",
+     "info": "วันที่ 18 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/442ee9aa2e48aa60aa518657a409f33c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มาเฟียลำซิ่ง  ตอนที่ 25",
+     "info": "วันที่ 19 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/1091cea8ac9581da32e1c6ad6936c5ea/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -779,6 +1031,167 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1690899135.jpg",
      "url": "https://www.watchlakorn.in/egdeny/3fcf79445c9da8a67daacb156f89650c/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เลือดกากี  ตอนที่ 28",
+     "info": "วันที่ 19 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1690899135.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/c9b9d2c8adad08c664fa846fcdfc980f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "วัยรุ่นพันธุ์แสบ",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg",
+   "stations": [
+    {
+     "name": "วัยรุ่นพันธุ์แสบ  ตอนที่ 1",
+     "info": "วันที่ 22 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/dfdeb0208d3718acd4687a29bfb25825/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "วัยรุ่นพันธุ์แสบ  ตอนที่ 2",
+     "info": "วันที่ 28 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/2132e37937b9ff9c59ec34b9cc097adc/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "วัยรุ่นพันธุ์แสบ  ตอนที่ 3",
+     "info": "วันที่ 29 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/64455fe132bf03fbe7afb1e1da11bfd3/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "วัยรุ่นพันธุ์แสบ  ตอนที่ 4",
+     "info": "วันที่ 4 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/6101e2c040f6487307a7bdf5a0e7258a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "วัยรุ่นพันธุ์แสบ  ตอนที่ 5",
+     "info": "วันที่ 5 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e50788741a684eacfad70e47c0303aba/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "วัยรุ่นพันธุ์แสบ  ตอนที่ 6",
+     "info": "วันที่ 11 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/57139a1e2481bf3f7f5d53f8765ee405/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "วัยรุ่นพันธุ์แสบ  ตอนที่ 7",
+     "info": "วันที่ 12 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e29714302f1d4a88b304d6b02722273a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "วัยรุ่นพันธุ์แสบ  ตอนที่ 8",
+     "info": "วันที่ 18 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/3107e8af826713ba798ccc951c777cff/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "พี่พระเอกกับเด็กหมาในกอง",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
+   "stations": [
+    {
+     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 1",
+     "info": "วันที่ 3 กรกฏาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/67e3fee6c12a4f1b4b508d4354e441f0/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 2",
+     "info": "วันที่ 10 กรกฏาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ff73092f4ad4fab5fb77b18062b4e2a8/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 3",
+     "info": "วันที่ 17 กรกฏาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/405c8790b2b8d5d7c3234bf64a1fee6f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 4",
+     "info": "วันที่ 24 กรกฏาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/9107d5a265bb6b0fe070bda1eb2b40c4/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 5",
+     "info": "วันที่ 31 กรกฏาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/1de16a4cf0e8346cb4af087f4cf3477a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 6",
+     "info": "วันที่ 7 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/8837a0fc7812ff9b97cd267440c3808b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 7",
+     "info": "วันที่ 14 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/575e02cb6f0a3a6cf7064dd5a053c33e/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 8",
+     "info": "วันที่ 21 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/973a81bcf0cc8cf551c39e0421239a2d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 9",
+     "info": "วันที่ 28 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/813f5e2092b190d1de1b2eace43e1895/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 10",
+     "info": "วันที่ 4 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/121aea0f7e1978bf3f457d50d20aaa03/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 11",
+     "info": "วันที่ 11 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/78797831b3b514491a7dbf5efebe371c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พี่พระเอกกับเด็กหมาในกองตอนจบ  ตอนที่ 12",
+     "info": "วันที่ 18 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/87a2c9c879d5098d8bec9c9483853abb/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -924,7 +1337,7 @@
      "name": "ผู้ใหญ่ลี ศรีบานเย็น  ตอนที่ 20",
      "info": "วันที่ 30 สิงหาคม 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1689688207.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/2e5b2b82ce47fca581c55b565a126d64/aGQ=/master.m3u8",
+     "url": "No url m3u8",
      "referer": "https://www.watchlakorn.in/"
     },
     {
@@ -974,202 +1387,6 @@
      "info": "วันที่ 18 กันยายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1689688207.jpg",
      "url": "https://www.watchlakorn.in/egdeny/2ec37a14b1f56ffbddf792206118a50f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "ไมโครโฟนม่วนป่วนรัก",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1694789547.jpg",
-   "stations": [
-    {
-     "name": "ไมโครโฟนม่วนป่วนรัก  ตอนที่ 1",
-     "info": "วันที่ 15 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694789547.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/faba69c92b4e6eb31ee5183015f5b778/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ไมโครโฟนม่วนป่วนรัก  ตอนที่ 2",
-     "info": "วันที่ 18 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694789547.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/2a1fb7a4bec0f83cd415c06ac71a4bdf/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "มาเฟียลำซิ่ง",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-   "stations": [
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 1",
-     "info": "วันที่ 16 สิงหาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/57364999c1e39234426d3a53ec74e5c6/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 2",
-     "info": "วันที่ 17 สิงหาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/d06bcc4d6ff60f3a8b0e3ceefc84fad0/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 3",
-     "info": "วันที่ 18 สิงหาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f3ac773691b90c97d4299228bd24dbc2/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 4",
-     "info": "วันที่ 21 สิงหาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/2e2a7a2845568f5d28b023f9f7f590ac/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 5",
-     "info": "วันที่ 22 สิงหาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/c71ffd7ae2cd9742d576103aaa002548/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 6",
-     "info": "วันที่ 23 สิงหาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/290bd60daa74c069bbd09f95138dbab4/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 7",
-     "info": "วันที่ 24 สิงหาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f507bbf14f1b82799b6fa34679c507f7/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 8",
-     "info": "วันที่ 25 สิงหาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f60195cb400fc4117460f9c87eadc2f0/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 9",
-     "info": "วันที่ 28 สิงหาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/2b4ae208be98abb0642ca2c407e733ab/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 10",
-     "info": "วันที่ 29 สิงหาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f0e82a76b7d00964ad6ea33c53bab3d1/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 11",
-     "info": "วันที่ 30 สิงหาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/008bb497fa4b6325ba2035a448969af6/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 12",
-     "info": "วันที่ 31 สิงหาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/b4e69e1e20a6a9f8952f21971cf3d7f7/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 13",
-     "info": "วันที่ 1 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/c1466d2bf220861a14bfde159063f802/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 14",
-     "info": "วันที่ 4 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/06e5f531448b4639f15c634ed69d2c65/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 15",
-     "info": "วันที่ 5 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/b0cd2ecd9baa28ba43e2bd8f4c79bb13/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 16",
-     "info": "วันที่ 6 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/c485a00f8c804978f4772d9e44278cf0/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 17",
-     "info": "วันที่ 7 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/6ce9d28f199a7881fe0aaa1189e17b26/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 18",
-     "info": "วันที่ 8 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e40087a04a0042b913b73dd6d779d1b6/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 19",
-     "info": "วันที่ 11 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/0b215706ebb920e1c0e56327599ef742/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 20",
-     "info": "วันที่ 12 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/b5216d408ff9f450a870ca598884c0d6/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 21",
-     "info": "วันที่ 13 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/1c122c3e698b4e086a233b20ad9a2a4a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 22",
-     "info": "วันที่ 14 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e1cfabe41c3bf81984abaa6465f503c0/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 23",
-     "info": "วันที่ 15 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/2463aacbcf4af4b2cc47ee87b49250ee/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "มาเฟียลำซิ่ง  ตอนที่ 24",
-     "info": "วันที่ 18 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/442ee9aa2e48aa60aa518657a409f33c/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -2058,7 +2275,7 @@
      "name": "สงครามเงิน  ตอนที่ 7",
      "info": "วันที่ 20 สิงหาคม 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1690735007.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/2f141e24f0f924f904026c341aaabb28/aGQ=/master.m3u8",
+     "url": "No url m3u8",
      "referer": "https://www.watchlakorn.in/"
     },
     {
@@ -2773,27 +2990,6 @@
      "info": "วันที่ 16 กันยายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1691855594.jpg",
      "url": "https://www.watchlakorn.in/egdeny/64d911b2f65306d234f22a58dbf0811f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "ลัดฟ้าล่าฝัน",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg",
-   "stations": [
-    {
-     "name": "ลัดฟ้าล่าฝัน  ตอนที่ 1",
-     "info": "วันที่ 9 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/9dee45c6c141db3ae32fb5fd4a6af821/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ลัดฟ้าล่าฝัน  ตอนที่ 2",
-     "info": "วันที่ 16 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/1034ba26fc1b481fdce9cd1339c164df/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -3948,7 +4144,7 @@
      "name": "ฟ้ามีตา",
      "info": "วันที่ 14 กรกฏาคม2561",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1301798242.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/a26bc9b881e9326a8332164612c6ec68/aGQ=/master.m3u8",
+     "url": "No url m3u8",
      "referer": "https://www.watchlakorn.in/"
     },
     {
@@ -5082,7 +5278,7 @@
      "name": "กษัตริยา  ตอนที่ 33",
      "info": "วันที่ 31 สิงหาคม 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1688484903.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/d20ed67d3eecef2cb0e3bff0b1fd21e1/aGQ=/master.m3u8",
+     "url": "No url m3u8",
      "referer": "https://www.watchlakorn.in/"
     },
     {
@@ -5327,7 +5523,7 @@
      "name": "จอมโจรดอกไม้ขาว  ตอนที่ 4",
      "info": "วันที่ 25 กรกฏาคม 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1689775102.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/0988fa8383249aa4c036336c8d6afb8e/aGQ=/master.m3u8",
+     "url": "No url m3u8",
      "referer": "https://www.watchlakorn.in/"
     },
     {
@@ -5571,62 +5767,6 @@
    ]
   },
   {
-   "name": "วัยรุ่นพันธุ์แสบ",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg",
-   "stations": [
-    {
-     "name": "วัยรุ่นพันธุ์แสบ  ตอนที่ 1",
-     "info": "วันที่ 22 สิงหาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/dfdeb0208d3718acd4687a29bfb25825/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "วัยรุ่นพันธุ์แสบ  ตอนที่ 2",
-     "info": "วันที่ 28 สิงหาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/2132e37937b9ff9c59ec34b9cc097adc/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "วัยรุ่นพันธุ์แสบ  ตอนที่ 3",
-     "info": "วันที่ 29 สิงหาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/64455fe132bf03fbe7afb1e1da11bfd3/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "วัยรุ่นพันธุ์แสบ  ตอนที่ 4",
-     "info": "วันที่ 4 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/6101e2c040f6487307a7bdf5a0e7258a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "วัยรุ่นพันธุ์แสบ  ตอนที่ 5",
-     "info": "วันที่ 5 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e50788741a684eacfad70e47c0303aba/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "วัยรุ่นพันธุ์แสบ  ตอนที่ 6",
-     "info": "วันที่ 11 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/57139a1e2481bf3f7f5d53f8765ee405/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "วัยรุ่นพันธุ์แสบ  ตอนที่ 7",
-     "info": "วันที่ 12 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e29714302f1d4a88b304d6b02722273a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
    "name": "เกมรัก นักล่า บาร์ลับ",
    "info": "Watchlakorn.in",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1690214688.jpg",
@@ -5741,90 +5881,6 @@
      "info": "วันที่ 12 กันยายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1690214688.jpg",
      "url": "https://www.watchlakorn.in/egdeny/c8fedda52492ea8b5b02dd9cb7e0bcdc/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "พี่พระเอกกับเด็กหมาในกอง",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
-   "stations": [
-    {
-     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 1",
-     "info": "วันที่ 3 กรกฏาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/67e3fee6c12a4f1b4b508d4354e441f0/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 2",
-     "info": "วันที่ 10 กรกฏาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/ff73092f4ad4fab5fb77b18062b4e2a8/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 3",
-     "info": "วันที่ 17 กรกฏาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/405c8790b2b8d5d7c3234bf64a1fee6f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 4",
-     "info": "วันที่ 24 กรกฏาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/9107d5a265bb6b0fe070bda1eb2b40c4/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 5",
-     "info": "วันที่ 31 กรกฏาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/1de16a4cf0e8346cb4af087f4cf3477a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 6",
-     "info": "วันที่ 7 สิงหาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/8837a0fc7812ff9b97cd267440c3808b/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 7",
-     "info": "วันที่ 14 สิงหาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/575e02cb6f0a3a6cf7064dd5a053c33e/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 8",
-     "info": "วันที่ 21 สิงหาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/973a81bcf0cc8cf551c39e0421239a2d/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 9",
-     "info": "วันที่ 28 สิงหาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/813f5e2092b190d1de1b2eace43e1895/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 10",
-     "info": "วันที่ 4 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/121aea0f7e1978bf3f457d50d20aaa03/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 11",
-     "info": "วันที่ 11 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/78797831b3b514491a7dbf5efebe371c/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -10661,7 +10717,7 @@
      "name": "รักสุดใจยัยตัวแสบ  ตอนที่ 3",
      "info": "วันที่ 29 พฤษภาคม 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1685021692.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/89309f095150684c78166421eb6a3f4c/aGQ=/master.m3u8",
+     "url": "No url m3u8",
      "referer": "https://www.watchlakorn.in/"
     },
     {
