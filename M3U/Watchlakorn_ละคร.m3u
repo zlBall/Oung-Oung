@@ -1,4 +1,10 @@
 #EXTM3U url="https://bit.ly/3rcmdl5"
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg" group-title="อุ๋ง อุ๋ง จะดู ลัดฟ้าล่าฝัน" ,ลัดฟ้าล่าฝัน  ตอนที่ 1
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/9dee45c6c141db3ae32fb5fd4a6af821/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg" group-title="อุ๋ง อุ๋ง จะดู ลัดฟ้าล่าฝัน" ,ลัดฟ้าล่าฝัน  ตอนที่ 2
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/1034ba26fc1b481fdce9cd1339c164df/aGQ=/master.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692759385.jpg" group-title="อุ๋ง อุ๋ง จะดู เกมรักทรยศ" ,เกมรักทรยศ  ตอนที่ 1
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
 https://www.watchlakorn.in/egdeny/ea0f41a8588d2863569911ebf5d322f9/aGQ=/master.m3u8 
@@ -164,6 +170,24 @@ https://www.watchlakorn.in/egdeny/aab3238922bcc25a6f606eb525ffdc56/aGQ=/master.m
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1519228829.jpg" group-title="อุ๋ง อุ๋ง จะดู บุพเพสันนิวาส" ,บุพเพสันนิวาสตอนจบ  ตอนที่ 15
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
 https://www.watchlakorn.in/egdeny/9bf31c7ff062936a96d3c8bd1f8f2ff3/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg" group-title="อุ๋ง อุ๋ง จะดู พนมนาคา" ,พนมนาคา  ตอนที่ 1
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/59fbad7d46c710398795fbcef5bc6d89/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg" group-title="อุ๋ง อุ๋ง จะดู พนมนาคา" ,พนมนาคา  ตอนที่ 2
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/9671886fe47396b8023dc6f5be1f1d0c/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg" group-title="อุ๋ง อุ๋ง จะดู พนมนาคา" ,พนมนาคา  ตอนที่ 3
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/df28b698f80e334be5e4046013245e6f/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg" group-title="อุ๋ง อุ๋ง จะดู พนมนาคา" ,พนมนาคา  ตอนที่ 4
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/543a43328986170b998c6fd8efedf951/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg" group-title="อุ๋ง อุ๋ง จะดู พนมนาคา" ,พนมนาคา  ตอนที่ 5
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/e4fb35500915d6de5db21fe61f4a233f/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg" group-title="อุ๋ง อุ๋ง จะดู พนมนาคา" ,พนมนาคา  ตอนที่ 6
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/6d14f0300ea526a8c5d4b8ff8bd6e311/aGQ=/master.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692611939.webp" group-title="อุ๋ง อุ๋ง จะดู สืบลับหมอระบาด" ,สืบลับหมอระบาด  ตอนที่ 1
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
 https://www.watchlakorn.in/egdeny/50d1a41b107d902060ae710ad7172083/aGQ=/master.m3u8 
@@ -191,21 +215,9 @@ https://www.watchlakorn.in/egdeny/f96162859f61645b4bd09355154b3f1b/aGQ=/master.m
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692611939.webp" group-title="อุ๋ง อุ๋ง จะดู สืบลับหมอระบาด" ,สืบลับหมอระบาด  ตอนที่ 9
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
 https://www.watchlakorn.in/egdeny/ef8895ac260e1a2ea467b094880a9944/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg" group-title="อุ๋ง อุ๋ง จะดู พนมนาคา" ,พนมนาคา  ตอนที่ 1
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692611939.webp" group-title="อุ๋ง อุ๋ง จะดู สืบลับหมอระบาด" ,สืบลับหมอระบาด  ตอนที่ 10
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/59fbad7d46c710398795fbcef5bc6d89/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg" group-title="อุ๋ง อุ๋ง จะดู พนมนาคา" ,พนมนาคา  ตอนที่ 2
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/9671886fe47396b8023dc6f5be1f1d0c/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg" group-title="อุ๋ง อุ๋ง จะดู พนมนาคา" ,พนมนาคา  ตอนที่ 3
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/df28b698f80e334be5e4046013245e6f/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg" group-title="อุ๋ง อุ๋ง จะดู พนมนาคา" ,พนมนาคา  ตอนที่ 4
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/543a43328986170b998c6fd8efedf951/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg" group-title="อุ๋ง อุ๋ง จะดู พนมนาคา" ,พนมนาคา  ตอนที่ 5
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/e4fb35500915d6de5db21fe61f4a233f/aGQ=/master.m3u8 
+https://www.watchlakorn.in/egdeny/9ec6ed840cc12d9168f70ec538595419/aGQ=/master.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg" group-title="อุ๋ง อุ๋ง จะดู ลมพัดผ่านดาว" ,ลมพัดผ่านดาว  ตอนที่ 1
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
 https://www.watchlakorn.in/egdeny/86adf146d3bb3cae47dac1eaedd1873d/aGQ=/master.m3u8 
@@ -227,6 +239,93 @@ https://www.watchlakorn.in/egdeny/8da67273b406266fdb12aaebe717edc7/aGQ=/master.m
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg" group-title="อุ๋ง อุ๋ง จะดู ลมพัดผ่านดาว" ,ลมพัดผ่านดาว  ตอนที่ 7
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
 https://www.watchlakorn.in/egdeny/17568bff56be5c66e1a3ebb5cdb40d9c/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg" group-title="อุ๋ง อุ๋ง จะดู ลมพัดผ่านดาว" ,ลมพัดผ่านดาว  ตอนที่ 8
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/da9abbf28636c2eac6fc0b3a949c2da5/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694789547.jpg" group-title="อุ๋ง อุ๋ง จะดู ไมโครโฟนม่วนป่วนรัก" ,ไมโครโฟนม่วนป่วนรัก  ตอนที่ 1
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/faba69c92b4e6eb31ee5183015f5b778/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694789547.jpg" group-title="อุ๋ง อุ๋ง จะดู ไมโครโฟนม่วนป่วนรัก" ,ไมโครโฟนม่วนป่วนรัก  ตอนที่ 2
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/2a1fb7a4bec0f83cd415c06ac71a4bdf/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694789547.jpg" group-title="อุ๋ง อุ๋ง จะดู ไมโครโฟนม่วนป่วนรัก" ,ไมโครโฟนม่วนป่วนรัก  ตอนที่ 3
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/6ed013d865980bdf8242ebb9bbfccafb/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 1
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/57364999c1e39234426d3a53ec74e5c6/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 2
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/d06bcc4d6ff60f3a8b0e3ceefc84fad0/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 3
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/f3ac773691b90c97d4299228bd24dbc2/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 4
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/2e2a7a2845568f5d28b023f9f7f590ac/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 5
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/c71ffd7ae2cd9742d576103aaa002548/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 6
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/290bd60daa74c069bbd09f95138dbab4/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 7
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/f507bbf14f1b82799b6fa34679c507f7/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 8
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/f60195cb400fc4117460f9c87eadc2f0/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 9
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/2b4ae208be98abb0642ca2c407e733ab/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 10
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/f0e82a76b7d00964ad6ea33c53bab3d1/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 11
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/008bb497fa4b6325ba2035a448969af6/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 12
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/b4e69e1e20a6a9f8952f21971cf3d7f7/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 13
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/c1466d2bf220861a14bfde159063f802/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 14
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/06e5f531448b4639f15c634ed69d2c65/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 15
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/b0cd2ecd9baa28ba43e2bd8f4c79bb13/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 16
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/c485a00f8c804978f4772d9e44278cf0/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 17
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/6ce9d28f199a7881fe0aaa1189e17b26/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 18
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/e40087a04a0042b913b73dd6d779d1b6/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 19
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/0b215706ebb920e1c0e56327599ef742/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 20
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/b5216d408ff9f450a870ca598884c0d6/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 21
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/1c122c3e698b4e086a233b20ad9a2a4a/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 22
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/e1cfabe41c3bf81984abaa6465f503c0/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 23
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/2463aacbcf4af4b2cc47ee87b49250ee/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 24
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/442ee9aa2e48aa60aa518657a409f33c/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 25
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/1091cea8ac9581da32e1c6ad6936c5ea/aGQ=/master.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1690899135.jpg" group-title="อุ๋ง อุ๋ง จะดู เลือดกากี" ,เลือดกากี  ตอนที่ 1
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
 https://www.watchlakorn.in/egdeny/5012d924e56048893cf7a54a6e979a48/aGQ=/master.m3u8 
@@ -308,6 +407,69 @@ https://www.watchlakorn.in/egdeny/39f5ee906b18b1a30c6eeb1801bbac0d/aGQ=/master.m
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1690899135.jpg" group-title="อุ๋ง อุ๋ง จะดู เลือดกากี" ,เลือดกากี  ตอนที่ 27
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
 https://www.watchlakorn.in/egdeny/3fcf79445c9da8a67daacb156f89650c/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1690899135.jpg" group-title="อุ๋ง อุ๋ง จะดู เลือดกากี" ,เลือดกากี  ตอนที่ 28
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/c9b9d2c8adad08c664fa846fcdfc980f/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg" group-title="อุ๋ง อุ๋ง จะดู วัยรุ่นพันธุ์แสบ" ,วัยรุ่นพันธุ์แสบ  ตอนที่ 1
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/dfdeb0208d3718acd4687a29bfb25825/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg" group-title="อุ๋ง อุ๋ง จะดู วัยรุ่นพันธุ์แสบ" ,วัยรุ่นพันธุ์แสบ  ตอนที่ 2
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/2132e37937b9ff9c59ec34b9cc097adc/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg" group-title="อุ๋ง อุ๋ง จะดู วัยรุ่นพันธุ์แสบ" ,วัยรุ่นพันธุ์แสบ  ตอนที่ 3
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/64455fe132bf03fbe7afb1e1da11bfd3/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg" group-title="อุ๋ง อุ๋ง จะดู วัยรุ่นพันธุ์แสบ" ,วัยรุ่นพันธุ์แสบ  ตอนที่ 4
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/6101e2c040f6487307a7bdf5a0e7258a/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg" group-title="อุ๋ง อุ๋ง จะดู วัยรุ่นพันธุ์แสบ" ,วัยรุ่นพันธุ์แสบ  ตอนที่ 5
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/e50788741a684eacfad70e47c0303aba/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg" group-title="อุ๋ง อุ๋ง จะดู วัยรุ่นพันธุ์แสบ" ,วัยรุ่นพันธุ์แสบ  ตอนที่ 6
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/57139a1e2481bf3f7f5d53f8765ee405/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg" group-title="อุ๋ง อุ๋ง จะดู วัยรุ่นพันธุ์แสบ" ,วัยรุ่นพันธุ์แสบ  ตอนที่ 7
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/e29714302f1d4a88b304d6b02722273a/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg" group-title="อุ๋ง อุ๋ง จะดู วัยรุ่นพันธุ์แสบ" ,วัยรุ่นพันธุ์แสบ  ตอนที่ 8
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/3107e8af826713ba798ccc951c777cff/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 1
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/67e3fee6c12a4f1b4b508d4354e441f0/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 2
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/ff73092f4ad4fab5fb77b18062b4e2a8/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 3
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/405c8790b2b8d5d7c3234bf64a1fee6f/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 4
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/9107d5a265bb6b0fe070bda1eb2b40c4/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 5
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/1de16a4cf0e8346cb4af087f4cf3477a/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 6
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/8837a0fc7812ff9b97cd267440c3808b/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 7
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/575e02cb6f0a3a6cf7064dd5a053c33e/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 8
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/973a81bcf0cc8cf551c39e0421239a2d/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 9
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/813f5e2092b190d1de1b2eace43e1895/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 10
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/121aea0f7e1978bf3f457d50d20aaa03/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 11
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/78797831b3b514491a7dbf5efebe371c/aGQ=/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกองตอนจบ  ตอนที่ 12
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/87a2c9c879d5098d8bec9c9483853abb/aGQ=/master.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1689688207.jpg" group-title="อุ๋ง อุ๋ง จะดู ผู้ใหญ่ลี ศรีบานเย็น" ,ผู้ใหญ่ลี ศรีบานเย็น  ตอนที่ 1
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
 https://www.watchlakorn.in/egdeny/3942664fbc6eee68b3f1dffc5a387725/aGQ=/master.m3u8 
@@ -389,84 +551,6 @@ https://www.watchlakorn.in/egdeny/525c7266b3cd16d6b6df33d7c983c2f7/aGQ=/master.m
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1689688207.jpg" group-title="อุ๋ง อุ๋ง จะดู ผู้ใหญ่ลี ศรีบานเย็น" ,ผู้ใหญ่ลี ศรีบานเย็น  ตอนที่ 27
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
 https://www.watchlakorn.in/egdeny/2ec37a14b1f56ffbddf792206118a50f/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694789547.jpg" group-title="อุ๋ง อุ๋ง จะดู ไมโครโฟนม่วนป่วนรัก" ,ไมโครโฟนม่วนป่วนรัก  ตอนที่ 1
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/faba69c92b4e6eb31ee5183015f5b778/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694789547.jpg" group-title="อุ๋ง อุ๋ง จะดู ไมโครโฟนม่วนป่วนรัก" ,ไมโครโฟนม่วนป่วนรัก  ตอนที่ 2
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/2a1fb7a4bec0f83cd415c06ac71a4bdf/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 1
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/57364999c1e39234426d3a53ec74e5c6/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 2
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/d06bcc4d6ff60f3a8b0e3ceefc84fad0/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 3
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/f3ac773691b90c97d4299228bd24dbc2/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 4
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/2e2a7a2845568f5d28b023f9f7f590ac/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 5
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/c71ffd7ae2cd9742d576103aaa002548/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 6
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/290bd60daa74c069bbd09f95138dbab4/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 7
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/f507bbf14f1b82799b6fa34679c507f7/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 8
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/f60195cb400fc4117460f9c87eadc2f0/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 9
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/2b4ae208be98abb0642ca2c407e733ab/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 10
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/f0e82a76b7d00964ad6ea33c53bab3d1/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 11
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/008bb497fa4b6325ba2035a448969af6/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 12
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/b4e69e1e20a6a9f8952f21971cf3d7f7/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 13
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/c1466d2bf220861a14bfde159063f802/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 14
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/06e5f531448b4639f15c634ed69d2c65/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 15
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/b0cd2ecd9baa28ba43e2bd8f4c79bb13/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 16
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/c485a00f8c804978f4772d9e44278cf0/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 17
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/6ce9d28f199a7881fe0aaa1189e17b26/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 18
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/e40087a04a0042b913b73dd6d779d1b6/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 19
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/0b215706ebb920e1c0e56327599ef742/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 20
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/b5216d408ff9f450a870ca598884c0d6/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 21
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/1c122c3e698b4e086a233b20ad9a2a4a/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 22
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/e1cfabe41c3bf81984abaa6465f503c0/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 23
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/2463aacbcf4af4b2cc47ee87b49250ee/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692193324.jpg" group-title="อุ๋ง อุ๋ง จะดู มาเฟียลำซิ่ง" ,มาเฟียลำซิ่ง  ตอนที่ 24
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/442ee9aa2e48aa60aa518657a409f33c/aGQ=/master.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1693177600.jpg" group-title="อุ๋ง อุ๋ง จะดู บ้านชายมอง" ,บ้านชายมอง  ตอนที่ 1
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
 https://www.watchlakorn.in/egdeny/04f9cbc0610c273baeee6757d9631b05/aGQ=/master.m3u8 
@@ -1036,7 +1120,7 @@ https://www.watchlakorn.in/egdeny/844ec7b3192caeb0a4ca5148b3b3ae38/aGQ=/master.m
 https://www.watchlakorn.in/egdeny/a005ef0444b0cfcd744bf8543babaac3/aGQ=/master.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg" group-title="อุ๋ง อุ๋ง จะดู Club Friday The Series" ,Club Friday The Series สะใภ้จีน
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/c24d6152f7391dd3fdd737fa03ca0cfd/aGQ=/master.m3u8 
+No url m3u8 
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg" group-title="อุ๋ง อุ๋ง จะดู Club Friday The Series" ,Club Friday The Series สะใภ้จีน EP.3
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
 https://www.watchlakorn.in/egdeny/56f38b6b6ff08fd1030371295235c7ba/aGQ=/master.m3u8 
@@ -1430,12 +1514,6 @@ https://www.watchlakorn.in/egdeny/33237d7e4da74ee261c962132ad5d7b8/aGQ=/master.m
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1691855594.jpg" group-title="อุ๋ง อุ๋ง จะดู เพื่อนต้องห้าม" ,เพื่อนต้องห้าม  ตอนที่ 6
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
 https://www.watchlakorn.in/egdeny/64d911b2f65306d234f22a58dbf0811f/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg" group-title="อุ๋ง อุ๋ง จะดู ลัดฟ้าล่าฝัน" ,ลัดฟ้าล่าฝัน  ตอนที่ 1
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/9dee45c6c141db3ae32fb5fd4a6af821/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg" group-title="อุ๋ง อุ๋ง จะดู ลัดฟ้าล่าฝัน" ,ลัดฟ้าล่าฝัน  ตอนที่ 2
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/1034ba26fc1b481fdce9cd1339c164df/aGQ=/master.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1515515403.jpg" group-title="อุ๋ง อุ๋ง จะดู สุภาพบุรุษสุดซอย" ,สุภาพบุรุษสุดซอย
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
 https://www.watchlakorn.in/egdeny/ad70b1b3acd67fd2377308db459a47de/aGQ=/master.m3u8 
@@ -3458,27 +3536,6 @@ https://www.watchlakorn.in/egdeny/a5c2477761b6f697cd7b23eb4b23841d/aGQ=/master.m
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1689775102.jpg" group-title="อุ๋ง อุ๋ง จะดู จอมโจรดอกไม้ขาว" ,จอมโจรดอกไม้ขาว  ตอนที่ 38
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
 https://www.watchlakorn.in/egdeny/d4b09f870005cdbca24f5d5eacb68aea/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg" group-title="อุ๋ง อุ๋ง จะดู วัยรุ่นพันธุ์แสบ" ,วัยรุ่นพันธุ์แสบ  ตอนที่ 1
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/dfdeb0208d3718acd4687a29bfb25825/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg" group-title="อุ๋ง อุ๋ง จะดู วัยรุ่นพันธุ์แสบ" ,วัยรุ่นพันธุ์แสบ  ตอนที่ 2
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/2132e37937b9ff9c59ec34b9cc097adc/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg" group-title="อุ๋ง อุ๋ง จะดู วัยรุ่นพันธุ์แสบ" ,วัยรุ่นพันธุ์แสบ  ตอนที่ 3
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/64455fe132bf03fbe7afb1e1da11bfd3/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg" group-title="อุ๋ง อุ๋ง จะดู วัยรุ่นพันธุ์แสบ" ,วัยรุ่นพันธุ์แสบ  ตอนที่ 4
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/6101e2c040f6487307a7bdf5a0e7258a/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg" group-title="อุ๋ง อุ๋ง จะดู วัยรุ่นพันธุ์แสบ" ,วัยรุ่นพันธุ์แสบ  ตอนที่ 5
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/e50788741a684eacfad70e47c0303aba/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg" group-title="อุ๋ง อุ๋ง จะดู วัยรุ่นพันธุ์แสบ" ,วัยรุ่นพันธุ์แสบ  ตอนที่ 6
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/57139a1e2481bf3f7f5d53f8765ee405/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1692747742.jpg" group-title="อุ๋ง อุ๋ง จะดู วัยรุ่นพันธุ์แสบ" ,วัยรุ่นพันธุ์แสบ  ตอนที่ 7
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/e29714302f1d4a88b304d6b02722273a/aGQ=/master.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1690214688.jpg" group-title="อุ๋ง อุ๋ง จะดู เกมรัก นักล่า บาร์ลับ" ,เกมรัก นักล่า บาร์ลับ  ตอนที่ 1
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
 https://www.watchlakorn.in/egdeny/33fa069811c7a71cbe37be6587779176/aGQ=/master.m3u8 
@@ -3527,39 +3584,6 @@ https://www.watchlakorn.in/egdeny/8442f028e9f27585b8258f2cccee37ab/aGQ=/master.m
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1690214688.jpg" group-title="อุ๋ง อุ๋ง จะดู เกมรัก นักล่า บาร์ลับ" ,เกมรัก นักล่า บาร์ลับตอนจบ  ตอนที่ 16
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
 https://www.watchlakorn.in/egdeny/c8fedda52492ea8b5b02dd9cb7e0bcdc/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 1
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/67e3fee6c12a4f1b4b508d4354e441f0/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 2
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/ff73092f4ad4fab5fb77b18062b4e2a8/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 3
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/405c8790b2b8d5d7c3234bf64a1fee6f/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 4
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/9107d5a265bb6b0fe070bda1eb2b40c4/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 5
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/1de16a4cf0e8346cb4af087f4cf3477a/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 6
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/8837a0fc7812ff9b97cd267440c3808b/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 7
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/575e02cb6f0a3a6cf7064dd5a053c33e/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 8
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/973a81bcf0cc8cf551c39e0421239a2d/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 9
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/813f5e2092b190d1de1b2eace43e1895/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 10
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/121aea0f7e1978bf3f457d50d20aaa03/aGQ=/master.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1688429747.jpg" group-title="อุ๋ง อุ๋ง จะดู พี่พระเอกกับเด็กหมาในกอง" ,พี่พระเอกกับเด็กหมาในกอง  ตอนที่ 11
-#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
-https://www.watchlakorn.in/egdeny/78797831b3b514491a7dbf5efebe371c/aGQ=/master.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1689724730.jpg" group-title="อุ๋ง อุ๋ง จะดู รักในรอยลวง" ,รักในรอยลวง  ตอนที่ 1
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
 https://www.watchlakorn.in/egdeny/b3af0f8b07961e3f420142ccd9c4fa87/aGQ=/master.m3u8 
