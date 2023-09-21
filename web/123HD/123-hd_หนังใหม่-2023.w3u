@@ -3,6 +3,53 @@
   "author": "อุ๋ง อุ๋ง อัพวันที่ 20 กันยายน 2566",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+  "groups": [
+    {
+      "name": "Suspect (2023) ฆ่าสมการลวง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Suspect-2023-ฆ่าสมการลวง-300x450.jpg",
+      "stations": [
+        {
+          "name": "Suspect (2023) ฆ่าสมการลวง",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Suspect-2023-ฆ่าสมการลวง-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/5984fc84db40edb350eeec56/5984fc84db40edb350eeec56438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Retribution (2023) เหยียบระห่ำ ดับโคตรแค้น",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Retribution-2023-เหยียบระห่ำ-ดับโคตรแค้น-300x450.jpg",
+      "stations": [
+        {
+          "name": "Retribution (2023) เหยียบระห่ำ ดับโคตรแค้น",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Retribution-2023-เหยียบระห่ำ-ดับโคตรแค้น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/5e3687dcd3881d77af3c70d0/5e3687dcd3881d77af3c70d0438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Retribution (2023) เหยียบระห่ำ ดับโคตรแค้น",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Retribution-2023-เหยียบระห่ำ-ดับโคตรแค้น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/60ee467448696c0402000397/60ee467448696c0402000397438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "My Happy Ending (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/My-Happy-Ending-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "My Happy Ending (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/My-Happy-Ending-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/7d17d480b77c0f3ba98a4c6b/7d17d480b77c0f3ba98a4c6b438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
     {
       "name": "The Equalizer (2014) มัจจุราชไร้เงา",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Equalizer-2014-มัจจุราชไร้เงา.png",
@@ -99,26 +146,6 @@
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023-ฆาตกรรมหลอนแห่งนครเวนิส-1-300x450.jpg",
           "url": "https://main.77player.xyz/m3u8/6c7efe51534f888a29f576f3/6c7efe51534f888a29f576f3438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Retribution (2023) เหยียบระห่ำ ดับโคตรแค้น",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Retribution-2023-เหยียบระห่ำ-ดับโคตรแค้น-300x450.jpg",
-      "stations": [
-        {
-          "name": "Retribution (2023) เหยียบระห่ำ ดับโคตรแค้น",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Retribution-2023-เหยียบระห่ำ-ดับโคตรแค้น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/63f7094778fd8804f1318fe6/63f7094778fd8804f1318fe6438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Retribution (2023) เหยียบระห่ำ ดับโคตรแค้น",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Retribution-2023-เหยียบระห่ำ-ดับโคตรแค้น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/60ee467448696c0402000397/60ee467448696c0402000397438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
