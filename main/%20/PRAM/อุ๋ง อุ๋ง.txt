@@ -39,7 +39,19 @@
 	"import":"true"
   },
   {
-	"name":"🦭123-HD🐒", 
+	"name":"🦭9NUNGHD🐒", 
+	"image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+	"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/%2520/PRAM/web/9nunghd/รวม%209.txt",
+	"import":"true"
+  },
+  {
+	"name":"🦭SERIES DAY🐒", 
+	"image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+	"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/%2520/PRAM/web/seriesday/รวม.w3u",
+	"import":"true"
+  },
+  {
+	"name":"🦭123-HD🐒",
 	"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
 	"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/%2520/PRAM/web/123HD/123hd.txt",
 	"import":"true"
