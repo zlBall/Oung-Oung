@@ -1,13 +1,13 @@
 {
  "name": "กีฬา Sports",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 22 กันยายน 2566",
+ "author": "อุ๋ง อุ๋ง อัพวันที่ 26 กันยายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
   {
    "name": "The First Slam Dunk (2022) เดอะ เฟิสต์ สแลมดังก์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-First-Slam-Dunk-2022.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The First Slam Dunk (2022) เดอะ เฟิสต์ สแลมดังก์",
@@ -21,13 +21,13 @@
   {
    "name": "Champions (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Champions-2023-Poster.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Champions (2023)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Champions-2023-Poster.webp",
-     "url": "https://streamhls.com/view/b66c4645-0104-5759-a93f-f881488c5c03.m3u8",
+     "url": "https://streamhls.com/view/191b317a-f17d-593a-a3b4-616aa1af7037.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -35,13 +35,13 @@
   {
    "name": "Stephen Curry Underrated (2023) ชีวิตของสเตฟเฟน เคอร์รี",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Stephen-Curry-Underrated-2023.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Stephen Curry Underrated (2023) ชีวิตของสเตฟเฟน เคอร์รี",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Stephen-Curry-Underrated-2023.webp",
-     "url": "https://streamhls.com/view/b66c4645-0104-5759-a93f-f881488c5c03.m3u8",
+     "url": "https://streamhls.com/view/b22844b1-46ee-5505-8ec3-f3954fc3324b.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -49,13 +49,13 @@
   {
    "name": "White Men Can’t Jump (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/White-Men-Cant-Jump-2023.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "White Men Can’t Jump (2023)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/White-Men-Cant-Jump-2023.webp",
-     "url": "https://streamhls.com/view/b66c4645-0104-5759-a93f-f881488c5c03.m3u8",
+     "url": "https://streamhls.com/view/cf7dcfbe-fdc1-503a-b7b6-4fd62087f93c.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -63,7 +63,7 @@
   {
    "name": "Mr. Go (2013) มิสเตอร์คิงคอง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Mr.-Go-2013-Poster.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Mr. Go (2013) มิสเตอร์คิงคอง",
@@ -77,13 +77,13 @@
   {
    "name": "Creed III (2023) ครี้ด 3",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Creed-3-2023-Poster.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Creed III (2023) ครี้ด 3",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Creed-3-2023-Poster.webp",
-     "url": "https://streamhls.com/view/f4f4baa2-5b5b-5238-b0a7-9a29206c6fd7.m3u8",
+     "url": "https://streamhls.com/view/06d8bca4-ca52-5099-8df0-ca97d3cdbd21.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -91,13 +91,13 @@
   {
    "name": "Strong Enough (2022) เข้มแข็งให้พอ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Strong-Enough-2022.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Strong Enough (2022) เข้มแข็งให้พอ",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Strong-Enough-2022.webp",
-     "url": "https://streamhls.com/view/f4f4baa2-5b5b-5238-b0a7-9a29206c6fd7.m3u8",
+     "url": "https://streamhls.com/view/65fe6c23-a8b1-50b5-ad48-d971e0e991ad.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -105,13 +105,13 @@
   {
    "name": "The Prince Of Tennis Best Games!! (2018)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Prince-Of-Tennis-Best-Games.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "The Prince Of Tennis Best Games!! (2018)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Prince-Of-Tennis-Best-Games.webp",
-     "url": "https://streamhls.com/view/f4f4baa2-5b5b-5238-b0a7-9a29206c6fd7.m3u8",
+     "url": "https://streamhls.com/view/c9dbb719-160b-565f-8a54-5605068f3ae1.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -119,13 +119,13 @@
   {
    "name": "The Prince Of Tennis Best Games!! Vol.2 (2019) เจ้าชายลูกสักหลาด ภาค 2",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Prince-Of-Tennis-Best-Games-Vol.2-2019.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "The Prince Of Tennis Best Games!! Vol.2 (2019) เจ้าชายลูกสักหลาด ภาค 2",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Prince-Of-Tennis-Best-Games-Vol.2-2019.webp",
-     "url": "https://streamhls.com/view/f4f4baa2-5b5b-5238-b0a7-9a29206c6fd7.m3u8",
+     "url": "https://streamhls.com/view/93fa891c-b69b-5c5a-82be-5d96fb6be175.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -133,13 +133,13 @@
   {
    "name": "The Prince Of Tennis Best Games!! Vol.3 (2019) เจ้าชายลูกสักหลาด ภาค3",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Prince-Of-Tennis-Best-Games-Vol.3-2019.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "The Prince Of Tennis Best Games!! Vol.3 (2019) เจ้าชายลูกสักหลาด ภาค3",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Prince-Of-Tennis-Best-Games-Vol.3-2019.webp",
-     "url": "https://streamhls.com/view/f4f4baa2-5b5b-5238-b0a7-9a29206c6fd7.m3u8",
+     "url": "https://streamhls.com/view/5455a39f-f893-543d-95ba-02f01881fa05.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -147,13 +147,13 @@
   {
    "name": "Caught Out Crime Corruption Cricket (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Caught-Out-Crime-CorruptionCricket-2023.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Caught Out Crime Corruption Cricket (2023)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Caught-Out-Crime-CorruptionCricket-2023.webp",
-     "url": "https://streamhls.com/view/f4f4baa2-5b5b-5238-b0a7-9a29206c6fd7.m3u8",
+     "url": "https://streamhls.com/view/0a2ec558-f52e-5488-8143-a25bab668a56.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -161,13 +161,13 @@
   {
    "name": "Chang Can Dunk (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Chang-Can-Dunk-2023.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Chang Can Dunk (2023)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Chang-Can-Dunk-2023.webp",
-     "url": "https://streamhls.com/view/f4f4baa2-5b5b-5238-b0a7-9a29206c6fd7.m3u8",
+     "url": "https://streamhls.com/view/6b499ae2-e4f9-5917-a3e3-2a9b3cc1b993.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -175,13 +175,13 @@
   {
    "name": "Bill Russell Legend 2 (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/BillRussell2-1.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Bill Russell Legend 2 (2023)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/BillRussell2-1.webp",
-     "url": "https://streamhls.com/view/f4f4baa2-5b5b-5238-b0a7-9a29206c6fd7.m3u8",
+     "url": "https://streamhls.com/view/dba7937b-2c1c-557f-81ff-363398bf721d.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -189,13 +189,13 @@
   {
    "name": "Bill Russell Legend (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Bill2.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Bill Russell Legend (2023)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Bill2.webp",
-     "url": "https://streamhls.com/view/f4f4baa2-5b5b-5238-b0a7-9a29206c6fd7.m3u8",
+     "url": "https://streamhls.com/view/608ce654-2ca7-557f-b1d6-de104d70e82a.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -203,7 +203,7 @@
   {
    "name": "Creed (2015) ครี้ด บ่มแชมป์เลือดนักชก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Creed-232228847-large.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Creed (2015) ครี้ด บ่มแชมป์เลือดนักชก",
@@ -211,19 +211,26 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Creed-232228847-large.webp",
      "url": "https://streamhls.com/view/310c717f-82c9-524f-95ff-254e819054f2.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Creed (2015) ครี้ด บ่มแชมป์เลือดนักชก",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Creed-232228847-large.webp",
+     "url": "https://streamhls.com/view/e2151452-7311-5b39-adf7-7968155366a1.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Classico (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/Classico-2022.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Classico (2022)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/Classico-2022.webp",
-     "url": "https://streamhls.com/view/310c717f-82c9-524f-95ff-254e819054f2.m3u8",
+     "url": "https://streamhls.com/view/52aa4d31-ed0c-5b41-9893-fb2ded5f2227.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -231,7 +238,7 @@
   {
    "name": "The Redeem Team (2022) เดอะ รีดีม ทีม",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/The-Redeem-Team-2022.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Redeem Team (2022) เดอะ รีดีม ทีม",
@@ -239,19 +246,26 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/The-Redeem-Team-2022.webp",
      "url": "https://streamhls.com/view/f85a7ee7-ab50-5210-8dd2-b476c0aa4286.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Redeem Team (2022) เดอะ รีดีม ทีม",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/The-Redeem-Team-2022.webp",
+     "url": "https://streamhls.com/view/d5fc9314-8a4b-518e-9c77-ecad3a9b9e66.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Prizefighter The Life of Jem Belcher (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Prizefighter-The-Life-of-Jem-Belcher-2022.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Prizefighter The Life of Jem Belcher (2022)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Prizefighter-The-Life-of-Jem-Belcher-2022.webp",
-     "url": "https://streamhls.com/view/f85a7ee7-ab50-5210-8dd2-b476c0aa4286.m3u8",
+     "url": "https://streamhls.com/view/23cd3961-9c0b-53b7-beac-167b4bfc00ae.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -259,13 +273,13 @@
   {
    "name": "Kuroko’s Basketball Last Game (2017) คุโรโกะ นายจืดพลิกสังเวียนบาส เกมสุดท้าย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Kurokos-Basketball-Last-Game-2017.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Kuroko’s Basketball Last Game (2017) คุโรโกะ นายจืดพลิกสังเวียนบาส เกมสุดท้าย",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Kurokos-Basketball-Last-Game-2017.webp",
-     "url": "https://streamhls.com/view/f85a7ee7-ab50-5210-8dd2-b476c0aa4286.m3u8",
+     "url": "https://streamhls.com/view/4182c312-ae78-527e-b434-7fd90b6eefc8.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -273,13 +287,13 @@
   {
    "name": "Kuroko no Basket Movie 3 Winter Cup Soushuuhen Tobira no Mukou (2016)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Kuroko-no-Basket-Movie-3-Winter-Cup-Soushuuhen-2016.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Kuroko no Basket Movie 3 Winter Cup Soushuuhen Tobira no Mukou (2016)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Kuroko-no-Basket-Movie-3-Winter-Cup-Soushuuhen-2016.webp",
-     "url": "https://streamhls.com/view/f85a7ee7-ab50-5210-8dd2-b476c0aa4286.m3u8",
+     "url": "https://streamhls.com/view/4875f163-2c35-5cd5-941d-060e149e5c62.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -287,7 +301,7 @@
   {
    "name": "Kuroko no Basket Movie 2 Winter Cup Soushuuhen Namida no Saki e (2016)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Kuroko-no-Basket-Movie-2-Winter-Cup-Soushuuhen.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Kuroko no Basket Movie 2 Winter Cup Soushuuhen Namida no Saki e (2016)",
@@ -301,13 +315,13 @@
   {
    "name": "Kuroko no Basket Movie 1 Winter Cup Soushuuhen Kage to Hikari (2016)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Kuroko-no-Basket-Movie-1-Winter-Cup-Soushuuhen-Kage-to-Hikari.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Kuroko no Basket Movie 1 Winter Cup Soushuuhen Kage to Hikari (2016)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Kuroko-no-Basket-Movie-1-Winter-Cup-Soushuuhen-Kage-to-Hikari.webp",
-     "url": "https://streamhls.com/view/203ec52c-d142-5c53-a10b-bc1efc8d5852.m3u8",
+     "url": "https://streamhls.com/view/2be5e86d-ff10-5531-9fa3-42added3eedd.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -315,13 +329,13 @@
   {
    "name": "Chhalaang (2020)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Chhalaang-2020.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Chhalaang (2020)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Chhalaang-2020.webp",
-     "url": "https://streamhls.com/view/203ec52c-d142-5c53-a10b-bc1efc8d5852.m3u8",
+     "url": "https://streamhls.com/view/6443354a-85a8-5a48-bda5-ee99fc09702f.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -329,13 +343,13 @@
   {
    "name": "The Figo Affair The Transfer that Changed Football (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/The-Figo-Affair-The-Transfer-that-Changed-Football-2022.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "The Figo Affair The Transfer that Changed Football (2022)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/The-Figo-Affair-The-Transfer-that-Changed-Football-2022.webp",
-     "url": "https://streamhls.com/view/203ec52c-d142-5c53-a10b-bc1efc8d5852.m3u8",
+     "url": "https://streamhls.com/view/60035de1-7ec1-52f2-8741-bcb14ca9e63f.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -343,13 +357,13 @@
   {
    "name": "The Phantom of the Open (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/The-Phantom-of-the-Open-2022.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "The Phantom of the Open (2022)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/The-Phantom-of-the-Open-2022.webp",
-     "url": "https://streamhls.com/view/203ec52c-d142-5c53-a10b-bc1efc8d5852.m3u8",
+     "url": "https://streamhls.com/view/dac5d228-bf80-59b0-9303-8fe2e8289ce9.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -357,13 +371,13 @@
   {
    "name": "Shabaash Mithu (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Shabaash-Mithu-2022.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Shabaash Mithu (2022)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Shabaash-Mithu-2022.webp",
-     "url": "https://streamhls.com/view/203ec52c-d142-5c53-a10b-bc1efc8d5852.m3u8",
+     "url": "https://streamhls.com/view/0edabc11-32c4-587f-851a-30e721027942.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -371,13 +385,13 @@
   {
    "name": "Stay On Board The Leo Baker Story (2022) สเก็ตสไตล์ลีโอ เบเกอร์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Stay-on-Board-2022-สเก็ตสไตล์ลีโอ-เบเกอร์.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Stay On Board The Leo Baker Story (2022) สเก็ตสไตล์ลีโอ เบเกอร์",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Stay-on-Board-2022-สเก็ตสไตล์ลีโอ-เบเกอร์.webp",
-     "url": "https://streamhls.com/view/203ec52c-d142-5c53-a10b-bc1efc8d5852.m3u8",
+     "url": "https://streamhls.com/view/ea5bc777-d2bb-5514-baac-89756f45cd93.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -385,13 +399,13 @@
   {
    "name": "American Underdog The Kurt Warner Story (2021)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/American-Underdog-The-Kurt-Warner-Story-2021.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "American Underdog The Kurt Warner Story (2021)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/American-Underdog-The-Kurt-Warner-Story-2021.webp",
-     "url": "https://streamhls.com/view/203ec52c-d142-5c53-a10b-bc1efc8d5852.m3u8",
+     "url": "https://streamhls.com/view/42919339-ca49-5285-aadb-f3c6b00b3a28.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -399,7 +413,7 @@
   {
    "name": "Rise (2022) บรรยายไทย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/czXyMcmiulyZjhYAnnMwVhFCvN.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Rise (2022) บรรยายไทย",
@@ -413,7 +427,7 @@
   {
    "name": "Battle Freestyle (2022) แบตเทิล สงครามจังหวะ ฟรีสไตล์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vdgUNCruHI6jX9TU4vvplgpDtL7.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Battle Freestyle (2022) แบตเทิล สงครามจังหวะ ฟรีสไตล์",
@@ -427,7 +441,7 @@
   {
    "name": "Baseball Girl | Viu (2019) (อีจูยอง)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5WwxRNREgCtITwPLlpwl5VwgTyb.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Baseball Girl | Viu (2019) (อีจูยอง)",
@@ -441,7 +455,7 @@
   {
    "name": "Ali & Cavett The Tale of the Tapes (2018)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/egzfj0JpgrVfpMXF4tfHpzEYM70.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Ali & Cavett The Tale of the Tapes (2018)",
@@ -455,7 +469,7 @@
   {
    "name": "Creed II (2018) ครี้ด 2 บ่มแชมป์เลือดนักชก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190317090121creed-ii-5c0eaa138e5e0.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Creed II (2018) ครี้ด 2 บ่มแชมป์เลือดนักชก",
@@ -469,7 +483,7 @@
   {
    "name": "First Match (2018) เฟิร์ส แมทช์ (ซับไทย From Netflix)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zwmtK6A7jwriIY0gh0HUgvI1ETA.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "First Match (2018) เฟิร์ส แมทช์ (ซับไทย From Netflix)",
@@ -483,7 +497,7 @@
   {
    "name": "Sparring | Netflix (2017) คู่ชกสังเวียนสุดท้าย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/6rmlOncQef6AM6o0ElVyQcEJqg8.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Sparring | Netflix (2017) คู่ชกสังเวียนสุดท้าย",
@@ -497,7 +511,7 @@
   {
    "name": "Bring It On Worldwide #Cheersmack (2017) สาวเชียร์เท้าไฟ หัวใจวี้ดบึ้ม ภาค 7 [ซับไทย]",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Cheersmack-2017.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Bring It On Worldwide #Cheersmack (2017) สาวเชียร์เท้าไฟ หัวใจวี้ดบึ้ม ภาค 7 [ซับไทย]",
@@ -511,7 +525,7 @@
   {
    "name": "Chuck (2016) สุภาพบุรุษหยุดสังเวียน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/o6h2qXPJR9Rc4guF38MDhluaX6L.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Chuck (2016) สุภาพบุรุษหยุดสังเวียน",
@@ -525,7 +539,7 @@
   {
    "name": "I Am Bolt (2016) ยูเซียน โบลท์ ลมกรดสายฟ้า",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/I-Am-Bolt-2016.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "I Am Bolt (2016) ยูเซียน โบลท์ ลมกรดสายฟ้า",
@@ -539,7 +553,7 @@
   {
    "name": "Emma s Chance (2016) เส้นทางเปลี่ยนชีวิตของเอ็มม่า",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Emmas-Chance-TMNS.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Emma s Chance (2016) เส้นทางเปลี่ยนชีวิตของเอ็มม่า",
@@ -553,7 +567,7 @@
   {
    "name": "RACE (2016) ต้องกล้าวิ่ง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Race28201629.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "RACE (2016) ต้องกล้าวิ่ง",
@@ -561,13 +575,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Race28201629.webp",
      "url": "https://streamhls.com/view/b245a233-e62b-548f-90c8-05697ae5115a.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "RACE (2016) ต้องกล้าวิ่ง",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Race28201629.webp",
+     "url": "https://streamhls.com/view/854067c8-65f3-5dda-97b7-98f2760e06cd.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Woodlawn (2015) หัวใจทรนง (ซับไทย)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190113073656woodlawn-5666b0e7897bc.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Woodlawn (2015) หัวใจทรนง (ซับไทย)",
@@ -581,7 +602,7 @@
   {
    "name": "To The Fore (2015) ปั่น ท้า โลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/To_the_Fore_2015_film_poster.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "To The Fore (2015) ปั่น ท้า โลก",
@@ -595,7 +616,7 @@
   {
    "name": "Win Win (2011) ชนะได้ถ้าใจแจ่ม",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20181218141708win-win-5a694bee829b8.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Win Win (2011) ชนะได้ถ้าใจแจ่ม",
@@ -609,7 +630,7 @@
   {
    "name": "Goal! III Taking On The World (2009) โกล์ เกมหยุดโลก ภาค 3",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/i60mt4OlfMlcEBiFiwDUdRE7DIk.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Goal! III Taking On The World (2009) โกล์ เกมหยุดโลก ภาค 3",
@@ -623,7 +644,7 @@
   {
    "name": "Chasing The Green (2009) คว้าหัวใจ ไล่ตามฝัน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Chasing-the-Green-2009.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Chasing The Green (2009) คว้าหัวใจ ไล่ตามฝัน",
@@ -637,7 +658,7 @@
   {
    "name": "Dream Team (2008) ดรีมทีม ฮีโร่ฟันน้ำนม",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/3Ys4BqoFQMOmBeEKMNPQFSdZpqg.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Dream Team (2008) ดรีมทีม ฮีโร่ฟันน้ำนม",
@@ -651,7 +672,7 @@
   {
    "name": "Kungfu Dunk (2008) กังฟูดังค์ ศึกบาสทะยานฟ้า",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/KungfuDunk28200829.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Kungfu Dunk (2008) กังฟูดังค์ ศึกบาสทะยานฟ้า",
@@ -665,7 +686,7 @@
   {
    "name": "Goal II Living the Dream (2007) โกล์ เกมหยุดโลก ภาค 2",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/sKKej989oVbZahldAkrMVmyB8pU.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Goal II Living the Dream (2007) โกล์ เกมหยุดโลก ภาค 2",
@@ -679,7 +700,7 @@
   {
    "name": "We Are Marshall (2006) ทีมกู้ฝัน เดิมพันเกียรติยศ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/QTm9GQ.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "We Are Marshall (2006) ทีมกู้ฝัน เดิมพันเกียรติยศ",
@@ -693,7 +714,7 @@
   {
    "name": "Two For The Money (2005) พลิกเหลี่ยม มนุษย์เงินล้าน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/31518599737.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Two For The Money (2005) พลิกเหลี่ยม มนุษย์เงินล้าน",
@@ -707,7 +728,7 @@
   {
    "name": "Lords of Dogtown (2005) เด็กบอร์ดพันธุ์ซ่าส์ขาติดล้อ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/oF48LT.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Lords of Dogtown (2005) เด็กบอร์ดพันธุ์ซ่าส์ขาติดล้อ",
@@ -721,7 +742,7 @@
   {
    "name": "The Greatest Game Ever Played (2005) เกมยิ่งใหญ่…ชัยชนะเหนือความฝัน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Greatest-Game-Ever-Played-2005.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Greatest Game Ever Played (2005) เกมยิ่งใหญ่…ชัยชนะเหนือความฝัน",
@@ -735,7 +756,7 @@
   {
    "name": "Goal! The Dream Begins (2005) โกล์! เกมหยุดโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/spd_20100208214055_b.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Goal! The Dream Begins (2005) โกล์! เกมหยุดโลก",
@@ -749,7 +770,7 @@
   {
    "name": "Seabiscuit (2003) ม้าพิชิตโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xzYOaFGZBNAciQXRasQQ8sYxBSi.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Seabiscuit (2003) ม้าพิชิตโลก",
@@ -757,13 +778,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xzYOaFGZBNAciQXRasQQ8sYxBSi.webp",
      "url": "https://streamhls.com/view/c47ac80c-3ef6-5ce8-8b92-4abcaca77524.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Seabiscuit (2003) ม้าพิชิตโลก",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xzYOaFGZBNAciQXRasQQ8sYxBSi.webp",
+     "url": "https://streamhls.com/view/1c8684a4-ccf3-55cb-85e0-ff659761b5ce.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "For Love of the Game (1999) ทุ่มหัวใจให้เกมรัก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vkeKxoSXE1qMArcFNTNBBH8TjKZ.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "For Love of the Game (1999) ทุ่มหัวใจให้เกมรัก",
@@ -771,13 +799,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vkeKxoSXE1qMArcFNTNBBH8TjKZ.webp",
      "url": "https://streamhls.com/view/7790f328-43d1-5c0e-8661-357a2b28ef6a.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "For Love of the Game (1999) ทุ่มหัวใจให้เกมรัก",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vkeKxoSXE1qMArcFNTNBBH8TjKZ.webp",
+     "url": "https://streamhls.com/view/7835cd01-cafa-5300-80b1-8ebae7a55031.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "KickBoxer (1989) คิกบ๊อกเซอร์ สังเวียนแค้น สังเวียนชีวิต",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Kickboxer28198929.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "KickBoxer (1989) คิกบ๊อกเซอร์ สังเวียนแค้น สังเวียนชีวิต",
@@ -791,7 +826,7 @@
   {
    "name": "The Cannonball Run (1981) เหาะแล้วซิ่ง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/pvn9SbMq9q8wJXt3KAp9kP7pmpb.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Cannonball Run (1981) เหาะแล้วซิ่ง",

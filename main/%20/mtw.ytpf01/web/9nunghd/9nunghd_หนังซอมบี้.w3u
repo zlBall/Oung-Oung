@@ -1,13 +1,34 @@
 {
  "name": "หนังซอมบี้",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 22 กันยายน 2566",
+ "author": "อุ๋ง อุ๋ง อัพวันที่ 26 กันยายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
   {
+   "name": "Gangnam Zombie (2023) คังนัมซอมบี้",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Gangnam-Zombie-2023.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Gangnam Zombie (2023) คังนัมซอมบี้",
+     "info": "พายกย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Gangnam-Zombie-2023.webp",
+     "url": "https://streamhls.com/view/c0a66eb0-a429-54a9-818a-80c5e3a5ed54.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Gangnam Zombie (2023) คังนัมซอมบี้",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Gangnam-Zombie-2023.webp",
+     "url": "https://streamhls.com/view/193923c4-f4e4-5110-b95d-1170767081f2.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Renfield (2023) เรนฟิลด์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Renfield-2023-Poster.webp",
-   "info": "ZM",
+   "info": "พากย์ไทย(C)",
    "stations": [
     {
      "name": "Renfield (2023) เรนฟิลด์",
@@ -19,23 +40,9 @@
    ]
   },
   {
-   "name": "Gangnam Zombie (2023) คังนัมซอมบี้",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Gangnam-Zombie-2023.webp",
-   "info": "HD",
-   "stations": [
-    {
-     "name": "Gangnam Zombie (2023) คังนัมซอมบี้",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Gangnam-Zombie-2023.webp",
-     "url": "https://streamhls.com/view/f4f39650-a58a-5e39-baea-02ad0a3fdd47.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Freaks of Nature (2015) สามพันธุ์เพี้ยน เกรียนพิทักษ์โลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/FreaksofNature28201529.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Freaks of Nature (2015) สามพันธุ์เพี้ยน เกรียนพิทักษ์โลก",
@@ -43,13 +50,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/FreaksofNature28201529.webp",
      "url": "https://streamhls.com/view/18819d81-182f-5165-afa9-273b37cdae53.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Freaks of Nature (2015) สามพันธุ์เพี้ยน เกรียนพิทักษ์โลก",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/FreaksofNature28201529.webp",
+     "url": "https://streamhls.com/view/3c22cb79-7931-59e4-8e43-0f856175e861.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Kingdom Ashin of the North (2021) ผีดิบคลั่ง บัลลังก์เดือด อาชินแห่งเผ่าเหนือ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/880d27dfcf3c63551ec3bdf9b7bd8a86.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Kingdom Ashin of the North (2021) ผีดิบคลั่ง บัลลังก์เดือด อาชินแห่งเผ่าเหนือ",
@@ -57,13 +71,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/880d27dfcf3c63551ec3bdf9b7bd8a86.webp",
      "url": "https://streamhls.com/view/7b76bca1-2889-5972-9aa8-cb1138e898c3.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kingdom Ashin of the North (2021) ผีดิบคลั่ง บัลลังก์เดือด อาชินแห่งเผ่าเหนือ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/880d27dfcf3c63551ec3bdf9b7bd8a86.webp",
+     "url": "https://streamhls.com/view/2d7b2bd5-fd7f-5170-bc56-7a3ded827b9d.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Army of the Dead (2021) แผนปล้นซอมบี้เดือด",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/x3taBaWfRzw1NIKhEPpKPwKBAOC.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Army of the Dead (2021) แผนปล้นซอมบี้เดือด",
@@ -71,13 +92,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/x3taBaWfRzw1NIKhEPpKPwKBAOC.webp",
      "url": "https://streamhls.com/view/8b886b99-39fd-5ad9-aaf3-b066e61ee693.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Army of the Dead (2021) แผนปล้นซอมบี้เดือด",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/x3taBaWfRzw1NIKhEPpKPwKBAOC.webp",
+     "url": "https://streamhls.com/view/2f191b13-3d92-5ffa-84b1-4419a1095aef.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Alive (#Saraitda) (2020) | Netflix คนเป็นฝ่านรกซอมบี้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/s6W4ujy2XtDzWh7c7EakTUrZqqv-1.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Alive (#Saraitda) (2020) | Netflix คนเป็นฝ่านรกซอมบี้",
@@ -85,13 +113,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/s6W4ujy2XtDzWh7c7EakTUrZqqv-1.webp",
      "url": "https://streamhls.com/view/bc835877-ddc1-56b9-be46-132bc58465f2.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Alive (#Saraitda) (2020) | Netflix คนเป็นฝ่านรกซอมบี้",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/s6W4ujy2XtDzWh7c7EakTUrZqqv-1.webp",
+     "url": "https://streamhls.com/view/f0cc7188-ff74-5db4-b68b-96364dee19e4.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Alive (#Saraitda) (2020) (พัคชินฮเย ยูอาอิน)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/s6W4ujy2XtDzWh7c7EakTUrZqqv.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Alive (#Saraitda) (2020) (พัคชินฮเย ยูอาอิน)",
@@ -105,7 +140,7 @@
   {
    "name": "Peninsula (Train to Busan 2) (2020) ฝ่านรกซอมบี้คลั่ง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ew1lAU8yV66JbivBU1Zh4Wj4pOB.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Peninsula (Train to Busan 2) (2020) ฝ่านรกซอมบี้คลั่ง",
@@ -113,13 +148,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ew1lAU8yV66JbivBU1Zh4Wj4pOB.webp",
      "url": "https://streamhls.com/view/44d87c00-21c9-5271-b26d-036c51e533b9.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Peninsula (Train to Busan 2) (2020) ฝ่านรกซอมบี้คลั่ง",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ew1lAU8yV66JbivBU1Zh4Wj4pOB.webp",
+     "url": "https://streamhls.com/view/acf7b429-a487-5c37-b195-a794dfec0ee3.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Little Monsters (2019) ซอมบี้มาแล้วงับ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vN5wqEsnvBkkh1zFYGmn5zg6Wh4.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Little Monsters (2019) ซอมบี้มาแล้วงับ",
@@ -127,13 +169,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vN5wqEsnvBkkh1zFYGmn5zg6Wh4.webp",
      "url": "https://streamhls.com/view/0b9d0988-dfd0-5479-af1e-65d4cd4f3c6e.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Little Monsters (2019) ซอมบี้มาแล้วงับ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vN5wqEsnvBkkh1zFYGmn5zg6Wh4.webp",
+     "url": "https://streamhls.com/view/13aab3bf-5c54-5973-81cf-232ae31d09f1.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Zombieland Double Tap (2019) ซอมบี้แลนด์ แก๊งซ่าส์ล่าล้างซอมบี้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Zombieland-Double-Tap-2019.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Zombieland Double Tap (2019) ซอมบี้แลนด์ แก๊งซ่าส์ล่าล้างซอมบี้",
@@ -141,13 +190,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Zombieland-Double-Tap-2019.webp",
      "url": "https://streamhls.com/view/5a125938-3fbb-5f98-a0a7-f186ccd9d6ee.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Zombieland Double Tap (2019) ซอมบี้แลนด์ แก๊งซ่าส์ล่าล้างซอมบี้",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Zombieland-Double-Tap-2019.webp",
+     "url": "https://streamhls.com/view/a54d6f07-ce3e-5947-8587-3b40f2a9bc0d.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Rampant (Chang-gwol) (2018) นครนรกซอมบี้คลั่ง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8O6pXiKCBjYWN7BSReOQDPLF0Ty.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Rampant (Chang-gwol) (2018) นครนรกซอมบี้คลั่ง",
@@ -161,7 +217,7 @@
   {
    "name": "Day of the Dead Bloodline (2018) วันนรกเดือด มฤตยูซอมบี้สยอง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/3jM4C1wJxHLWlF4tcSyyv6fnJPR-1.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Day of the Dead Bloodline (2018) วันนรกเดือด มฤตยูซอมบี้สยอง",
@@ -175,7 +231,7 @@
   {
    "name": "The Cured (2018) ซอมบี้กำเริบคลั่ง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qheJcFjQ3hAMroE8y6FpCg6jNeN.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Cured (2018) ซอมบี้กำเริบคลั่ง",
@@ -189,7 +245,7 @@
   {
    "name": "Cargo (2018) คาร์โก้ (ซับไทย)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/q85QmUW1O4rGWNo3ObCGhrJ2b4R.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Cargo (2018) คาร์โก้ (ซับไทย)",
@@ -203,7 +259,7 @@
   {
    "name": "The Girl With All The Gifts (2016) เชื้อนรกล้างซอมบี้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vdCD8z55a4RNmHQDPIpuMFqoY2B.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Girl With All The Gifts (2016) เชื้อนรกล้างซอมบี้",
@@ -211,13 +267,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vdCD8z55a4RNmHQDPIpuMFqoY2B.webp",
      "url": "https://streamhls.com/view/9e787d94-0d47-58b7-9557-187c3b8704ac.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Girl With All The Gifts (2016) เชื้อนรกล้างซอมบี้",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vdCD8z55a4RNmHQDPIpuMFqoY2B.webp",
+     "url": "https://streamhls.com/view/13b32a5e-b15d-5eda-824c-80dee3c4b258.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Pandemic (2016) หยุดวิบัติไวรัสซอมบี้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Pandemic282016295BSubTH5D.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Pandemic (2016) หยุดวิบัติไวรัสซอมบี้",
@@ -231,7 +294,7 @@
   {
    "name": "I Am A Hero (2015) ข้าคือฮีโร่",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/I-Am-a-Hero-2016.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "I Am A Hero (2015) ข้าคือฮีโร่",
@@ -245,7 +308,7 @@
   {
    "name": "Dead Rising Watchtower (2015) เชื้อสยองแพร่พันธุ์ซอมบี้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/DEADRISINGWATCHTOWERE0B980E0B88AE0B8B7E0B989E0B8ADE0B8AAE0B8A2E0B8ADE0B887E0B981E0B89EE0B8A3E0B988E0B89EE0B8B1E0B899E0B898E0B8B8E0B98CE0B88BE0B8ADE0B8A1E0B89AE0B8B5E0B989.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Dead Rising Watchtower (2015) เชื้อสยองแพร่พันธุ์ซอมบี้",
@@ -259,7 +322,7 @@
   {
    "name": "Zombie Fight Club (2014) เชื้อไวรัส ซัดสยองโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/WoMJLX.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Zombie Fight Club (2014) เชื้อไวรัส ซัดสยองโลก",
@@ -271,15 +334,15 @@
    ]
   },
   {
-   "name": "Zombie School (2014) โรงเรียนเดือด ซอมบี้ดุ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Bb6dAFf.webp",
-   "info": "HD",
+   "name": "Strippers vs Werewolves (2012) สวยระห่ำ ปะทะ มนุษย์หมาป่า",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/McPFrYt.webp",
+   "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "Zombie School (2014) โรงเรียนเดือด ซอมบี้ดุ",
+     "name": "Strippers vs Werewolves (2012) สวยระห่ำ ปะทะ มนุษย์หมาป่า",
      "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Bb6dAFf.webp",
-     "url": "https://streamhls.com/view/d600c419-c2bd-578b-8661-9ec2f5da523b.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/McPFrYt.webp",
+     "url": "https://streamhls.com/view/22170e24-29cd-5acc-bd12-8c597f220a1d.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -287,7 +350,7 @@
   {
    "name": "Strippers vs Werewolves (2012) สวยระห่ำ ปะทะ มนุษย์หมาป่า",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/McPFrYt.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Strippers vs Werewolves (2012) สวยระห่ำ ปะทะ มนุษย์หมาป่า",
@@ -301,7 +364,7 @@
   {
    "name": "Infected (2013) ซอมบี้เขมือบโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Infected-2013.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Infected (2013) ซอมบี้เขมือบโลก",
@@ -315,7 +378,7 @@
   {
    "name": "Fright Night 2 New Blood (2013) คืนนี้ผีมาตามนัด 2 ดุฝังเขี้ยว",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Fright-Night-2-C.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Fright Night 2 New Blood (2013) คืนนี้ผีมาตามนัด 2 ดุฝังเขี้ยว",
@@ -329,7 +392,7 @@
   {
    "name": "Battle Of The Damned (2013) สงครามจักรกลถล่มกองทัพซอมบี้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/battle-of-the-damned-movie1.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Battle Of The Damned (2013) สงครามจักรกลถล่มกองทัพซอมบี้",
@@ -343,7 +406,7 @@
   {
    "name": "Kiss of the Damned (2012) จุมพิตต้องคำสาป",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Ovtz2Br.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Kiss of the Damned (2012) จุมพิตต้องคำสาป",
@@ -357,7 +420,7 @@
   {
    "name": "Werewolf The Beast Among Us (2012) ล่าอสูรนรก มนุษย์หมาป่า",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/WerewolfTheBeastAmongUs28201229.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Werewolf The Beast Among Us (2012) ล่าอสูรนรก มนุษย์หมาป่า",
@@ -371,7 +434,7 @@
   {
    "name": "Byzantium (2012) ล่าแวมไพร์อมตะ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Byzantium.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Byzantium (2012) ล่าแวมไพร์อมตะ",
@@ -385,7 +448,7 @@
   {
    "name": "Cockneys vs Zombies (2012) แก่เก๋า ปะทะ ซอมบี้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/cockneys-vs-zombies_de.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Cockneys vs Zombies (2012) แก่เก๋า ปะทะ ซอมบี้",
@@ -399,7 +462,7 @@
   {
    "name": "Abraham Lincoln Vampire Hunter (2012) อับราฮัม ลินคอล์น นักล่าแวมไพร์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190223130201abraham-lincoln-vampire-hunter-534cbb46cb0bb.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Abraham Lincoln Vampire Hunter (2012) อับราฮัม ลินคอล์น นักล่าแวมไพร์",
@@ -413,7 +476,7 @@
   {
    "name": "Resident Evil 5 Retribution (2012) ผีชีวะ 5 สงครามไวรัสล้างนรก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qRhi9UDgfstP9aIJTCoO9u13Q7t.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Resident Evil 5 Retribution (2012) ผีชีวะ 5 สงครามไวรัสล้างนรก",
@@ -427,7 +490,7 @@
   {
    "name": "State of Emergency (2011) ฝ่าด่านนรกเมืองซอมบี้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/psKpVNmmOspaEXIqpIq5p8yIJ1M.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "State of Emergency (2011) ฝ่าด่านนรกเมืองซอมบี้",
@@ -441,7 +504,7 @@
   {
    "name": "Fright Night (2011) คืนนี้ผีมาตามนัด",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/FrightNight28201129.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Fright Night (2011) คืนนี้ผีมาตามนัด",
@@ -455,7 +518,7 @@
   {
    "name": "War Of The Dead (2011) ฝ่าดงนรกกองทัพซอมบี้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/NNF.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "War Of The Dead (2011) ฝ่าดงนรกกองทัพซอมบี้",
@@ -469,7 +532,7 @@
   {
    "name": "The Devil’s Flower (2010) ปาฏิหาริย์มัจจุราชล่ารัก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/0IR1oEh.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Devil’s Flower (2010) ปาฏิหาริย์มัจจุราชล่ารัก",
@@ -483,7 +546,7 @@
   {
    "name": "Resident Evil 4 Afterlife (2010) ผีชีวะ 4 สงครามแตกพันธุ์ไวรัส",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/szUA5nI2209cCQIv8iIP6tOw8Rf.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Resident Evil 4 Afterlife (2010) ผีชีวะ 4 สงครามแตกพันธุ์ไวรัส",
@@ -497,7 +560,7 @@
   {
    "name": "Let Me In (2010) แวมไพร์ ร้ายเดียงสา",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/LetMeIn.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Let Me In (2010) แวมไพร์ ร้ายเดียงสา",
@@ -511,7 +574,7 @@
   {
    "name": "Blood The Last Vampire (2009) ยัยตัวร้าย สายพันธุ์อมตะ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/BloodTheLastVampire28200929.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Blood The Last Vampire (2009) ยัยตัวร้าย สายพันธุ์อมตะ",
@@ -519,13 +582,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/BloodTheLastVampire28200929.webp",
      "url": "https://streamhls.com/view/c5e34b25-5c21-508c-8f80-fd442cfc2665.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Blood The Last Vampire (2009) ยัยตัวร้าย สายพันธุ์อมตะ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/BloodTheLastVampire28200929.webp",
+     "url": "https://streamhls.com/view/4a048cf5-c73e-5a01-bad8-620e785218a8.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The Horde (La Horde) (2009) ฝ่านรก โขยงซอมบี้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/La_horde_2009_2-754x1024-1.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Horde (La Horde) (2009) ฝ่านรก โขยงซอมบี้",
@@ -539,7 +609,7 @@
   {
    "name": "Shadowland (2008) คืนชีพล่าเขี้ยวอาถรรพ์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Shadowland-2010-Hollywood-Movie-Watch-Online1.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Shadowland (2008) คืนชีพล่าเขี้ยวอาถรรพ์",
@@ -553,7 +623,7 @@
   {
    "name": "Vampire Twilight 1 (2008) แวมไพร์ ทไวไลท์ ภาค 1",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/lcMp3AONdNhjYE9MmTtMMTOiRDP.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Vampire Twilight 1 (2008) แวมไพร์ ทไวไลท์ ภาค 1",
@@ -567,7 +637,7 @@
   {
    "name": "Day of the Dead (2008) วันนรก กัดไม่เหลือซาก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tumblr_nailecr09Y1tvsbvjo1_1280.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Day of the Dead (2008) วันนรก กัดไม่เหลือซาก",
@@ -581,7 +651,7 @@
   {
    "name": "Blood and Chocolate (2007) เจ้าสาวพันธุ์อสูร",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xsAUldf.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Blood and Chocolate (2007) เจ้าสาวพันธุ์อสูร",
@@ -595,7 +665,7 @@
   {
    "name": "Bloodrayne 2 Deliverance (2007) ผ่าพิภพแวมไพร์ ภาค 2",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/AwmeqDr.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Bloodrayne 2 Deliverance (2007) ผ่าพิภพแวมไพร์ ภาค 2",
@@ -609,7 +679,7 @@
   {
    "name": "Moonlight the Vampire (2007) ผีกัดฟัดแวมไพร์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/MOV811_Moonligh.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Moonlight the Vampire (2007) ผีกัดฟัดแวมไพร์",
@@ -623,7 +693,7 @@
   {
    "name": "Resident Evil 3 Extinction (2007) ผีชีวะ 3 สงครามสูญพันธุ์ไวรัส",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/84s6e0V8hB87eOI5X3zVtkDboto.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Resident Evil 3 Extinction (2007) ผีชีวะ 3 สงครามสูญพันธุ์ไวรัส",
@@ -637,7 +707,7 @@
   {
    "name": "BloodRayne (2005) ผ่าพิภพแวมไพร์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/u8XQ045.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "BloodRayne (2005) ผ่าพิภพแวมไพร์",
@@ -651,7 +721,7 @@
   {
    "name": "Feast (2005) พันธุ์ขย้ำเขี้ยวเขมือบโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8lDq8P4.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Feast (2005) พันธุ์ขย้ำเขี้ยวเขมือบโลก",
@@ -665,7 +735,7 @@
   {
    "name": "Resident Evil 2 Apocalypse (2004) ผีชีวะ 2 ผ่าวิกฤตไวรัสสยองโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zJFZUe1TgvUevJwg2gmSPBbvutF.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Resident Evil 2 Apocalypse (2004) ผีชีวะ 2 ผ่าวิกฤตไวรัสสยองโลก",
@@ -679,7 +749,7 @@
   {
    "name": "Blade 3 Trinity (2004) เบลด 3 อำมหิต…พันธุ์อมตะ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Blade-31.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Blade 3 Trinity (2004) เบลด 3 อำมหิต…พันธุ์อมตะ",
@@ -693,7 +763,7 @@
   {
    "name": "Dawn of the Dead (2004) รุ่งอรุณแห่งความตาย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/DawnoftheDead.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Dawn of the Dead (2004) รุ่งอรุณแห่งความตาย",
@@ -701,19 +771,12 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/DawnoftheDead.webp",
      "url": "https://streamhls.com/view/887ce209-819c-5142-aa4b-a4ef609ad408.m3u8",
      "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Resident Evil (2002) ผีชีวะ 1",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5jdvEi57WBGuI5n2drG8FLAbYDp.webp",
-   "info": "HD",
-   "stations": [
+    },
     {
-     "name": "Resident Evil (2002) ผีชีวะ 1",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5jdvEi57WBGuI5n2drG8FLAbYDp.webp",
-     "url": "https://streamhls.com/view/807e5599-361a-5dbf-aaad-15c5bc73c3ee.m3u8",
+     "name": "Dawn of the Dead (2004) รุ่งอรุณแห่งความตาย",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/DawnoftheDead.webp",
+     "url": "https://streamhls.com/view/c82fcba7-2ab7-5c59-9d57-62cc047a8a07.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -721,7 +784,7 @@
   {
    "name": "Blade 2 (2002) นักล่าพันธุ์อมตะ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/blade-ii.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Blade 2 (2002) นักล่าพันธุ์อมตะ",
@@ -733,9 +796,23 @@
    ]
   },
   {
+   "name": "Resident Evil (2002) ผีชีวะ 1",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5jdvEi57WBGuI5n2drG8FLAbYDp.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Resident Evil (2002) ผีชีวะ 1",
+     "info": "พายกย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5jdvEi57WBGuI5n2drG8FLAbYDp.webp",
+     "url": "https://streamhls.com/view/807e5599-361a-5dbf-aaad-15c5bc73c3ee.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Vampires (1998) รับจ้างล้างพันธุ์แวมไพร์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qHGawU64MeGvtU86s6V0MA7MqFV.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Vampires (1998) รับจ้างล้างพันธุ์แวมไพร์",
@@ -749,7 +826,7 @@
   {
    "name": "Blade 1 (1998) เบลดพันธุ์ฆ่าอมตะ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4fe96837df06c_260770n.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Blade 1 (1998) เบลดพันธุ์ฆ่าอมตะ",

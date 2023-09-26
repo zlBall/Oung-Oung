@@ -1,13 +1,27 @@
 {
  "name": "ชีวประวัติ Biography",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 22 กันยายน 2566",
+ "author": "อุ๋ง อุ๋ง อัพวันที่ 26 กันยายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
   {
+   "name": "Cassandro (2023) คาสซานโดร",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Cassandro-2023.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Cassandro (2023) คาสซานโดร",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Cassandro-2023.webp",
+     "url": "https://streamhls.com/view/a46d6a55-c78e-5b4b-80a2-99e0ddeb77ed.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Tove (2020) ตูเว กำเนิดมูมิน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Tove-2020.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Tove (2020) ตูเว กำเนิดมูมิน",
@@ -21,7 +35,7 @@
   {
    "name": "Missing: The Lucie Blackman Case (2023) สูญหาย: คดีลูซี่ แบล็คแมน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Missing-The-Lucie-Blackman-Case-2023.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Missing: The Lucie Blackman Case (2023) สูญหาย: คดีลูซี่ แบล็คแมน",
@@ -29,13 +43,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Missing-The-Lucie-Blackman-Case-2023.webp",
      "url": "https://streamhls.com/view/4f31a8a0-f09f-5db0-8d60-37656054bbf4.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Missing: The Lucie Blackman Case (2023) สูญหาย: คดีลูซี่ แบล็คแมน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Missing-The-Lucie-Blackman-Case-2023.webp",
+     "url": "https://streamhls.com/view/0c666183-07b2-537a-84b0-6bd73b2fec4f.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Oppenheimer (2023) ออพเพนไฮเมอร์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Oppenheimer-2023.webp",
-   "info": "ZM",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Oppenheimer (2023) ออพเพนไฮเมอร์",
@@ -49,7 +70,7 @@
   {
    "name": "King of Clones (2023) ราชาโคลนนิ่ง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/King-of-Clones-2023.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "King of Clones (2023) ราชาโคลนนิ่ง",
@@ -57,19 +78,26 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/King-of-Clones-2023.webp",
      "url": "https://streamhls.com/view/ec9d11c9-3ac3-5912-8983-77ad0221a03d.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "King of Clones (2023) ราชาโคลนนิ่ง",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/King-of-Clones-2023.webp",
+     "url": "https://streamhls.com/view/eb89777a-4c2e-5ef9-90aa-0dccd4e20f04.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Stan Lee (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Stan-Lee-2023.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Stan Lee (2023)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Stan-Lee-2023.webp",
-     "url": "https://streamhls.com/view/ec9d11c9-3ac3-5912-8983-77ad0221a03d.m3u8",
+     "url": "https://streamhls.com/view/835c3c13-05e4-5a19-9361-31b2f90b832a.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -77,13 +105,13 @@
   {
    "name": "Chevalier (2023) เชอวาเลียร์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Chevalier2023.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Chevalier (2023) เชอวาเลียร์",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Chevalier2023.webp",
-     "url": "https://streamhls.com/view/ec9d11c9-3ac3-5912-8983-77ad0221a03d.m3u8",
+     "url": "https://streamhls.com/view/36cdc3ae-755d-5403-95c8-021c4001a8cf.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -91,13 +119,13 @@
   {
    "name": "Harry The Interview (2023) แฮร์รี่ บทสัมภาษณ์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Harry-The-Interview-2023.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Harry The Interview (2023) แฮร์รี่ บทสัมภาษณ์",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Harry-The-Interview-2023.webp",
-     "url": "https://streamhls.com/view/ec9d11c9-3ac3-5912-8983-77ad0221a03d.m3u8",
+     "url": "https://streamhls.com/view/a661da50-74ba-5478-b5ac-c649f15322cb.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -105,13 +133,13 @@
   {
    "name": "Bill Russell Legend 2 (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/BillRussell2-1.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Bill Russell Legend 2 (2023)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/BillRussell2-1.webp",
-     "url": "https://streamhls.com/view/ec9d11c9-3ac3-5912-8983-77ad0221a03d.m3u8",
+     "url": "https://streamhls.com/view/dba7937b-2c1c-557f-81ff-363398bf721d.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -119,13 +147,13 @@
   {
    "name": "Whitney Houston I Wanna Dance with Somebody (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Whitney-Houston-I-Wanna-Dance-with-Somebody-2022.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Whitney Houston I Wanna Dance with Somebody (2022)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Whitney-Houston-I-Wanna-Dance-with-Somebody-2022.webp",
-     "url": "https://streamhls.com/view/ec9d11c9-3ac3-5912-8983-77ad0221a03d.m3u8",
+     "url": "https://streamhls.com/view/716ba32e-272e-5e4a-a156-06c43801eaaa.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -133,13 +161,13 @@
   {
    "name": "Bill Russell Legend (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Bill2.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Bill Russell Legend (2023)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Bill2.webp",
-     "url": "https://streamhls.com/view/ec9d11c9-3ac3-5912-8983-77ad0221a03d.m3u8",
+     "url": "https://streamhls.com/view/608ce654-2ca7-557f-b1d6-de104d70e82a.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -147,7 +175,7 @@
   {
    "name": "Pamela A Love Story (2023) ความรักของพาเมล่า",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Pamela-A-Love-Story-2023.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Pamela A Love Story (2023) ความรักของพาเมล่า",
@@ -155,19 +183,26 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Pamela-A-Love-Story-2023.webp",
      "url": "https://streamhls.com/view/2ba2c3fb-d7ad-5a1c-9e1c-2e37a20a89fc.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Pamela A Love Story (2023) ความรักของพาเมล่า",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Pamela-A-Love-Story-2023.webp",
+     "url": "https://streamhls.com/view/189e21da-a01b-590a-8642-1603c3ae2773.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Idina Menzel Which Way to the Stage (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Idina-Menzel-Which-Way-to-the-Stage-2022.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Idina Menzel Which Way to the Stage (2022)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Idina-Menzel-Which-Way-to-the-Stage-2022.webp",
-     "url": "https://streamhls.com/view/2ba2c3fb-d7ad-5a1c-9e1c-2e37a20a89fc.m3u8",
+     "url": "https://streamhls.com/view/c2e057f0-a3e7-59d0-b9c5-15dcc3604d48.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -175,7 +210,7 @@
   {
    "name": "I Tonya (2017) ทอนย่า บ้าให้โลกคลั่ง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/6gNXwSHxaksR1PjVZRqNapmkgj3.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "I Tonya (2017) ทอนย่า บ้าให้โลกคลั่ง",
@@ -183,13 +218,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/6gNXwSHxaksR1PjVZRqNapmkgj3.webp",
      "url": "https://streamhls.com/view/88df2e1d-0ac6-5baa-ad5d-0ade4b94be51.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "I Tonya (2017) ทอนย่า บ้าให้โลกคลั่ง",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/6gNXwSHxaksR1PjVZRqNapmkgj3.webp",
+     "url": "https://streamhls.com/view/d4b87f8a-e020-52ce-b7a6-d1b4d3860d89.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The Swimmers (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/The-Swimmers-2022.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Swimmers (2022)",
@@ -197,19 +239,26 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/The-Swimmers-2022.webp",
      "url": "https://streamhls.com/view/c498788b-93f1-5f80-a857-498a24f5779a.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Swimmers (2022)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/The-Swimmers-2022.webp",
+     "url": "https://streamhls.com/view/7552e328-e02f-5f81-bdfa-5679cd24767a.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Anita (2021) อนิต้า…เสียงนี้ที่โลกต้องรัก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/Anita-2021.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Anita (2021) อนิต้า…เสียงนี้ที่โลกต้องรัก",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/Anita-2021.webp",
-     "url": "https://streamhls.com/view/c498788b-93f1-5f80-a857-498a24f5779a.m3u8",
+     "url": "https://streamhls.com/view/d11710ec-19e4-5caa-bc94-b9c36f845359.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -217,7 +266,7 @@
   {
    "name": "The Electrical Life of Louis Wain (2021) ชีวิตสุดโลดแล่นของหลุยส์ เวน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/The-Electrical-Life-of-Louis-Wain-2021.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Electrical Life of Louis Wain (2021) ชีวิตสุดโลดแล่นของหลุยส์ เวน",
@@ -225,19 +274,26 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/The-Electrical-Life-of-Louis-Wain-2021.webp",
      "url": "https://streamhls.com/view/740f9ca4-d17a-5f7e-b2d0-44976f48e6ca.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Electrical Life of Louis Wain (2021) ชีวิตสุดโลดแล่นของหลุยส์ เวน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/The-Electrical-Life-of-Louis-Wain-2021.webp",
+     "url": "https://streamhls.com/view/9feb5f74-68ca-53ad-b751-0f01d67a4314.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Lamborghini The Man Behind the Legend (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/Lamborghini-The-Man-Behind-the-Legend-2022.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Lamborghini The Man Behind the Legend (2022)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/Lamborghini-The-Man-Behind-the-Legend-2022.webp",
-     "url": "https://streamhls.com/view/740f9ca4-d17a-5f7e-b2d0-44976f48e6ca.m3u8",
+     "url": "https://streamhls.com/view/d6d7bebf-ecc8-5114-b333-5d1f453f7ed6.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -245,13 +301,13 @@
   {
    "name": "The Real Charlie Chaplin (2021) ชาร์ลี แชปลินตัวจริง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/The-Real-Charlie-Chaplin-2021.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "The Real Charlie Chaplin (2021) ชาร์ลี แชปลินตัวจริง",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/The-Real-Charlie-Chaplin-2021.webp",
-     "url": "https://streamhls.com/view/740f9ca4-d17a-5f7e-b2d0-44976f48e6ca.m3u8",
+     "url": "https://streamhls.com/view/1ac783d1-1cf4-513e-98a8-da9b04db8673.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -259,13 +315,13 @@
   {
    "name": "Markova Comfort Gay (2000) มาร์โคว่า คอมฟอร์ท กาย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Markova-Comfort-Gay-200x300-1.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Markova Comfort Gay (2000) มาร์โคว่า คอมฟอร์ท กาย",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Markova-Comfort-Gay-200x300-1.webp",
-     "url": "https://streamhls.com/view/740f9ca4-d17a-5f7e-b2d0-44976f48e6ca.m3u8",
+     "url": "https://streamhls.com/view/e38ab3e4-9f43-53fe-b668-eee3dcd2fcc9.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -273,7 +329,7 @@
   {
    "name": "The Pursuit of Happyness (2006) ยิ้มไว้ก่อนพ่อสอนไว้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1426976379-the-pursuit-of-happyness-2006-E0B8A2E0B8B4E0B989E0B8A1E0B984E0B8A7E0B989E0B881E0B988E0B8ADE0B899E0B89EE0B988E0B8ADE0B8AAE0B8ADE0B899E0B984.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Pursuit of Happyness (2006) ยิ้มไว้ก่อนพ่อสอนไว้",
@@ -281,13 +337,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1426976379-the-pursuit-of-happyness-2006-E0B8A2E0B8B4E0B989E0B8A1E0B984E0B8A7E0B989E0B881E0B988E0B8ADE0B899E0B89EE0B988E0B8ADE0B8AAE0B8ADE0B899E0B984.webp",
      "url": "https://streamhls.com/view/062dfb3d-ecdd-5380-b3cc-95d2e5dca0d5.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Pursuit of Happyness (2006) ยิ้มไว้ก่อนพ่อสอนไว้",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1426976379-the-pursuit-of-happyness-2006-E0B8A2E0B8B4E0B989E0B8A1E0B984E0B8A7E0B989E0B881E0B988E0B8ADE0B899E0B89EE0B988E0B8ADE0B8AAE0B8ADE0B899E0B984.webp",
+     "url": "https://streamhls.com/view/73236cc3-c816-5041-a731-17cd7d13b112.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The Blind Side (2009) เดอะ ไบลด์ ไซด์ แม่ผู้นี้มีแต่รักแท้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/blind_side.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Blind Side (2009) เดอะ ไบลด์ ไซด์ แม่ผู้นี้มีแต่รักแท้",
@@ -295,13 +358,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/blind_side.webp",
      "url": "https://streamhls.com/view/e9981a48-0563-5068-87b5-c86f590730ec.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Blind Side (2009) เดอะ ไบลด์ ไซด์ แม่ผู้นี้มีแต่รักแท้",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/blind_side.webp",
+     "url": "https://streamhls.com/view/9d49cd29-0e3e-5266-bec1-972fdf3d70f5.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Green Book (2018) กรีนบุ๊ค",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190328055319green-book-5c3274369b163.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Green Book (2018) กรีนบุ๊ค",
@@ -309,19 +379,26 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190328055319green-book-5c3274369b163.webp",
      "url": "https://streamhls.com/view/9284a8bb-f2c2-5d2d-b17c-93801d13a5f7.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Green Book (2018) กรีนบุ๊ค",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190328055319green-book-5c3274369b163.webp",
+     "url": "https://streamhls.com/view/5f7404a8-6a8e-5bf0-aa96-85bf10d74228.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Argentina 1985 (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Argentina-1985-2022.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Argentina 1985 (2022)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Argentina-1985-2022.webp",
-     "url": "https://streamhls.com/view/9284a8bb-f2c2-5d2d-b17c-93801d13a5f7.m3u8",
+     "url": "https://streamhls.com/view/c3ce258a-77e5-5cc8-b173-1e0ebc687143.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -329,13 +406,13 @@
   {
    "name": "Sidney (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Sidney-2022.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Sidney (2022)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Sidney-2022.webp",
-     "url": "https://streamhls.com/view/9284a8bb-f2c2-5d2d-b17c-93801d13a5f7.m3u8",
+     "url": "https://streamhls.com/view/f0b71e5a-394f-5088-bbae-c3942cec474a.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -343,7 +420,7 @@
   {
    "name": "Elvis (2022) เอลวิส",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Elvis-2022.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Elvis (2022) เอลวิส",
@@ -351,19 +428,26 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Elvis-2022.webp",
      "url": "https://streamhls.com/view/8567e195-dd02-56ff-b6ef-8463fde30130.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Elvis (2022) เอลวิส",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Elvis-2022.webp",
+     "url": "https://streamhls.com/view/b3041b6d-ef31-57bb-a081-4b645337f391.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "A Trip to Infinity (2022) การเดินทางสู่อินฟินิตี้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/A-Trip-to-Infinity-2022.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "A Trip to Infinity (2022) การเดินทางสู่อินฟินิตี้",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/A-Trip-to-Infinity-2022.webp",
-     "url": "https://streamhls.com/view/8567e195-dd02-56ff-b6ef-8463fde30130.m3u8",
+     "url": "https://streamhls.com/view/155ee76e-cff3-5ccd-bb5d-57c757a1b98f.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -371,13 +455,13 @@
   {
    "name": "Prizefighter The Life of Jem Belcher (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Prizefighter-The-Life-of-Jem-Belcher-2022.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Prizefighter The Life of Jem Belcher (2022)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Prizefighter-The-Life-of-Jem-Belcher-2022.webp",
-     "url": "https://streamhls.com/view/8567e195-dd02-56ff-b6ef-8463fde30130.m3u8",
+     "url": "https://streamhls.com/view/23cd3961-9c0b-53b7-beac-167b4bfc00ae.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -385,13 +469,13 @@
   {
    "name": "Pool (2009)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Pool-2009.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Pool (2009)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Pool-2009.webp",
-     "url": "https://streamhls.com/view/8567e195-dd02-56ff-b6ef-8463fde30130.m3u8",
+     "url": "https://streamhls.com/view/d0a670a2-bcf3-576a-8795-186fb1d57fcd.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -399,7 +483,7 @@
   {
    "name": "Polisse (2011) สู้เพื่อดวงใจอันยิ่งใหญ่",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Polisse-2011.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Polisse (2011) สู้เพื่อดวงใจอันยิ่งใหญ่",
@@ -413,7 +497,7 @@
   {
    "name": "All the Money in the World (2017) ฆ่าไถ่อำมหิต",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8oWOde1s6jPcbcoZK6JWHxYzOsP.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "All the Money in the World (2017) ฆ่าไถ่อำมหิต",
@@ -421,19 +505,26 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8oWOde1s6jPcbcoZK6JWHxYzOsP.webp",
      "url": "https://streamhls.com/view/94012ce9-4d4c-5215-98d7-c08163c32da8.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "All the Money in the World (2017) ฆ่าไถ่อำมหิต",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8oWOde1s6jPcbcoZK6JWHxYzOsP.webp",
+     "url": "https://streamhls.com/view/a879cc62-192c-5ce0-904c-7896bd480186.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Justin Bieber Our World (2021)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Justin-Bieber-Our-World-2021.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Justin Bieber Our World (2021)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Justin-Bieber-Our-World-2021.webp",
-     "url": "https://streamhls.com/view/94012ce9-4d4c-5215-98d7-c08163c32da8.m3u8",
+     "url": "https://streamhls.com/view/b697bb51-024a-5ef5-982a-0089a6c66b10.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -441,13 +532,13 @@
   {
    "name": "Running with the Devil The Wild World of John McAfee (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Running-with-the-Devil-The-Wild-World-of-John-McAfee.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Running with the Devil The Wild World of John McAfee (2022)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Running-with-the-Devil-The-Wild-World-of-John-McAfee.webp",
-     "url": "https://streamhls.com/view/94012ce9-4d4c-5215-98d7-c08163c32da8.m3u8",
+     "url": "https://streamhls.com/view/67eee4e2-55f0-5b96-8f99-531cee9be3bb.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -455,7 +546,7 @@
   {
    "name": "Gangubai Kathiawadi (2022) หญิงแกร่งแห่งมุมไบ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Gangubai-Kathiawadi-2022.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Gangubai Kathiawadi (2022) หญิงแกร่งแห่งมุมไบ",
@@ -463,19 +554,26 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Gangubai-Kathiawadi-2022.webp",
      "url": "https://streamhls.com/view/56d63e40-195c-5f40-bd4f-10d6e0480156.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Gangubai Kathiawadi (2022) หญิงแกร่งแห่งมุมไบ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Gangubai-Kathiawadi-2022.webp",
+     "url": "https://streamhls.com/view/6d654712-601c-501e-9552-74078d54c0ee.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Hot Girls Wanted (2015) ฮอต เกิร์ลส วอนเทต",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Hot-Girls-Wanted-2015.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Hot Girls Wanted (2015) ฮอต เกิร์ลส วอนเทต",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Hot-Girls-Wanted-2015.webp",
-     "url": "https://streamhls.com/view/56d63e40-195c-5f40-bd4f-10d6e0480156.m3u8",
+     "url": "https://streamhls.com/view/654654a1-4dde-51fc-bf1a-f04087d33f77.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -483,13 +581,13 @@
   {
    "name": "Pavarotti (2019) ปาวารอตตี",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Pavarotti-2019.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Pavarotti (2019) ปาวารอตตี",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Pavarotti-2019.webp",
-     "url": "https://streamhls.com/view/56d63e40-195c-5f40-bd4f-10d6e0480156.m3u8",
+     "url": "https://streamhls.com/view/e500028f-6851-53a6-8656-c4967a5b18c7.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -497,13 +595,13 @@
   {
    "name": "Lingua Franca (2019)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Lingua_Franca-858154341-large.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Lingua Franca (2019)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Lingua_Franca-858154341-large.webp",
-     "url": "https://streamhls.com/view/56d63e40-195c-5f40-bd4f-10d6e0480156.m3u8",
+     "url": "https://streamhls.com/view/63aea17d-c2c5-5e16-8cbf-1925f1c4b35d.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -511,13 +609,13 @@
   {
    "name": "The Phantom of the Open (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/The-Phantom-of-the-Open-2022.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "The Phantom of the Open (2022)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/The-Phantom-of-the-Open-2022.webp",
-     "url": "https://streamhls.com/view/56d63e40-195c-5f40-bd4f-10d6e0480156.m3u8",
+     "url": "https://streamhls.com/view/dac5d228-bf80-59b0-9303-8fe2e8289ce9.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -525,7 +623,7 @@
   {
    "name": "Wife of a Spy (2020)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Wife-of-a-Spy-2020.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Wife of a Spy (2020)",
@@ -539,13 +637,13 @@
   {
    "name": "Shabaash Mithu (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Shabaash-Mithu-2022.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Shabaash Mithu (2022)",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Shabaash-Mithu-2022.webp",
-     "url": "https://streamhls.com/view/284cacbf-c375-56e9-8742-739c034ecd71.m3u8",
+     "url": "https://streamhls.com/view/0edabc11-32c4-587f-851a-30e721027942.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -553,13 +651,13 @@
   {
    "name": "Rooney (2022) รูนี่ย์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Rooney-2022.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Rooney (2022) รูนี่ย์",
-     "info": "พายกย์ไทย",
+     "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Rooney-2022.webp",
-     "url": "https://streamhls.com/view/284cacbf-c375-56e9-8742-739c034ecd71.m3u8",
+     "url": "https://streamhls.com/view/f9e71825-8a9c-5703-8d1d-f8d662b2a073.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -567,7 +665,7 @@
   {
    "name": "Eiffel (2022)ไอเฟล รักเธอสูงเสียดฟ้า",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/eiffel_poster-718x1024-1.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Eiffel (2022)ไอเฟล รักเธอสูงเสียดฟ้า",
@@ -581,7 +679,7 @@
   {
    "name": "City of Lies (2018)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/pK7IYQdtdWtMDBJZfMqDxgMjXEt.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "City of Lies (2018)",
@@ -595,7 +693,7 @@
   {
    "name": "The Duke (2020) โจรเก๋า หัวใจไม่เก่า",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/dZVzuH1Qau3WMndO2ISRbFTOhY1.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "The Duke (2020) โจรเก๋า หัวใจไม่เก่า",
@@ -609,7 +707,7 @@
   {
    "name": "Becoming Jane (2007) รักที่ปรารถนา",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/yHA6JEn57MBGp2yGFgYyopJvk2O.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Becoming Jane (2007) รักที่ปรารถนา",
@@ -617,13 +715,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/yHA6JEn57MBGp2yGFgYyopJvk2O.webp",
      "url": "https://streamhls.com/view/6d83f962-4671-5f5d-9016-12ff0c29016b.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Becoming Jane (2007) รักที่ปรารถนา",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/yHA6JEn57MBGp2yGFgYyopJvk2O.webp",
+     "url": "https://streamhls.com/view/7779826c-e65f-5cbb-b127-237a5ebbcc10.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Xuan Zang (Da Tang Xuan Zang) (2016) เสวียนจ้าง บุรุษพุทธานุภาพ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Xuan-Zang-2016.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Xuan Zang (Da Tang Xuan Zang) (2016) เสวียนจ้าง บุรุษพุทธานุภาพ",
@@ -631,13 +736,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Xuan-Zang-2016.webp",
      "url": "https://streamhls.com/view/08cdcb3f-cc6d-5e6e-bb7e-c348402ec2a6.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Xuan Zang (Da Tang Xuan Zang) (2016) เสวียนจ้าง บุรุษพุทธานุภาพ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Xuan-Zang-2016.webp",
+     "url": "https://streamhls.com/view/367523cb-95e7-526f-b6b2-7bdadf7606b0.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Sabre Dance (2019) เกิดมาเพื่อบรรเลง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/heUpXRTFexFWRybawAfIhOqWtAv.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Sabre Dance (2019) เกิดมาเพื่อบรรเลง",
@@ -651,7 +763,7 @@
   {
    "name": "Grey Gardens (2009) เกรย์ การ์เด้นท์ส วิมานนี้มีความทรงจำ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/9iO11PLhIGCzN6n2V92XcANQ8M9.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Grey Gardens (2009) เกรย์ การ์เด้นท์ส วิมานนี้มีความทรงจำ",
@@ -665,7 +777,7 @@
   {
    "name": "Rise (2022) บรรยายไทย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/czXyMcmiulyZjhYAnnMwVhFCvN.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Rise (2022) บรรยายไทย",
@@ -679,7 +791,7 @@
   {
    "name": "Dolemite Is My Name (2019) โดเลอไมต์ ชื่อนี้ต้องจดจำ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/uoAqJg7ZSmftnBGOkupU1ySZQU0.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Dolemite Is My Name (2019) โดเลอไมต์ ชื่อนี้ต้องจดจำ",
@@ -693,7 +805,7 @@
   {
    "name": "King Richard (2021)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qQl0QS5P15vVzUcaP8rAqxbQ6Wp.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "King Richard (2021)",
@@ -701,13 +813,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qQl0QS5P15vVzUcaP8rAqxbQ6Wp.webp",
      "url": "https://streamhls.com/view/a3ad6342-17cb-58d3-a571-570636fc084a.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "King Richard (2021)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qQl0QS5P15vVzUcaP8rAqxbQ6Wp.webp",
+     "url": "https://streamhls.com/view/98cbf000-4770-57ba-9488-ebadc4f9e5d9.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The Tenor (2014) บรรยายไทย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/6pDnHeW9hC0MUOzwpo5Pmgr3cU3.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "The Tenor (2014) บรรยายไทย",
@@ -721,7 +840,7 @@
   {
    "name": "Blaze (2018) เบลซ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/g3rMWJRP6rQO5qP9E6umeRq9hGA.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Blaze (2018) เบลซ",
@@ -729,13 +848,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/g3rMWJRP6rQO5qP9E6umeRq9hGA.webp",
      "url": "https://streamhls.com/view/f85be30c-5786-5a69-b5bf-6be371233c2a.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Blaze (2018) เบลซ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/g3rMWJRP6rQO5qP9E6umeRq9hGA.webp",
+     "url": "https://streamhls.com/view/85b1c104-b6f8-519e-9aec-3866b5d9cbf3.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Father Stu (2022) บาทหลวงกำปั้นเหล็ก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/pLAeWgqXbTeJ2gQtNvRmdIncYsk.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Father Stu (2022) บาทหลวงกำปั้นเหล็ก",
@@ -743,13 +869,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/pLAeWgqXbTeJ2gQtNvRmdIncYsk.webp",
      "url": "https://streamhls.com/view/49767138-7f04-5c40-8b7b-564ac32faf88.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Father Stu (2022) บาทหลวงกำปั้นเหล็ก",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/pLAeWgqXbTeJ2gQtNvRmdIncYsk.webp",
+     "url": "https://streamhls.com/view/cd923c8f-5656-515f-b361-79a8caa910fc.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Heaven is for Real (2014) สวรรค์มีจริง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/w4k7KCwLPDixM13J2JYcqt9kHZ7.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Heaven is for Real (2014) สวรรค์มีจริง",
@@ -757,13 +890,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/w4k7KCwLPDixM13J2JYcqt9kHZ7.webp",
      "url": "https://streamhls.com/view/1d63ded3-c4d3-5dea-bf87-2e39ebdca25d.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Heaven is for Real (2014) สวรรค์มีจริง",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/w4k7KCwLPDixM13J2JYcqt9kHZ7.webp",
+     "url": "https://streamhls.com/view/cc4a88d8-81a4-51e8-a02c-a4048c734cce.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Belfast (2021) เบลฟาสต์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/3mInLZyPOVLsZRsBwNHi3UJXXnm.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Belfast (2021) เบลฟาสต์",
@@ -777,7 +917,7 @@
   {
    "name": "American Underdog (2021) ทัชดาวน์ สู่ฝันอเมริกันฟุตบอล",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/u3iXpvLPG4DbmuNY9yPjn1Ei54.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "American Underdog (2021) ทัชดาวน์ สู่ฝันอเมริกันฟุตบอล",
@@ -791,7 +931,7 @@
   {
    "name": "Rescued by Ruby (2022) รูบี้มาช่วยแล้ว",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tPlJEodEn0SSV4avo8KSawtlTlN.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Rescued by Ruby (2022) รูบี้มาช่วยแล้ว",
@@ -799,13 +939,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tPlJEodEn0SSV4avo8KSawtlTlN.webp",
      "url": "https://streamhls.com/view/727337fd-e3b3-5484-8798-9c8435891bfa.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Rescued by Ruby (2022) รูบี้มาช่วยแล้ว",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tPlJEodEn0SSV4avo8KSawtlTlN.webp",
+     "url": "https://streamhls.com/view/30a07351-1b81-5ac2-a0d1-d666a1a69cca.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Autumn Girl (2021) ออทัมน์ เกิร์ล",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/i9bWt4ZFUpgZRCn5dB4cWW1zY61.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Autumn Girl (2021) ออทัมน์ เกิร์ล",
@@ -819,7 +966,7 @@
   {
    "name": "Benedetta (2021) เบเนเดตต้า ใครอยากให้เธอบาป",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/3N39KDnL3d6eP6sGvERPRKyQ8PJ.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Benedetta (2021) เบเนเดตต้า ใครอยากให้เธอบาป",
@@ -827,13 +974,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/3N39KDnL3d6eP6sGvERPRKyQ8PJ.webp",
      "url": "https://streamhls.com/view/2060594b-8977-5f6e-8eb7-355ec5e9a1d3.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Benedetta (2021) เบเนเดตต้า ใครอยากให้เธอบาป",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/3N39KDnL3d6eP6sGvERPRKyQ8PJ.webp",
+     "url": "https://streamhls.com/view/622c138e-8f5d-55c3-9505-a30c207df09e.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Munich The Edge of War (2021) มิวนิค ปากเหวสงคราม",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kJ2DXSHXvGerkeSBbDVrc1HcxZ3.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Munich The Edge of War (2021) มิวนิค ปากเหวสงคราม",
@@ -841,13 +995,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kJ2DXSHXvGerkeSBbDVrc1HcxZ3.webp",
      "url": "https://streamhls.com/view/8ce9ef28-a4c1-5728-a6f0-2d3070eb2a5c.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Munich The Edge of War (2021) มิวนิค ปากเหวสงคราม",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kJ2DXSHXvGerkeSBbDVrc1HcxZ3.webp",
+     "url": "https://streamhls.com/view/ad8a7d32-4566-5646-808b-c6aa745713ef.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Kurup (2021) อาชญากรเหนือเมฆ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/bQU8Ru6hVHHkELTM0mAxThuXFQY.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Kurup (2021) อาชญากรเหนือเมฆ",
@@ -861,7 +1022,7 @@
   {
    "name": "The Eyes of Tammy Faye (2021)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/yL3IAfOxUH7h1Og9kxG3czxa4XV.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "The Eyes of Tammy Faye (2021)",
@@ -875,7 +1036,7 @@
   {
    "name": "Being The Ricardos (2021)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/oztBLWdRk5gApYmNdADXvXkLT5m.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Being The Ricardos (2021)",
@@ -889,7 +1050,7 @@
   {
    "name": "Asakusa Kid (2021) วัยรุ่นอาซากุสะ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vgD5mSgMlpvt0dpj2Ab9RU3eN2h.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Asakusa Kid (2021) วัยรุ่นอาซากุสะ",
@@ -903,7 +1064,7 @@
   {
    "name": "Respect (2021)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/iUtPwOBZJc8uJnDqlCXTibdgxKz.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Respect (2021)",
@@ -917,7 +1078,7 @@
   {
    "name": "Tick Tick Boom (2021)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/j03WWYfHXWjIpY1B5V2i1Lczcor.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Tick Tick Boom (2021)",
@@ -925,13 +1086,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/j03WWYfHXWjIpY1B5V2i1Lczcor.webp",
      "url": "https://streamhls.com/view/8cfa9012-64d8-5f36-a04f-ca166e5b064e.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Tick Tick Boom (2021)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/j03WWYfHXWjIpY1B5V2i1Lczcor.webp",
+     "url": "https://streamhls.com/view/d2a7bb3e-7202-5651-985a-e9755ae0a92e.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Spencer (2021)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/7GcqdBKaMM9BWXWN07BirBMkcBF.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Spencer (2021)",
@@ -945,7 +1113,7 @@
   {
    "name": "Zero To Hero (2021) ซีโร่ ทู ฮีโร่",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/7x7pyCi6Zf8DFYYQtTp108RllSt.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Zero To Hero (2021) ซีโร่ ทู ฮีโร่",
@@ -959,7 +1127,7 @@
   {
    "name": "Diana The Musical (2021) ไดอานา เดอะ มิวสิคัล",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kpMTlCDyDJptBQg935Q9LzaB9j8.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Diana The Musical (2021) ไดอานา เดอะ มิวสิคัล",
@@ -973,7 +1141,7 @@
   {
    "name": "Everybody’s Talking About Jamie (2021)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/wsCHo64bJ8lMhKv8LtOKEn1kjsH.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Everybody’s Talking About Jamie (2021)",
@@ -987,7 +1155,7 @@
   {
    "name": "Shiny Flakes The Teenage Drug Lord (2021) ชายนี่ เฟลคส์ เจ้าพ่อยาวัยรุ่น",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/2SAkVm8afd5O3mKoy5HylsT4TBT.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Shiny Flakes The Teenage Drug Lord (2021) ชายนี่ เฟลคส์ เจ้าพ่อยาวัยรุ่น",
@@ -995,13 +1163,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/2SAkVm8afd5O3mKoy5HylsT4TBT.webp",
      "url": "https://streamhls.com/view/15b106a7-a72f-5b4c-a032-11c65c6c0d78.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Shiny Flakes The Teenage Drug Lord (2021) ชายนี่ เฟลคส์ เจ้าพ่อยาวัยรุ่น",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/2SAkVm8afd5O3mKoy5HylsT4TBT.webp",
+     "url": "https://streamhls.com/view/cd277769-c2df-56df-af1d-756d5e5d85a2.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Lansky (2021) แลนสกี้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/brvSFZ1GMhbMzL3Is8kkvG1LbMt.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Lansky (2021) แลนสกี้",
@@ -1015,7 +1190,7 @@
   {
    "name": "Pink All I Know So Far (2021) พิงก์ เท่าที่รู้ตอนนี้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/i310b9eYLmNPt3zc3ZW0ep1N7Qx.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Pink All I Know So Far (2021) พิงก์ เท่าที่รู้ตอนนี้",
@@ -1029,7 +1204,7 @@
   {
    "name": "Baggio The Divine Ponytail (2021) บาจโจ้ เทพบุตรเปียทอง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/wtJobZ2tRf18YcOK6ujnhZJzIPC.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Baggio The Divine Ponytail (2021) บาจโจ้ เทพบุตรเปียทอง",
@@ -1043,7 +1218,7 @@
   {
    "name": "Dance of the 41 (2021) 41 เริงระบำ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/61bcfab5ac1fd09d142d2947007a9548.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Dance of the 41 (2021) 41 เริงระบำ",
@@ -1057,7 +1232,7 @@
   {
    "name": "Judas and the Black Messiah (2021) จูดาส แอนด์ เดอะ แบล็ก เมสไซอาห์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/iIgr75GoqFxe1X5Wz9siOODGe9u.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Judas and the Black Messiah (2021) จูดาส แอนด์ เดอะ แบล็ก เมสไซอาห์",
@@ -1065,13 +1240,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/iIgr75GoqFxe1X5Wz9siOODGe9u.webp",
      "url": "https://streamhls.com/view/2355bcf4-d5db-5794-954d-2ba5e5f05ed9.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Judas and the Black Messiah (2021) จูดาส แอนด์ เดอะ แบล็ก เมสไซอาห์",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/iIgr75GoqFxe1X5Wz9siOODGe9u.webp",
+     "url": "https://streamhls.com/view/047dcbca-35e0-5c67-9820-d65f2affa280.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Madame Claude (2021) มาดามคล้อด",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/9miY5tHWmvVAft4gjqyaXyhLYHY.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Madame Claude (2021) มาดามคล้อด",
@@ -1085,7 +1267,7 @@
   {
    "name": "The Dig (2021) กู้ซาก (Netflix)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/clYzhYlNoCJh5uVfbXU6VAr8r5e.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "The Dig (2021) กู้ซาก (Netflix)",
@@ -1099,7 +1281,7 @@
   {
    "name": "Worth (What Is Life Worth) (2020)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xMFKTgRRCxfZGmFQVxBsQYAQufo.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Worth (What Is Life Worth) (2020)",
@@ -1113,7 +1295,7 @@
   {
    "name": "Joe Bell (2020)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/9HfQD60w6f6PPkfdiI6ipJSw0bD.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Joe Bell (2020)",
@@ -1127,7 +1309,7 @@
   {
    "name": "Dream Horse (2020)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/eByrTo3s4VQqKGlZwxEPymSfpeA.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Dream Horse (2020)",
@@ -1141,7 +1323,7 @@
   {
    "name": "Safety (2020) เซฟตี้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/aKWe6JLwdQRjZFTwSLGWy2IUbvi.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Safety (2020) เซฟตี้",
@@ -1155,7 +1337,7 @@
   {
    "name": "Chhapaak (2020)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/cr5KqiolMMRUEJxrNLWESxyVVeU.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Chhapaak (2020)",
@@ -1169,7 +1351,7 @@
   {
    "name": "Capone (2020) คาโปน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/75gDv38UgRtAukSxNXcjatyQmEa.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Capone (2020) คาโปน",
@@ -1177,13 +1359,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/75gDv38UgRtAukSxNXcjatyQmEa.webp",
      "url": "https://streamhls.com/view/fc94a66f-4c3f-584b-a4ff-da32ff21068d.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Capone (2020) คาโปน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/75gDv38UgRtAukSxNXcjatyQmEa.webp",
+     "url": "https://streamhls.com/view/aaf3aae5-20b4-524b-828e-952cc88c6e10.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Resistance (2020)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kPotrGRJf9Z5qYECXv7BjubyFRp.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Resistance (2020)",
@@ -1191,13 +1380,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kPotrGRJf9Z5qYECXv7BjubyFRp.webp",
      "url": "https://streamhls.com/view/be0713fd-6618-5d03-bbfd-a76558ac3b0f.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Resistance (2020)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kPotrGRJf9Z5qYECXv7BjubyFRp.webp",
+     "url": "https://streamhls.com/view/022c0869-74e9-5afb-b685-a01be84ee951.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Ammonite (2020) แอมโมไนต์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5lx4pUHWZoOKJWsVsvurRRNW9FK.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Ammonite (2020) แอมโมไนต์",
@@ -1205,13 +1401,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5lx4pUHWZoOKJWsVsvurRRNW9FK.webp",
      "url": "https://streamhls.com/view/cd06bc79-7cbf-57d9-939f-32e35218e690.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Ammonite (2020) แอมโมไนต์",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5lx4pUHWZoOKJWsVsvurRRNW9FK.webp",
+     "url": "https://streamhls.com/view/a05e7e8e-40aa-598c-90bf-1bdb5e62f86e.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The Glorias (2020)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/bItFQ4QahfILGj9mA5uyJvAimeD.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Glorias (2020)",
@@ -1219,13 +1422,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/bItFQ4QahfILGj9mA5uyJvAimeD.webp",
      "url": "https://streamhls.com/view/38158309-b097-51bf-b777-556c4946c829.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Glorias (2020)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/bItFQ4QahfILGj9mA5uyJvAimeD.webp",
+     "url": "https://streamhls.com/view/dfc11326-b0f7-5541-bab1-d8ca340c2329.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Mank (2020) แมงค์ | Netflix",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/hsMrWKY4ltL6tNrMapjp6z2KBPl.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Mank (2020) แมงค์ | Netflix",
@@ -1233,13 +1443,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/hsMrWKY4ltL6tNrMapjp6z2KBPl.webp",
      "url": "https://streamhls.com/view/5c6ae9f3-8b00-5bbc-91d4-71216c985634.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Mank (2020) แมงค์ | Netflix",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/hsMrWKY4ltL6tNrMapjp6z2KBPl.webp",
+     "url": "https://streamhls.com/view/4662e071-35ee-5ad6-a109-9ae5d58a2c5e.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Kalashnikov (2020) คาลาชนิคอฟ กำเนิดเอเค 47",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ApfjrFsGunqLo5MKYGtFMTSTaMq.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Kalashnikov (2020) คาลาชนิคอฟ กำเนิดเอเค 47",
@@ -1253,7 +1470,7 @@
   {
    "name": "I Still Believe (2020) จะรักให้ร้อง จะร้องให้รัก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/dqA2FCzz4OMmXLitKopzf476RVB.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "I Still Believe (2020) จะรักให้ร้อง จะร้องให้รัก",
@@ -1261,13 +1478,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/dqA2FCzz4OMmXLitKopzf476RVB.webp",
      "url": "https://streamhls.com/view/5718a725-7efa-5b8f-8380-c2ec9bdf1111.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "I Still Believe (2020) จะรักให้ร้อง จะร้องให้รัก",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/dqA2FCzz4OMmXLitKopzf476RVB.webp",
+     "url": "https://streamhls.com/view/968440a8-4ee9-5db3-bc2b-ef5ed4f2cf09.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Tesla (2020) เทสลา คนล่าอนาคต",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/v0guO0krvyz8IfKGxEje04LVM9d.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Tesla (2020) เทสลา คนล่าอนาคต",
@@ -1275,13 +1499,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/v0guO0krvyz8IfKGxEje04LVM9d.webp",
      "url": "https://streamhls.com/view/1fb45206-ace3-50eb-9d25-b80a021fac4c.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Tesla (2020) เทสลา คนล่าอนาคต",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/v0guO0krvyz8IfKGxEje04LVM9d.webp",
+     "url": "https://streamhls.com/view/a8215dd8-a423-54a3-aeb4-82bc271aff7a.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Gunjan Saxena The Kargil Girl (2020) กัณจัญ ศักเสนา ติดปีกสู่ฝัน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/llWz6LbVpGPChnNnhAiGJyPMDwP.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Gunjan Saxena The Kargil Girl (2020) กัณจัญ ศักเสนา ติดปีกสู่ฝัน",
@@ -1295,7 +1526,7 @@
   {
    "name": "The Cave (2019) นางนอน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xk64tfyz8pm-12540-poster.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Cave (2019) นางนอน",
@@ -1309,7 +1540,7 @@
   {
    "name": "Habibie & Ainun 3 (2019) บันทึกรักฮาบีบีและไอนุน 3",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/eOdYhBFF7vE5v83KVVQfDEyLgEu.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Habibie & Ainun 3 (2019) บันทึกรักฮาบีบีและไอนุน 3",
@@ -1323,7 +1554,7 @@
   {
    "name": "Dearest Anita (2019) บรรยายไทย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/pe4FaWJiTmXWWmJQ7yLSbLY2Dl1.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Dearest Anita (2019) บรรยายไทย",
@@ -1337,35 +1568,19 @@
   {
    "name": "Inmate #1 The Rise of Danny Trejo (2019) นักโทษหมายเลขหนึ่ง เส้นทางชีวิตของแดนนี่ เทรโฮ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ov36eC7vfs96s5GnDqYuM4UaLGl.webp",
-   "info": "HD",
-   "stations": [
-    {
-     "name": "Inmate #1 The Rise of Danny Trejo (2019) นักโทษหมายเลขหนึ่ง เส้นทางชีวิตของแดนนี่ เทรโฮ",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ov36eC7vfs96s5GnDqYuM4UaLGl.webp",
-     "url": "https://streamhls.com/view/cd9b9269-d52a-5628-b629-f9d9feb8750d.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
+   "info": "ซับไทย",
+   "stations": []
   },
   {
    "name": "The Kid (2019)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8zWFMU70cFbKZ45QWQnsfxV1RPz.webp",
-   "info": "HD",
-   "stations": [
-    {
-     "name": "The Kid (2019)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8zWFMU70cFbKZ45QWQnsfxV1RPz.webp",
-     "url": "https://streamhls.com/view/cd9b9269-d52a-5628-b629-f9d9feb8750d.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
+   "info": "ซับไทย",
+   "stations": []
   },
   {
    "name": "Radioactive (2020) มาดามคูรี ยอดหญิงเรเดียม",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/akHIQu8W3rOgT28r25ggXaKcQIr.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Radioactive (2020) มาดามคูรี ยอดหญิงเรเดียม",
@@ -1373,13 +1588,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/akHIQu8W3rOgT28r25ggXaKcQIr.webp",
      "url": "https://streamhls.com/view/4efa5c56-96d5-504b-a138-2c64ac934825.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Radioactive (2020) มาดามคูรี ยอดหญิงเรเดียม",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/akHIQu8W3rOgT28r25ggXaKcQIr.webp",
+     "url": "https://streamhls.com/view/17109d22-eebc-5d7a-ae22-ee82637e2369.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Savage X Fenty Show (2019)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/mvMlwG0Z4teH8UrgO2qfyN2NyIn.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Savage X Fenty Show (2019)",
@@ -1393,7 +1615,7 @@
   {
    "name": "Patsy & Loretta (2019)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/h4fsWSQAGVNiwuAZA1kkYcaLjOa.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Patsy & Loretta (2019)",
@@ -1407,7 +1629,7 @@
   {
    "name": "I Am Woman (2019) คุณผู้หญิงยืนหนึ่งหัวใจแกร่ง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/gpAkNeMzrSTJX2YIYcuwfqBrEqS.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "I Am Woman (2019) คุณผู้หญิงยืนหนึ่งหัวใจแกร่ง",
@@ -1415,13 +1637,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/gpAkNeMzrSTJX2YIYcuwfqBrEqS.webp",
      "url": "https://streamhls.com/view/339c0baf-6507-5477-924f-839ba299e221.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "I Am Woman (2019) คุณผู้หญิงยืนหนึ่งหัวใจแกร่ง",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/gpAkNeMzrSTJX2YIYcuwfqBrEqS.webp",
+     "url": "https://streamhls.com/view/cfc9bd9a-57dd-571e-94cc-32c34ec19db1.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "True History of the Kelly Gang (2019)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uZF4BZe45icLx7XVFUFnmLEemNm.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "True History of the Kelly Gang (2019)",
@@ -1429,13 +1658,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uZF4BZe45icLx7XVFUFnmLEemNm.webp",
      "url": "https://streamhls.com/view/84c1ac43-a92d-5c5f-8356-f3ade480643e.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "True History of the Kelly Gang (2019)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uZF4BZe45icLx7XVFUFnmLEemNm.webp",
+     "url": "https://streamhls.com/view/870360e3-262e-558a-b5be-c4ac008cfac5.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Mr. Jones (2019) ถอดรหัสวิกฤตพลิกโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zf5TN6Ez0XlAuTGFxW2lYPUiLOr.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Mr. Jones (2019) ถอดรหัสวิกฤตพลิกโลก",
@@ -1443,13 +1679,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zf5TN6Ez0XlAuTGFxW2lYPUiLOr.webp",
      "url": "https://streamhls.com/view/99d31c3c-118a-5397-818b-8a7d1d7a4c55.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Mr. Jones (2019) ถอดรหัสวิกฤตพลิกโลก",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zf5TN6Ez0XlAuTGFxW2lYPUiLOr.webp",
+     "url": "https://streamhls.com/view/7dbafe09-2e98-541a-aa44-ff8375f5a80c.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "A Hidden Life (2019)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/eSpfKXBLMUr8iViLiBFub9OQxfq.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "A Hidden Life (2019)",
@@ -1457,13 +1700,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/eSpfKXBLMUr8iViLiBFub9OQxfq.webp",
      "url": "https://streamhls.com/view/f3e4ba1b-552a-5ca0-a071-04b45c395216.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "A Hidden Life (2019)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/eSpfKXBLMUr8iViLiBFub9OQxfq.webp",
+     "url": "https://streamhls.com/view/48c33f06-995b-5373-820f-521e7024c48a.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Official Secrets (2019) รัฐบาลซ่อนเงื่อน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/lyCGqSkT3PqLYQXiWs4FCVJBAYW.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Official Secrets (2019) รัฐบาลซ่อนเงื่อน",
@@ -1471,19 +1721,26 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/lyCGqSkT3PqLYQXiWs4FCVJBAYW.webp",
      "url": "https://streamhls.com/view/77d50a02-195a-5e6a-a347-11166f2bf026.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Official Secrets (2019) รัฐบาลซ่อนเงื่อน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/lyCGqSkT3PqLYQXiWs4FCVJBAYW.webp",
+     "url": "https://streamhls.com/view/9c9ec18d-a321-567c-880a-41e639c282e2.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The King (2019) เดอะ คิง (Netflix)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191101192127the-king-poster.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "The King (2019) เดอะ คิง (Netflix)",
      "info": "พายกย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191101192127the-king-poster.webp",
-     "url": "https://streamhls.com/view/1dd53d32-b41d-5d57-aa44-55c3d9770b20.m3u8",
+     "url": "https://streamhls.com/view/3c1d99d9-15c0-528b-beb7-bf059d3b8ba8.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -1491,7 +1748,7 @@
   {
    "name": "The Current War (2019) สงครามไฟฟ้า คนขั้วอัจฉริยะ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Current-War-2019.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Current War (2019) สงครามไฟฟ้า คนขั้วอัจฉริยะ",
@@ -1499,13 +1756,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Current-War-2019.webp",
      "url": "https://streamhls.com/view/2c0676af-64bc-5b39-b86b-21b12a0f037a.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Current War (2019) สงครามไฟฟ้า คนขั้วอัจฉริยะ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Current-War-2019.webp",
+     "url": "https://streamhls.com/view/9f09b616-4398-50b4-86b0-6532f845e672.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Legend of the Ancient Sword (2019) อภินิหารแหวนครองพิภพสยบฟ้า",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Legend-of-the-Ancient-Sword-2019.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Legend of the Ancient Sword (2019) อภินิหารแหวนครองพิภพสยบฟ้า",
@@ -1519,7 +1783,7 @@
   {
    "name": "Tolkien (2019)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/201908060854173.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Tolkien (2019)",
@@ -1533,7 +1797,7 @@
   {
    "name": "Fighting with My Family (2019) สู้ท้าฝันเพื่อครอบครัว",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190812112340fighting-with-my-family-5ccdb85aa1667.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Fighting with My Family (2019) สู้ท้าฝันเพื่อครอบครัว",
@@ -1541,13 +1805,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190812112340fighting-with-my-family-5ccdb85aa1667.webp",
      "url": "https://streamhls.com/view/3cc1b0a9-d1a9-5649-aadd-82fc039e273e.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Fighting with My Family (2019) สู้ท้าฝันเพื่อครอบครัว",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190812112340fighting-with-my-family-5ccdb85aa1667.webp",
+     "url": "https://streamhls.com/view/e201aa07-a0d4-51f0-aac4-01464a2f9a4c.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "J.T. LeRoy (2019) แซ่บลวงโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190814113907561515.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "J.T. LeRoy (2019) แซ่บลวงโลก",
@@ -1561,7 +1832,7 @@
   {
    "name": "Rocketman (2019) ร็อคเกตแมน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190819171428rocketman-5cb30f91bbaea.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Rocketman (2019) ร็อคเกตแมน",
@@ -1575,7 +1846,7 @@
   {
    "name": "The Best of Enemies (2019)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/201908211555564.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Best of Enemies (2019)",
@@ -1589,7 +1860,7 @@
   {
    "name": "Elisa & Marcela (Elisa y Marcela) (2019) เอลิซาและมาร์เซลา (ซับไทย)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190609094010elisa_y_marcela-735381346-large.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Elisa & Marcela (Elisa y Marcela) (2019) เอลิซาและมาร์เซลา (ซับไทย)",
@@ -1603,7 +1874,7 @@
   {
    "name": "Breakthrough (2019)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190716182122breakthrough-5d25c89419c44.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Breakthrough (2019)",
@@ -1617,7 +1888,7 @@
   {
    "name": "The Dirt (2019) ร็อคเขย่าโลก (ซับไทย)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190323081344MV5BODhiMzkwYTctYzgw.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "The Dirt (2019) ร็อคเขย่าโลก (ซับไทย)",
@@ -1631,7 +1902,7 @@
   {
    "name": "Trial By Fire (2018) ไฟอยุติธรรม",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Aeon31iP17ys9FesAK3bLycXI6v.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Trial By Fire (2018) ไฟอยุติธรรม",
@@ -1639,13 +1910,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Aeon31iP17ys9FesAK3bLycXI6v.webp",
      "url": "https://streamhls.com/view/21865a0e-80d4-5d82-bbc9-82db915c02e4.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Trial By Fire (2018) ไฟอยุติธรรม",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Aeon31iP17ys9FesAK3bLycXI6v.webp",
+     "url": "https://streamhls.com/view/2de3d1b9-5dc0-59f4-87bc-d306fd793c7a.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The Brawler (2018)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/f3nJWpGpxgTR66lLvcoFMsZZuFY.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Brawler (2018)",
@@ -1657,9 +1935,30 @@
    ]
   },
   {
+   "name": "Stan & Ollie (2018)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zS1uUwKEFcd8ak0NTXxw97DlbAa.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Stan & Ollie (2018)",
+     "info": "พายกย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zS1uUwKEFcd8ak0NTXxw97DlbAa.webp",
+     "url": "https://streamhls.com/view/cf648a17-b395-5500-bf2b-b4cbfb7d924a.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Stan & Ollie (2018)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zS1uUwKEFcd8ak0NTXxw97DlbAa.webp",
+     "url": "https://streamhls.com/view/7ebba3c1-e84c-5c4f-be99-d8dcd3d334e7.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Don’t Worry, He Won’t Get Far on Foot (2018)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/rKsiN37qMt8jad5GikZzSeevyI9.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Don’t Worry, He Won’t Get Far on Foot (2018)",
@@ -1671,23 +1970,9 @@
    ]
   },
   {
-   "name": "Stan & Ollie (2018)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zS1uUwKEFcd8ak0NTXxw97DlbAa.webp",
-   "info": "HD",
-   "stations": [
-    {
-     "name": "Stan & Ollie (2018)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zS1uUwKEFcd8ak0NTXxw97DlbAa.webp",
-     "url": "https://streamhls.com/view/cf648a17-b395-5500-bf2b-b4cbfb7d924a.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "The Most Assassinated Woman in the World | Netflix (2018) ราชินีฉากสยอง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tC4IfhFv84CxC19BXN3678IeNRN.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "The Most Assassinated Woman in the World | Netflix (2018) ราชินีฉากสยอง",
@@ -1701,7 +1986,7 @@
   {
    "name": "Driven (2018)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5szS3NXiycrTL67AunS7TLG0EE0.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Driven (2018)",
@@ -1715,7 +2000,7 @@
   {
    "name": "Mary Shelley (2018)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qNQ9pwrHATeA7PVPmlPe2i2Styf.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Mary Shelley (2018)",
@@ -1723,13 +2008,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qNQ9pwrHATeA7PVPmlPe2i2Styf.webp",
      "url": "https://streamhls.com/view/5be58dfb-4bba-58de-ad38-0c32339afb52.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Mary Shelley (2018)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qNQ9pwrHATeA7PVPmlPe2i2Styf.webp",
+     "url": "https://streamhls.com/view/50139dae-ce57-582f-b13b-c7ee78f82a56.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The Copy (2018) ก๊อบปี้โชว์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/2020031915272515.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Copy (2018) ก๊อบปี้โชว์",
@@ -1743,7 +2035,7 @@
   {
    "name": "Brian Banks (2018) ไบรอันแบ๊งส์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191121141848p16362286_v_v8_ab.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Brian Banks (2018) ไบรอันแบ๊งส์",
@@ -1751,13 +2043,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191121141848p16362286_v_v8_ab.webp",
      "url": "https://streamhls.com/view/d16c6215-ac48-54dd-8a4f-9a22351aae86.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Brian Banks (2018) ไบรอันแบ๊งส์",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191121141848p16362286_v_v8_ab.webp",
+     "url": "https://streamhls.com/view/29bb3fdc-6a79-5d6a-bad3-b7b157de757f.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Driven (2018) ดริฟเว่น",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191020131105driven-5d5781b619364.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Driven (2018) ดริฟเว่น",
@@ -1771,7 +2070,7 @@
   {
    "name": "All Is True (2018) ทุกสิ่งล้วนจริงแท้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/2019082919305466.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "All Is True (2018) ทุกสิ่งล้วนจริงแท้",
@@ -1785,7 +2084,7 @@
   {
    "name": "The Old Man & the Gun (2018)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190919162442the-old-man-and-the-gun-5c2e123e90efa.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Old Man & the Gun (2018)",
@@ -1793,13 +2092,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190919162442the-old-man-and-the-gun-5c2e123e90efa.webp",
      "url": "https://streamhls.com/view/9baddc78-492d-535c-80e4-898747f2b3fd.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Old Man & the Gun (2018)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190919162442the-old-man-and-the-gun-5c2e123e90efa.webp",
+     "url": "https://streamhls.com/view/43efc393-7f07-5ef1-94aa-1f0be2fd5949.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The White Crow (2018)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/201908060850422.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The White Crow (2018)",
@@ -1813,7 +2119,7 @@
   {
    "name": "Paterno (2018) (ซับไทย)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190729100018p15082066_v_v8_aa.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Paterno (2018) (ซับไทย)",
@@ -1827,7 +2133,7 @@
   {
    "name": "Welcome to Marwen (2018) เวลคัม ทู มาร์เวิ่น",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190621180523welcome-to-marwen-5c9e20ff7034a.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Welcome to Marwen (2018) เวลคัม ทู มาร์เวิ่น",
@@ -1835,13 +2141,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190621180523welcome-to-marwen-5c9e20ff7034a.webp",
      "url": "https://streamhls.com/view/86c0e35e-e0ab-5dd5-9aac-46d2a53e24d0.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Welcome to Marwen (2018) เวลคัม ทู มาร์เวิ่น",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190621180523welcome-to-marwen-5c9e20ff7034a.webp",
+     "url": "https://streamhls.com/view/c5d70dab-2d32-54b5-962d-1470df9ea4ef.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "On the Basis of Sex (2018) สตรีพลิกโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190606161532on-the-basis-of-sex-5ca0ebcd7df18.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "On the Basis of Sex (2018) สตรีพลิกโลก",
@@ -1855,7 +2168,7 @@
   {
    "name": "The Photographer of Mauthausen (El fotógrafo de Mauthausen) (2018) ช่างภาพค่ายนรก (ซับไทย)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190225153331MV5BMTJhNmFjNWItZDE3Mi00Njg1LTgyZT.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "The Photographer of Mauthausen (El fotógrafo de Mauthausen) (2018) ช่างภาพค่ายนรก (ซับไทย)",
@@ -1869,7 +2182,7 @@
   {
    "name": "Mary Queen of Scots (2018) แมรี่ ราชินีแห่งสกอตส์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/201905182034224.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Mary Queen of Scots (2018) แมรี่ ราชินีแห่งสกอตส์",
@@ -1877,13 +2190,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/201905182034224.webp",
      "url": "https://streamhls.com/view/98e829a2-2c4b-5d62-b25f-17c50b256ae2.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Mary Queen of Scots (2018) แมรี่ ราชินีแห่งสกอตส์",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/201905182034224.webp",
+     "url": "https://streamhls.com/view/b6429c07-988a-5e2a-9909-74c3d5db13c4.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The Favourite (2018) เดอะ เฟฟเวอริท อีเสน่ห์ร้าย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Favourite-2018.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Favourite (2018) เดอะ เฟฟเวอริท อีเสน่ห์ร้าย",
@@ -1891,13 +2211,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Favourite-2018.webp",
      "url": "https://streamhls.com/view/c3104c41-755d-5a9a-a801-8e2c115cd855.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Favourite (2018) เดอะ เฟฟเวอริท อีเสน่ห์ร้าย",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Favourite-2018.webp",
+     "url": "https://streamhls.com/view/da4c969e-4247-5bd6-b698-6e4511efe62b.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Unbroken Path to Redemption (2018)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190331122049321564489123456.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Unbroken Path to Redemption (2018)",
@@ -1911,7 +2238,7 @@
   {
    "name": "Can You Ever Forgive Me? (2018)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190313224054165156156.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Can You Ever Forgive Me? (2018)",
@@ -1925,7 +2252,7 @@
   {
    "name": "Bohemian Rhapsody (2018) โบฮีเมียน แรปโซดี",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190130233102156156154544848.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Bohemian Rhapsody (2018) โบฮีเมียน แรปโซดี",
@@ -1939,7 +2266,7 @@
   {
    "name": "The Front Runner (2018)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/2019021011371025515445664.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Front Runner (2018)",
@@ -1951,15 +2278,22 @@
    ]
   },
   {
-   "name": "McQueen (2018) แม็คควีน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/201901161039561515156666.webp",
-   "info": "HD",
+   "name": "BlacKkKlansman (2018) แบล็คแคลนซ์แมน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190106114453123321231.webp",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
-     "name": "McQueen (2018) แม็คควีน",
+     "name": "BlacKkKlansman (2018) แบล็คแคลนซ์แมน",
      "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/201901161039561515156666.webp",
-     "url": "https://streamhls.com/view/396fbb4b-7a23-54fe-a2d9-b58f447a37e6.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190106114453123321231.webp",
+     "url": "https://streamhls.com/view/b5f9923a-0109-56c5-80b2-e3e32dbf1c2f.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "BlacKkKlansman (2018) แบล็คแคลนซ์แมน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190106114453123321231.webp",
+     "url": "https://streamhls.com/view/3184cafe-7fc9-59a8-ab06-43b2851cfdcf.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -1967,7 +2301,7 @@
   {
    "name": "McQueen (2018) แม็คควีน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/201901161039561515156666.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "McQueen (2018) แม็คควีน",
@@ -1981,7 +2315,7 @@
   {
    "name": "Goyo The Boy General (2018) โกโย นายพลหน้าหยก (ซับไทย)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190129195943MV5.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Goyo The Boy General (2018) โกโย นายพลหน้าหยก (ซับไทย)",
@@ -1995,7 +2329,7 @@
   {
    "name": "Outlaw King (2018) กษัตริย์นอกขัตติยะ (ซับไทย)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/rT49ousKUWN3dV7UlhaC9onTNdl.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Outlaw King (2018) กษัตริย์นอกขัตติยะ (ซับไทย)",
@@ -2009,7 +2343,7 @@
   {
    "name": "Operation Finale (2018) ปฏิบัติการปิดฉากปีศาจนาซี (ซับไทย)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/nlIdPeH5IrR1qRErschnVQeZAQu.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Operation Finale (2018) ปฏิบัติการปิดฉากปีศาจนาซี (ซับไทย)",
@@ -2023,7 +2357,7 @@
   {
    "name": "First Man (2018) มนุษย์คนแรกบนดวงจันทร์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1yaYSXeecZU2p5bPUOEaGxMCPVy.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "First Man (2018) มนุษย์คนแรกบนดวงจันทร์",
@@ -2037,7 +2371,7 @@
   {
    "name": "Sanju (2018) (ซับไทย)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/q1wkN4VQuBTj1AeyTLLz2w6awMA-1.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Sanju (2018) (ซับไทย)",
@@ -2051,7 +2385,7 @@
   {
    "name": "The 400 Bravers (2018) 400 นักรบขุนรองปลัดชู",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1537857109_edunk.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The 400 Bravers (2018) 400 นักรบขุนรองปลัดชู",
@@ -2065,7 +2399,7 @@
   {
    "name": "Billionaire Boys Club (2018) รวมพลรวยอัจฉริยะ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1537979040_1F0GC.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Billionaire Boys Club (2018) รวมพลรวยอัจฉริยะ",
@@ -2079,7 +2413,7 @@
   {
    "name": "Molly’s Game (2018) เกม โกง รวย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/h9hUP5ZJGsjL2wbERrGlj4dMjZq.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Molly’s Game (2018) เกม โกง รวย",
@@ -2093,7 +2427,7 @@
   {
    "name": "A Prayer Before Dawn (2018) ลูกผู้ชายสังเวียนเดือด (ซับไทย)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/73KrcLh1DpnBP3HwGpqoUUwKWF4.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "A Prayer Before Dawn (2018) ลูกผู้ชายสังเวียนเดือด (ซับไทย)",
@@ -2107,7 +2441,7 @@
   {
    "name": "The 15:17 to Paris (2018) หยุดด่วนนรก 15:17",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20180517104902the-1517-to-paris-5a6f12ad9ce9f.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The 15:17 to Paris (2018) หยุดด่วนนรก 15:17",
@@ -2121,7 +2455,7 @@
   {
    "name": "Winchester (2018) คฤหาสน์ขังผี",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tHDtskokZeO9B3JBdR1dSH0uqad.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Winchester (2018) คฤหาสน์ขังผี",
@@ -2135,7 +2469,7 @@
   {
    "name": "Anarchist from Colony (Park Yeol) (2017)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8KXB46zmGd6WAf3T9oQK5j1I6Ce.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Anarchist from Colony (Park Yeol) (2017)",
@@ -2149,7 +2483,7 @@
   {
    "name": "Same Kind of Different as Me (2017) (ซับไทย)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190719140613same-kind-of-different-as-me-5a83184b5ebed.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Same Kind of Different as Me (2017) (ซับไทย)",
@@ -2163,7 +2497,7 @@
   {
    "name": "Loving Pablo (2017) ปาโบล เอสโกบาร์ ด้วยรักและความตาย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190110153906MV5BMTAwODJhN2YtMzUwMy00ZjI1LTllNGYtNTA3YTk5M.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Loving Pablo (2017) ปาโบล เอสโกบาร์ ด้วยรักและความตาย",
@@ -2177,7 +2511,7 @@
   {
    "name": "Jungle (2017) ต้องรอด",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tDgxknTVwrScxpCYyGUjXSn5NRk.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Jungle (2017) ต้องรอด",
@@ -2189,23 +2523,9 @@
    ]
   },
   {
-   "name": "Rebel in the Rye (2017) เขียนไว้ให้โลกจารึก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/fjmMtBIqg65MPOJXOtoLCKYjVUn.webp",
-   "info": "HD",
-   "stations": [
-    {
-     "name": "Rebel in the Rye (2017) เขียนไว้ให้โลกจารึก",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/fjmMtBIqg65MPOJXOtoLCKYjVUn.webp",
-     "url": "https://streamhls.com/view/2beb4fc2-c55b-56ac-aa7e-c4fc86ccbd1e.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "England Is Mine (2017) มอร์ริสซีย์ ร้องให้โลกจำ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ue3Zh4YRyJgQXj39tq8smr0iqOa.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "England Is Mine (2017) มอร์ริสซีย์ ร้องให้โลกจำ",
@@ -2217,9 +2537,23 @@
    ]
   },
   {
+   "name": "Rebel in the Rye (2017) เขียนไว้ให้โลกจารึก",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/fjmMtBIqg65MPOJXOtoLCKYjVUn.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Rebel in the Rye (2017) เขียนไว้ให้โลกจารึก",
+     "info": "พายกย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/fjmMtBIqg65MPOJXOtoLCKYjVUn.webp",
+     "url": "https://streamhls.com/view/2beb4fc2-c55b-56ac-aa7e-c4fc86ccbd1e.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "The Greatest Showman (2017) โชว์แมนบันลือโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/b9CeobiihCx1uG1tpw8hXmpi7nm.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Greatest Showman (2017) โชว์แมนบันลือโลก",
@@ -2233,7 +2567,7 @@
   {
    "name": "Darkest Hour (2017) ชั่วโมงพลิกโลก (ซับไทย)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xa6G3aKlysQeVg9wOb0dRcIGlWu.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Darkest Hour (2017) ชั่วโมงพลิกโลก (ซับไทย)",
@@ -2247,7 +2581,7 @@
   {
    "name": "The Disaster Artist (2017) เดอะดิแซสเตอร์อาร์ติสท์ (ซับไทย)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/jj84nF5vYRD0HUTowBKcrKk8hZP.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "The Disaster Artist (2017) เดอะดิแซสเตอร์อาร์ติสท์ (ซับไทย)",
@@ -2261,7 +2595,7 @@
   {
    "name": "Only the Brave (2017) คนกล้าไฟนรก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Only-the-Brave-2017.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Only the Brave (2017) คนกล้าไฟนรก",
@@ -2275,7 +2609,7 @@
   {
    "name": "Victoria & Abdul (2017) ราชินีและคนสนิท",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Victoria-Abdul-2017.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Victoria & Abdul (2017) ราชินีและคนสนิท",
@@ -2289,7 +2623,7 @@
   {
    "name": "Birth of the Dragon (2017) บรูซลี มังกรผงาดโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Birth-of-the-Dragon-2017.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Birth of the Dragon (2017) บรูซลี มังกรผงาดโลก",
@@ -2301,37 +2635,9 @@
    ]
   },
   {
-   "name": "The Glass Castle (2017) วิมานอยู่ที่ใจ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Glass-Castle-2017.webp",
-   "info": "HD",
-   "stations": [
-    {
-     "name": "The Glass Castle (2017) วิมานอยู่ที่ใจ",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Glass-Castle-2017.webp",
-     "url": "https://streamhls.com/view/3cfd6a10-1c56-5c9a-972b-1145967af22d.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "American Made (2017) อเมริกัน เมด",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/DBm8K_AVYAERycn.webp",
-   "info": "HD",
-   "stations": [
-    {
-     "name": "American Made (2017) อเมริกัน เมด",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/DBm8K_AVYAERycn.webp",
-     "url": "https://streamhls.com/view/7d42d2e8-a2ed-5fdb-8641-878f349abcbe.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "First They Killed My Father A Daughter of Cambodia Remembers (2017) เมื่อพ่อของฉันถูกฆ่า [ซับไทย]",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/FirstTheyKilledMyFather5bf1f-1.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "First They Killed My Father A Daughter of Cambodia Remembers (2017) เมื่อพ่อของฉันถูกฆ่า [ซับไทย]",
@@ -2343,9 +2649,44 @@
    ]
   },
   {
+   "name": "The Glass Castle (2017) วิมานอยู่ที่ใจ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Glass-Castle-2017.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Glass Castle (2017) วิมานอยู่ที่ใจ",
+     "info": "พายกย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Glass-Castle-2017.webp",
+     "url": "https://streamhls.com/view/3cfd6a10-1c56-5c9a-972b-1145967af22d.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Glass Castle (2017) วิมานอยู่ที่ใจ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Glass-Castle-2017.webp",
+     "url": "https://streamhls.com/view/134ea959-0251-5e41-8113-beb624eec07d.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "American Made (2017) อเมริกัน เมด",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/DBm8K_AVYAERycn.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "American Made (2017) อเมริกัน เมด",
+     "info": "พายกย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/DBm8K_AVYAERycn.webp",
+     "url": "https://streamhls.com/view/7d42d2e8-a2ed-5fdb-8641-878f349abcbe.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "The Zookeeper s Wife (2017) ฝ่าสงคราม กรงสมรภูมิ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1498010515.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Zookeeper s Wife (2017) ฝ่าสงคราม กรงสมรภูมิ",
@@ -2359,7 +2700,7 @@
   {
    "name": "Hacksaw Ridge (2017) วีรบุรุษสมรภูมิปาฏิหาริย์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Hacksaw-Ridge-2017.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Hacksaw Ridge (2017) วีรบุรุษสมรภูมิปาฏิหาริย์",
@@ -2373,7 +2714,7 @@
   {
    "name": "Barry (2016) แบร์รี",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/hjAE0oa742kXDQ0nNmQ6IbbfQKJ.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Barry (2016) แบร์รี",
@@ -2387,7 +2728,7 @@
   {
    "name": "Kalushi The Story of Solomon Mahlangu | Netflix (2016) สู้สู่เสรี เรื่องราวของโซโลมอน มาห์ลานกู",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/dAyjXmaKic6W0YZMEUG1utoEsep.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Kalushi The Story of Solomon Mahlangu | Netflix (2016) สู้สู่เสรี เรื่องราวของโซโลมอน มาห์ลานกู",
@@ -2401,7 +2742,7 @@
   {
    "name": "Finding Altamira (2016) มหาสมบัติถ้ำพันปี",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/eBxW87UkTzLwUF2YQJIBlQtbau3.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Finding Altamira (2016) มหาสมบัติถ้ำพันปี",
@@ -2415,7 +2756,7 @@
   {
    "name": "Queen of Katwe (2016) (ซับไทย)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191005143701queen-of-katwe-5cb18d895affb.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Queen of Katwe (2016) (ซับไทย)",
@@ -2429,7 +2770,7 @@
   {
    "name": "USS Indianapolis: Men of Courage (2016) ยูเอสเอส อินเดียนาโพลิส: กองเรือหาญกล้าฝ่าทะเลเดือด",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/u78lpkgqifv-12411-poster.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "USS Indianapolis: Men of Courage (2016) ยูเอสเอส อินเดียนาโพลิส: กองเรือหาญกล้าฝ่าทะเลเดือด",
@@ -2437,13 +2778,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/u78lpkgqifv-12411-poster.webp",
      "url": "https://streamhls.com/view/db635b8a-a36a-5aad-b151-a528c11defdf.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "USS Indianapolis: Men of Courage (2016) ยูเอสเอส อินเดียนาโพลิส: กองเรือหาญกล้าฝ่าทะเลเดือด",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/u78lpkgqifv-12411-poster.webp",
+     "url": "https://streamhls.com/view/976345ba-279f-5cd2-99d3-38316c9214e6.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Oasis Supersonic (2016) โอเอซิส ซูเปอร์โซนิก (ซับไทย)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/201901271241302255.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Oasis Supersonic (2016) โอเอซิส ซูเปอร์โซนิก (ซับไทย)",
@@ -2457,7 +2805,7 @@
   {
    "name": "ขรัวโต อมตะเถระกรุงรัตนโกสินทร์ สิ้นชีพิตักษัย (2016) Krua Toh The Immortal Monk of Rattanakosin",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kruetoh2016.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "ขรัวโต อมตะเถระกรุงรัตนโกสินทร์ สิ้นชีพิตักษัย (2016) Krua Toh The Immortal Monk of Rattanakosin",
@@ -2471,7 +2819,7 @@
   {
    "name": "Chuck (2016) สุภาพบุรุษหยุดสังเวียน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/o6h2qXPJR9Rc4guF38MDhluaX6L.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Chuck (2016) สุภาพบุรุษหยุดสังเวียน",
@@ -2485,7 +2833,7 @@
   {
    "name": "Brain On Fire (2016) เผชิญหน้า ท้าปาฏิหาริย์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ddnlarnt.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Brain On Fire (2016) เผชิญหน้า ท้าปาฏิหาริย์",
@@ -2499,7 +2847,7 @@
   {
    "name": "Bleed for This (2016) คนระห่ำหมัดหยุดโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/232009R148ffc.webp",
-   "info": "HD",
+   "info": "พากย์ไทย(R)",
    "stations": [
     {
      "name": "Bleed for This (2016) คนระห่ำหมัดหยุดโลก",
@@ -2513,7 +2861,7 @@
   {
    "name": "Allied (2016) สายลับพันธมิตร",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Allied-2016-Sub-TH.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Allied (2016) สายลับพันธมิตร",
@@ -2527,7 +2875,7 @@
   {
    "name": "Hidden Figures (2016) ทีมเงาอัจฉริยะ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Hidden-Figures-2016.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Hidden Figures (2016) ทีมเงาอัจฉริยะ",
@@ -2535,13 +2883,41 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Hidden-Figures-2016.webp",
      "url": "https://streamhls.com/view/80fa09db-b14a-518c-9d17-5154ca66bd2f.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Hidden Figures (2016) ทีมเงาอัจฉริยะ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Hidden-Figures-2016.webp",
+     "url": "https://streamhls.com/view/0911b300-17fc-5404-91a4-58cf9c875240.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Lion (2016) จนกว่าจะพบกัน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Lion-2016.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Lion (2016) จนกว่าจะพบกัน",
+     "info": "พายกย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Lion-2016.webp",
+     "url": "https://streamhls.com/view/9676d25f-bb57-5956-98e4-eaf0c7ad3ebf.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Lion (2016) จนกว่าจะพบกัน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Lion-2016.webp",
+     "url": "https://streamhls.com/view/304a0b49-1526-55e1-bee6-abbce31a4bf1.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The Birth of a Nation (2016) หัวใจทาส สงครามสร้างแผ่นดิน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Birth-of-a-Nation-2016.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Birth of a Nation (2016) หัวใจทาส สงครามสร้างแผ่นดิน",
@@ -2553,23 +2929,9 @@
    ]
   },
   {
-   "name": "Lion (2016) จนกว่าจะพบกัน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Lion-2016.webp",
-   "info": "HD",
-   "stations": [
-    {
-     "name": "Lion (2016) จนกว่าจะพบกัน",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Lion-2016.webp",
-     "url": "https://streamhls.com/view/9676d25f-bb57-5956-98e4-eaf0c7ad3ebf.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "A Street Cat Named Bob (2016) บ๊อบ แมว เพื่อน คน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/A-Street-Cat-Named-Bob-2016.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "A Street Cat Named Bob (2016) บ๊อบ แมว เพื่อน คน",
@@ -2577,13 +2939,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/A-Street-Cat-Named-Bob-2016.webp",
      "url": "https://streamhls.com/view/2907c299-60d8-53af-b938-3019fa5c6a8e.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "A Street Cat Named Bob (2016) บ๊อบ แมว เพื่อน คน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/A-Street-Cat-Named-Bob-2016.webp",
+     "url": "https://streamhls.com/view/09951dd9-56ae-598c-ab26-73ced79f8559.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Sully (2016) ซัลลี่ ปาฎิหาริย์ที่แม่น้ำฮัดสัน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Sully-2016-Sub-TH.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Sully (2016) ซัลลี่ ปาฎิหาริย์ที่แม่น้ำฮัดสัน",
@@ -2597,7 +2966,7 @@
   {
    "name": "Snowden (2016) สโนว์เดน อัจฉริยะจารกรรมเขย่ามหาอำนาจ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Snowden-2016.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Snowden (2016) สโนว์เดน อัจฉริยะจารกรรมเขย่ามหาอำนาจ",
@@ -2611,7 +2980,7 @@
   {
    "name": "The Infiltrator (2016) แผนปล้นเหนือเมฆ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Infiltrator-2016.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Infiltrator (2016) แผนปล้นเหนือเมฆ",
@@ -2619,13 +2988,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Infiltrator-2016.webp",
      "url": "https://streamhls.com/view/5148bc26-f5ed-530c-a97c-8821ae59e21c.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Infiltrator (2016) แผนปล้นเหนือเมฆ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Infiltrator-2016.webp",
+     "url": "https://streamhls.com/view/7cefc567-cdf2-56db-bf93-765e48f02f7e.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "ขรัวโต อมตะเถระกรุงรัตนโกสินทร์ (2015) Somdej Toh",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kruetoh2015.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "ขรัวโต อมตะเถระกรุงรัตนโกสินทร์ (2015) Somdej Toh",
@@ -2639,7 +3015,7 @@
   {
    "name": "The Idol (2015) คว้าไมค์ สู้ฝัน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Idol-2015.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Idol (2015) คว้าไมค์ สู้ฝัน",
@@ -2653,7 +3029,7 @@
   {
    "name": "Queen of the Desert (2015) ตำนานรักแผ่นดินร้อน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Queen-of-the-Desert-2015.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Queen of the Desert (2015) ตำนานรักแผ่นดินร้อน",
@@ -2667,7 +3043,7 @@
   {
    "name": "The Clan (El Clan.) (2015) เดอะ แคลน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Clan-2015.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Clan (El Clan.) (2015) เดอะ แคลน",
@@ -2681,7 +3057,7 @@
   {
    "name": "Miles Ahead (2015) นักดนตรีแจ๊สของอเมริกา ไมล์ส เดวิส",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/MilesAhead282015295BSubTH5D.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Miles Ahead (2015) นักดนตรีแจ๊สของอเมริกา ไมล์ส เดวิส",
@@ -2695,7 +3071,7 @@
   {
    "name": "The Man Who Knew Infinity (2015) อัจฉริยะโลกไม่รัก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/TheManWhoKnewInfinity28201529.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Man Who Knew Infinity (2015) อัจฉริยะโลกไม่รัก",
@@ -2709,7 +3085,7 @@
   {
    "name": "Suffragette (2015) หัวใจเธอสยบโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/SuffragetteA4-Poster.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Suffragette (2015) หัวใจเธอสยบโลก",
@@ -2723,7 +3099,7 @@
   {
    "name": "Trumbo (2015) ทรัมโบ เขียนฮอลลีวู้ดฉาว",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Trumbo-143089852-large.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Trumbo (2015) ทรัมโบ เขียนฮอลลีวู้ดฉาว",
@@ -2737,7 +3113,7 @@
   {
    "name": "Legend (2015) อาชญากรแฝด แสบมหาประลัย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Legend28201529.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Legend (2015) อาชญากรแฝด แสบมหาประลัย",
@@ -2749,23 +3125,9 @@
    ]
   },
   {
-   "name": "The Big Short (2015) เกมฉวยโอกาสรวย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/81h0BsqKk4L._SL1500_.webp",
-   "info": "HD",
-   "stations": [
-    {
-     "name": "The Big Short (2015) เกมฉวยโอกาสรวย",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/81h0BsqKk4L._SL1500_.webp",
-     "url": "https://streamhls.com/view/ac4e8de6-a98e-5310-baf5-18040743e077.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "The Lady in the Van (2015) คุณป้ารถแวน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/large_large_8cpr5PSQEnY12FrN6FH6Y9CSkpY.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Lady in the Van (2015) คุณป้ารถแวน",
@@ -2773,13 +3135,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/large_large_8cpr5PSQEnY12FrN6FH6Y9CSkpY.webp",
      "url": "https://streamhls.com/view/a44c5ce1-b758-5f22-a70e-0c731a56a857.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Lady in the Van (2015) คุณป้ารถแวน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/large_large_8cpr5PSQEnY12FrN6FH6Y9CSkpY.webp",
+     "url": "https://streamhls.com/view/1ae41ab6-4e71-58a9-a5a9-ec4ab8d90bec.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The End of the Tour (2015) ติดตามชีวิตของนักเขียนเดวิด ฟอสเตอร์ วอลเลส",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/TheEndoftheTour282015295BSubTH5D.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The End of the Tour (2015) ติดตามชีวิตของนักเขียนเดวิด ฟอสเตอร์ วอลเลส",
@@ -2793,7 +3162,7 @@
   {
    "name": "Life (2015) เพื่อนผมชื่อเจมส์ ดีน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Life-2015-E0B980E0B89EE0B8B7E0B988E0B8ADE0B899E0B89CE0B8A1E0B88AE0B8B7E0B988E0B8ADE0B980E0B888E0B8A1E0B8AAE0B98C-E0B894E0B8B5E0B899.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Life (2015) เพื่อนผมชื่อเจมส์ ดีน",
@@ -2805,9 +3174,23 @@
    ]
   },
   {
+   "name": "The Big Short (2015) เกมฉวยโอกาสรวย",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/81h0BsqKk4L._SL1500_.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Big Short (2015) เกมฉวยโอกาสรวย",
+     "info": "พายกย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/81h0BsqKk4L._SL1500_.webp",
+     "url": "https://streamhls.com/view/ac4e8de6-a98e-5310-baf5-18040743e077.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "F.Hilaire ( 2015) ฟ.ฮีแลร์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/F.Hilaire-2015-E0B89F.E0B8AEE0B8B5E0B981E0B8A5E0B8A3E0B98C.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "F.Hilaire ( 2015) ฟ.ฮีแลร์",
@@ -2819,23 +3202,9 @@
    ]
   },
   {
-   "name": "Spotlight (2015) คน ข่าว คลั่ง",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/spotlight_poster.webp",
-   "info": "HD",
-   "stations": [
-    {
-     "name": "Spotlight (2015) คน ข่าว คลั่ง",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/spotlight_poster.webp",
-     "url": "https://streamhls.com/view/ccdd2da1-8bc0-5c9f-9a10-e267a9aaa6e2.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Steve Jobs (2015) สตีฟ จ็อบส์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/STEVEJOBS28201529.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Steve Jobs (2015) สตีฟ จ็อบส์",
@@ -2847,9 +3216,30 @@
    ]
   },
   {
+   "name": "Spotlight (2015) คน ข่าว คลั่ง",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/spotlight_poster.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Spotlight (2015) คน ข่าว คลั่ง",
+     "info": "พายกย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/spotlight_poster.webp",
+     "url": "https://streamhls.com/view/ccdd2da1-8bc0-5c9f-9a10-e267a9aaa6e2.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Spotlight (2015) คน ข่าว คลั่ง",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/spotlight_poster.webp",
+     "url": "https://streamhls.com/view/a086491b-3d10-592d-a017-95dd3b597f97.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "The 33 (2015) 33 ใต้นรก 200 ชั้น",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1698.pic_.7948.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The 33 (2015) 33 ใต้นรก 200 ชั้น",
@@ -2863,7 +3253,7 @@
   {
    "name": "Black Mass (2015) อาชญากรซ่อนเขี้ยว",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/rBJ8vH.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Black Mass (2015) อาชญากรซ่อนเขี้ยว",
@@ -2877,7 +3267,7 @@
   {
    "name": "Woman In Gold (2015) ภาพปริศนา ล่าระทึกโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1450310922-MV5BMTExMTUxNDQ5MjdeQTJeQWpwZ15BbWU4MDk4NTgxMzQx._V1_SX640_SY720_.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Woman In Gold (2015) ภาพปริศนา ล่าระทึกโลก",
@@ -2891,7 +3281,7 @@
   {
    "name": "Concussion (2015) คนเปลี่ยนเกม",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/7XYUcv.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Concussion (2015) คนเปลี่ยนเกม",
@@ -2905,7 +3295,7 @@
   {
    "name": "The Last Executioner (2015) เพชฌฆาต",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/6eab5ef27643b9e43d82202e481deba3.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Last Executioner (2015) เพชฌฆาต",
@@ -2919,7 +3309,7 @@
   {
    "name": "Get On Up (2014) เจมส์ บราวน์ เพลงเขย่าโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/v14YSZ8x0yil3rXD3Vhwghk3ULN.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Get On Up (2014) เจมส์ บราวน์ เพลงเขย่าโลก",
@@ -2927,13 +3317,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/v14YSZ8x0yil3rXD3Vhwghk3ULN.webp",
      "url": "https://streamhls.com/view/0fa55150-8d6a-5290-9f8a-e6b16b1d019a.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Get On Up (2014) เจมส์ บราวน์ เพลงเขย่าโลก",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/v14YSZ8x0yil3rXD3Vhwghk3ULN.webp",
+     "url": "https://streamhls.com/view/74d24587-5997-5f2f-b0f3-15bcb2646369.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Pawn Sacrifice (2014) เดิมพันชาติรุกฆาตโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4qPw3f.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Pawn Sacrifice (2014) เดิมพันชาติรุกฆาตโลก",
@@ -2941,13 +3338,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4qPw3f.webp",
      "url": "https://streamhls.com/view/0a964b33-e5c6-53d4-a292-9ccc641ccddd.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Pawn Sacrifice (2014) เดิมพันชาติรุกฆาตโลก",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4qPw3f.webp",
+     "url": "https://streamhls.com/view/5e86cdae-383f-58d9-a0a1-573f23cd78d6.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The Imitation Game (2014) ถอดรหัสลับ อัจฉริยะพลิกโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1434356152.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Imitation Game (2014) ถอดรหัสลับ อัจฉริยะพลิกโลก",
@@ -2961,7 +3365,7 @@
   {
    "name": "Jersey Boys (2014) เจอร์ซี่ย์ บอยส์ สี่หนุ่มเสียงทอง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Jersey-Boys-2014-E0B8AAE0B8B5E0B988E0B8ABE0B899E0B8B8E0B988E0B8A1E0B980E0B8AAE0B8B5E0B8A2E0B887E0B897E0B8ADE0B887.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Jersey Boys (2014) เจอร์ซี่ย์ บอยส์ สี่หนุ่มเสียงทอง",
@@ -2975,7 +3379,7 @@
   {
    "name": "Million Dollar Arm (2014) คว้าฝันข้ามโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ec5442c6f408925b835f433c3da33dbf.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Million Dollar Arm (2014) คว้าฝันข้ามโลก",
@@ -2989,7 +3393,7 @@
   {
    "name": "Behind the Candelabra (2013) เรื่องรักฉาวใต้เงาเทียน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/iodt6hrewVXxR415PIjBeuZg3Qs.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Behind the Candelabra (2013) เรื่องรักฉาวใต้เงาเทียน",
@@ -3003,7 +3407,7 @@
   {
    "name": "42 (2013) 42 ตำนานนักหวดสะท้านโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/iZ7jVGQWj3eBUdqwAPUlKk0BaS2.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "42 (2013) 42 ตำนานนักหวดสะท้านโลก",
@@ -3017,7 +3421,7 @@
   {
    "name": "The Fifth Estate (2013) วิกิลีกส์ เจาะปมลับเขย่าโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1dzLHy1AN8hgppJp1LDzMI4fbHY.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Fifth Estate (2013) วิกิลีกส์ เจาะปมลับเขย่าโลก",
@@ -3025,19 +3429,12 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1dzLHy1AN8hgppJp1LDzMI4fbHY.webp",
      "url": "https://streamhls.com/view/cff406aa-e58d-5345-bf20-91914250e756.m3u8",
      "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "My Paparotti (2013) มาย ปาพารอตตี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/f8bjWEyJENyhXSqDkz3qIhK05so.webp",
-   "info": "HD",
-   "stations": [
+    },
     {
-     "name": "My Paparotti (2013) มาย ปาพารอตตี",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/f8bjWEyJENyhXSqDkz3qIhK05so.webp",
-     "url": "https://streamhls.com/view/cff406aa-e58d-5345-bf20-91914250e756.m3u8",
+     "name": "The Fifth Estate (2013) วิกิลีกส์ เจาะปมลับเขย่าโลก",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1dzLHy1AN8hgppJp1LDzMI4fbHY.webp",
+     "url": "https://streamhls.com/view/1fd0cdb5-3734-5023-974d-d0765b9b8902.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -3045,7 +3442,7 @@
   {
    "name": "Lovelace (2013) รัก ล้วง ลึก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ibt7chnBsaDbE6ZVwyneuZwYfsC.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Lovelace (2013) รัก ล้วง ลึก",
@@ -3053,13 +3450,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ibt7chnBsaDbE6ZVwyneuZwYfsC.webp",
      "url": "https://streamhls.com/view/bddf86be-eadf-564b-abc0-b28f4ff0652d.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Lovelace (2013) รัก ล้วง ลึก",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ibt7chnBsaDbE6ZVwyneuZwYfsC.webp",
+     "url": "https://streamhls.com/view/788b4093-6649-55a3-b116-aa8f68cfb607.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The Bling Ring (2013) วัยร้าย วัยลัก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uAd3Fu1gSLElAt2W6yl1IL2Oovz.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Bling Ring (2013) วัยร้าย วัยลัก",
@@ -3067,13 +3471,26 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uAd3Fu1gSLElAt2W6yl1IL2Oovz.webp",
      "url": "https://streamhls.com/view/676595b8-be1a-5634-8bb2-52c72e31069d.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Bling Ring (2013) วัยร้าย วัยลัก",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uAd3Fu1gSLElAt2W6yl1IL2Oovz.webp",
+     "url": "https://streamhls.com/view/a809274f-1eaa-5b61-b332-645bc80b214e.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
+   "name": "My Paparotti (2013) มาย ปาพารอตตี",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/f8bjWEyJENyhXSqDkz3qIhK05so.webp",
+   "info": "ซับไทย",
+   "stations": []
+  },
+  {
    "name": "The Wolf of Wall Street (2013) คนจะรวย ช่วยไม่ได้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/WallStreet2013poster.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Wolf of Wall Street (2013) คนจะรวย ช่วยไม่ได้",
@@ -3087,7 +3504,7 @@
   {
    "name": "3096 Days (2013) บอกโลก…ว่าต้องรอด",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/3096Days28201329.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "3096 Days (2013) บอกโลก…ว่าต้องรอด",
@@ -3101,7 +3518,7 @@
   {
    "name": "One Chance (2013) ขอสักครั้งให้ดังเป็นพลุแตก (James Corden)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/OneChance.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "One Chance (2013) ขอสักครั้งให้ดังเป็นพลุแตก (James Corden)",
@@ -3115,7 +3532,7 @@
   {
    "name": "The Railway Man (2013) แค้น สะพานข้ามแม่น้ำแคว",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/the-railway-man.21500.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Railway Man (2013) แค้น สะพานข้ามแม่น้ำแคว",
@@ -3123,13 +3540,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/the-railway-man.21500.webp",
      "url": "https://streamhls.com/view/cbbea8ae-18e3-5bed-a670-7abf4aa27ab2.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Railway Man (2013) แค้น สะพานข้ามแม่น้ำแคว",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/the-railway-man.21500.webp",
+     "url": "https://streamhls.com/view/73c4ac22-696c-5982-96b1-2efe997e7d92.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "12 Years a Slave (2013) ปลดแอกคนย่ำคน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kb3X943WMIJYVg4SOAyK0pmWL5D.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "12 Years a Slave (2013) ปลดแอกคนย่ำคน",
@@ -3143,7 +3567,7 @@
   {
    "name": "Captain Phillips (2013) กัปตัน ฟิลลิป ฝ่านาทีพิฆาตโจรสลัดระทึกโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1389531998-47ronin1-o.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Captain Phillips (2013) กัปตัน ฟิลลิป ฝ่านาทีพิฆาตโจรสลัดระทึกโลก",
@@ -3157,7 +3581,7 @@
   {
    "name": "Game Change (2012) เกมเชนจ์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/wPBlDukp2N5JvW2GqEVF4GjwxV6.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Game Change (2012) เกมเชนจ์",
@@ -3171,7 +3595,7 @@
   {
    "name": "Hyde Park on Hudson (2012) แกร่งสุดมหาบุรุษรูสเวลท์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/fPqQ4lM1f4bkbpJ9J5Gt8QJRY5D.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Hyde Park on Hudson (2012) แกร่งสุดมหาบุรุษรูสเวลท์",
@@ -3185,7 +3609,7 @@
   {
    "name": "Hemingway & Gellhorn (2012) เฮ็มมิงเวย์กับเกลฮอร์น จารึกรักกลางสมรภูมิ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/KrsYqo8.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Hemingway & Gellhorn (2012) เฮ็มมิงเวย์กับเกลฮอร์น จารึกรักกลางสมรภูมิ",
@@ -3193,13 +3617,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/KrsYqo8.webp",
      "url": "https://streamhls.com/view/da79ed21-d258-5559-90d2-21e28e446ce8.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Hemingway & Gellhorn (2012) เฮ็มมิงเวย์กับเกลฮอร์น จารึกรักกลางสมรภูมิ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/KrsYqo8.webp",
+     "url": "https://streamhls.com/view/d5fa55be-4e94-5002-bf24-4d81bc103373.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Argo (2012) แผนฉกฟ้าแลบลวงสะท้านโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/argo2.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Argo (2012) แผนฉกฟ้าแลบลวงสะท้านโลก",
@@ -3213,7 +3644,7 @@
   {
    "name": "My Week with Marilyn (2011) 7 วัน แล้วคิดถึงกันตลอดไป",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5naqXRY1Zug5cyJJbO9H4DOg28q.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "My Week with Marilyn (2011) 7 วัน แล้วคิดถึงกันตลอดไป",
@@ -3221,13 +3652,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5naqXRY1Zug5cyJJbO9H4DOg28q.webp",
      "url": "https://streamhls.com/view/bbf27fa0-14d9-5ca8-98a4-da5ff7f9e489.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "My Week with Marilyn (2011) 7 วัน แล้วคิดถึงกันตลอดไป",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5naqXRY1Zug5cyJJbO9H4DOg28q.webp",
+     "url": "https://streamhls.com/view/157bcf9c-8f3c-5f43-b73d-54c6b56457eb.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The Iron Lady (2011) มาร์กาเร็ต แธตเชอร์…หญิงเหล็กพลิกแผ่นดิน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/nh1j03qFhbM3HdfGhB7aCxqLVQ.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Iron Lady (2011) มาร์กาเร็ต แธตเชอร์…หญิงเหล็กพลิกแผ่นดิน",
@@ -3235,13 +3673,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/nh1j03qFhbM3HdfGhB7aCxqLVQ.webp",
      "url": "https://streamhls.com/view/08a1b4e3-a35d-55c2-8bb3-66c7b7d5a9ba.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Iron Lady (2011) มาร์กาเร็ต แธตเชอร์…หญิงเหล็กพลิกแผ่นดิน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/nh1j03qFhbM3HdfGhB7aCxqLVQ.webp",
+     "url": "https://streamhls.com/view/b4173dcd-c7ec-5f5d-8814-75001e451e27.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Too Big to Fail (2011) ใหญ่เกินกว่าจะล้ม",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/pcrCKELIeNFfFrAoVFpMTpzTqVx.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Too Big to Fail (2011) ใหญ่เกินกว่าจะล้ม",
@@ -3255,7 +3700,7 @@
   {
    "name": "The Devil’s Double (2011) เหี้ยมซ่อนเหี้ยม",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/mpzo9adHhc9WPFtAnbZEHbOff8U.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Devil’s Double (2011) เหี้ยมซ่อนเหี้ยม",
@@ -3263,13 +3708,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/mpzo9adHhc9WPFtAnbZEHbOff8U.webp",
      "url": "https://streamhls.com/view/1f03b5c0-4bd2-5fb7-bfe0-6f930ce6ba2e.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Devil’s Double (2011) เหี้ยมซ่อนเหี้ยม",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/mpzo9adHhc9WPFtAnbZEHbOff8U.webp",
+     "url": "https://streamhls.com/view/50177fe1-d9ed-5d94-a172-ee32824839cc.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The Lady (2011) อองซานซูจี ผู้หญิงท้าอำนาจ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/nAtFlDKS7VP1EQ3nGs8Rv2GUuTP.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Lady (2011) อองซานซูจี ผู้หญิงท้าอำนาจ",
@@ -3277,13 +3729,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/nAtFlDKS7VP1EQ3nGs8Rv2GUuTP.webp",
      "url": "https://streamhls.com/view/6b8bd32b-a00e-5be2-9dc0-b236f431e12b.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Lady (2011) อองซานซูจี ผู้หญิงท้าอำนาจ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/nAtFlDKS7VP1EQ3nGs8Rv2GUuTP.webp",
+     "url": "https://streamhls.com/view/8047548e-b3af-536a-992d-c2c6adad3f40.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The Moon (2011) พุ่มพวง ดวงจันทร์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/12118781_1635989289959392_5425390505797899922_n.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Moon (2011) พุ่มพวง ดวงจันทร์",
@@ -3297,21 +3756,13 @@
   {
    "name": "You Don’t Know Jack (2010) การุณยฆาต มาตรวัดความเป็นคน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xl4x8aILt9v91TUOKXHIVDZwkXy.webp",
-   "info": "HD",
-   "stations": [
-    {
-     "name": "You Don’t Know Jack (2010) การุณยฆาต มาตรวัดความเป็นคน",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xl4x8aILt9v91TUOKXHIVDZwkXy.webp",
-     "url": "https://streamhls.com/view/664f0177-bb05-5e5e-8f90-0f4515e123c2.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
+   "info": "ซับไทย",
+   "stations": []
   },
   {
    "name": "Bruce Lee My Brother (2010) บรู๊ซ ลี เตะแรกลั่นโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/HhXXhfk.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Bruce Lee My Brother (2010) บรู๊ซ ลี เตะแรกลั่นโลก",
@@ -3325,7 +3776,7 @@
   {
    "name": "Confucius (2010) ขงจื้อ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/00-38-04_0.135308.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Confucius (2010) ขงจื้อ",
@@ -3339,7 +3790,7 @@
   {
    "name": "The Kings Speech (2010) ประกาศก้องจอมราชา",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/nkFTbA1XjKWo9LCTaV1hV2Lsgr1.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Kings Speech (2010) ประกาศก้องจอมราชา",
@@ -3347,13 +3798,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/nkFTbA1XjKWo9LCTaV1hV2Lsgr1.webp",
      "url": "https://streamhls.com/view/7e52f37a-d8b0-58db-9b28-3c5109804945.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Kings Speech (2010) ประกาศก้องจอมราชา",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/nkFTbA1XjKWo9LCTaV1hV2Lsgr1.webp",
+     "url": "https://streamhls.com/view/1971cbbd-332b-5ad6-b1b8-410e7e959fee.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The Bang Bang Club (2010) แบง แบง คลับ มือจับภาพช็อคโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4793234437.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Bang Bang Club (2010) แบง แบง คลับ มือจับภาพช็อคโลก",
@@ -3367,7 +3825,7 @@
   {
    "name": "Public Enemies (2009) วีรบุรุษปล้นสะท้านเมือง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/PublicEnemies28200929.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Public Enemies (2009) วีรบุรุษปล้นสะท้านเมือง",
@@ -3381,7 +3839,7 @@
   {
    "name": "Frost/Nixon (2008) ฟรอสท์/นิกสัน เปิดปูมคดีสะท้านโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/nLrRrHZQ40tWqLTY3kxgS4x7GUw.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Frost/Nixon (2008) ฟรอสท์/นิกสัน เปิดปูมคดีสะท้านโลก",
@@ -3395,7 +3853,7 @@
   {
    "name": "Einstein and Eddington (2008) ไอน์สไตน์และเอ็ดดิงตั้น",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xfjONUpoEakb14m0dRK3Xqc69Xy.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Einstein and Eddington (2008) ไอน์สไตน์และเอ็ดดิงตั้น",
@@ -3409,7 +3867,7 @@
   {
    "name": "Cadillac Records (2008) คาดิลแล็กเรเคิดส์ วันวานตำนานร็อก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/c5lcRDLVEIsehvfKwNKYojFOyva.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Cadillac Records (2008) คาดิลแล็กเรเคิดส์ วันวานตำนานร็อก",
@@ -3423,7 +3881,7 @@
   {
    "name": "Che Part One (The Argentine) (2008) เช กูวาร่า สงครามปฏิวัติโลก ภาค 1",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Che-Part1-2008.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Che Part One (The Argentine) (2008) เช กูวาร่า สงครามปฏิวัติโลก ภาค 1",
@@ -3437,7 +3895,7 @@
   {
    "name": "Che Part Two (Guerrilla) (2008) เช กูวาร่า สงครามปฏิวัติโลก ภาค 2",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/cheparttwo2008.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Che Part Two (Guerrilla) (2008) เช กูวาร่า สงครามปฏิวัติโลก ภาค 2",
@@ -3451,7 +3909,7 @@
   {
    "name": "Milk (2008) ฮาร์วี่ย์ มิลค์ ผู้ชายฉาวโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20181206152034milk-522f1d19e43c9.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Milk (2008) ฮาร์วี่ย์ มิลค์ ผู้ชายฉาวโลก",
@@ -3465,7 +3923,7 @@
   {
    "name": "The Other Boleyn Girl (2008) บัลลังก์รักฉาวโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zXHUIEa.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Other Boleyn Girl (2008) บัลลังก์รักฉาวโลก",
@@ -3479,7 +3937,7 @@
   {
    "name": "Changeling (2008) กระชากปมปริศนาคดีอำพราง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/poster16.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Changeling (2008) กระชากปมปริศนาคดีอำพราง",
@@ -3493,7 +3951,7 @@
   {
    "name": "A Mighty Heart (2007) อะ ไมตี้ ฮาร์ท แด่เธอ…ผู้เป็นรักนิรันดร์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/z5f7KPg8vqqYXtaF0wUkSWryDIg.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "A Mighty Heart (2007) อะ ไมตี้ ฮาร์ท แด่เธอ…ผู้เป็นรักนิรันดร์",
@@ -3501,13 +3959,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/z5f7KPg8vqqYXtaF0wUkSWryDIg.webp",
      "url": "https://streamhls.com/view/34b6a188-9c9e-58a9-8c0c-f4d18b3e8d58.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "A Mighty Heart (2007) อะ ไมตี้ ฮาร์ท แด่เธอ…ผู้เป็นรักนิรันดร์",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/z5f7KPg8vqqYXtaF0wUkSWryDIg.webp",
+     "url": "https://streamhls.com/view/e9a17e86-1a09-53fd-94a1-e5fae8dc13ba.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Control (2007) คอนโทรล",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/jOJiaOhwrDdwqTRZvZOhbndqHGp.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Control (2007) คอนโทรล",
@@ -3521,7 +3986,7 @@
   {
    "name": "Breach (2007) หักเหลี่ยมอเมริกาล่าทรชน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/breachdvd2007front1.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Breach (2007) หักเหลี่ยมอเมริกาล่าทรชน",
@@ -3535,7 +4000,7 @@
   {
    "name": "The Assassination of Jesse James by the Coward Robert Ford (2007) แผนสังหารตำนานจอมโจร เจสซี่ เจมส์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20181123172232the-assassination-of-jesse-james-by-the-coward-robert-ford-5a2d95622f2eb.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Assassination of Jesse James by the Coward Robert Ford (2007) แผนสังหารตำนานจอมโจร เจสซี่ เจมส์",
@@ -3549,7 +4014,7 @@
   {
    "name": "Gracie (2007) เกรซี่ เตะนี้ด้วยหัวใจ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/83eFpXKJuBUAi7DHKZR2OGbMoJQ.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Gracie (2007) เกรซี่ เตะนี้ด้วยหัวใจ",
@@ -3563,7 +4028,7 @@
   {
    "name": "Charlie Wilson’s War (2007) ชาร์ลี วิลสัน คนกล้าแผนการณ์พลิกโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/CharlieWilsonsWar28200729.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Charlie Wilson’s War (2007) ชาร์ลี วิลสัน คนกล้าแผนการณ์พลิกโลก",
@@ -3577,7 +4042,7 @@
   {
    "name": "Longford (2006) ลองฟอร์ด",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/cmPHc1ORhwDJjFoccM0FqfY4SyX.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Longford (2006) ลองฟอร์ด",
@@ -3591,7 +4056,7 @@
   {
    "name": "Gridiron Gang (2006) แก๊งระห่ำ เกมคนชนคน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/icv6qe7nhiGV914nf1WEr8wHy7m.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Gridiron Gang (2006) แก๊งระห่ำ เกมคนชนคน",
@@ -3599,13 +4064,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/icv6qe7nhiGV914nf1WEr8wHy7m.webp",
      "url": "https://streamhls.com/view/884eab39-e885-5a44-9afd-7877f9edf29c.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Gridiron Gang (2006) แก๊งระห่ำ เกมคนชนคน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/icv6qe7nhiGV914nf1WEr8wHy7m.webp",
+     "url": "https://streamhls.com/view/293e22e7-6143-5bec-9cc8-93c92a26aac0.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Catch a Fire (2006) แผนล้างเลือด เชือดคนดิบ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/l4qvJ0lq59wR3ODX42DxBVFGoxx.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Catch a Fire (2006) แผนล้างเลือด เชือดคนดิบ",
@@ -3613,13 +4085,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/l4qvJ0lq59wR3ODX42DxBVFGoxx.webp",
      "url": "https://streamhls.com/view/3456a249-55c9-5d7b-9ca7-a582dc356dd9.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Catch a Fire (2006) แผนล้างเลือด เชือดคนดิบ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/l4qvJ0lq59wR3ODX42DxBVFGoxx.webp",
+     "url": "https://streamhls.com/view/8b600bbb-2bca-5a85-8b46-1373f22d646a.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The Queen (2006) เดอะ ควีน ราชินีหัวใจโลกจารึก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1393162857-queenxlg-o.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Queen (2006) เดอะ ควีน ราชินีหัวใจโลกจารึก",
@@ -3633,7 +4112,7 @@
   {
    "name": "Invincible (2006) อินวินซิเบิ้ล สู้สุดใจ เกมนี้ไม่มีวันแพ้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Invincible28200129.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Invincible (2006) อินวินซิเบิ้ล สู้สุดใจ เกมนี้ไม่มีวันแพ้",
@@ -3647,7 +4126,7 @@
   {
    "name": "Marathon (2005) ปาฏิหาริย์รักจากแม่",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/rgt1SIbsV1uVBBtovwXeTtnu8wQ.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Marathon (2005) ปาฏิหาริย์รักจากแม่",
@@ -3661,7 +4140,7 @@
   {
    "name": "Warm Springs (2005) วอร์ม สปริง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ieSu2e0yBZ34IwEzgNPnliHALNo.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Warm Springs (2005) วอร์ม สปริง",
@@ -3675,7 +4154,7 @@
   {
    "name": "Walk the Line (2005) วอล์ค เดอะ ไลน์ อ้อมกอดรักก้องโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zMkD6FVikyPNnigoupO7vD5ti9p.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Walk the Line (2005) วอล์ค เดอะ ไลน์ อ้อมกอดรักก้องโลก",
@@ -3683,13 +4162,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zMkD6FVikyPNnigoupO7vD5ti9p.webp",
      "url": "https://streamhls.com/view/28f6a61d-8d5b-5545-9707-7c574ca62054.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Walk the Line (2005) วอล์ค เดอะ ไลน์ อ้อมกอดรักก้องโลก",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zMkD6FVikyPNnigoupO7vD5ti9p.webp",
+     "url": "https://streamhls.com/view/1e482cbb-e55a-546e-8d4c-756a624db2b5.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Capote (2005) คาโพที",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/k7z0tDxzbDNev7F8l3Y56Pk5seR.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Capote (2005) คาโพที",
@@ -3703,7 +4189,7 @@
   {
    "name": "Walk the Line (2005) อ้อมกอดรักก้องโลก (ซับไทย)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190224193308walk-the-line-591f4eabee385.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Walk the Line (2005) อ้อมกอดรักก้องโลก (ซับไทย)",
@@ -3717,7 +4203,7 @@
   {
    "name": "The New World (2005) เปิดพิภพนักรบจอมคน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The_New_World_poster.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The New World (2005) เปิดพิภพนักรบจอมคน",
@@ -3725,13 +4211,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The_New_World_poster.webp",
      "url": "https://streamhls.com/view/830ae934-7c05-5e3e-adb2-80cc9df230ef.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The New World (2005) เปิดพิภพนักรบจอมคน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The_New_World_poster.webp",
+     "url": "https://streamhls.com/view/961030ac-bd45-5199-89a4-823161aa2ac3.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The World s Fastest Indian (2005) บิดสุดใจ แรงเกินฝัน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/the-worlds-fastest-indian.18645.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The World s Fastest Indian (2005) บิดสุดใจ แรงเกินฝัน",
@@ -3745,7 +4238,7 @@
   {
    "name": "Jarhead (2005) จาร์เฮด พลระห่ำ สงครามนรก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/large_kmbyO0XUHRHcMyxVSZAWDdrpxIu.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Jarhead (2005) จาร์เฮด พลระห่ำ สงครามนรก",
@@ -3753,13 +4246,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/large_kmbyO0XUHRHcMyxVSZAWDdrpxIu.webp",
      "url": "https://streamhls.com/view/3864d12c-da5c-5321-a787-c1de469e76a5.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Jarhead (2005) จาร์เฮด พลระห่ำ สงครามนรก",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/large_kmbyO0XUHRHcMyxVSZAWDdrpxIu.webp",
+     "url": "https://streamhls.com/view/da61e6e2-aaa9-5308-bdea-62feed5922bd.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Something the Lord Made (2004) บางสิ่งที่พระเจ้าสร้าง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5cbeG0f82NpamRjT0zUc7JbGMFn.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Something the Lord Made (2004) บางสิ่งที่พระเจ้าสร้าง",
@@ -3773,7 +4273,7 @@
   {
    "name": "Against the Ropes (2004)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/9CuODYTA3vvrGluaIl0hMPsEIK8.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Against the Ropes (2004)",
@@ -3787,7 +4287,7 @@
   {
    "name": "Iron Jawed Angels (2004) ฝันกล้า ท้าหัวใจเธอ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/pLtbTAIBpoRrQxnfTVB0y0wVEKK.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Iron Jawed Angels (2004) ฝันกล้า ท้าหัวใจเธอ",
@@ -3801,7 +4301,7 @@
   {
    "name": "Hotel Rwanda (2004) รวันดา ความหวังไม่สิ้นสูญ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/158942245_246915.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Hotel Rwanda (2004) รวันดา ความหวังไม่สิ้นสูญ",
@@ -3815,7 +4315,7 @@
   {
    "name": "Beautiful Boxer (2004) บิวตี้ฟูล บ๊อกเซอร์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/iYAqeCxPLrvOFfwERLQpCUqatRC.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Beautiful Boxer (2004) บิวตี้ฟูล บ๊อกเซอร์",
@@ -3829,7 +4329,7 @@
   {
    "name": "Miracle (2004) มิราเคิล ทีมฮึดปาฏิหาริย์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Miracle28200429.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Miracle (2004) มิราเคิล ทีมฮึดปาฏิหาริย์",
@@ -3843,7 +4343,7 @@
   {
    "name": "Ray (2004) เรย์ ตาบอด ใจไม่บอด",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/TFn62Jq.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Ray (2004) เรย์ ตาบอด ใจไม่บอด",
@@ -3851,13 +4351,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/TFn62Jq.webp",
      "url": "https://streamhls.com/view/d0101305-4387-5f39-b840-636e7d4b704f.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Ray (2004) เรย์ ตาบอด ใจไม่บอด",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/TFn62Jq.webp",
+     "url": "https://streamhls.com/view/8f904b8f-740a-56bb-ae37-1a2b3da37f9d.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The Aviator (2004) บินรัก บันลือโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Aviator-2004-E0B89AE0B8B4E0B899E0B8A3E0B8B1E0B881E0B89AE0B8B1E0B899E0B8A5E0B8B7E0B8ADE0B982E0B8A5E0B881.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Aviator (2004) บินรัก บันลือโลก",
@@ -3871,7 +4378,7 @@
   {
    "name": "Ned Kelly (2003) เน็ด เคลลี่ วีรบุรุษแดนเถื่อน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/rBid8dQlauN5r58H3rozxpPgEdj.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Ned Kelly (2003) เน็ด เคลลี่ วีรบุรุษแดนเถื่อน",
@@ -3885,7 +4392,7 @@
   {
    "name": "Frida (2002) ผู้หญิงคนนี้ ฟรีด้า",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/a4hgR6aKoohB6MHni171jbi9BkU.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Frida (2002) ผู้หญิงคนนี้ ฟรีด้า",
@@ -3893,13 +4400,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/a4hgR6aKoohB6MHni171jbi9BkU.webp",
      "url": "https://streamhls.com/view/76aaf5b6-f83e-5b19-9d88-759677c26209.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Frida (2002) ผู้หญิงคนนี้ ฟรีด้า",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/a4hgR6aKoohB6MHni171jbi9BkU.webp",
+     "url": "https://streamhls.com/view/74b1c2ae-7943-5a01-8091-1a236ee4afce.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Path to War (2002) เส้นทางสู่สงคราม",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/rcz5c4JeyExYVpdoNmEpViPcbug.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Path to War (2002) เส้นทางสู่สงคราม",
@@ -3913,7 +4427,7 @@
   {
    "name": "The Gathering Storm (2002)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/7NfDZwBPNxceuynFKXU2VkSsH6D.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "The Gathering Storm (2002)",
@@ -3927,7 +4441,7 @@
   {
    "name": "The Pianist (2002) สงคราม ความหวัง บัลลังก์ เกียรติยศ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/E0B894E0B8B2E0B8A7E0B899E0B98CE0B982E0B8ABE0B8A5E0B89428129.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Pianist (2002) สงคราม ความหวัง บัลลังก์ เกียรติยศ",
@@ -3935,13 +4449,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/E0B894E0B8B2E0B8A7E0B899E0B98CE0B982E0B8ABE0B8A5E0B89428129.webp",
      "url": "https://streamhls.com/view/b198ad97-e1e6-5bd1-b790-23b6dcb22dcd.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Pianist (2002) สงคราม ความหวัง บัลลังก์ เกียรติยศ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/E0B894E0B8B2E0B8A7E0B899E0B98CE0B982E0B8ABE0B8A5E0B89428129.webp",
+     "url": "https://streamhls.com/view/231ae059-c9e7-5b4d-852c-f42c1a9149d8.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Conspiracy (2001) แผนลับดับทมิฬ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Onqn8XXyhANuy1LIL7AIN6unQk.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Conspiracy (2001) แผนลับดับทมิฬ",
@@ -3949,13 +4470,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Onqn8XXyhANuy1LIL7AIN6unQk.webp",
      "url": "https://streamhls.com/view/8b776d3e-64c8-5137-a7cb-394aec1efb81.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Conspiracy (2001) แผนลับดับทมิฬ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Onqn8XXyhANuy1LIL7AIN6unQk.webp",
+     "url": "https://streamhls.com/view/f6e36cb6-1421-5c3c-91dc-51a67b08c5e8.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "A Beautiful Mind (2001) อะ บิวตี้ฟูล ไมด์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/A-Beautiful-Mind-2001.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "A Beautiful Mind (2001) อะ บิวตี้ฟูล ไมด์",
@@ -3963,13 +4491,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/A-Beautiful-Mind-2001.webp",
      "url": "https://streamhls.com/view/eb05bab7-3e2c-5262-a6b6-b1aa429586b3.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "A Beautiful Mind (2001) อะ บิวตี้ฟูล ไมด์",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/A-Beautiful-Mind-2001.webp",
+     "url": "https://streamhls.com/view/58e2346b-fe2b-540a-bea1-0e807414662d.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Erin Brockovich (2000) ยอมหักไม่ยอมงอ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Erin_Brockovich_film_poster.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Erin Brockovich (2000) ยอมหักไม่ยอมงอ",
@@ -3983,7 +4518,7 @@
   {
    "name": "Remember the Titans (2000) ไททัน สู้หมดใจ เกียรติศักดิ์ก้องโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kMySqkX.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Remember the Titans (2000) ไททัน สู้หมดใจ เกียรติศักดิ์ก้องโลก",
@@ -3991,13 +4526,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kMySqkX.webp",
      "url": "https://streamhls.com/view/b6d220ac-722e-544b-aa30-423ac288bdec.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Remember the Titans (2000) ไททัน สู้หมดใจ เกียรติศักดิ์ก้องโลก",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kMySqkX.webp",
+     "url": "https://streamhls.com/view/92fbf385-c93d-5079-98a5-66343196daa8.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Pirates of Silicon Valley (1999) บิล เกทส์ เหนืออัจฉริยะ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/t7uUOD2Ov2CM9PYYOEggL7hef15.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Pirates of Silicon Valley (1999) บิล เกทส์ เหนืออัจฉริยะ",
@@ -4005,13 +4547,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/t7uUOD2Ov2CM9PYYOEggL7hef15.webp",
      "url": "https://streamhls.com/view/49db234e-d1ca-51b0-90bd-e588ba950349.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Pirates of Silicon Valley (1999) บิล เกทส์ เหนืออัจฉริยะ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/t7uUOD2Ov2CM9PYYOEggL7hef15.webp",
+     "url": "https://streamhls.com/view/fa95002f-a8ed-5548-b59b-2fe867836312.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Boys Don’t Cry (1999) ผู้ชายนี่หว่า ยังไงก็ไม่ร้องไห้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/stFD3UQmCE0.movieposter.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Boys Don’t Cry (1999) ผู้ชายนี่หว่า ยังไงก็ไม่ร้องไห้",
@@ -4025,7 +4574,7 @@
   {
    "name": "Dangerous Beauty (1998) ร้อนรักลิขิตหัวใจ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vfDOoEx8igb6L4lO6VnXciv53Gr.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Dangerous Beauty (1998) ร้อนรักลิขิตหัวใจ",
@@ -4039,7 +4588,7 @@
   {
    "name": "Tyson (1995) ไทสัน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5xVq9mur4WS6tJwN69Q6D3dGIFh.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Tyson (1995) ไทสัน",
@@ -4053,7 +4602,7 @@
   {
    "name": "Braveheart (1995) เบรฟฮาร์ท วีรบุรุษหัวใจมหากาฬ (เมล กิบสัน)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/2qAgGeYdLjelOEqjW9FYvPHpplC.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Braveheart (1995) เบรฟฮาร์ท วีรบุรุษหัวใจมหากาฬ (เมล กิบสัน)",
@@ -4067,7 +4616,7 @@
   {
    "name": "Wyatt Earp (1994) นายอำเภอชาติเพชร",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/51LItgyecu2KMAtIchYogEykCIu.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Wyatt Earp (1994) นายอำเภอชาติเพชร",
@@ -4075,13 +4624,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/51LItgyecu2KMAtIchYogEykCIu.webp",
      "url": "https://streamhls.com/view/f4282340-3fa8-59b2-b040-77330b578730.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Wyatt Earp (1994) นายอำเภอชาติเพชร",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/51LItgyecu2KMAtIchYogEykCIu.webp",
+     "url": "https://streamhls.com/view/a0dd059a-a6fa-5272-997e-b77c9c92b0a5.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Searching for Bobby Fischer (1993) เจ้าหมากรุก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8EFr1rsJ9sfayiM4D1cEbucOg7E.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Searching for Bobby Fischer (1993) เจ้าหมากรุก",
@@ -4095,7 +4651,7 @@
   {
    "name": "Schindler’s List (1993) ชะตากรรมที่โลกไม่ลืม",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/schindlerslist2.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Schindler’s List (1993) ชะตากรรมที่โลกไม่ลืม",
@@ -4109,7 +4665,7 @@
   {
    "name": "The Lover (1992) กลัวทำไม ถ้าใจเป็นของเธอ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/lgBGy8QaIFD9jQJWgi837czobEp.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "The Lover (1992) กลัวทำไม ถ้าใจเป็นของเธอ",
@@ -4117,13 +4673,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/lgBGy8QaIFD9jQJWgi837czobEp.webp",
      "url": "https://streamhls.com/view/62ef0d41-004f-5f0a-ba36-1de179a2f71e.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Lover (1992) กลัวทำไม ถ้าใจเป็นของเธอ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/lgBGy8QaIFD9jQJWgi837czobEp.webp",
+     "url": "https://streamhls.com/view/f9da18de-f2e5-5f4f-95cf-c4c8f04de36a.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Chaplin (1992) แชปลิน หัวเราะร่า น้ำตาริน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/7QavUrTXk3HDDusAPqOfGOevsTb.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Chaplin (1992) แชปลิน หัวเราะร่า น้ำตาริน",
@@ -4131,13 +4694,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/7QavUrTXk3HDDusAPqOfGOevsTb.webp",
      "url": "https://streamhls.com/view/9df797fc-08a5-51fa-af03-2b9cc6985942.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Chaplin (1992) แชปลิน หัวเราะร่า น้ำตาริน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/7QavUrTXk3HDDusAPqOfGOevsTb.webp",
+     "url": "https://streamhls.com/view/f4b17450-ee84-5af1-802a-32928d514d71.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "To Be Number One (1991) เป๋ห่าวเป็นเจ้าพ่อ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/w5ZOlfE5lfaovM9RfSuMo1PffPs.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "To Be Number One (1991) เป๋ห่าวเป็นเจ้าพ่อ",
@@ -4151,7 +4721,7 @@
   {
    "name": "Lee Rock 1 (1991) ตำรวจตัดตำรวจ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ch5.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Lee Rock 1 (1991) ตำรวจตัดตำรวจ",
@@ -4165,7 +4735,7 @@
   {
    "name": "Goodfellas (1990) คนดีเหยียบฟ้า",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20170116151918large_pDTuWp3jRcGbfWn0Ic6XZ0M0DwP.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Goodfellas (1990) คนดีเหยียบฟ้า",
@@ -4179,7 +4749,7 @@
   {
    "name": "Bloodsport (1988) ไอ้แข้งเหล็กหมัดเถื่อน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kndxR9TRK0kJ5hxzDprRSS80F2W.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Bloodsport (1988) ไอ้แข้งเหล็กหมัดเถื่อน",
@@ -4187,13 +4757,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kndxR9TRK0kJ5hxzDprRSS80F2W.webp",
      "url": "https://streamhls.com/view/3deae537-a51e-5592-824f-aa0968958e5f.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Bloodsport (1988) ไอ้แข้งเหล็กหมัดเถื่อน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kndxR9TRK0kJ5hxzDprRSS80F2W.webp",
+     "url": "https://streamhls.com/view/11b3f036-a293-5bc1-8882-cf1d644a5589.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Good Morning Vietnam (1987) กู๊ดมอร์นิ่งเวียตนาม",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/y4zILnCypdVbiq9pyWrtmygZdWN.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Good Morning Vietnam (1987) กู๊ดมอร์นิ่งเวียตนาม",
@@ -4201,13 +4778,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/y4zILnCypdVbiq9pyWrtmygZdWN.webp",
      "url": "https://streamhls.com/view/db515b67-be4e-5837-bc9d-f55d7ce86bcb.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Good Morning Vietnam (1987) กู๊ดมอร์นิ่งเวียตนาม",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/y4zILnCypdVbiq9pyWrtmygZdWN.webp",
+     "url": "https://streamhls.com/view/8f52322d-bcd5-542b-b2f2-3cea1d2e80c8.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "Prick Up Your Ears (1987) พิศวาสฆาตกรรม",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/jWGYDU93bJvu7LpNdQ6gyNU7W09.webp",
-   "info": "HD",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Prick Up Your Ears (1987) พิศวาสฆาตกรรม",
@@ -4215,13 +4799,20 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/jWGYDU93bJvu7LpNdQ6gyNU7W09.webp",
      "url": "https://streamhls.com/view/0805a3cf-63a5-5427-b130-5f142c2bf301.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Prick Up Your Ears (1987) พิศวาสฆาตกรรม",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/jWGYDU93bJvu7LpNdQ6gyNU7W09.webp",
+     "url": "https://streamhls.com/view/a9a0ce17-dc17-51a7-b0e8-6557b0417ba8.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "The Last Emperor (1987) จักรพรรดิโลกไม่ลืม",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/TheLastEmperor28198729.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "The Last Emperor (1987) จักรพรรดิโลกไม่ลืม",
@@ -4235,7 +4826,7 @@
   {
    "name": "Gandhi (1982) มหาตมะ คานธี",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/GANDHI-TH.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Gandhi (1982) มหาตมะ คานธี",
@@ -4249,7 +4840,7 @@
   {
    "name": "Butch Cassidy and the Sundance Kid (1969) สองสิงห์ชาติไอ้เสือ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190210104005butch-cassidy-and-the-sundance-kid-5885176932f81.webp",
-   "info": "HD",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Butch Cassidy and the Sundance Kid (1969) สองสิงห์ชาติไอ้เสือ",
@@ -4263,21 +4854,13 @@
   {
    "name": "Che! (1969) เช เกบารา",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/aVL6JzHRUUMnKgq2koP828AqdzK.webp",
-   "info": "HD",
-   "stations": [
-    {
-     "name": "Che! (1969) เช เกบารา",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/aVL6JzHRUUMnKgq2koP828AqdzK.webp",
-     "url": "https://streamhls.com/view/59b308f9-9ca1-5bf5-9c86-d15a7317a317.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
+   "info": "ซับไทย",
+   "stations": []
   },
   {
    "name": "The Passion Of Joan Of Arc (1928)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8OYGtQlO8k9PcOm49apV62eVJQo.webp",
-   "info": "HD",
+   "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "The Passion Of Joan Of Arc (1928)",
@@ -4291,7 +4874,7 @@
   {
    "name": "Quo Vadis (1951) โรมพินาศ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/205q2KznSETw5MeUHupvusQGXDC.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Quo Vadis (1951) โรมพินาศ",
@@ -4305,7 +4888,7 @@
   {
    "name": "The King and I (1956) เดอะคิงแอนด์ไอ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/v3sj9BKlV38Yk0MqQMBdNVtZAhr.webp",
-   "info": "HD",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "The King and I (1956) เดอะคิงแอนด์ไอ",

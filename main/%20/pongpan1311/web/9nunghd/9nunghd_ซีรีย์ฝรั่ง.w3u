@@ -1,13 +1,13 @@
 {
  "name": "ซีรีย์ฝรั่ง",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 22 กันยายน 2566",
+ "author": "อุ๋ง อุ๋ง อัพวันที่ 26 กันยายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
   {
    "name": "Reacher (2022) รีชเชอร์ ยอดคนสืบระห่ำ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Reacher-รีชเชอร์-ยอดคนสืบระห่ำ-Season-1-2022.webp",
-   "info": "\nEP 1-8\nSeason 1\n",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "ตอนที่ 1",
@@ -126,7 +126,7 @@
   {
    "name": "FUBAR (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Fubar-2023.webp",
-   "info": "\nEP 1-8\nSeason 1\n",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "ตอนที่ 1",
@@ -189,7 +189,7 @@
   {
    "name": "Citadel ซิทาเดล Season 1 (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Citadel-2023-Poster-V2.webp",
-   "info": "\nEP 1-5\nSeason 1\n",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "ตอนที่ 1",
@@ -280,7 +280,7 @@
   {
    "name": "Moon Knight มูนไนท์ Season 1 (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/infBhHmGjuGfTZmP2FBLdVfzKuM.webp",
-   "info": "\nEP 1-6\nSeason 1\n",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "ตอนที่ 1",
@@ -371,7 +371,7 @@
   {
    "name": "Shadow and Bone ตำนานกรีชา Season 2 (2023) พากย์ไทย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Shadow-and-Bone-S2.webp",
-   "info": "\nEP 1-8\nSeason 2\n",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "ซีซั่น 2 ตอนที่ 1",
@@ -490,7 +490,7 @@
   {
    "name": "Shadow and Bone ตำนานกรีชา Season 1 (2021) พากย์ไทย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Shadow-and-Bone-S1.webp",
-   "info": "\nEP 1-8\nSeason 1\n",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "ซีซั่น 1 ตอนที่ 1",
@@ -721,7 +721,7 @@
   {
    "name": "The Mandalorian เดอะ แมนดาลอเรี่ยน Season 3 (2023) พากย์ไทย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Mandalorian-SS3.webp",
-   "info": "\nEP 1-8\nSeason 3\n",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "ซีซั่น 3 ตอนที่ 1",
@@ -840,7 +840,7 @@
   {
    "name": "The Mandalorian เดอะ แมนดาลอเรี่ยน Season 2 (2020) พากย์ไทย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Mandalorian-SS2.webp",
-   "info": "\nEP 1-8\nSeason 2\n",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "ซีซั่น 2 ตอนที่ 1",
@@ -959,7 +959,7 @@
   {
    "name": "The Mandalorian เดอะ แมนดาลอเรี่ยน (2019) พากย์ไทย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Mandalorian-SS1.webp",
-   "info": "\nEP 1-8\nSeason 1\n",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1302,7 +1302,7 @@
   {
    "name": "The Last of Us Season 1 (2023) พากย์ไทย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Last-of-Us-TV-Series.webp",
-   "info": "\nEP 1-9\nSeason 1\n",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "ตอนที่ 1",
@@ -1435,7 +1435,7 @@
   {
    "name": "Ms. Marvel (2022) มิสมาร์เวล",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/xN4jAr5Tz640oZYxrDMlpolt5cY.webp",
-   "info": "\nEP 1-4\nSeason 1\n",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "ตอนที่ 1",
@@ -1526,7 +1526,7 @@
   {
    "name": "The Lincoln Lawyer (2022) แผนพิพากษา",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/4jSaIqEU8CPBBNn4iVCK6wzPjSx.webp",
-   "info": "\nEP 1-10\nSeason 1\n",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1813,7 +1813,7 @@
   {
    "name": "Obi-Wan Kenobi (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/qJRB789ceLryrLvOKrZqLKr2CGf.webp",
-   "info": "\nEP 1-6\nSeason 1\n",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "ตอนที่ 1",
@@ -1904,7 +1904,7 @@
   {
    "name": "Halo (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/eO0QV5qJaEngP1Ax9w3eV6bJG2f.webp",
-   "info": "\nEP 1-9\nSeason 1\n",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "ตอนที่ 1",
@@ -1974,7 +1974,7 @@
   {
    "name": "Tokyo Vice (2022) โตเกียว ไวซ์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/za5QWRfCLwgRLLVXUkx3NUSAm6G.webp",
-   "info": "\nEP 1-8\nSeason 1\n",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "ตอนที่ 1",
@@ -2037,7 +2037,7 @@
   {
    "name": "The 7 Lives of Lea (2022) ลีอา 7 ชีวิต",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/9NhIFEu2YhkIoInQEjnnMKRBtit.webp",
-   "info": "\nEP 1-7\nSeason 1\n",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "ตอนที่ 1",
@@ -2093,7 +2093,7 @@
   {
    "name": "Snowpiercer Season 3 (2022) ปฏิวัติฝ่านรกน้ำแข็ง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Snowpiercer-Season-3-2022.webp",
-   "info": "\nEP 1-10\nSeason 3\n",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "ซีซั่น 3 ตอนที่ 1",
@@ -2240,7 +2240,7 @@
   {
    "name": "Raised by Wolves Season 2 (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/crwpBuqW26toMDffmYTGIDrjuO7.webp",
-   "info": "\nEP 1-7\nSeason 2\n",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "ซีซั่น 2 ตอนที่ 1",
@@ -2359,7 +2359,7 @@
   {
    "name": "Peacemaker Season 1 (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uEN0BR0nz9GB5dCmBuxsxC7cd7n.webp",
-   "info": "\nEP 1-8\nSeason 1\n",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "ตอนที่ 1",
@@ -2476,9 +2476,184 @@
    ]
   },
   {
+   "name": "Star Wars The Book of Boba Fett (2022) Disney+",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/51ab32b1-6538-520b-a00d-201784318b6b.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/f9018717-e130-5deb-94eb-df9a7d35d14b.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/256b2a64-1e75-590b-bc34-6ff6cd66e95f.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/ec3d4e58-c94f-534b-968c-e872f8a15593.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/be5e181d-3d58-5fc9-ad4e-931bf1f68f56.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/93bfe8b9-2d4e-5a6d-9968-ab51d1b087be.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/aa0f54f2-80a8-5e70-8ed7-09719dd3eee7.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/c602de0f-2659-561d-aaf3-35b1c542b671.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/760138f7-96a1-5b6c-85e3-a0d750f92bd7.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/e43cbfc3-d35d-5a39-a755-11f87ec93644.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/9c4dfae7-abeb-5c03-be85-e7c7e5ec69f7.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/dd818944-4247-504d-a786-55a4334f39e3.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/437475d0-3e91-5def-a157-90a7b3d5fec9.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/4710be3e-a17d-56c3-be91-1d204ddea812.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    }
+   ]
+  },
+  {
+   "name": "Inventing Anna Season 1 (2022) แอนนา มายา ลวง",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/2189ac46-a52c-5d18-a2fc-001e3b51d475.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/e9662ae9-eaab-59d2-88e7-88e45e1d860c.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/2882beb9-73ad-540b-b416-33d45cb3cfb3.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/9d25ea01-1979-54f9-9ab8-985f3290adcc.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/74b7f2c3-bd1b-5a6c-89bc-ff11a43e37c6.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/0dd4bad4-2cad-5acb-a284-19c2caba6e6d.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/f852c3e0-9c15-5da3-889c-bbf6aa4e6e9a.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/6238819d-cfc8-5c34-aef6-0f5b3e772dfb.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/cc19d7e5-5e87-51d6-b55a-a5117feb66d9.m3u8",
+     "referer": "https://www.sgcdnseriesn.xyz/"
+    }
+   ]
+  },
+  {
    "name": "Yakamoz S-245 เรือดำน้ำผ่ารัตติกาล (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/11ur6ihlbYpl1HvKbFJBw1ox9YD.webp",
-   "info": "\nEP 1-7\nSeason 1\n",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "ตอนที่ 1",
@@ -2583,7 +2758,7 @@
   {
    "name": "Vikings Valhalla (2022) ไวกิ้ง วัลฮัลลา",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Vikings-Valhala-2022.webp",
-   "info": "\nEP 1-8\nSeason 1\n",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "ซีซั่น 1 ตอนที่ 1",
@@ -2814,7 +2989,7 @@
   {
    "name": "Heartstopper (2022) เธอทำให้ใจฉันหยุดเต้น",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/wJJt1HG62h3WoGnLcRIbO2nNNkg.webp",
-   "info": "\nEP 1-8\nSeason 1\n",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "ตอนที่ 1",
@@ -2933,7 +3108,7 @@
   {
    "name": "Feria: The Darkest Light : เฟเรีย: แสงที่มืดมิด Season 1 (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/m8mxgGK8z9t8pkCCpatP4XjDpLM.webp",
-   "info": "\nEP 1-8\nSeason 1\n",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "ตอนที่ 1",
@@ -2996,7 +3171,7 @@
   {
    "name": "Hawkeye (2021) ฮอคอาย Disney+",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Hawkeye.webp",
-   "info": "\nEP 1-6\nSeason 1\n",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "ตอนที่ 1",
@@ -3085,184 +3260,9 @@
    ]
   },
   {
-   "name": "Star Wars The Book of Boba Fett (2022) Disney+",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
-   "info": "\nEP 1-7\nSeason 1\n",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/51ab32b1-6538-520b-a00d-201784318b6b.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/f9018717-e130-5deb-94eb-df9a7d35d14b.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/256b2a64-1e75-590b-bc34-6ff6cd66e95f.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/ec3d4e58-c94f-534b-968c-e872f8a15593.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/be5e181d-3d58-5fc9-ad4e-931bf1f68f56.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/93bfe8b9-2d4e-5a6d-9968-ab51d1b087be.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/aa0f54f2-80a8-5e70-8ed7-09719dd3eee7.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/c602de0f-2659-561d-aaf3-35b1c542b671.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/760138f7-96a1-5b6c-85e3-a0d750f92bd7.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/e43cbfc3-d35d-5a39-a755-11f87ec93644.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/9c4dfae7-abeb-5c03-be85-e7c7e5ec69f7.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/dd818944-4247-504d-a786-55a4334f39e3.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/437475d0-3e91-5def-a157-90a7b3d5fec9.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/The-Book-of-Boba-Fett.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/4710be3e-a17d-56c3-be91-1d204ddea812.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    }
-   ]
-  },
-  {
-   "name": "Inventing Anna Season 1 (2022) แอนนา มายา ลวง",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
-   "info": "\nEP 1-10\nSeason 1\n",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/2189ac46-a52c-5d18-a2fc-001e3b51d475.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/e9662ae9-eaab-59d2-88e7-88e45e1d860c.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/2882beb9-73ad-540b-b416-33d45cb3cfb3.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/9d25ea01-1979-54f9-9ab8-985f3290adcc.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/74b7f2c3-bd1b-5a6c-89bc-ff11a43e37c6.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/0dd4bad4-2cad-5acb-a284-19c2caba6e6d.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/f852c3e0-9c15-5da3-889c-bbf6aa4e6e9a.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/6238819d-cfc8-5c34-aef6-0f5b3e772dfb.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Inventing-Anna-Season-1-2022.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/cc19d7e5-5e87-51d6-b55a-a5117feb66d9.m3u8",
-     "referer": "https://www.sgcdnseriesn.xyz/"
-    }
-   ]
-  },
-  {
    "name": "In From The Cold สายลับเงารัสเซีย Season 1 (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/mND3MZbnOIasM3XaL2mXOVMvBw6.webp",
-   "info": "\nEP 1-8\nSeason 1\n",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "ตอนที่ 1",
@@ -3325,7 +3325,7 @@
   {
    "name": "Lost in Space (2021) ทะลุโลกหลุดจักรวาล ซีซัน 3",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/nF6x04wogGbnF1mUwRzEaePHDOr.webp",
-   "info": "\nEP 1-8\nSeason 3\n",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "ซีซั่น 3 ตอนที่ 1",
@@ -3388,7 +3388,7 @@
   {
    "name": "Loki (2021) โลกิ Disney+",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Loki-2021-โลกิ.webp",
-   "info": "\nEP 1-6\nSeason 1\n",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "ตอนที่ 1",
@@ -3479,7 +3479,7 @@
   {
    "name": "The Walking Dead ฝ่าสยองทัพผีดิบ Season 11 (2021)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xf9wuDcqlUPWABZNeDKPbZUjWx0.webp",
-   "info": "\nEP 1-16\nSeason 1\n",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "ซีซั่น 11 ตอนที่ 1",
@@ -3654,7 +3654,7 @@
   {
    "name": "Bulgasal Immortal Souls วิญญาณอมตะ (2021) Netflix",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/sqprACh9qcqSw9EdFsv2bHtr64V.webp",
-   "info": "\nEP 1-16\nSeason 1\n",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "ตอนที่ 2",
@@ -3773,7 +3773,7 @@
   {
    "name": "Snowpiercer Season 2 (2021) ปฏิวัติฝ่านรกน้ำแข็ง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Snowpiercer-Season-2-2021.webp",
-   "info": "\nEP 1-10\nSeason 2\n",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "ซีซั่น 2 ตอนที่ 1",
@@ -3920,7 +3920,7 @@
   {
    "name": "Marvel Studios: Legends Season 1 ตำนานแห่งสตูดิโอมาร์เวล (2021)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/EpDuYIK81YtCUT3gH2JDpyj8Qk.webp",
-   "info": "\nEP 1-14\nSeason 1\n",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "ตอนที่ 1",
@@ -4123,7 +4123,7 @@
   {
    "name": "Raised by Wolves (2020) พันธุ์หมาป่า ซีซัน 1",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/mTvSVKMn2Npf6zvYNbGMJnYLtvp.webp",
-   "info": "\nEP 1-10\nSeason 1\n",
+   "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "ซีซั่น 1 ตอนที่ 1",
@@ -4382,7 +4382,7 @@
   {
    "name": "His Dark Materials Season 2 (2020) ธุลีปริศนา",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/His-Dark-Materials-Season-2-2020-1.webp",
-   "info": "\nEP 1-7\nSeason 2\n",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "ซีซั่น 2 ตอนที่ 1",
@@ -4487,7 +4487,7 @@
   {
    "name": "Snowpiercer Season 1 (2020) ปฏิวัติฝ่านรกน้ำแข็ง",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Snowpiercer-Season-1-2020.webp",
-   "info": "\nEP 1-10\nSeason 1\n",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "ซีซั่น 1 ตอนที่ 1",
@@ -4634,7 +4634,7 @@
   {
    "name": "Euphoria ยูโฟเรีย Season 1 (2019) พากย์ไทย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5mi3aRl16yKmfpQJMzvqN5TXkdA.webp",
-   "info": "\nEP 1-8\nSeason 1\n",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "ซีซั่น 1 ตอนที่ 1",
@@ -4865,7 +4865,7 @@
   {
    "name": "Lost in Space (2019) ทะลุโลกหลุดจักรวาล ซีซัน 2",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/83mK4CnvRPFSqcyO3s3lq6aDy1x.webp",
-   "info": "\nEP 1-10\nSeason 2\n",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "ซีซั่น 2 ตอนที่ 1",
@@ -4942,7 +4942,7 @@
   {
    "name": "His Dark Materials Season 1 (2019) ธุลีปริศนา",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/His-Dark-Materials-Season-1-2019.webp",
-   "info": "\nEP 1-8\nSeason 1\n",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "ซีซั่น 1 ตอนที่ 1",
@@ -5061,7 +5061,7 @@
   {
    "name": "Queen of the South Season 4 (2019) ราชินีแดนใต้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Queen-of-the-South-Season-4-2019.webp",
-   "info": "\nEP 1-13\nSeason 4\n",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "ซีซั่น 4 ตอนที่ 1",
@@ -5159,7 +5159,7 @@
   {
    "name": "Lost in Space (2018) ทะลุโลกหลุดจักรวาล",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/y8NJnTXzb4rio9uvVYFVrXEMofU.webp",
-   "info": "\nEP 1-10\nSeason 1\n",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "ซีซั่น 1 ตอนที่ 1",
@@ -5236,7 +5236,7 @@
   {
    "name": "Queen of the South Season 3 (2018) ราชินีแดนใต้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Queen-of-the-South-Season-3-2018.webp",
-   "info": "\nEP 1-13\nSeason 3\n",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "ซีซั่น 3 ตอนที่ 1",
@@ -5334,7 +5334,7 @@
   {
    "name": "Queen of the South Season 2 (2017) ราชินีแดนใต้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Queen-of-the-South-Season-2-2017.webp",
-   "info": "\nEP 1-13\nSeason 2\n",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "ซีซั่น 2 ตอนที่ 1",
@@ -5432,7 +5432,7 @@
   {
    "name": "Future Man เกมล่าโลกอนาคต SEASON 1 (2017) พากย์ไทย",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/nWOf73kvq363IEjyIUfIMZuc8Dy.webp",
-   "info": "\nEP 1-10\nSeason 1\n",
+   "info": "พากย์ไทย",
    "stations": [
     {
      "name": "ตอนที่ 1",
@@ -5509,7 +5509,7 @@
   {
    "name": "Queen of the South Season 1 (2016) ราชินีแดนใต้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Queen-of-the-South-Season-1-2016.webp",
-   "info": "\nEP 1-13\nSeason 1\n",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "ซีซั่น 1 ตอนที่ 1",

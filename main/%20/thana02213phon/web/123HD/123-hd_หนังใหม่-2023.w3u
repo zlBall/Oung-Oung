@@ -1,9 +1,35 @@
 {
   "name": "หนังใหม่ 2023",
-  "author": "อุ๋ง อุ๋ง อัพวันที่ 23 กันยายน 2566",
+  "author": "อุ๋ง อุ๋ง อัพวันที่ 26 กันยายน 2566",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
+    {
+      "name": "No One Will Save You (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/No-One-Will-Save-You-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "No One Will Save You (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/No-One-Will-Save-You-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/380da0354ecbaed511c7efc0/380da0354ecbaed511c7efc0438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Lang Lang Plays Disney (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Lang-Lang-Plays-Disney-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "Lang Lang Plays Disney (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Lang-Lang-Plays-Disney-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/14f27d069eb81c74c9cf3c13/14f27d069eb81c74c9cf3c13438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
     {
       "name": "The Wandering Earth (2019) ปฏิบัติการฝ่าสุริยะ",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/06/The-Wandering-Earth-2019-ปฏิบัติการฝ่าสุริยะ.jpg",
