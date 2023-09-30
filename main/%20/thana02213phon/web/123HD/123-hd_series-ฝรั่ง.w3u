@@ -1,9 +1,113 @@
 {
   "name": "ซีรี่ย์ฝรั่ง",
-  "author": "อุ๋ง อุ๋ง อัพวันที่ 25 กันยายน 2566",
+  "author": "อุ๋ง อุ๋ง อัพวันที่ 28 กันยายน 2566",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
+    {
+      "name": "Star War Ahsoka (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/fb8e09f4fa5704a4dfc634b9/fb8e09f4fa5704a4dfc634b9438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/a743343c6a965948a64dbd41/a743343c6a965948a64dbd41438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/f27b7ebfe3f0027aa6a2031b/f27b7ebfe3f0027aa6a2031b438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/7c4d4352fa39bc1f5dfa91f7/7c4d4352fa39bc1f5dfa91f7438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/13fd6306f25e496d4bb9d37d/13fd6306f25e496d4bb9d37d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/6e6b2a3720156736964f7b36/6e6b2a3720156736964f7b36438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b72f4e5f36333cc87f23402b/b72f4e5f36333cc87f23402b438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/8cec008b143ce1132c900ba7/8cec008b143ce1132c900ba7438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/6c4a32fe05c0dce85cae7b1a/6c4a32fe05c0dce85cae7b1a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/9263aa24a4db015a049226a6/9263aa24a4db015a049226a6438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/e9d7b0d2dcba8eadcb134532/e9d7b0d2dcba8eadcb134532438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/42309ab88fe315996d9e20cd/42309ab88fe315996d9e20cd438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/738d32e8d0f451e36842b818/738d32e8d0f451e36842b818438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/93fb62456c9694e82de40133/93fb62456c9694e82de40133438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
     {
       "name": "Outer Range (2022) แดนพิศวงปมมรณะ",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Outer-Range-2022-แดนพิศวงปมมรณะ-300x450.jpg",
@@ -19,7 +123,7 @@
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Outer-Range-2022-แดนพิศวงปมมรณะ-300x450.jpg",
-          "url": "https://main.77player.xyz/https://xxx.77player.xyz/m3u8/77a19a80633ca5c953e7d733/77a19a80633ca5c953e7d733800.m3u8",
+          "url": "https://main.77player.xyz/m3u8/26f897ae0c9c31d256620a9f/26f897ae0c9c31d256620a9f438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -150,7 +254,7 @@
           "name": "ตอนที่ 5",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Sex-Education-Season-4-2023-หลักสูตรเร่งรัก-4-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/38a9421381ef5de0565cdbcc/38a9421381ef5de0565cdbcc438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/38a9421381ef5de0565cdbcc/38a9421381ef5de0565cdbcc.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -198,96 +302,6 @@
       ]
     },
     {
-      "name": "Star War Ahsoka (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/fb8e09f4fa5704a4dfc634b9/fb8e09f4fa5704a4dfc634b9438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/a743343c6a965948a64dbd41/a743343c6a965948a64dbd41438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/f27b7ebfe3f0027aa6a2031b/f27b7ebfe3f0027aa6a2031b438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/7c4d4352fa39bc1f5dfa91f7/7c4d4352fa39bc1f5dfa91f7438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/13fd6306f25e496d4bb9d37d/13fd6306f25e496d4bb9d37d438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/6e6b2a3720156736964f7b36/6e6b2a3720156736964f7b36438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/b72f4e5f36333cc87f23402b/b72f4e5f36333cc87f23402b438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/8cec008b143ce1132c900ba7/8cec008b143ce1132c900ba7438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/6c4a32fe05c0dce85cae7b1a/6c4a32fe05c0dce85cae7b1a438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/9263aa24a4db015a049226a6/9263aa24a4db015a049226a6438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/e9d7b0d2dcba8eadcb134532/e9d7b0d2dcba8eadcb134532438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Star-War-Ahsoka-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/42309ab88fe315996d9e20cd/42309ab88fe315996d9e20cd438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "The Wheel Of Time Season 2 (2023) วงล้อแห่งเวลา 2",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-300x450.jpg",
       "stations": [
@@ -309,7 +323,7 @@
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/902635c0886ddbb6c12ec327/902635c0886ddbb6c12ec327.m3u8",
+          "url": "https://main.77player.xyz/m3u8/902635c0886ddbb6c12ec327/902635c0886ddbb6c12ec327438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -475,7 +489,7 @@
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Game-of-Thrones-Season-8-2019-มหาศึกชิงบัลลังก์-ปี-8-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/6be37b6baf8bdde5a745ea17/6be37b6baf8bdde5a745ea17.m3u8",
+          "url": "https://main.77player.xyz/m3u8/6be37b6baf8bdde5a745ea17/6be37b6baf8bdde5a745ea17438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -648,7 +662,7 @@
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Game-of-Thrones-Season-6-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/3a6533dc2cafc22068c52de2/3a6533dc2cafc22068c52de2438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/3a6533dc2cafc22068c52de2/3a6533dc2cafc22068c52de2.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1017,7 +1031,7 @@
           "name": "ตอนที่ 7",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Game-of-Thrones-Season-4-2014-มหาศึกชิงบัลลังก์-ปี-4-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/f07f2862e3f73bfc4b17a6f7/f07f2862e3f73bfc4b17a6f7438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/f07f2862e3f73bfc4b17a6f7/f07f2862e3f73bfc4b17a6f7.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1455,7 +1469,7 @@
           "name": "ตอนที่ 7",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Game-of-Thrones-Season-1-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/7ab0f41dfba5faf7bdb52bb5/7ab0f41dfba5faf7bdb52bb5438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/7ab0f41dfba5faf7bdb52bb5/7ab0f41dfba5faf7bdb52bb5.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1524,7 +1538,7 @@
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Purge-2018-คืนอำมหิต-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/117e5a25e04109344b488f13/117e5a25e04109344b488f13.m3u8",
+          "url": "https://main.77player.xyz/m3u8/117e5a25e04109344b488f13/117e5a25e04109344b488f13438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1745,7 +1759,7 @@
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Terror-2018-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/b6ae626de14ea1a3d9293afa/b6ae626de14ea1a3d9293afa.m3u8",
+          "url": "https://main.77player.xyz/m3u8/b6ae626de14ea1a3d9293afa/b6ae626de14ea1a3d9293afa438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1842,7 +1856,7 @@
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/the-club-1-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/42d3ec91162d755724204876/42d3ec91162d755724204876438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/42d3ec91162d755724204876/42d3ec91162d755724204876.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -2228,6 +2242,613 @@
       ]
     },
     {
+      "name": "Class Act (2023) ชายเก้าชีวิต",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Class-Act-2023-ชายเก้าชีวิต-300x450.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Class-Act-2023-ชายเก้าชีวิต-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/71cfb7ea4dcb2e6e6ec14811/71cfb7ea4dcb2e6e6ec14811438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Class-Act-2023-ชายเก้าชีวิต-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/a896d797d7cdbdf80143f663/a896d797d7cdbdf80143f663438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Class-Act-2023-ชายเก้าชีวิต-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/a295a93104588fcc0b87364d/a295a93104588fcc0b87364d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Class-Act-2023-ชายเก้าชีวิต-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/537a53b8548070825a531102/537a53b8548070825a531102438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Class-Act-2023-ชายเก้าชีวิต-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/fb8c225ab542f7fbcf1cc4b8/fb8c225ab542f7fbcf1cc4b8438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Class-Act-2023-ชายเก้าชีวิต-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/f2630cb1462c7db70d5c491d/f2630cb1462c7db70d5c491d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Class-Act-2023-ชายเก้าชีวิต-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/f964db4fe7ca7506ad2ae4f0/f964db4fe7ca7506ad2ae4f0438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "American Gods Season 2 (2019) อเมริกันก็อดส์ ซีซั่น 2",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/American-Gods-Season-2-300x450.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/American-Gods-Season-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/d78aec0c3529ed92bfebfe83/d78aec0c3529ed92bfebfe83438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/American-Gods-Season-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/515cf485700fb7fd1d5eca94/515cf485700fb7fd1d5eca94438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/American-Gods-Season-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/932cd09bff4a00e5479bd94f/932cd09bff4a00e5479bd94f438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/American-Gods-Season-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/f6b6e9e52b1ea3c420c5d6a7/f6b6e9e52b1ea3c420c5d6a7438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/American-Gods-Season-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/a5858a9cfa04c6b9131ee71f/a5858a9cfa04c6b9131ee71f438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/American-Gods-Season-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/7b1eeeba696473689a34aba7/7b1eeeba696473689a34aba7438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/American-Gods-Season-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b83f978054b3738d298ab66a/b83f978054b3738d298ab66a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/American-Gods-Season-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/3fe401a58fdecfe94baf6538/3fe401a58fdecfe94baf6538438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "American Gods (2017) อเมริกันก็อดส์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/American-Gods-2017-อเมริกันก็อดส์-300x450.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/American-Gods-2017-อเมริกันก็อดส์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/36337efabea80020f7b63a9e/36337efabea80020f7b63a9e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/American-Gods-2017-อเมริกันก็อดส์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/84943c223b322288af9f9797/84943c223b322288af9f9797438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/American-Gods-2017-อเมริกันก็อดส์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/04475a6a48a47f1d29b6e4fd/04475a6a48a47f1d29b6e4fd438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/American-Gods-2017-อเมริกันก็อดส์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/7e1fed81ec839941e065306e/7e1fed81ec839941e065306e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/American-Gods-2017-อเมริกันก็อดส์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/e06c1b48d9a2d726bf4ea97a/e06c1b48d9a2d726bf4ea97a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/American-Gods-2017-อเมริกันก็อดส์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/41d2e4842e9bd4483572c188/41d2e4842e9bd4483572c188438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/American-Gods-2017-อเมริกันก็อดส์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/53e2ace2879cbaa1cbec4e37/53e2ace2879cbaa1cbec4e37438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/American-Gods-2017-อเมริกันก็อดส์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/a8ffa8a7ae429a49205ba050/a8ffa8a7ae429a49205ba050438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Burning Body (2023) ร่างไหม้",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Burning-Body-2023-ร่างไหม้-300x450.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Burning-Body-2023-ร่างไหม้-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/ded341fc780dc59367fd69a6/ded341fc780dc59367fd69a6438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Burning-Body-2023-ร่างไหม้-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/c2e5ab7b2dd2fde39b7377d8/c2e5ab7b2dd2fde39b7377d8438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Burning-Body-2023-ร่างไหม้-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/af3aae1b062baa5d03415650/af3aae1b062baa5d03415650438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Burning-Body-2023-ร่างไหม้-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/fdb04bf3da69c78a3691e656/fdb04bf3da69c78a3691e656438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Burning-Body-2023-ร่างไหม้-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/c04b8ff17374408f4ed65494/c04b8ff17374408f4ed65494438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Burning-Body-2023-ร่างไหม้-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/4e253849e38c5890f719f7ce/4e253849e38c5890f719f7ce438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Burning-Body-2023-ร่างไหม้-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/7c428a0eccb4817bf3e7a671/7c428a0eccb4817bf3e7a671438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Burning-Body-2023-ร่างไหม้-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/d3c66c9d6fe320d326e53f46/d3c66c9d6fe320d326e53f46438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Lost Flowers of Alice Hart (2023) ดอกไม้ที่หายไปของอลิซ ฮาร์ต",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/The-Lost-Flowers-of-Alice-Hart-300x450.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/The-Lost-Flowers-of-Alice-Hart-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/3a2fb39ea5c0249d61bffecb/3a2fb39ea5c0249d61bffecb438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/The-Lost-Flowers-of-Alice-Hart-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/338a70331c8abc6298c2bc91/338a70331c8abc6298c2bc91438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/The-Lost-Flowers-of-Alice-Hart-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/bb4d50c2d34a4d4efbe1c7d4/bb4d50c2d34a4d4efbe1c7d4438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/The-Lost-Flowers-of-Alice-Hart-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/a8f8cf5384d378021b2e4ce9/a8f8cf5384d378021b2e4ce9438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/The-Lost-Flowers-of-Alice-Hart-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/a5b1d3df6c57dbbd0419aabe/a5b1d3df6c57dbbd0419aabe438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/The-Lost-Flowers-of-Alice-Hart-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/982941dd2d4d24573407029e/982941dd2d4d24573407029e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/The-Lost-Flowers-of-Alice-Hart-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/41c74397004999798858cc42/41c74397004999798858cc42438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Dear Child (2023) ลูกรัก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Dear-Child-2023-ลูกรัก-300x450.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Dear-Child-2023-ลูกรัก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/e5bdaea3768a7e82b7c8f375/e5bdaea3768a7e82b7c8f375438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Dear-Child-2023-ลูกรัก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/4d9b27fb5fc7efc7b829b976/4d9b27fb5fc7efc7b829b976438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Dear-Child-2023-ลูกรัก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/0d000914265b8a05f4911c67/0d000914265b8a05f4911c67438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Dear-Child-2023-ลูกรัก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/ec68745505abb889be473e37/ec68745505abb889be473e37438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Dear-Child-2023-ลูกรัก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/91890a7f0e9a4f8a44698fd9/91890a7f0e9a4f8a44698fd9438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Dear-Child-2023-ลูกรัก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b597a1eb8d8364acc12f5514/b597a1eb8d8364acc12f5514438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Dear-Child-2023-ลูกรัก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/2cde37cdf1a1d23a3265048a/2cde37cdf1a1d23a3265048a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Dear-Child-2023-ลูกรัก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/82649da971929951c2c9c4df/82649da971929951c2c9c4df438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Dear-Child-2023-ลูกรัก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/20c5a23f4d5eb1e0be5a8089/20c5a23f4d5eb1e0be5a8089438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Dear-Child-2023-ลูกรัก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/03639ede9c5830f842748c1d/03639ede9c5830f842748c1d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Dear-Child-2023-ลูกรัก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b43bf166dd3aca8983eccecd/b43bf166dd3aca8983eccecd438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Dear-Child-2023-ลูกรัก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/d9d89ee6c52c04c1e8ac2187/d9d89ee6c52c04c1e8ac2187438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "I Am Groot Season 2 (2023) ข้าคือกรู้ท 2",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/I-Am-Groot-Season-2-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/I-Am-Groot-Season-2-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/9727175ceea6a6685e2c18bb/9727175ceea6a6685e2c18bb438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/I-Am-Groot-Season-2-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/acb59d5a7fd47da5271262eb/acb59d5a7fd47da5271262eb438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/I-Am-Groot-Season-2-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/1266c4e74004e4b2506b68d5/1266c4e74004e4b2506b68d5438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/I-Am-Groot-Season-2-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/d01cc92bca2bbc50e8e63687/d01cc92bca2bbc50e8e63687438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/I-Am-Groot-Season-2-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/436098929c16ea13dc6c0145/436098929c16ea13dc6c0145438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Reporting for Duty (2023) สน.นี้มีแต่ป่วน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Reporting-for-Duty-2023-สน.นี้มีแต่ป่วน-300x450.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Reporting-for-Duty-2023-สน.นี้มีแต่ป่วน-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/cd8d8c58edf7e306121a4a8b/cd8d8c58edf7e306121a4a8b438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Reporting-for-Duty-2023-สน.นี้มีแต่ป่วน-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/fe2d702309e8c23f0c856e43/fe2d702309e8c23f0c856e43438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Reporting-for-Duty-2023-สน.นี้มีแต่ป่วน-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/f766da6ad6c4da13cf9c5665/f766da6ad6c4da13cf9c5665438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Reporting-for-Duty-2023-สน.นี้มีแต่ป่วน-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/0752f2a3d0df590ef638beb0/0752f2a3d0df590ef638beb0438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Reporting-for-Duty-2023-สน.นี้มีแต่ป่วน-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/1ef528f23960bd184516343e/1ef528f23960bd184516343e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Reporting-for-Duty-2023-สน.นี้มีแต่ป่วน-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/e64301acffac921bef87b216/e64301acffac921bef87b216438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Reporting-for-Duty-2023-สน.นี้มีแต่ป่วน-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/321b93edd976331b34837c93/321b93edd976331b34837c93438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Reporting-for-Duty-2023-สน.นี้มีแต่ป่วน-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/3b68ff0be09aa1099ed4b412/3b68ff0be09aa1099ed4b412438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "One Piece (2023) วันพีช",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/One-Piece-2023-วันพีช-300x450.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/One-Piece-2023-วันพีช-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/8ad979cf37f3774b2ddb68db/8ad979cf37f3774b2ddb68db438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/One-Piece-2023-วันพีช-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/e23616f8fdd9e5127beefe49/e23616f8fdd9e5127beefe49438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/One-Piece-2023-วันพีช-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/c2a9ba680eeabe845cf1759d/c2a9ba680eeabe845cf1759d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/One-Piece-2023-วันพีช-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/c7f854e124f8f859a27d5aac/c7f854e124f8f859a27d5aac438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/One-Piece-2023-วันพีช-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/04c65ebf575971d567749c57/04c65ebf575971d567749c57438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/One-Piece-2023-วันพีช-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/fc06e781e2a7ad0388864c00/fc06e781e2a7ad0388864c00438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/One-Piece-2023-วันพีช-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/c2492bdce2d22a52c34c13f2/c2492bdce2d22a52c34c13f2438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/One-Piece-2023-วันพีช-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/ebde1f68c5eb6dc225016a59/ebde1f68c5eb6dc225016a59438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/One-Piece-2023-วันพีช-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b7583819c546329c16500b93/b7583819c546329c16500b93438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/One-Piece-2023-วันพีช-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/a654eec210a4487196be430a/a654eec210a4487196be430a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/One-Piece-2023-วันพีช-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/485c9e8eae7b95ebdce75f94/485c9e8eae7b95ebdce75f94438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/One-Piece-2023-วันพีช-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/27e4306ca133902c30648249/27e4306ca133902c30648249438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/One-Piece-2023-วันพีช-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/520b6890a95f4f7726f033b4/520b6890a95f4f7726f033b4438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/One-Piece-2023-วันพีช-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/a4a95184374cf0b531dd2cfe/a4a95184374cf0b531dd2cfe438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/One-Piece-2023-วันพีช-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/3a34d77ad3dcbd8687de7019/3a34d77ad3dcbd8687de7019438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/One-Piece-2023-วันพีช-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/0efb385bd467dafcef482644/0efb385bd467dafcef482644438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
       "name": "Who Is Erin Carter (2023) เอริน คาร์เตอร์คือใคร",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Who-Is-Erin-Carter-2023-เอริน-คาร์เตอร์คือใคร-300x450.jpg",
       "stations": [
@@ -2235,7 +2856,7 @@
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Who-Is-Erin-Carter-2023-เอริน-คาร์เตอร์คือใคร-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/d93365194a2681754235d198/d93365194a2681754235d198438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/d93365194a2681754235d198/d93365194a2681754235d198.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -2291,7 +2912,7 @@
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Who-Is-Erin-Carter-2023-เอริน-คาร์เตอร์คือใคร-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/0a4a2daa3494d07b7615100b/0a4a2daa3494d07b7615100b438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/0a4a2daa3494d07b7615100b/0a4a2daa3494d07b7615100b.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -2477,7 +3098,7 @@
           "name": "ตอนที่ 6",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/3-Percent-Season-3-2019-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/0ee53d2a6a1a927777644b47/0ee53d2a6a1a927777644b47438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/0ee53d2a6a1a927777644b47/0ee53d2a6a1a927777644b47.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -3135,7 +3756,7 @@
           "name": "ตอนที่ 9",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Grimm-Season-4-2014-ยอดนักสืบนิทานสยอง-ซีซั่น-4-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/c64551aeaffc0a576cd7ad65/c64551aeaffc0a576cd7ad65438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/c64551aeaffc0a576cd7ad65/c64551aeaffc0a576cd7ad65.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -3400,7 +4021,7 @@
           "name": "ตอนที่ 6",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Grimm-Season-3-2013-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/7e3a45beb6709a23ff4c9b4a/7e3a45beb6709a23ff4c9b4a438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/7e3a45beb6709a23ff4c9b4a/7e3a45beb6709a23ff4c9b4a.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -4556,7 +5177,7 @@
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Fear-the-Walking-Dead-Season-6-2020-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/4ff94039f72992d2b3a015f3/4ff94039f72992d2b3a015f3438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/4ff94039f72992d2b3a015f3/4ff94039f72992d2b3a015f3.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -4966,7 +5587,7 @@
           "name": "ตอนที่ 8",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Fear-the-Walking-Dead-Season-4-2018-ปฐมบทผีไม่ยอมตาย-ซีซั่น-4-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/7992556b0970b0bc9f72061d/7992556b0970b0bc9f72061d.m3u8",
+          "url": "https://main.77player.xyz/m3u8/7992556b0970b0bc9f72061d/7992556b0970b0bc9f72061d438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -5361,7 +5982,7 @@
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Heart-Stopper-Season-2-2023-เธอทำให้ใจฉันหยุดเต้น-ซีซั่น-2-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/eb7072b8b04e4263926600f4/eb7072b8b04e4263926600f4.m3u8",
+          "url": "https://main.77player.xyz/m3u8/eb7072b8b04e4263926600f4/eb7072b8b04e4263926600f4438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -5955,7 +6576,7 @@
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/FULL-CIRCLE-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/5f401f49287191861f10cd08/5f401f49287191861f10cd08.m3u8",
+          "url": "https://main.77player.xyz/m3u8/5f401f49287191861f10cd08/5f401f49287191861f10cd08438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -6765,7 +7386,7 @@
           "name": "ตอนที่ 6",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Peaky-Blinders-Season-5-2019-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/5d0bde94bf34d6b87ee2304c/5d0bde94bf34d6b87ee2304c.m3u8",
+          "url": "https://main.77player.xyz/m3u8/5d0bde94bf34d6b87ee2304c/5d0bde94bf34d6b87ee2304c438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -8002,7 +8623,7 @@
           "name": "ตอนที่ 9",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Walking-Dead-Season-7-2016-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/52c6f8349a5ada02c1776021/52c6f8349a5ada02c1776021438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/52c6f8349a5ada02c1776021/52c6f8349a5ada02c1776021.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -9261,7 +9882,7 @@
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Deadloch-2023-ดับปริศนา-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/c85ab7b4f3603c90f5f73997/c85ab7b4f3603c90f5f73997438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/c85ab7b4f3603c90f5f73997/c85ab7b4f3603c90f5f73997.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -9400,7 +10021,7 @@
           "name": "ตอนที่ 14",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2021/12/The-Flash-Season-8-2021-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/9870ae705bcdaef89d3b73c7/9870ae705bcdaef89d3b73c7438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/9870ae705bcdaef89d3b73c7/9870ae705bcdaef89d3b73c7.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -10240,7 +10861,7 @@
           "name": "ตอนที่ 7",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Flash-Season-4-2017-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/88e13d0e45c4d01eef5b974f/88e13d0e45c4d01eef5b974f438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/88e13d0e45c4d01eef5b974f/88e13d0e45c4d01eef5b974f.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -10345,7 +10966,7 @@
           "name": "ตอนที่ 22",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Flash-Season-4-2017-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/b0d58ae8fa4d56d7f536f2d9/b0d58ae8fa4d56d7f536f2d9438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/b0d58ae8fa4d56d7f536f2d9/b0d58ae8fa4d56d7f536f2d9.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -10505,7 +11126,7 @@
           "name": "ตอนที่ 21",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Flash-Season-3-2016-เดอะ-แฟลช-วีรบุรุษเหนือแสง-ซีซั่น-3-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/8530910e17cfd9364f505fa5/8530910e17cfd9364f505fa5438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/8530910e17cfd9364f505fa5/8530910e17cfd9364f505fa5.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -10859,7 +11480,7 @@
           "name": "ตอนที่ 20",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Flash-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/3486bca1b4813a0c537c9341/3486bca1b4813a0c537c9341438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/3486bca1b4813a0c537c9341/3486bca1b4813a0c537c9341.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -11227,7 +11848,7 @@
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Strike-Back-Season-6-2017-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/22522769444d962580cbbbf9/22522769444d962580cbbbf9.m3u8",
+          "url": "https://main.77player.xyz/m3u8/22522769444d962580cbbbf9/22522769444d962580cbbbf9438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -11345,7 +11966,7 @@
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/The-Idol-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/50e48f0763f026e684f72885/50e48f0763f026e684f72885438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/50e48f0763f026e684f72885/50e48f0763f026e684f72885.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -12454,7 +13075,7 @@
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/The-Last-Kingdom-Season-1-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/c192c6f62fd29ab9946ca4c3/c192c6f62fd29ab9946ca4c3.m3u8",
+          "url": "https://main.77player.xyz/m3u8/c192c6f62fd29ab9946ca4c3/c192c6f62fd29ab9946ca4c3438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -12704,7 +13325,7 @@
           "name": "ตอนที่ 11",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Gotham-Knights-Season-1.jpg",
-          "url": "https://main.77player.xyz/m3u8/44e83609caeb92a13b5289d7/44e83609caeb92a13b5289d7438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/44e83609caeb92a13b5289d7/44e83609caeb92a13b5289d7.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -13803,7 +14424,7 @@
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Money-Heist-Season-2-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/e7e90c0c97aa9ad75646bfca/e7e90c0c97aa9ad75646bfca438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/e7e90c0c97aa9ad75646bfca/e7e90c0c97aa9ad75646bfca.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -14578,7 +15199,7 @@
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Turn-of-The-Tide-2023-อาชญากรน้ำเค็ม-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/515eecc0ececa2a2418c8664/515eecc0ececa2a2418c8664.m3u8",
+          "url": "https://main.77player.xyz/m3u8/515eecc0ececa2a2418c8664/515eecc0ececa2a2418c8664438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -15062,7 +15683,7 @@
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/05/The-Man-in-the-High-Castle-Season-2-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/7db1a1a088b662af029a6c9f/7db1a1a088b662af029a6c9f.m3u8",
+          "url": "https://main.77player.xyz/m3u8/7db1a1a088b662af029a6c9f/7db1a1a088b662af029a6c9f438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -15685,7 +16306,7 @@
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/04/The-Nurse-2023-พยาบาลมัจจุราช-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/e561671a15fc5e5721bfbd7c/e561671a15fc5e5721bfbd7c.m3u8",
+          "url": "https://main.77player.xyz/m3u8/e561671a15fc5e5721bfbd7c/e561671a15fc5e5721bfbd7c438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -16134,7 +16755,7 @@
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/04/FormatFactoryThe-Marked-Heart-2-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/d3712e53995843a862e6e6b5/d3712e53995843a862e6e6b5438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/d3712e53995843a862e6e6b5/d3712e53995843a862e6e6b5.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -17765,7 +18386,7 @@
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Outer-Banks-Season-2-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/62539c6413b08b2e019c4dae/62539c6413b08b2e019c4dae438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/62539c6413b08b2e019c4dae/62539c6413b08b2e019c4dae.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -20285,7 +20906,7 @@
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/12/The-Witcher-Blood-Origin-300x450.png",
-          "url": "https://main.77player.xyz/newplaylist/08ad7986970d7673ccb8448d/08ad7986970d7673ccb8448d.m3u8",
+          "url": "https://main.77player.xyz/m3u8/08ad7986970d7673ccb8448d/08ad7986970d7673ccb8448d438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -24060,7 +24681,7 @@
           "name": "ตอนที่ 5",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/08/The-Sandman-2022-300x450.png",
-          "url": "https://main.77player.xyz/newplaylist/cd47cc90f4f2ddda4dc6d8d7/cd47cc90f4f2ddda4dc6d8d7.m3u8",
+          "url": "https://main.77player.xyz/m3u8/cd47cc90f4f2ddda4dc6d8d7/cd47cc90f4f2ddda4dc6d8d7438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -25830,6 +26451,13 @@
           "referer": "https://www.123-hd.com/"
         },
         {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/06/First-Kill-2022-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/5efdd640606e3980b7c38eb168cac6da/5efdd640606e3980b7c38eb168cac6da.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
           "name": "ตอนที่ 6",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/06/First-Kill-2022-300x450.png",
@@ -26596,68 +27224,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Snowpiercer-Season-3-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/e82fdbb908c615e18605337ee2d3cd40/e82fdbb908c615e18605337ee2d3cd40.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Raised by Wolves Season 2 (2022)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Raised-by-Wolves-Season-2-300x450.png",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Raised-by-Wolves-Season-2-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/ad28812f87f3747675212fbb0d3495a9/ad28812f87f3747675212fbb0d3495a9.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Raised-by-Wolves-Season-2-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/f5a00e627131e77f86c39a8f0c76c847/f5a00e627131e77f86c39a8f0c76c847.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Raised-by-Wolves-Season-2-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/fb7874aa3a061cb131503e8f1280e32b/fb7874aa3a061cb131503e8f1280e32b.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Raised-by-Wolves-Season-2-300x450.png",
-          "url": "https://xxx.77player.xyz/autoplaylist/87e6ef066093dc1d6bf473da556fd902/87e6ef066093dc1d6bf473da556fd902.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Raised-by-Wolves-Season-2-300x450.png",
-          "url": "https://xxx.77player.xyz/autoplaylist/3b724b26a4e2d7e93f6112841e7ec585/3b724b26a4e2d7e93f6112841e7ec585.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Raised-by-Wolves-Season-2-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/a14eec441892dc7e004ade175fa55d76/a14eec441892dc7e004ade175fa55d76.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Raised-by-Wolves-Season-2-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/12e7f0d317e8a0ca680c1ce11f61b40b/12e7f0d317e8a0ca680c1ce11f61b40b.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Raised-by-Wolves-Season-2-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/06c57abbf0e1f53cd03b7f7384f493d9/06c57abbf0e1f53cd03b7f7384f493d9.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -38539,28 +39105,14 @@
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2020/03/Freud-Season-1-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/2b3555926fa8028167a1095291916e0c/2b3555926fa8028167a1095291916e0c.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/03/Freud-Season-1-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/cb3791a870327c433d116513235f442e/cb3791a870327c433d116513235f442e.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/03/Freud-Season-1-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/de8f6d01a89378f7911744e44e5501e0/de8f6d01a89378f7911744e44e5501e0.m3u8",
+          "url": "https://xxx.77player.xyz/autoplaylist/2b3555926fa8028167a1095291916e0c/2b3555926fa8028167a1095291916e0c.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 8",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2020/03/Freud-Season-1-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/8ea7280754f2a9ff8975105829ad88be/8ea7280754f2a9ff8975105829ad88be.m3u8",
+          "url": "https://xxx.77player.xyz/autoplaylist/8ea7280754f2a9ff8975105829ad88be/8ea7280754f2a9ff8975105829ad88be.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -38573,14 +39125,14 @@
           "name": "ตอนที่ 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2020/03/The-Letter-For-The-King-Season-1-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/2e240c14963d2727ff38bb6678668d22/2e240c14963d2727ff38bb6678668d22.m3u8",
+          "url": "https://xxx.77player.xyz/autoplaylist/ad94bedabb43eee43f9dd2353e9b82ef/ad94bedabb43eee43f9dd2353e9b82ef.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
           "name": "ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2020/03/The-Letter-For-The-King-Season-1-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/833fac99abccca7402ec077b02f2e5aa/833fac99abccca7402ec077b02f2e5aa.m3u8",
+          "url": "https://xxx.77player.xyz/autoplaylist/833fac99abccca7402ec077b02f2e5aa/833fac99abccca7402ec077b02f2e5aa.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -39685,124 +40237,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Rise-of-Empires-Ottoman-2020-ออตโตมันผงาด-250x350.png",
           "url": "https://xxx.77player.xyz/ioshls/455fbca4a9620b38f817181b2fa3799c/455fbca4a9620b38f817181b2fa3799c.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Sex Education 2 (2020) เพศศึกษา (หลักสูตรเร่งรัก) 2",
-      "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Sex-Education-2-2020-เพศศึกษา-2-250x350.png",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Sex-Education-2-2020-เพศศึกษา-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/7a527315238322f959f4f89a43616df4/7a527315238322f959f4f89a43616df4.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Sex-Education-2-2020-เพศศึกษา-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/49581b9817f52696a11a2dbe1290b53c/49581b9817f52696a11a2dbe1290b53c.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Sex-Education-2-2020-เพศศึกษา-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/67bc46bcfeb6c17b2257b48c5f62732d/67bc46bcfeb6c17b2257b48c5f62732d.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Sex-Education-2-2020-เพศศึกษา-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/db8c837cec2b7394b7ea37009c52b2c4/db8c837cec2b7394b7ea37009c52b2c4.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Sex-Education-2-2020-เพศศึกษา-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/12f7a9fc9364daab6730e66f063cec49/12f7a9fc9364daab6730e66f063cec49.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Sex-Education-2-2020-เพศศึกษา-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/b54ca8398eff3d5fe0eeec821323d4c4/b54ca8398eff3d5fe0eeec821323d4c4.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Sex-Education-2-2020-เพศศึกษา-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/478c13fde97af0a4c229f6b374acb23d/478c13fde97af0a4c229f6b374acb23d.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Sex-Education-2-2020-เพศศึกษา-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/e436a7aa2940b53f79ce6fe723c01e24/e436a7aa2940b53f79ce6fe723c01e24.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Sex-Education-2-2020-เพศศึกษา-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/a91a4d18f81d38639f9958ca771248e6/a91a4d18f81d38639f9958ca771248e6.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Sex-Education-2-2020-เพศศึกษา-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/37c86363bea2a8a99b09f60f66fc8b00/37c86363bea2a8a99b09f60f66fc8b00.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Sex-Education-2-2020-เพศศึกษา-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/58a001d452093b207c27ff404d2fc4cb/58a001d452093b207c27ff404d2fc4cb.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Sex-Education-2-2020-เพศศึกษา-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/ec55b319193bd16b350ca9782e1f89dc/ec55b319193bd16b350ca9782e1f89dc.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Sex-Education-2-2020-เพศศึกษา-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/7e46cdd7f82c41365dcdc8698c77710a/7e46cdd7f82c41365dcdc8698c77710a.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Sex-Education-2-2020-เพศศึกษา-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/83cc11dfbd19f039cb5a300fe2d9ec73/83cc11dfbd19f039cb5a300fe2d9ec73.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Sex-Education-2-2020-เพศศึกษา-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/4469f817287e83a17e8a935f62168fc8/4469f817287e83a17e8a935f62168fc8.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Sex-Education-2-2020-เพศศึกษา-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/9b395977671ab9cdc77cebfde3991c84/9b395977671ab9cdc77cebfde3991c84.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]

@@ -1,12 +1,236 @@
 {
  "name": "AMAZON PRIME VIDEO",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 19 กันยายน 2566",
+ "author": "อุ๋ง อุ๋ง อัพวันที่ 30 กันยายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
  "groups": [
   {
+   "name": "The Continental: From the World of John Wick (2023)",
+   "info": "EP 2",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Continental-2023-1-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Continental-2023-1-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/7543d3a05a3df427548491ba/7543d3a05a3df427548491ba438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Continental-2023-1-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/6682d5b324c0cb79da0f7037/6682d5b324c0cb79da0f7037800.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Wheel Of Time Season 2 (2023) วงล้อแห่งเวลา 2",
+   "info": "EP 7",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/33b97d412aef1e3a883d4816/33b97d412aef1e3a883d4816438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b42659e5170571b6723a9f06/b42659e5170571b6723a9f06438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/902635c0886ddbb6c12ec327/902635c0886ddbb6c12ec327438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/ff41b5698456d3ff6e1666f8/ff41b5698456d3ff6e1666f8438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/22d04f80e13fc2f1699b3040/22d04f80e13fc2f1699b3040438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/966fcff2aef08058df46f6bf/966fcff2aef08058df46f6bf.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/31a907d42fe8462e58077a45/31a907d42fe8462e58077a45438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/38f5a19acd4ceed2e86d3c1c/38f5a19acd4ceed2e86d3c1c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/f78acbcc683afa033c028a42/f78acbcc683afa033c028a42800.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e134e7749e21538c1574099a/e134e7749e21538c1574099a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d022a31bdb373f81d64aab40/d022a31bdb373f81d64aab40438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/ba080589a88df9f586ec8875/ba080589a88df9f586ec8875438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
+     "url": "https://xxx.77player.xyz/m3u8/5c1c37d9232f7e3c73d748e0/5c1c37d9232f7e3c73d748e0800.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/44472b383f760177bc5778d6/44472b383f760177bc5778d6438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "Gen V (2023) ซีรีส์ภาคแยกของ The Boys",
+   "info": "EP 3",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Gen-V-2023-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Gen-V-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/3dbfaf56673eab5ca4495333/3dbfaf56673eab5ca4495333438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Gen-V-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/8d69ada10f6125a747f00998/8d69ada10f6125a747f00998438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Gen-V-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/37e3113b004f88f1fd77b2c6/37e3113b004f88f1fd77b2c6438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Gen-V-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/5b00ba9661fe0fde6a5f69b8/5b00ba9661fe0fde6a5f69b8438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Gen-V-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/df3d61c2ee2a4207814088b0/df3d61c2ee2a4207814088b0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Gen-V-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f06fa1997fa2e087763ab2de/f06fa1997fa2e087763ab2de438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Kidnapping Day (2023) วันลักพาตัว",
+   "info": "EP 6",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/37f2c6e50d595bda584df5a8/37f2c6e50d595bda584df5a8438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b2301053a1b943f7a619bc0b/b2301053a1b943f7a619bc0b438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/6cb03ee8f91a7ebee7bf51de/6cb03ee8f91a7ebee7bf51de438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e48c5ff43fe6ae029efbe765/e48c5ff43fe6ae029efbe765438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/5aa4526e2e0a4f530309eabf/5aa4526e2e0a4f530309eabf438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/ea4441945a92f5fd9aaee737/ea4441945a92f5fd9aaee737438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
    "name": "Doctor Detective (2023) สืบลับหมอระบาด",
-   "info": "EP 9",
+   "info": "EP 12",
    "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Doctor-Detective-2023-187x269.jpg",
    "stations": [
     {
@@ -69,14 +293,406 @@
      "name": "ตอนที่ 9",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Doctor-Detective-2023-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/80ad521b295777332e76e9d3/80ad521b295777332e76e9d3800.m3u8",
+     "url": "https://main.77player.xyz/m3u8/534246f1b3c9d3f55d78fb53/534246f1b3c9d3f55d78fb53438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Doctor-Detective-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/35e8de1ef8a71e7f71f41c16/35e8de1ef8a71e7f71f41c16438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Doctor-Detective-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a2ab1eade874a576d92079a7/a2ab1eade874a576d92079a7438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Doctor-Detective-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/8a70f12fa99cb461f92ec4b8/8a70f12fa99cb461f92ec4b8438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "Outer Range (2022) แดนพิศวงปมมรณะ",
+   "info": "จบแล้ว",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Outer-Range-2022-แดนพิศวงปมมรณะ-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Outer-Range-2022-แดนพิศวงปมมรณะ-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/fe73abe186135a2e56928771/fe73abe186135a2e56928771438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Outer-Range-2022-แดนพิศวงปมมรณะ-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/26f897ae0c9c31d256620a9f/26f897ae0c9c31d256620a9f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Outer-Range-2022-แดนพิศวงปมมรณะ-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9c36a98fd757efddb1dc11c2/9c36a98fd757efddb1dc11c2438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Outer-Range-2022-แดนพิศวงปมมรณะ-187x269.jpg",
+     "url": "https://main.77player.xyz/https://xxx.77player.xyz/m3u8/f70e5ebcc91ab74af10c9bb7/f70e5ebcc91ab74af10c9bb7800.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Outer-Range-2022-แดนพิศวงปมมรณะ-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/49c37f07086dd0edc41acb51/49c37f07086dd0edc41acb51438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Outer-Range-2022-แดนพิศวงปมมรณะ-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/62b2dfad0d88b08fd2038f1a/62b2dfad0d88b08fd2038f1a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Outer-Range-2022-แดนพิศวงปมมรณะ-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b9d77aee95763d0ff02b2698/b9d77aee95763d0ff02b2698438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Outer-Range-2022-แดนพิศวงปมมรณะ-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/1bcced1af16677536757c522/1bcced1af16677536757c522438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Purge Season 2 (2019) คืนอำมหิต ซีซั่น 2",
+   "info": "จบแล้ว",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-2018-คืนอำมหิต-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-2018-คืนอำมหิต-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/46f76ed041342462e3aa45b0/46f76ed041342462e3aa45b0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-2018-คืนอำมหิต-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/117e5a25e04109344b488f13/117e5a25e04109344b488f13438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-2018-คืนอำมหิต-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f6eb6db2e8915347dcf05b5b/f6eb6db2e8915347dcf05b5b438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-2018-คืนอำมหิต-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/61746598bba99b8ac8204777/61746598bba99b8ac8204777438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-2018-คืนอำมหิต-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a99d9086232b2d3aac7484c9/a99d9086232b2d3aac7484c9438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-2018-คืนอำมหิต-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f72091d73d0a1b68ae7ba2d1/f72091d73d0a1b68ae7ba2d1438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-2018-คืนอำมหิต-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/6a7769876eabf44c3e452984/6a7769876eabf44c3e452984438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-2018-คืนอำมหิต-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d8df02bdb32bb2e92f4e46b9/d8df02bdb32bb2e92f4e46b9438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-2018-คืนอำมหิต-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/c8897474bac1ecffb0d71b64/c8897474bac1ecffb0d71b64438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-2018-คืนอำมหิต-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9cac43dd9ea8e5a0804fe456/9cac43dd9ea8e5a0804fe456438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Purge (2018) คืนอำมหิต",
+   "info": "จบแล้ว",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-Season-2-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-Season-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d8ef09e4ca572cae9e4d5d5e/d8ef09e4ca572cae9e4d5d5e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-Season-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4f36ea3cf2ecb413cba7de7b/4f36ea3cf2ecb413cba7de7b438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-Season-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/06e86c3821227716c1656eae/06e86c3821227716c1656eae438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-Season-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/82f91ae5d4f264efe854839a/82f91ae5d4f264efe854839a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-Season-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/15b1b890e9d7b93184d990b2/15b1b890e9d7b93184d990b2438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-Season-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4b4afce33d973d1f7a2c48b2/4b4afce33d973d1f7a2c48b2438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-Season-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/eb7cd240ec17402b3fba4a67/eb7cd240ec17402b3fba4a67438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-Season-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/3722a1e603755df58441e635/3722a1e603755df58441e635438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-Season-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/6bd8891e8f5929fe4b749eb6/6bd8891e8f5929fe4b749eb6438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Purge-Season-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d7b44f690a7e2918a4c90ca5/d7b44f690a7e2918a4c90ca5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Terror Season 2 (2019) เทอร์เรอร์ ซีซั่น 2",
+   "info": "จบแล้ว",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-Season-2-2019-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-Season-2-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a0c9b3a01b52b6a77b7cc5b0/a0c9b3a01b52b6a77b7cc5b0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-Season-2-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/08ef97c8a98e825d2eccb8bd/08ef97c8a98e825d2eccb8bd438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-Season-2-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/278185dd85f791cfe34a3a1a/278185dd85f791cfe34a3a1a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-Season-2-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/10de9df0b8f4309a244f0625/10de9df0b8f4309a244f0625438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-Season-2-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/472c4032f07a14ce20375137/472c4032f07a14ce20375137438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-Season-2-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a6a91a1102f48a19ee94d9ac/a6a91a1102f48a19ee94d9ac438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-Season-2-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b9aa7e32aba7c9362425f617/b9aa7e32aba7c9362425f617438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-Season-2-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/8ef6bc46504915a32487a106/8ef6bc46504915a32487a106438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-Season-2-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/7a5bbe905f2c2c3fe41ddbfe/7a5bbe905f2c2c3fe41ddbfe438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-Season-2-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d105f3f2f430d8b851fe6435/d105f3f2f430d8b851fe6435438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Terror (2018) เทอร์เรอร์",
+   "info": "จบแล้ว",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-2018-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b6ae626de14ea1a3d9293afa/b6ae626de14ea1a3d9293afa438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b2ac197856a86f87c437c530/b2ac197856a86f87c437c530438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4f182019f44ebbb648ba11a4/4f182019f44ebbb648ba11a4438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/845fb70cee602680eaf10974/845fb70cee602680eaf10974438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/5ac63acdda8f192269c54624/5ac63acdda8f192269c54624438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/41fe5c7957a08e196db5255d/41fe5c7957a08e196db5255d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9f7fc72941c437a0fd6b290f/9f7fc72941c437a0fd6b290f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/94adb70f0c54c3692ae09c62/94adb70f0c54c3692ae09c62438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4ba709e6bd1b7bfe9707e73a/4ba709e6bd1b7bfe9707e73a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Terror-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f4af96e9bd442d2cf79f4161/f4af96e9bd442d2cf79f4161438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
   },
   {
    "name": "Harlan Cobens Shelter (2023) ฮาร์ลาน โคเบน ผีเสื้อแห่งความลับ",
-   "info": "EP 7",
+   "info": "จบแล้ว",
    "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Harlan-Cobens-Shelter-2023-187x269.jpg",
    "stations": [
     {
@@ -126,6 +742,69 @@
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Harlan-Cobens-Shelter-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/607001b530d0c96ca0902f10/607001b530d0c96ca0902f10438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Harlan-Cobens-Shelter-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d63d7b5b77ab95ff478ea930/d63d7b5b77ab95ff478ea930438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Killing Vote (2023) โหวตโทษประหาร",
+   "info": "EP 7",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/2a4c71d3f491ee8f58190731/2a4c71d3f491ee8f58190731438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/1117bc5b92fa3c82be3e5bd5/1117bc5b92fa3c82be3e5bd5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/171bd499a0fd48b6e5ec27b1/171bd499a0fd48b6e5ec27b1438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b8d90d42da3832c9b85211c5/b8d90d42da3832c9b85211c5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/8e7016b72997096a980f6b80/8e7016b72997096a980f6b80438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/74fcdfd9b00fccd132483868/74fcdfd9b00fccd132483868438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0ed0af1ccca11448b344e5b8/0ed0af1ccca11448b344e5b8438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -243,118 +922,6 @@
    ]
   },
   {
-   "name": "The Wheel Of Time Season 2 (2023) วงล้อแห่งเวลา 2",
-   "info": "EP 5",
-   "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/33b97d412aef1e3a883d4816/33b97d412aef1e3a883d4816438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/902635c0886ddbb6c12ec327/902635c0886ddbb6c12ec327438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/22d04f80e13fc2f1699b3040/22d04f80e13fc2f1699b3040438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/31a907d42fe8462e58077a45/31a907d42fe8462e58077a45438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
-     "url": "https://xxx.77player.xyz/m3u8/f78acbcc683afa033c028a42/f78acbcc683afa033c028a42800.m3u8",
-     "referer": "https://www.seriesday.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Kidnapping Day (2023) วันลักพาตัว",
-   "info": "EP 2",
-   "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-187x269.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/37f2c6e50d595bda584df5a8/37f2c6e50d595bda584df5a8438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/b2301053a1b943f7a619bc0b/b2301053a1b943f7a619bc0b438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Killing Vote (2023) โหวตโทษประหาร",
-   "info": "EP 6",
-   "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-187x269.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/2a4c71d3f491ee8f58190731/2a4c71d3f491ee8f58190731438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/1117bc5b92fa3c82be3e5bd5/1117bc5b92fa3c82be3e5bd5438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/171bd499a0fd48b6e5ec27b1/171bd499a0fd48b6e5ec27b1438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/b8d90d42da3832c9b85211c5/b8d90d42da3832c9b85211c5438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/8e7016b72997096a980f6b80/8e7016b72997096a980f6b80438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/74fcdfd9b00fccd132483868/74fcdfd9b00fccd132483868438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    }
-   ]
-  },
-  {
    "name": "American Gods Season 2 (2019) อเมริกันก็อดส์ ซีซั่น 2",
    "info": "จบแล้ว",
    "image": "https://www.seriesday.com/wp-content/uploads/2023/09/American-Gods-Season-2-187x269.jpg",
@@ -465,13 +1032,6 @@
      "referer": "https://www.seriesday.com/"
     },
     {
-     "name": "ตอนที่ 7",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/American-Gods-2017-อเมริกันก็อดส์-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/53e2ace2879cbaa1cbec4e37/53e2ace2879cbaa1cbec4e37438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
      "name": "ตอนที่ 8",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/09/American-Gods-2017-อเมริกันก็อดส์-187x269.jpg",
@@ -573,7 +1133,7 @@
      "name": "ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Comedy-Island-2023-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/e61e406ba0f5691f0a8ea9d4/e61e406ba0f5691f0a8ea9d4438.m3u8",
+     "url": "https://main.77player.xyz/newplaylist/e61e406ba0f5691f0a8ea9d4/e61e406ba0f5691f0a8ea9d4.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -598,10 +1158,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Unlock-My-Boss-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/57cf8ad1bbb59d302761314e/57cf8ad1bbb59d302761314e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Unlock-My-Boss-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/da2336cdf1a5a9f96421aecf/da2336cdf1a5a9f96421aecf438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Unlock-My-Boss-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/fbd4e585440ba90aed70cac6/fbd4e585440ba90aed70cac6438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -612,10 +1186,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Unlock-My-Boss-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/347998192c0cd017542625f3/347998192c0cd017542625f3438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Unlock-My-Boss-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/78354543d853c9272276f6bb/78354543d853c9272276f6bb438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Unlock-My-Boss-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/76f5585c58f92451cd6b1424/76f5585c58f92451cd6b1424438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -626,10 +1214,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Unlock-My-Boss-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9a3af8f01e78fd286d622e43/9a3af8f01e78fd286d622e43438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Unlock-My-Boss-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/54417bcfaac127cd1cc7888d/54417bcfaac127cd1cc7888d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Unlock-My-Boss-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/406129bab59f7ff6a7efb74b/406129bab59f7ff6a7efb74b438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -640,10 +1242,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Unlock-My-Boss-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0b4eb7ab53f8adc16081490c/0b4eb7ab53f8adc16081490c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Unlock-My-Boss-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/d739d731104932a580465751/d739d731104932a580465751438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Unlock-My-Boss-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/123f57ac95ccc853ac4b1938/123f57ac95ccc853ac4b1938438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -654,10 +1270,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Unlock-My-Boss-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/af34feb64d6b303791824f81/af34feb64d6b303791824f81438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Unlock-My-Boss-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/9a649e25942af8c39ae8dbbd/9a649e25942af8c39ae8dbbd438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Unlock-My-Boss-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/ed45c5db3b0fb7fd6c5fb152/ed45c5db3b0fb7fd6c5fb152438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -668,10 +1298,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Unlock-My-Boss-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b0662a837a2cc28e93f7ca1e/b0662a837a2cc28e93f7ca1e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Unlock-My-Boss-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/06070e15262a608541fe4648/06070e15262a608541fe4648438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Unlock-My-Boss-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/89f48169f2b90f84588f12e9/89f48169f2b90f84588f12e9438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -1557,10 +2201,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Wheel-Of-Time-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/16aaec390f753dc777c58090/16aaec390f753dc777c58090438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Wheel-Of-Time-2021-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/281434661243e0674721b0d9/281434661243e0674721b0d9438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Wheel-Of-Time-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/24b2eac079d1aa8ee9671f18/24b2eac079d1aa8ee9671f18438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1571,10 +2229,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Wheel-Of-Time-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/575ec0c6d4f8b0260d161f54/575ec0c6d4f8b0260d161f54438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Wheel-Of-Time-2021-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/f0db3eb125a580e6af6915c8/f0db3eb125a580e6af6915c8438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Wheel-Of-Time-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/34c3ca5bf54c638c1758c1c5/34c3ca5bf54c638c1758c1c5438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1585,10 +2257,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Wheel-Of-Time-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b2aabf38850cf005aefbb955/b2aabf38850cf005aefbb955438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Wheel-Of-Time-2021-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/8b6308ccfa113c54a5331fe7/8b6308ccfa113c54a5331fe7438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Wheel-Of-Time-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/5a3fce79717eb803ebd99e29/5a3fce79717eb803ebd99e29438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1599,10 +2285,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Wheel-Of-Time-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d68dfeba2db60a9a9a14f4e8/d68dfeba2db60a9a9a14f4e8438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Wheel-Of-Time-2021-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/2b33a8480a17efba33808993/2b33a8480a17efba33808993438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-Wheel-Of-Time-2021-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9dd3d5d724fd622f05df58e8/9dd3d5d724fd622f05df58e8438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -1902,83 +2602,6 @@
    ]
   },
   {
-   "name": "Kamen Rider Black Sun (2022)",
-   "info": "จบแล้ว",
-   "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Kamen-Rider-Black-Sun-2022-187x269.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Kamen-Rider-Black-Sun-2022-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/28ca6a049b1e8070b275cff2/28ca6a049b1e8070b275cff2438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Kamen-Rider-Black-Sun-2022-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/709d5c9c42413f8b075ba38e/709d5c9c42413f8b075ba38e438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Kamen-Rider-Black-Sun-2022-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/656cce86345d28c254a45bfb/656cce86345d28c254a45bfb438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Kamen-Rider-Black-Sun-2022-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/434e1b2545ee772c143b0c07/434e1b2545ee772c143b0c07438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Kamen-Rider-Black-Sun-2022-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/59e417d9d4fa38f338c42524/59e417d9d4fa38f338c42524438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Kamen-Rider-Black-Sun-2022-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/cf67d7e487e8b38456ce9178/cf67d7e487e8b38456ce9178438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Kamen-Rider-Black-Sun-2022-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/01a85beb889133876f43ed0f/01a85beb889133876f43ed0f438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Kamen-Rider-Black-Sun-2022-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/f30bf19775745efc9a09245d/f30bf19775745efc9a09245d438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Kamen-Rider-Black-Sun-2022-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/0ae1e09f361bfd570ff46f32/0ae1e09f361bfd570ff46f32438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "info": "ซับไทย",
-     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Kamen-Rider-Black-Sun-2022-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/30a814f9a4a2bf7cc348362c/30a814f9a4a2bf7cc348362c438.m3u8",
-     "referer": "https://www.seriesday.com/"
-    }
-   ]
-  },
-  {
    "name": "Salon De Nabi (2022) เติมฝัน ซาลอนรัก",
    "info": "จบแล้ว",
    "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Salon-De-Nabi-2022-เติมฝัน-ซาลอนรัก-187x269.jpg",
@@ -2057,7 +2680,7 @@
      "name": "ตอนที่ 11",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Salon-De-Nabi-2022-เติมฝัน-ซาลอนรัก-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/2320cc89a31d8300761afd56/2320cc89a31d8300761afd56438.m3u8",
+     "url": "https://main.77player.xyz/newplaylist/2320cc89a31d8300761afd56/2320cc89a31d8300761afd56.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2176,7 +2799,7 @@
      "name": "ตอนที่ 11",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Yumis-Cells-Season-2-187x269.png",
-     "url": "https://main.77player.xyz/newplaylist/34ad13f60265d4e975a12bb5/34ad13f60265d4e975a12bb5.m3u8",
+     "url": "https://main.77player.xyz/m3u8/34ad13f60265d4e975a12bb5/34ad13f60265d4e975a12bb5438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2320,10 +2943,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Good-Omen-Season-2-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/c0466413e92fe0e1c7117bd5/c0466413e92fe0e1c7117bd5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Good-Omen-Season-2-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/9bccc6c147b00e8715bc9a45/9bccc6c147b00e8715bc9a45438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Good-Omen-Season-2-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/834544bafa0287b4bbb6198a/834544bafa0287b4bbb6198a438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2334,10 +2971,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Good-Omen-Season-2-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/06d0f96d2b8d502247d7748f/06d0f96d2b8d502247d7748f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Good-Omen-Season-2-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/2a476fb44f2f8c6ee0c178b7/2a476fb44f2f8c6ee0c178b7438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Good-Omen-Season-2-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/8e1d060edab62b9e45c95ae8/8e1d060edab62b9e45c95ae8438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2348,10 +2999,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Good-Omen-Season-2-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/8c3ce45792cf0e7f58bd49ca/8c3ce45792cf0e7f58bd49ca.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Good-Omen-Season-2-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/dfca4f5b74c962d1644dcc1b/dfca4f5b74c962d1644dcc1b438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Good-Omen-Season-2-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/ff6c99fcd8185ff34151c3a3/ff6c99fcd8185ff34151c3a3438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -2537,10 +3202,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-4-2023-สายลับ-แจ็ค-ไรอัน-ซีซั่น-4-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/ee1c133cc5c2156c1c62d05e/ee1c133cc5c2156c1c62d05e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-4-2023-สายลับ-แจ็ค-ไรอัน-ซีซั่น-4-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/3d88ea9ea0dc0e6e3a3d71ab/3d88ea9ea0dc0e6e3a3d71ab438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-4-2023-สายลับ-แจ็ค-ไรอัน-ซีซั่น-4-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/1709ffdc95bcd0d049d4bacc/1709ffdc95bcd0d049d4bacc438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2551,10 +3230,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-4-2023-สายลับ-แจ็ค-ไรอัน-ซีซั่น-4-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0a19061c628dfe89ee1e33d2/0a19061c628dfe89ee1e33d2438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-4-2023-สายลับ-แจ็ค-ไรอัน-ซีซั่น-4-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/50c4ef17409ed44b3d8b78ea/50c4ef17409ed44b3d8b78ea438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-4-2023-สายลับ-แจ็ค-ไรอัน-ซีซั่น-4-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/311aee44080e7f776e073ead/311aee44080e7f776e073ead438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2565,10 +3258,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-4-2023-สายลับ-แจ็ค-ไรอัน-ซีซั่น-4-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/14a6b330900b71bef557b6c5/14a6b330900b71bef557b6c5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-4-2023-สายลับ-แจ็ค-ไรอัน-ซีซั่น-4-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/17822e9438cd2caead1037f4/17822e9438cd2caead1037f4438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-4-2023-สายลับ-แจ็ค-ไรอัน-ซีซั่น-4-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b2c0f050f55af428987658a9/b2c0f050f55af428987658a9438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -2712,10 +3419,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-3-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/2f716d09ccc26a5ba85a752a/2f716d09ccc26a5ba85a752a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-3-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/446b730746c5f436ddf71244/446b730746c5f436ddf71244438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-3-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/129c226bda6d1719c49dc488/129c226bda6d1719c49dc488438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2726,10 +3447,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-3-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9b2ba623611d92e4b7b17e74/9b2ba623611d92e4b7b17e74438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-3-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/8a7059f5f748c162aa27967f/8a7059f5f748c162aa27967f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-3-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/2ec39529dbce7b56c4daf2ed/2ec39529dbce7b56c4daf2ed438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2740,10 +3475,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-3-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9875214cabd24326603a3078/9875214cabd24326603a3078438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-3-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/52828cbf037d2b850478e94e/52828cbf037d2b850478e94e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-3-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0e5bf8433a68bb05da377c9b/0e5bf8433a68bb05da377c9b438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2754,10 +3503,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-3-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/ed6b5d1936647ef440ca6ef6/ed6b5d1936647ef440ca6ef6438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-3-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/85f279b66f2400a0ccd90a8d/85f279b66f2400a0ccd90a8d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Tom-Clancys-Jack-Ryan-Season-3-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/911ab0b86c927d20666b5fa0/911ab0b86c927d20666b5fa0438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -3202,10 +3965,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Citadel-2023-ซิทาเดล-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b81bed3750bc3da3daf4eb18/b81bed3750bc3da3daf4eb18438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Citadel-2023-ซิทาเดล-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/eb7c1df953ecc052cd6eb73f/eb7c1df953ecc052cd6eb73f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Citadel-2023-ซิทาเดล-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0bbce1b66ef7063fd742cdd3/0bbce1b66ef7063fd742cdd3438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3216,10 +3993,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Citadel-2023-ซิทาเดล-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/5dea2378427c56ee15c81634/5dea2378427c56ee15c81634438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Citadel-2023-ซิทาเดล-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/7805addf051e443bc93ac673/7805addf051e443bc93ac673438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Citadel-2023-ซิทาเดล-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/91f626f77ec5fd8d722109bc/91f626f77ec5fd8d722109bc438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3230,10 +4021,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Citadel-2023-ซิทาเดล-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/76e2871204fa906eb7ceb34c/76e2871204fa906eb7ceb34c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Citadel-2023-ซิทาเดล-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/c3031a2822620eaac967a1a9/c3031a2822620eaac967a1a9438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Citadel-2023-ซิทาเดล-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0e3f1284483f34f21fe59ebb/0e3f1284483f34f21fe59ebb438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -3356,10 +4161,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f598177bad0ececc4f6a3197/f598177bad0ececc4f6a3197438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/27fa43b0435acd31bc974fcd/27fa43b0435acd31bc974fcd438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/346a31f34ba8143970684051/346a31f34ba8143970684051438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3370,10 +4189,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e256994e119c4bc14cc50fd3/e256994e119c4bc14cc50fd3438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/9514e449e900fe2ab86f500a/9514e449e900fe2ab86f500a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/7aa0cdd6aef74e55d824a8d5/7aa0cdd6aef74e55d824a8d5438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3384,10 +4217,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/1d410f57f2642047896384b5/1d410f57f2642047896384b5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/6a9e8ee30869e9e27fbb40ab/6a9e8ee30869e9e27fbb40ab438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f55c450c4d83fb2fa34329c8/f55c450c4d83fb2fa34329c8438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3398,10 +4245,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/7a859021ceaf05c8b42103bd/7a859021ceaf05c8b42103bd438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/b81047616109997fad7d534b/b81047616109997fad7d534b438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/568832d03688868245802e8e/568832d03688868245802e8e438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3412,10 +4273,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4c50a637cc7d2c39bfe9c378/4c50a637cc7d2c39bfe9c378438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/0bbd15c66009dfcb4130b8ac/0bbd15c66009dfcb4130b8ac438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/2e46812d48b67bc092e71328/2e46812d48b67bc092e71328438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3426,10 +4301,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e5d1c192689348ea2d90a05a/e5d1c192689348ea2d90a05a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/88681f565c98c95a91f6cb87/88681f565c98c95a91f6cb87438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/57eb617a1c62436cc86748e2/57eb617a1c62436cc86748e2438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3440,10 +4329,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/53055e0105d35e6de27d3691/53055e0105d35e6de27d3691438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 14",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/893baedd2df8d776b5775219/893baedd2df8d776b5775219438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/bbd58bd8a38ab7e6ce2a750b/bbd58bd8a38ab7e6ce2a750b438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3454,10 +4357,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f6174f0b1558616d2e596a52/f6174f0b1558616d2e596a52438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 16",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/e0efdafd6998e86e607148aa/e0efdafd6998e86e607148aa438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f7691b944cb956b5c0ccf651/f7691b944cb956b5c0ccf651438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3468,6 +4385,13 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9c3b1a31a34e2e2a5b96c5bc/9c3b1a31a34e2e2a5b96c5bc438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 18",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
@@ -3475,10 +4399,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b3fa927b0bed77a35fb818ef/b3fa927b0bed77a35fb818ef438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 19",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/5c5161730d24c602ff2f7517/5c5161730d24c602ff2f7517438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f15f55b56cbdfc7a2c344ee2/f15f55b56cbdfc7a2c344ee2438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3496,10 +4434,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 21",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/86a6abb5d644587f1eb02629/86a6abb5d644587f1eb02629438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 22",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/09fcfcefbb7668aa3d7b387e/09fcfcefbb7668aa3d7b387e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-6-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4c157ce93242317272fca914/4c157ce93242317272fca914438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -3825,10 +4777,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Power-2023-พลังปฏิวัติโลก-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9c84a77fae225761aa3a5d66/9c84a77fae225761aa3a5d66438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Power-2023-พลังปฏิวัติโลก-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/a32ebb35619941466440fa45/a32ebb35619941466440fa45438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Power-2023-พลังปฏิวัติโลก-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/6f8d64afe682971c607c0c53/6f8d64afe682971c607c0c53438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3839,10 +4805,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Power-2023-พลังปฏิวัติโลก-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/92166e3ef824963825a3c2a0/92166e3ef824963825a3c2a0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Power-2023-พลังปฏิวัติโลก-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/cca085025ef8b207b9239c0e/cca085025ef8b207b9239c0e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Power-2023-พลังปฏิวัติโลก-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/cb0141916611a64a8d78f01e/cb0141916611a64a8d78f01e438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3853,10 +4833,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Power-2023-พลังปฏิวัติโลก-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/6cfdec977be10ef31b83b8f3/6cfdec977be10ef31b83b8f3438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Power-2023-พลังปฏิวัติโลก-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/38a6ef40d8d17ae514bb6321/38a6ef40d8d17ae514bb6321438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Power-2023-พลังปฏิวัติโลก-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0920814c37a7c29002b5647e/0920814c37a7c29002b5647e438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3867,6 +4861,13 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Power-2023-พลังปฏิวัติโลก-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/7702ddcddc5223caf31e1e38/7702ddcddc5223caf31e1e38438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Power-2023-พลังปฏิวัติโลก-187x269.jpg",
@@ -3874,10 +4875,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Power-2023-พลังปฏิวัติโลก-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4925a9b1d36831e27da70bf0/4925a9b1d36831e27da70bf0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 9",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Power-2023-พลังปฏิวัติโลก-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/d31ff58e121aeed48dbcce9d/d31ff58e121aeed48dbcce9d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Power-2023-พลังปฏิวัติโลก-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/af3c3609a4b23d0cd4110b4f/af3c3609a4b23d0cd4110b4f438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -4203,10 +5218,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Dead-Ringers-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0e833ed964a0c17a13a4e36c/0e833ed964a0c17a13a4e36c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Dead-Ringers-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/90b27dff48924e33a3a68890/90b27dff48924e33a3a68890438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Dead-Ringers-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/693bda5f3e7d45f71b7ea4bf/693bda5f3e7d45f71b7ea4bf438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4217,10 +5246,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Dead-Ringers-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/2b86882a56bb54ff69bfeb79/2b86882a56bb54ff69bfeb79438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Dead-Ringers-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/cb1d7405249c7927625c0876/cb1d7405249c7927625c0876438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Dead-Ringers-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/6cebe4dd0ec80ffe7be3225a/6cebe4dd0ec80ffe7be3225a438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4231,10 +5274,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Dead-Ringers-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/733d993619df64a64a054a05/733d993619df64a64a054a05438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Dead-Ringers-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/598de40779ee0c066d5bcea7/598de40779ee0c066d5bcea7438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Dead-Ringers-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/1ff086b72e6c4e6e6ffc1d85/1ff086b72e6c4e6e6ffc1d85438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -4448,10 +5505,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d9a1a9a9448767ae53f25909/d9a1a9a9448767ae53f25909438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/0bb355de6462c97837d5d932/0bb355de6462c97837d5d932438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4c4bfc43aa344760472a90b2/4c4bfc43aa344760472a90b2438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4462,8 +5533,22 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/966acf2c155888dc6fb9bbfa/966acf2c155888dc6fb9bbfa438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/61df505f7137fd7bf8f2bb5c/61df505f7137fd7bf8f2bb5c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/61df505f7137fd7bf8f2bb5c/61df505f7137fd7bf8f2bb5c438.m3u8",
      "referer": "https://www.seriesday.com/"
@@ -4476,8 +5561,22 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/08bd316951854d88557adc4f/08bd316951854d88557adc4f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/5c3d243bc607d5bb2b6bc358/5c3d243bc607d5bb2b6bc358438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/5c3d243bc607d5bb2b6bc358/5c3d243bc607d5bb2b6bc358438.m3u8",
      "referer": "https://www.seriesday.com/"
@@ -4490,10 +5589,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/326da544b3c51eaf3a9c419d/326da544b3c51eaf3a9c419d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/4b36863b34d042171233ce6d/4b36863b34d042171233ce6d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d89150f5a97b2349b6ebe125/d89150f5a97b2349b6ebe125438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4504,10 +5617,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a518f6dd7784c5ed86c1b35d/a518f6dd7784c5ed86c1b35d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/3f76863a2c2f300d4c41ec00/3f76863a2c2f300d4c41ec00438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/50f1c09d50a71037b12b81ec/50f1c09d50a71037b12b81ec438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -4829,7 +5956,7 @@
      "name": "ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Island-2-2023-1-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/685dd1b59998e2d56d6e94af/685dd1b59998e2d56d6e94af438.m3u8",
+     "url": "https://main.77player.xyz/newplaylist/685dd1b59998e2d56d6e94af/685dd1b59998e2d56d6e94af.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4924,10 +6051,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-3-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e948f1c677f8adddd72d0c13/e948f1c677f8adddd72d0c13168.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-3-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/90b3b48f0040d3dfd7bc5431/90b3b48f0040d3dfd7bc5431438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-3-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/24dc7d91d0e3a66bd04031c5/24dc7d91d0e3a66bd04031c5438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4938,10 +6079,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-3-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/91f67667afb3680438fa2bb4/91f67667afb3680438fa2bb4438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-3-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/bb39287990efff8ce2ce433e/bb39287990efff8ce2ce433e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-3-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/528ba5fa907fe53925cfc33b/528ba5fa907fe53925cfc33b438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4952,10 +6107,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-3-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/2b3ccab86a3622e55fd064e2/2b3ccab86a3622e55fd064e2438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-3-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/2bb6849643ce927b2af4bcec/2bb6849643ce927b2af4bcec438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-3-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/3f572de31df989160e79fbc3/3f572de31df989160e79fbc3438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4966,10 +6135,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-3-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/36cd6d5add606147c9f6fdb2/36cd6d5add606147c9f6fdb2438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-3-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/b393390de327f746de716330/b393390de327f746de716330438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-3-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e6a72300042f01cdd39eaeb3/e6a72300042f01cdd39eaeb3438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -4987,10 +6170,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-2-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e0bb9b06342f65e8d8d19f21/e0bb9b06342f65e8d8d19f21438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-2-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/8054946e5c2bc0861f99deb3/8054946e5c2bc0861f99deb3438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-2-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/ffb554f9c59c1ae293ad9a14/ffb554f9c59c1ae293ad9a14438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5001,10 +6198,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-2-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/8468eac8839bf08378313939/8468eac8839bf08378313939438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-2-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/9e11ce965b34fbbf226defa7/9e11ce965b34fbbf226defa7438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-2-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b319407778aea6903d77c9dd/b319407778aea6903d77c9dd438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5015,10 +6226,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-2-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/2d412227a20a5fbd3c3e1897/2d412227a20a5fbd3c3e1897438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-2-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/51ea92628b94fb04e37ea5e5/51ea92628b94fb04e37ea5e5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-2-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9279ff85e97c406858415c33/9279ff85e97c406858415c33438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5029,10 +6254,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-2-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/fa53aecb5bf437917f9105e0/fa53aecb5bf437917f9105e0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-2-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/6c19fe76d953d249ca10b782/6c19fe76d953d249ca10b782438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-2-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/85bf4c5fd6efd1c7515b80f2/85bf4c5fd6efd1c7515b80f2438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -5050,10 +6289,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-1-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/da3ce59cae8025c5d7af1334/da3ce59cae8025c5d7af1334438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-1-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/7b819e2af72d8accdcfbb99a/7b819e2af72d8accdcfbb99a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-1-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f25aed756e82d1314c823282/f25aed756e82d1314c823282438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5064,10 +6317,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-1-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/c3994120bb0b6f85fd04cea8/c3994120bb0b6f85fd04cea8438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-1-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/6e8f2acb681534c48b065ec8/6e8f2acb681534c48b065ec8438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-1-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/598e3d5d2147c2fc7e3f1b31/598e3d5d2147c2fc7e3f1b31438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5078,10 +6345,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-1-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/76c62d3afd4b7d28decb35b6/76c62d3afd4b7d28decb35b6438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-1-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/28142923db37fefae898a81d/28142923db37fefae898a81d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-1-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/3b3b570724585f8de1c882aa/3b3b570724585f8de1c882aa438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5092,10 +6373,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-1-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/04256f8bb83345f23533cc59/04256f8bb83345f23533cc59438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-1-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/ecc85e0edb3440972d154337/ecc85e0edb3440972d154337438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Boys-Season-1-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4e7110d814554a986017be9c/4e7110d814554a986017be9c438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -5232,10 +6527,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/026edb0291b34c754f2b06d1/026edb0291b34c754f2b06d1438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/cda13593a0a065160428f582/cda13593a0a065160428f582438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e986606f730b7b70894e9908/e986606f730b7b70894e9908438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5246,10 +6555,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/c6b1a33f7b152ed4905a792c/c6b1a33f7b152ed4905a792c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/b6d1d13afa6c793a9d2f8d76/b6d1d13afa6c793a9d2f8d76438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/128413b71bb7446bbd1c0191/128413b71bb7446bbd1c0191438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5260,10 +6583,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/df0301721eeae23220baedd8/df0301721eeae23220baedd8438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/ca5b4a5a6e6a95a8fe40ae63/ca5b4a5a6e6a95a8fe40ae63438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/533b6857ef4675fa42d616b5/533b6857ef4675fa42d616b5438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5274,10 +6611,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/139661f66e83ebaaae7dc226/139661f66e83ebaaae7dc226438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/2ad94818fc29220fb49f0e2c/2ad94818fc29220fb49f0e2c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/7ecce9333c3552a3764a8168/7ecce9333c3552a3764a8168438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5288,10 +6639,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/bb33c8272db25b9ea829158e/bb33c8272db25b9ea829158e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/98a1098ac7517bc63f291dfc/98a1098ac7517bc63f291dfc438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/8b2d480de09204f9feafdf16/8b2d480de09204f9feafdf16438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5302,10 +6667,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/292c5eb2daa6e8da58451dff/292c5eb2daa6e8da58451dff438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/c0ddda19b6587caeab5d451a/c0ddda19b6587caeab5d451a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/5dbde28f80e3591561655688/5dbde28f80e3591561655688438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5316,10 +6695,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/81945b9f675a93b65421e4f7/81945b9f675a93b65421e4f7438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 14",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/19c9b6d083b681736b15c93e/19c9b6d083b681736b15c93e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/8e147eaa582bdada4c74452c/8e147eaa582bdada4c74452c438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5330,10 +6723,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/56b85341c9f2dd8f21272cde/56b85341c9f2dd8f21272cde438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 16",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/e4832d4cbe533cb2b4c850a6/e4832d4cbe533cb2b4c850a6438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f4d62b029bda2fdf479eefa1/f4d62b029bda2fdf479eefa1438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5344,10 +6751,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/6009943e2b37d5cceaedf379/6009943e2b37d5cceaedf379438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 18",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/de72a48a31ebdde87375cec0/de72a48a31ebdde87375cec0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-5-2021-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/c4d82a9ea6ecf813dbf5b38a/c4d82a9ea6ecf813dbf5b38a438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -5365,10 +6786,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/8268b324a4372ac067ff9bcf/8268b324a4372ac067ff9bcf168.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/ce3f557c26a06699ec707304/ce3f557c26a06699ec707304438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/975a016faea4795b09032f35/975a016faea4795b09032f35438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5379,10 +6814,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/075fbc81533a96fb2087fac6/075fbc81533a96fb2087fac6168.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/fc2945797fa4e8090d2b1b38/fc2945797fa4e8090d2b1b38438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/fa41f3a9502b2df828d0b3c0/fa41f3a9502b2df828d0b3c0438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5393,10 +6842,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a94f83061f67d5493188f60e/a94f83061f67d5493188f60e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/03def6c2ad6bbf2a07d44349/03def6c2ad6bbf2a07d44349438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/68eedeafaab67245839d9abe/68eedeafaab67245839d9abe438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5407,10 +6870,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/cf9a31540bf6ddab9158eccd/cf9a31540bf6ddab9158eccd438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/c7b324e64c62f7d81ccba00c/c7b324e64c62f7d81ccba00c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0a00f4dd68b50986e0c1f451/0a00f4dd68b50986e0c1f451438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5421,10 +6898,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/14657e021309ef57e4ad5f79/14657e021309ef57e4ad5f79438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/06bf02b2d8d9891f6fc8b8fb/06bf02b2d8d9891f6fc8b8fb438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f42c71726c5d0fc7cdc4f4b2/f42c71726c5d0fc7cdc4f4b2438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5435,10 +6926,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/8b1ffb3aa5fb1c8b5948df46/8b1ffb3aa5fb1c8b5948df46438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/fc1625fcaa20a8fe28917304/fc1625fcaa20a8fe28917304438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/19f4317ff57f5e2bafd7d703/19f4317ff57f5e2bafd7d703438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5449,10 +6954,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/88682db0c948ea3153d680ed/88682db0c948ea3153d680ed438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 14",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/529127a005948f7d8858e93d/529127a005948f7d8858e93d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b20b2b9034d576af05fa9b6a/b20b2b9034d576af05fa9b6a438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5463,10 +6982,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/408a502ba93f6a9d7f1a499e/408a502ba93f6a9d7f1a499e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 16",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/622002ae9f815aedc68ee5f9/622002ae9f815aedc68ee5f9438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f68c9f17cabd5dab8586162c/f68c9f17cabd5dab8586162c438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5477,10 +7010,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/654d7c280e068198c0665983/654d7c280e068198c0665983438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 18",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/4253b25af5dec2ef3240af8d/4253b25af5dec2ef3240af8d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/newplaylist/75bca49562b11237cd0cee55/75bca49562b11237cd0cee55.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5491,10 +7038,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d4769bd471fab7db2fd32c1f/d4769bd471fab7db2fd32c1f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 20",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/d930ce2dae9374f05e2e5261/d930ce2dae9374f05e2e5261438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Good-Doctor-Season-4-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/fd1cfb8f58ca8fdbb1540353/fd1cfb8f58ca8fdbb1540353438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -5512,10 +7073,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/e960fa92e9c839fc40ae2169e04963d7/e960fa92e9c839fc40ae2169e04963d7.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/efacbd6447ad2dfe0bde0b125d819c94/efacbd6447ad2dfe0bde0b125d819c94.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/6e643e06e3faaa6adf913977e0df9da1/6e643e06e3faaa6adf913977e0df9da1.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5526,10 +7101,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/98d7f751acda104008303a94e247be2f/98d7f751acda104008303a94e247be2f.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/4e0ebe88b97bcbbe203f54011700b492/4e0ebe88b97bcbbe203f54011700b492.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/baa75a042567d4d1993944baad4f26aa/baa75a042567d4d1993944baad4f26aa.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5540,10 +7129,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/6bfdf44ac2b217d375567816c777ca1e/6bfdf44ac2b217d375567816c777ca1e.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/635bb699aaa75bc99a537af9b2881f93/635bb699aaa75bc99a537af9b2881f93.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/123672ebb9c786757cb1f5045bf1e156/123672ebb9c786757cb1f5045bf1e156.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5554,10 +7157,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d93c1ee5b8e7e16677aecfd5/d93c1ee5b8e7e16677aecfd5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/60b337a43ddb958e4705c72466f46498/60b337a43ddb958e4705c72466f46498.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/ad3bd3149c37b3a6648060ecf779c560/ad3bd3149c37b3a6648060ecf779c560.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5568,10 +7185,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/2dff09b519564be8494f1e0bfa22330e/2dff09b519564be8494f1e0bfa22330e.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/28f8572d257abc69d1b83d2f73ff8fff/28f8572d257abc69d1b83d2f73ff8fff.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/d3d59d70c184c49a2f64fc69babed638/d3d59d70c184c49a2f64fc69babed638.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5582,10 +7213,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/ac6f2d2db6da770b4eed15bf1f854f28/ac6f2d2db6da770b4eed15bf1f854f28.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/1381e170c07103623395636cd62cbfb0/1381e170c07103623395636cd62cbfb0.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/6a0631d55dd4b42cfe40f668a66062ae/6a0631d55dd4b42cfe40f668a66062ae.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5596,10 +7241,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/bb2980cdf94e027a4703e1e5/bb2980cdf94e027a4703e1e5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 14",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/6e1ec6901ee94836355033c7229f2686/6e1ec6901ee94836355033c7229f2686.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/891e9100729492129f261c1a312ec6cc/891e9100729492129f261c1a312ec6cc.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5610,10 +7269,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/18c25914f53d4eeaea5bc9a93d6aee8a/18c25914f53d4eeaea5bc9a93d6aee8a.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 16",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/d572951ae6ae73c889074814ee1cfdb4/d572951ae6ae73c889074814ee1cfdb4.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/f928b109ca3f8f6c1785012f277d5dd9/f928b109ca3f8f6c1785012f277d5dd9.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5624,10 +7297,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/0c0b5b7a970385632993bb429f0d9c63/0c0b5b7a970385632993bb429f0d9c63.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 18",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/7a61a15b12eddb34d2631bb6/7a61a15b12eddb34d2631bb6438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/56fb0ed780f8bd96631f2adf/56fb0ed780f8bd96631f2adf438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5638,10 +7325,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/53bdd30cfa8bb81bc1d6b51b77703398/53bdd30cfa8bb81bc1d6b51b77703398.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 20",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/c275272e3f07cee1c2b2a794/c275272e3f07cee1c2b2a794438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-3-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/241af2a9c374ef805bbfe791be59183a/241af2a9c374ef805bbfe791be59183a.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -5659,10 +7360,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/5ec1044d0a55ab5f3d4fa917/5ec1044d0a55ab5f3d4fa917438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/7a8dd4543a8368b54c76cc3a/7a8dd4543a8368b54c76cc3a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/3db79a6ef81212fb19589c757aa4e8f9/3db79a6ef81212fb19589c757aa4e8f9.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5673,10 +7388,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0c5e960152016680d10beffd/0c5e960152016680d10beffd438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/4286db801e9e8283f3bcae14/4286db801e9e8283f3bcae14438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/11c52c3c67a935da17249530/11c52c3c67a935da17249530438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5687,10 +7416,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/c2c0070813a83fc579840965/c2c0070813a83fc579840965438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/87cd7b1874543c23c72a3bd110b89dab/87cd7b1874543c23c72a3bd110b89dab.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a2497dd3630fca63077a4ac3/a2497dd3630fca63077a4ac3438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5701,10 +7444,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/d67e91c61538ff93fcb95beb1ce16652/d67e91c61538ff93fcb95beb1ce16652.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/4c7ed646bd73ac5514ba086f/4c7ed646bd73ac5514ba086f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/95456149715359d85dec80f7/95456149715359d85dec80f7438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5715,10 +7472,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4a095f07529a38f4cc826f1f/4a095f07529a38f4cc826f1f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/57269101fcc9f0b91d25c928f6d4111a/57269101fcc9f0b91d25c928f6d4111a.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a02607acd220406da334e079/a02607acd220406da334e079438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5729,10 +7500,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d746eb31802aad9c5ee879c5/d746eb31802aad9c5ee879c5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/6e7155a50d7f574c1eca2f01458aac9a/6e7155a50d7f574c1eca2f01458aac9a.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/0592b6aefac76e602be4757c67031ad9/0592b6aefac76e602be4757c67031ad9.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5743,10 +7528,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/7380f7224b656306869c9dce/7380f7224b656306869c9dce438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 14",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/d3735a65d9dc7b2f007a2146/d3735a65d9dc7b2f007a2146438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/43c5705097dc08961b0d36019854004f/43c5705097dc08961b0d36019854004f.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5757,10 +7556,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/3b1a1de452117e76f2adc9f0/3b1a1de452117e76f2adc9f0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 16",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/e54ca54bb2b9b3a065706ecf/e54ca54bb2b9b3a065706ecf438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/2133f55e554d0659c6c31441/2133f55e554d0659c6c31441438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5771,10 +7584,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0838cd5a26ae1299ef57218f/0838cd5a26ae1299ef57218f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 18",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/ad722ec715a47fd4840e219ae738b7c1/ad722ec715a47fd4840e219ae738b7c1.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-Season-2-2018-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/a5be395326b68b2d5c9c5330c39a76c7/a5be395326b68b2d5c9c5330c39a76c7.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -5792,10 +7619,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/56746839352070e52b4f272ba116c777/56746839352070e52b4f272ba116c777.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/63d137a51de7066d29d9c605/63d137a51de7066d29d9c605438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/27a95f1ffa95c8f48fd567e24b956558/27a95f1ffa95c8f48fd567e24b956558.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5806,10 +7647,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e48729de2df3e0e16ed344b0/e48729de2df3e0e16ed344b0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/67a2b19c802ddac9a90a82d7c2b5dddc/67a2b19c802ddac9a90a82d7c2b5dddc.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/4badcbe4272026e8d7b5da7e26f277b3/4badcbe4272026e8d7b5da7e26f277b3.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5820,10 +7675,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a37fe9ce5ae0e4cb33418249/a37fe9ce5ae0e4cb33418249438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/ec7f576e66c2a9adb78166ee/ec7f576e66c2a9adb78166ee438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/435dcf8ec33f904891d173fb/435dcf8ec33f904891d173fb438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5834,10 +7703,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/13f43c4dbab276481734db5d2cf5fae3/13f43c4dbab276481734db5d2cf5fae3.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/41edc2cec20f14c4aa554aa7/41edc2cec20f14c4aa554aa7438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/922e4ee249ae459ba06e2eea20f10b30/922e4ee249ae459ba06e2eea20f10b30.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5848,10 +7731,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/d83ee05db9cfdbe358d05eed565fa86b/d83ee05db9cfdbe358d05eed565fa86b.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/c7c04a82dabe48c91bb363b6/c7c04a82dabe48c91bb363b6438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a6b7c915183fa493381bcaa2/a6b7c915183fa493381bcaa2438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5862,10 +7759,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/45a0a2f387353a9078fbfe9668484427/45a0a2f387353a9078fbfe9668484427.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/834c0834cd7e1ddf363a853d/834c0834cd7e1ddf363a853d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/57d507dec32f0afec79d81c7cee2abe2/57d507dec32f0afec79d81c7cee2abe2.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5876,10 +7787,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/78694ec7044ba1d5f6106fc2/78694ec7044ba1d5f6106fc2438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 14",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/151768bd3df04741f8a3e8a2/151768bd3df04741f8a3e8a2438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/ef56f37601cbe3ca6df73cb8/ef56f37601cbe3ca6df73cb8438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5890,10 +7815,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d6e861c29deba8476aa0694c/d6e861c29deba8476aa0694c168.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 16",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/22d8e1411337172e977a39b4d2ecb176/22d8e1411337172e977a39b4d2ecb176.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9362b6c3027f02b2a7e5ca10/9362b6c3027f02b2a7e5ca10438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5904,10 +7843,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f5cc5d26f8c0674417f2bfeb/f5cc5d26f8c0674417f2bfeb438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 18",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/640359002ea6dd6f9384097e/640359002ea6dd6f9384097e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Good-Doctor-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/51eedaba557819931999c376/51eedaba557819931999c376168.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]

@@ -1,9 +1,166 @@
 {
   "name": "หนังภาคต่อ",
-  "author": "อุ๋ง อุ๋ง อัพวันที่ 25 กันยายน 2566",
+  "author": "อุ๋ง อุ๋ง อัพวันที่ 30 กันยายน 2566",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
+    {
+      "name": "Street Flow (2019) ทางแยก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Street-Flow-2019-ทางแยก-300x450.jpg",
+      "stations": [
+        {
+          "name": "Street Flow ภาค 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Street-Flow-2019-ทางแยก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/9bd13b15e66dab8aef20ff02/9bd13b15e66dab8aef20ff02438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Street Flow ภาค 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Street-Flow-2019-ทางแยก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/ad99f69d507f597e9964e911/ad99f69d507f597e9964e911438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Street Flow ภาค 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Street-Flow-2019-ทางแยก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/532348145020dd1fb44ee886/532348145020dd1fb44ee886438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Street Flow ภาค 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Street-Flow-2019-ทางแยก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/fa52331de3b53deb567b846c/fa52331de3b53deb567b846c438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Nun (2018) เดอะ นัน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Nun-2018-เดอะ-นัน-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Nun ภาค 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Nun-2018-เดอะ-นัน-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/33e93477335e56275597252a/33e93477335e56275597252a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Nun ภาค 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/The-Nun-2018-เดอะ-นัน-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/ff80e054bf24de2ac23d440d/ff80e054bf24de2ac23d440d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Equalizer (2014) มัจจุราชไร้เงา",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Equalizer-2014-มัจจุราชไร้เงา-300x450.png",
+      "stations": [
+        {
+          "name": "The Equalizer 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Equalizer-2014-มัจจุราชไร้เงา-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/92a1aaff638cdc7395ca89e0e3b15ed2/92a1aaff638cdc7395ca89e0e3b15ed2.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Equalizer 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Equalizer-2014-มัจจุราชไร้เงา-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/0a27f8dc0899bdd594f6c70056f2d3ee/0a27f8dc0899bdd594f6c70056f2d3ee.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Equalizer 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Equalizer-2014-มัจจุราชไร้เงา-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/457e53f02fdcf7abfb07467e70aafad1/457e53f02fdcf7abfb07467e70aafad1.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Equalizer 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Equalizer-2014-มัจจุราชไร้เงา-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/3ff30871c4896ea5dab8ca3154473286/3ff30871c4896ea5dab8ca3154473286.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Equalizer ภาค 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Equalizer-2014-มัจจุราชไร้เงา-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/d559d767403203a27bafc111/d559d767403203a27bafc111438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Death Note (2006) สมุดโน๊ตกระชากวิญญาณ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
+      "stations": [
+        {
+          "name": "Death Note ภาค 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/e8821e5c1ad6930210bcf455/e8821e5c1ad6930210bcf455438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Death Note ภาค 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/224236eb9b677dde3685223c/224236eb9b677dde3685223c438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Death Note ภาค 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/7885833747e0d90202a40fb7/7885833747e0d90202a40fb7438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Death Note ภาค 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/e490b6b9aba3b538fd4f2913/e490b6b9aba3b538fd4f2913438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Death Note ภาค 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/408d934eb42ec5c2aee80b6e/408d934eb42ec5c2aee80b6e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Death Note ภาค 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/8c20d80e26ed842b9e9aab2e/8c20d80e26ed842b9e9aab2e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Death Note ภาค 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/7808b82ad84b9d208b99b94d/7808b82ad84b9d208b99b94d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Death Note ภาค 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/acaaa0a60d4b9aa1f424055d/acaaa0a60d4b9aa1f424055d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
     {
       "name": "The Wandering Earth (2019) ปฏิบัติการฝ่าสุริยะ",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/06/The-Wandering-Earth-2019-ปฏิบัติการฝ่าสุริยะ-300x450.jpg",
@@ -74,7 +231,7 @@
           "name": "The Expendables ภาค 3",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Expendables-2010-โครตคนทีมมหากาฬ-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/863db974030c9c1920422460/863db974030c9c1920422460.m3u8",
+          "url": "https://main.77player.xyz/m3u8/863db974030c9c1920422460/863db974030c9c1920422460438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -82,47 +239,6 @@
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Expendables-2010-โครตคนทีมมหากาฬ-300x450.jpg",
           "url": "https://main.77player.xyz/m3u8/7d5693e670ea98e3bbb1e9a7/7d5693e670ea98e3bbb1e9a7438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "The Equalizer (2014) มัจจุราชไร้เงา",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Equalizer-2014-มัจจุราชไร้เงา-300x450.png",
-      "stations": [
-        {
-          "name": "The Equalizer 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Equalizer-2014-มัจจุราชไร้เงา-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/92a1aaff638cdc7395ca89e0e3b15ed2/92a1aaff638cdc7395ca89e0e3b15ed2.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Equalizer 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Equalizer-2014-มัจจุราชไร้เงา-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/0a27f8dc0899bdd594f6c70056f2d3ee/0a27f8dc0899bdd594f6c70056f2d3ee.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Equalizer 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Equalizer-2014-มัจจุราชไร้เงา-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/457e53f02fdcf7abfb07467e70aafad1/457e53f02fdcf7abfb07467e70aafad1.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Equalizer 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Equalizer-2014-มัจจุราชไร้เงา-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/3ff30871c4896ea5dab8ca3154473286/3ff30871c4896ea5dab8ca3154473286.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Equalizer ภาค 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Equalizer-2014-มัจจุราชไร้เงา-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/d559d767403203a27bafc111/d559d767403203a27bafc111438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -428,7 +544,7 @@
           "name": "Kumanthong ภาค 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/01/Kumanthong-2019-กุมารทอง-ราคะ-เฮี้ยน-300x450.png",
-          "url": "https://main.77player.xyz/newplaylist/a6871cc1e0825ee757b9b9a8/a6871cc1e0825ee757b9b9a8.m3u8",
+          "url": "https://main.77player.xyz/m3u8/a6871cc1e0825ee757b9b9a8/a6871cc1e0825ee757b9b9a8438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -2624,7 +2740,7 @@
           "name": "Urban Legend ภาค 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/01/Urban-Legend-1998-ปลุกตำนานโหด-มหาลัยสยอง.jpg",
-          "url": "https://main.77player.xyz/newplaylist/432ace384e063815a5fafad1/432ace384e063815a5fafad1.m3u8",
+          "url": "https://main.77player.xyz/m3u8/432ace384e063815a5fafad1/432ace384e063815a5fafad1438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -3255,7 +3371,7 @@
           "name": "Kill Bill Vol 2",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Kill-Bill-Vol-1-2003-นางฟ้าซามูไร-300x450.png",
-          "url": "https://main.77player.xyz/newplaylist/d4ef6ccc9c93e23d3c59b3d2/d4ef6ccc9c93e23d3c59b3d2.m3u8",
+          "url": "https://main.77player.xyz/m3u8/d4ef6ccc9c93e23d3c59b3d2/d4ef6ccc9c93e23d3c59b3d2438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3607,7 +3723,7 @@
           "name": "Overlord The Movie ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Overlord-The-Undead-King-2017-โอเวอร์-ลอร์ด-จอมมารพิชิตโลก-เดอะ-มูฟวี่-1-300x450.png",
-          "url": "https://main.77player.xyz/newplaylist/681ba49d5ae3d78cc4a717d0/681ba49d5ae3d78cc4a717d0.m3u8",
+          "url": "https://main.77player.xyz/m3u8/681ba49d5ae3d78cc4a717d0/681ba49d5ae3d78cc4a717d0438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -4709,6 +4825,40 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Skulls-3-2004-องค์กรลับกระโหลกเหล็ก-3-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/3c5f984aa7fcea906c8a19cbaf7c5d13/3c5f984aa7fcea906c8a19cbaf7c5d13.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Skulls (2000) องค์กรลับกระโหลก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Skulls-2000-องค์กรลับกระโหลก-300x450.png",
+      "stations": [
+        {
+          "name": "The Skulls 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Skulls-2000-องค์กรลับกระโหลก-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/d340ffd2a086f1809c365e1ae88d76a9/d340ffd2a086f1809c365e1ae88d76a9.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Skulls 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Skulls-2000-องค์กรลับกระโหลก-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/8a493ffa596401c8a336694c8999c4f6/8a493ffa596401c8a336694c8999c4f6.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Skulls 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Skulls-2000-องค์กรลับกระโหลก-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/4f22219f74451cd92869f228/4f22219f74451cd92869f228438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Skulls 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/The-Skulls-2000-องค์กรลับกระโหลก-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/894440f4502db3dc7442163e0b709af2/894440f4502db3dc7442163e0b709af2.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -6616,6 +6766,11 @@
       ]
     },
     {
+      "name": "Bad Boys for Life (2020) คู่หูขวางนรก ตลอดกาล",
+      "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Bad-Boys-for-Life-2020-คู่หูขวางนรก-ตลอดกาล-250x350.png",
+      "stations": []
+    },
+    {
       "name": "The Angry Birds Movie (2016) แองกรีเบิร์ดส เดอะ มูฟวี่",
       "image": "https://www.123-hd.com/wp-content/uploads/2020/02/The-Angry-Birds-Movie-2016-แองกรีเบิร์ดส-เดอะ-มูฟวี่-300x450.png",
       "stations": [
@@ -6645,6 +6800,26 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2020/02/The-Angry-Birds-Movie-2016-แองกรีเบิร์ดส-เดอะ-มูฟวี่-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/2d2ef0ecec54ca6c77780ca88f6c6af1/2d2ef0ecec54ca6c77780ca88f6c6af1.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Rambo 5 Last Blood (2019) แรมโบ้ 5 นักรบคนสุดท้าย ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2020/02/Rambo-5-Last-Blood-2019-แรมโบ้-5-นักรบคนสุดท้าย-250x350.png",
+      "stations": [
+        {
+          "name": "Rambo 5 Last Blood (2019) แรมโบ้ 5 นักรบคนสุดท้าย ",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/02/Rambo-5-Last-Blood-2019-แรมโบ้-5-นักรบคนสุดท้าย-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/2fa238c883adfe458fae1139467911c0/2fa238c883adfe458fae1139467911c0.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Rambo 5 Last Blood (2019) แรมโบ้ 5 นักรบคนสุดท้าย ",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2020/02/Rambo-5-Last-Blood-2019-แรมโบ้-5-นักรบคนสุดท้าย-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/a5cb26bcb254b94700aaa5f2614a4744/a5cb26bcb254b94700aaa5f2614a4744.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -6771,6 +6946,16 @@
       ]
     },
     {
+      "name": "Jarhead 1 จาร์เฮด พลระห่ำ สงครามนรก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Jarhead-1-2005-จาร์เฮด-พลระห่ำ-สงครามนรก-250x350.png",
+      "stations": []
+    },
+    {
+      "name": "Jack Reacher 2 Never Go Back (2016) ยอดคนสืบระห่ำ 2",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Jack-Reacher-2-Never-Go-Back-2016-ยอดคนสืบระห่ำ-2-250x350.png",
+      "stations": []
+    },
+    {
       "name": "Jack Reacher (2012) แจ็ค รีชเชอร์ ยอดคนสืบระห่ำ",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Jack-Reacher-2012-แจ็ค-รีชเชอร์-ยอดคนสืบระห่ำ-250x350.png",
       "stations": [
@@ -6803,6 +6988,64 @@
           "referer": "https://www.123-hd.com/"
         }
       ]
+    },
+    {
+      "name": "The Maze Runner (2014) วงกตมฤตยู ภาค 1",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Maze-Runner-2014-วงกตมฤตยู-ภาค-1-250x350.png",
+      "stations": [
+        {
+          "name": "The Maze Runner ภาค 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Maze-Runner-2014-วงกตมฤตยู-ภาค-1-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/bbaa55ae94a48f8e567e1dace38c7124/bbaa55ae94a48f8e567e1dace38c7124.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Maze Runner ภาค 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Maze-Runner-2014-วงกตมฤตยู-ภาค-1-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/05a7497c7266505299e195cf07509be0/05a7497c7266505299e195cf07509be0.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Maze Runner ภาค 2 The Scorch Trials",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Maze-Runner-2014-วงกตมฤตยู-ภาค-1-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/5da8ed9cea1e524bc3b7dde4e2ccc191/5da8ed9cea1e524bc3b7dde4e2ccc191.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Maze Runner ภาค 2 The Scorch Trials",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Maze-Runner-2014-วงกตมฤตยู-ภาค-1-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/a050c6d9a0b097261741e4626eb148fd/a050c6d9a0b097261741e4626eb148fd.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Maze Runner ภาค 3 The Death Cure",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Maze-Runner-2014-วงกตมฤตยู-ภาค-1-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/1c144b34bec282f579b8015ee2a67563/1c144b34bec282f579b8015ee2a67563.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Maze Runner ภาค 3 The Death Cure",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Maze-Runner-2014-วงกตมฤตยู-ภาค-1-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/0bffd68970025c4aaad1fcf0ce91e89b/0bffd68970025c4aaad1fcf0ce91e89b.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Terminator 3 Rise Of The Machines คนเหล็ก 3 กำเนิดใหม่เครื่องจักรสังหาร",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Terminator-3-Rise-Of-The-Machines-2003-คนเหล็ก-3-กำเนิดใหม่เครื่องจักรสังหาร-250x350.png",
+      "stations": []
+    },
+    {
+      "name": "The Terminator 1 คนเหล็ก 1",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Terminator-1-1984-คนเหล็ก-1-250x350.png",
+      "stations": []
     },
     {
       "name": "The Hunger Games (2012) ฮังเกอร์เกมส์ ภาค 1",
@@ -6862,6 +7105,82 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Hunger-Games-2012-ฮังเกอร์เกมส์-ภาค-1-250x350.png",
           "url": "https://xxx.77player.xyz/ioshls/a03a89f25a497637b6f8415979cefb8e/a03a89f25a497637b6f8415979cefb8e.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Pirates of the Caribbean 1 คืนชีพกองทัพโจรสลัดสยองโลก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-1-The-Curse-of-The-Black-Pearl-2003-คืนชีพกองทัพโจรสลัดสยองโลก-250x350.png",
+      "stations": [
+        {
+          "name": "Pirates of the Caribbean ภาค 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-1-The-Curse-of-The-Black-Pearl-2003-คืนชีพกองทัพโจรสลัดสยองโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/bab136a0b215310049cf93eeb4c028af/bab136a0b215310049cf93eeb4c028af.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Pirates of the Caribbean ภาค 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-1-The-Curse-of-The-Black-Pearl-2003-คืนชีพกองทัพโจรสลัดสยองโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/9d9e97d91854d163843506478d9a6613/9d9e97d91854d163843506478d9a6613.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Pirates of the Caribbean ภาค 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-1-The-Curse-of-The-Black-Pearl-2003-คืนชีพกองทัพโจรสลัดสยองโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/0df2e32d8cd79423b3814007f7e9cd7e/0df2e32d8cd79423b3814007f7e9cd7e.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Pirates of the Caribbean ภาค 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-1-The-Curse-of-The-Black-Pearl-2003-คืนชีพกองทัพโจรสลัดสยองโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/8f63b2d7aac35217bfbbc6c35e4e2f89/8f63b2d7aac35217bfbbc6c35e4e2f89.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Pirates of the Caribbean ภาค 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-1-The-Curse-of-The-Black-Pearl-2003-คืนชีพกองทัพโจรสลัดสยองโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/5e0cf1e4c9091e0ea32d20ac34a08b0f/5e0cf1e4c9091e0ea32d20ac34a08b0f.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Pirates of the Caribbean ภาค 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-1-The-Curse-of-The-Black-Pearl-2003-คืนชีพกองทัพโจรสลัดสยองโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/5fdbb2b280870e4fc8c5f3a169f253b7/5fdbb2b280870e4fc8c5f3a169f253b7.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Pirates of the Caribbean ภาค 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-1-The-Curse-of-The-Black-Pearl-2003-คืนชีพกองทัพโจรสลัดสยองโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/0aaad499b377ca8eb74badd24aee4001/0aaad499b377ca8eb74badd24aee4001.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Pirates of the Caribbean ภาค 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-1-The-Curse-of-The-Black-Pearl-2003-คืนชีพกองทัพโจรสลัดสยองโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/d8e273c3b69d7dcdc4a712f77a655a21/d8e273c3b69d7dcdc4a712f77a655a21.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Pirates of the Caribbean ภาค 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-1-The-Curse-of-The-Black-Pearl-2003-คืนชีพกองทัพโจรสลัดสยองโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/d8674b8f77219228241b8d8c31be5d28/d8674b8f77219228241b8d8c31be5d28.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Pirates of the Caribbean ภาค 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-1-The-Curse-of-The-Black-Pearl-2003-คืนชีพกองทัพโจรสลัดสยองโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/c2ce815e515e18e3246d836c5effb082/c2ce815e515e18e3246d836c5effb082.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -7019,6 +7338,26 @@
       ]
     },
     {
+      "name": "Jason Bourne (2016) เจสัน บอร์น ยอดจารชนคนอันตราย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Jason-Bourne-2016-เจสัน-บอร์น-ยอดจารชนคนอันตราย-250x350.png",
+      "stations": []
+    },
+    {
+      "name": "The Bourne Legacy (2012) พลิกแผนล่ายอดจารชน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Bourne-Legacy-2012-พลิกแผนล่ายอดจารชน-250x350.png",
+      "stations": []
+    },
+    {
+      "name": "The Bourne Ultimatum ปิดเกมล่าจารชน คนอันตราย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Bourne-Ultimatum-2007-ปิดเกมล่าจารชน-คนอันตราย-250x350.png",
+      "stations": []
+    },
+    {
+      "name": "The Bourne Supremacy สุดยอดเกมล่าจารชน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Bourne-Supremacy-2004-สุดยอดเกมล่าจารชน-250x350.png",
+      "stations": []
+    },
+    {
       "name": "The Bourne Identity ล่าจารชน ยอดคนอันตราย",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Bourne-Identity-2002-ล่าจารชน-ยอดคนอันตราย-250x350.png",
       "stations": [
@@ -7157,6 +7496,26 @@
       ]
     },
     {
+      "name": "Spider Man 2 ไอ้แมงมุม สไปเดอร์แมน 2",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Spider-Man-2-2004-ไอ้แมงมุม-สไปเดอร์แมน-2-250x350.png",
+      "stations": []
+    },
+    {
+      "name": "Spider Man ไอ้แมงมุม สไปเดอร์แมน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Spider-Man-2002-ไอ้แมงมุม-สไปเดอร์แมน-250x350.png",
+      "stations": []
+    },
+    {
+      "name": "The Hobbit 3 (2014) เดอะ ฮอบบิท 3 สงคราม 5 ทัพ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Hobbit-3-2014-เดอะ-ฮอบบิท-3-สงคราม-5-ทัพ-250x350.png",
+      "stations": []
+    },
+    {
+      "name": "The Hobbit 1 (2012) เดอะ ฮอบบิท 1 การผจญภัยสุดคาดคิด",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Hobbit-1-2012-เดอะ-ฮอบบิท-1-การผจญภัยสุดคาดคิด-250x350.png",
+      "stations": []
+    },
+    {
       "name": "The Lord of the Rings 1 อภินิหารแหวนครองพิภพ",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Lord-of-the-Rings-1-2001-อภินิหารแหวนครองพิภพ-250x350.png",
       "stations": [
@@ -7242,6 +7601,162 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Lord-of-the-Rings-1-2001-อภินิหารแหวนครองพิภพ-250x350.png",
           "url": "https://xxx.77player.xyz/ioshls/20805ae346a34e24da22ccdaeaf271d5/20805ae346a34e24da22ccdaeaf271d5.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Logan (2017) โลแกน เดอะ วูล์ฟเวอรีน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Logan-2017-โลแกน-เดอะ-วูล์ฟเวอรีน-250x350.png",
+      "stations": []
+    },
+    {
+      "name": "X-Men 2 ศึกมนุษย์พลังเหนือโลก 2",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-2-2003-ศึกมนุษย์พลังเหนือโลก-2-250x350.png",
+      "stations": []
+    },
+    {
+      "name": "X-Men 1 ศึกมนุษย์พลังเหนือโลก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+      "stations": [
+        {
+          "name": "Xmen ภาค 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/92fa028c964a8df58403a92387e626f1/92fa028c964a8df58403a92387e626f1.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Xmen ภาค 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/827edacd60f3e1f0af18130180f7e832/827edacd60f3e1f0af18130180f7e832.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Xmen ภาค 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/002e10ffee11efb6826bc41f44d0c758/002e10ffee11efb6826bc41f44d0c758.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Xmen ภาค 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/55c2186a942868c3b1df46055227e8cc/55c2186a942868c3b1df46055227e8cc.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "X-Men 3 The Last Stand",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/d70b2af43ebcb1257f3535d186370b38/d70b2af43ebcb1257f3535d186370b38.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "X-Men 3 The Last Stand",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/a73e16b9922d9437d4bf91c604beda5c/a73e16b9922d9437d4bf91c604beda5c.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "X-Men 4 Origins Wolverine",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/a55d39e0bb9d454b6b7c5dcd450b3ec7/a55d39e0bb9d454b6b7c5dcd450b3ec7.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "X-Men 4 Origins Wolverine",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/8ea82aaa540c664d0ab42bb045c7eaf4/8ea82aaa540c664d0ab42bb045c7eaf4.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "X-Men 5 First Class",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/a5ee153ac2a858d89f28c97336adaa95/a5ee153ac2a858d89f28c97336adaa95.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "X-Men 5 First Class",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/29555a355993f27c46fc691243d4d23c/29555a355993f27c46fc691243d4d23c.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Wolverine",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/0197685ce6ebcb1467416c222c7e5467/0197685ce6ebcb1467416c222c7e5467.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Wolverine",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/9e1f96638b48b4064b6a1a837b471350/9e1f96638b48b4064b6a1a837b471350.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "X-Men 7 Days of Future Past",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/d67d8dcbd2bfe1ac9948f982eb937286/d67d8dcbd2bfe1ac9948f982eb937286.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "X-Men 7 Days of Future Past",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/973f5754ebc22f4add1c308f2beae9ae/973f5754ebc22f4add1c308f2beae9ae.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "X-Men Apocalypse",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/10704f5788b304dbf9c3b5601bcfa035/10704f5788b304dbf9c3b5601bcfa035.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "X-Men Apocalypse",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/41c1d311d16f98537443b365972c8242/41c1d311d16f98537443b365972c8242.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Logan โลแกน เดอะ วูล์ฟเวอรีน",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/9756dcd4b062f87e00cce7b4e65f1ded/9756dcd4b062f87e00cce7b4e65f1ded.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Logan โลแกน เดอะ วูล์ฟเวอรีน",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/218cb822e8a10428841bc09317001f00/218cb822e8a10428841bc09317001f00.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "X-Men Dark Phoenix",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/8a3baf4cc237248387582e5ba25ffb3d/8a3baf4cc237248387582e5ba25ffb3d.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "X-Men Dark Phoenix",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/e599ffc250edb65bf51f1e234a989ac9/e599ffc250edb65bf51f1e234a989ac9.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -7701,6 +8216,11 @@
       ]
     },
     {
+      "name": "Captain America (2011) กัปตันอเมริกา 1",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Captain-America-2011-กัปตันอเมริกา-1-250x350.png",
+      "stations": []
+    },
+    {
       "name": "The Incredible Hulk (2008) เดอะฮัค มนุษย์ตัวเขียวจอมพลัง",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Incredible-Hulk-2008-เดอะฮัค-มนุษย์ตัวเขียวจอมพลัง-250x350.png",
       "stations": [
@@ -7817,6 +8337,11 @@
       ]
     },
     {
+      "name": "Fast and Furious 5 (2011) เร็ว แรงทะลุนรก 5",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Fast-and-Furious-5-2011-เร็ว-แรงทะลุนรก-5-250x350.png",
+      "stations": []
+    },
+    {
       "name": "The Fast And Furious 1 เร็วแรงทะลุนรก 1",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Fast-And-Furious-1-2001-เร็วแรงทะลุนรก-1-250x350.png",
       "stations": [
@@ -7930,124 +8455,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Fast-And-Furious-1-2001-เร็วแรงทะลุนรก-1-250x350.png",
           "url": "https://xxx.77player.xyz/ioshls/90bb893e9faf3b1528a8cc3ce746034e/90bb893e9faf3b1528a8cc3ce746034e.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Harry Potter 1 แฮร์รี่ พอตเตอร์ ภาค 1 กับศิลาอาถรรพ์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-1-And-The-Sorcerer-s-Stone-2001-แฮร์รี่-พอตเตอร์-1-กับศิลาอาถรรพ์-250x350.png",
-      "stations": [
-        {
-          "name": "Harry Potter 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-1-And-The-Sorcerer-s-Stone-2001-แฮร์รี่-พอตเตอร์-1-กับศิลาอาถรรพ์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/a28011b6c9f44cc1d1d7b08f2e6ec56b/a28011b6c9f44cc1d1d7b08f2e6ec56b.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Harry Potter 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-1-And-The-Sorcerer-s-Stone-2001-แฮร์รี่-พอตเตอร์-1-กับศิลาอาถรรพ์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/22121e89106c5f633ab2c0652da5cc36/22121e89106c5f633ab2c0652da5cc36.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Harry Potter 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-1-And-The-Sorcerer-s-Stone-2001-แฮร์รี่-พอตเตอร์-1-กับศิลาอาถรรพ์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/a07a27417876cd190d25c48fa8489f84/a07a27417876cd190d25c48fa8489f84.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Harry Potter 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-1-And-The-Sorcerer-s-Stone-2001-แฮร์รี่-พอตเตอร์-1-กับศิลาอาถรรพ์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/d0c021c00097e4592438b53e8cca6b45/d0c021c00097e4592438b53e8cca6b45.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Harry Potter 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-1-And-The-Sorcerer-s-Stone-2001-แฮร์รี่-พอตเตอร์-1-กับศิลาอาถรรพ์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/3ae3d7631ace57f8702b92ee4fd5cc0f/3ae3d7631ace57f8702b92ee4fd5cc0f.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Harry Potter 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-1-And-The-Sorcerer-s-Stone-2001-แฮร์รี่-พอตเตอร์-1-กับศิลาอาถรรพ์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/6d7604431c8bf28597f3d126a0e05dbf/6d7604431c8bf28597f3d126a0e05dbf.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Harry Potter 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-1-And-The-Sorcerer-s-Stone-2001-แฮร์รี่-พอตเตอร์-1-กับศิลาอาถรรพ์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/6139d2db6756c6525baa17e7e16114cd/6139d2db6756c6525baa17e7e16114cd.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Harry Potter 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-1-And-The-Sorcerer-s-Stone-2001-แฮร์รี่-พอตเตอร์-1-กับศิลาอาถรรพ์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/d1461635d3f4ac3c2486ceb731e46236/d1461635d3f4ac3c2486ceb731e46236.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Harry Potter 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-1-And-The-Sorcerer-s-Stone-2001-แฮร์รี่-พอตเตอร์-1-กับศิลาอาถรรพ์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/dbff8506aea2a8fa70c49ddb350a72af/dbff8506aea2a8fa70c49ddb350a72af.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Harry Potter 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-1-And-The-Sorcerer-s-Stone-2001-แฮร์รี่-พอตเตอร์-1-กับศิลาอาถรรพ์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/ba014060bc472240be8661a4dd4e7536/ba014060bc472240be8661a4dd4e7536.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Harry Potter 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-1-And-The-Sorcerer-s-Stone-2001-แฮร์รี่-พอตเตอร์-1-กับศิลาอาถรรพ์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/41a730a5578b8cc236b455fb1f60b819/41a730a5578b8cc236b455fb1f60b819.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Harry Potter 6",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-1-And-The-Sorcerer-s-Stone-2001-แฮร์รี่-พอตเตอร์-1-กับศิลาอาถรรพ์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/cb28bda711dedf6c2471dfb474672ea4/cb28bda711dedf6c2471dfb474672ea4.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Harry Potter 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-1-And-The-Sorcerer-s-Stone-2001-แฮร์รี่-พอตเตอร์-1-กับศิลาอาถรรพ์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/92df000ad67f6f21b3e064bba533c1e4/92df000ad67f6f21b3e064bba533c1e4.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Harry Potter 7",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-1-And-The-Sorcerer-s-Stone-2001-แฮร์รี่-พอตเตอร์-1-กับศิลาอาถรรพ์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/bd7acdff9cf3868fa4051dac511cf3b3/bd7acdff9cf3868fa4051dac511cf3b3.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Harry Potter 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-1-And-The-Sorcerer-s-Stone-2001-แฮร์รี่-พอตเตอร์-1-กับศิลาอาถรรพ์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/fd5640b137319aa3c139eb4d08de62c2/fd5640b137319aa3c139eb4d08de62c2.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Harry Potter 8",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-1-And-The-Sorcerer-s-Stone-2001-แฮร์รี่-พอตเตอร์-1-กับศิลาอาถรรพ์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/dcdbc3e67647be1413c24e68cca4f3ae/dcdbc3e67647be1413c24e68cca4f3ae.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]

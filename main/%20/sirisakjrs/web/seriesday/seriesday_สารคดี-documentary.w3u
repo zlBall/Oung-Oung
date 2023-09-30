@@ -1,6 +1,6 @@
 {
  "name": "สารคดี Documentary",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 19 กันยายน 2566",
+ "author": "อุ๋ง อุ๋ง อัพวันที่ 30 กันยายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
  "groups": [
@@ -185,6 +185,13 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Arnold-2023-อาร์โนลด์-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b0d6af7931f0e167da4b5d41/b0d6af7931f0e167da4b5d41438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Arnold-2023-อาร์โนลด์-187x269.jpg",
@@ -192,10 +199,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Arnold-2023-อาร์โนลด์-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/210ce5a54e17a67e893848f1/210ce5a54e17a67e893848f1438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Arnold-2023-อาร์โนลด์-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/7419fc2ded9f1c8cfd4af7d5/7419fc2ded9f1c8cfd4af7d5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Arnold-2023-อาร์โนลด์-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/ee29e118f8f47bd2a182d722/ee29e118f8f47bd2a182d722438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -262,10 +283,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/In-the-Name-of-God-ศรัทธาลวง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/49a529379e762dbb573bedcb/49a529379e762dbb573bedcb438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/In-the-Name-of-God-ศรัทธาลวง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/4c3e87d26a9f3d005645d946/4c3e87d26a9f3d005645d946438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/In-the-Name-of-God-ศรัทธาลวง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/439c9e79823b1dc7820cf288/439c9e79823b1dc7820cf288438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -276,10 +311,31 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/In-the-Name-of-God-ศรัทธาลวง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0f0ee4dcb7e807eeb9a8d93d/0f0ee4dcb7e807eeb9a8d93d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/In-the-Name-of-God-ศรัทธาลวง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/2ef6330232fdb1f349156dee/2ef6330232fdb1f349156dee438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/In-the-Name-of-God-ศรัทธาลวง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/badaec8ceacda79c547103b7/badaec8ceacda79c547103b7438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/In-the-Name-of-God-ศรัทธาลวง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/db11c656c53b30d06db56537/db11c656c53b30d06db56537438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -290,10 +346,31 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/In-the-Name-of-God-ศรัทธาลวง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/16aa0c885d532bbae1948128/16aa0c885d532bbae1948128438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/In-the-Name-of-God-ศรัทธาลวง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/7dd7b8179b12d2e25f47ac9a/7dd7b8179b12d2e25f47ac9a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/In-the-Name-of-God-ศรัทธาลวง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/0055f231c944a9259ad06b25/0055f231c944a9259ad06b25438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/In-the-Name-of-God-ศรัทธาลวง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9ea5ec8fe6c0e57f8c1d4b1c/9ea5ec8fe6c0e57f8c1d4b1c438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]

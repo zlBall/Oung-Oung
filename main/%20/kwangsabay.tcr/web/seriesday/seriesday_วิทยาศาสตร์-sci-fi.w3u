@@ -1,6 +1,6 @@
 {
  "name": "วิทยาศาสตร์ Sci-fi",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 19 กันยายน 2566",
+ "author": "อุ๋ง อุ๋ง อัพวันที่ 30 กันยายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
  "groups": [
@@ -132,7 +132,7 @@
      "name": "ตอนที่ 7",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/The-100-Season-7-2020-187x269.jpg",
-     "url": "https://main.77player.xyz/newplaylist/f85c17da53d704b14a071d3c/f85c17da53d704b14a071d3c.m3u8",
+     "url": "https://main.77player.xyz/m3u8/f85c17da53d704b14a071d3c/f85c17da53d704b14a071d3c438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1567,7 +1567,7 @@
      "name": "ตอนที่ 7",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Fear-the-Walking-Dead-Season-7-2022-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/2427884812c51be983193703/2427884812c51be983193703438.m3u8",
+     "url": "https://main.77player.xyz/newplaylist/2427884812c51be983193703/2427884812c51be983193703.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1707,7 +1707,7 @@
      "name": "ตอนที่ 10",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Fear-the-Walking-Dead-Season-6-2020-187x269.jpg",
-     "url": "https://main.77player.xyz/newplaylist/46c2239ffe8716ceda1bebc6/46c2239ffe8716ceda1bebc6.m3u8",
+     "url": "https://main.77player.xyz/m3u8/46c2239ffe8716ceda1bebc6/46c2239ffe8716ceda1bebc6438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2029,7 +2029,7 @@
      "name": "ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Fear-the-Walking-Dead-Season-3-2017-ปฐมบทผีไม่ยอมตาย-ซีซั่น-3-187x269.jpg",
-     "url": "https://main.77player.xyz/newplaylist/92abba576efc71447ed761d3/92abba576efc71447ed761d3.m3u8",
+     "url": "https://main.77player.xyz/m3u8/92abba576efc71447ed761d3/92abba576efc71447ed761d3438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2285,10 +2285,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/82e726176f6927d987c3732f/82e726176f6927d987c3732f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/58b6e284eb1dee55a4df4505/58b6e284eb1dee55a4df4505438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/440b061ef6a2760cb1e8d1ce/440b061ef6a2760cb1e8d1ce438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2299,10 +2313,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/918e0a1637cbc56e6dfd0f7e/918e0a1637cbc56e6dfd0f7e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/da38c3fbe557bc7022ed71bb/da38c3fbe557bc7022ed71bb438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4d0d332c52e3c8e4efabde03/4d0d332c52e3c8e4efabde03438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2313,10 +2341,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/09390233fb7d3d454409abf5/09390233fb7d3d454409abf5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/1981fd45b3f5870fdcad7eb7/1981fd45b3f5870fdcad7eb7438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/57cbc6ece04bca6d0d821fc3/57cbc6ece04bca6d0d821fc3438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2327,10 +2369,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/cf8e1da8b5683ca73945438e/cf8e1da8b5683ca73945438e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/7fb10b3e571a9aa990d95519/7fb10b3e571a9aa990d95519438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0f7804256086916cc6a165b3/0f7804256086916cc6a165b3438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2341,10 +2397,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/04e8e8a8484a42b66feebada/04e8e8a8484a42b66feebada438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/2ade40674bcf0f995e63201a/2ade40674bcf0f995e63201a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b9c5bb1981dc63dd241f46f6/b9c5bb1981dc63dd241f46f6438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2355,10 +2425,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/1e6668adaab8cd00253c53cc/1e6668adaab8cd00253c53cc438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/2866e35f8d98944d2c207043/2866e35f8d98944d2c207043438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0609ec26f6eb91c4631f4c2c/0609ec26f6eb91c4631f4c2c438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2369,10 +2453,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/186b4bf875566d9bc4d1fe4c/186b4bf875566d9bc4d1fe4c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 14",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/0ba0f6265d23e1ceeba2e8c6/0ba0f6265d23e1ceeba2e8c6438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/LA-BREA-Season-2-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/c42c575c66ebbbdb41d9b38c/c42c575c66ebbbdb41d9b38c438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -2544,10 +2642,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/837a403cb3c3e44d5021e7eb/837a403cb3c3e44d5021e7eb438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/f3523720035275ae53f06a83/f3523720035275ae53f06a83438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/30766594faad81b42d587d7a/30766594faad81b42d587d7a438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2558,10 +2670,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/31b53dda63d96171ebd60ab4/31b53dda63d96171ebd60ab4438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/5c33f225f0d3967edf128986/5c33f225f0d3967edf128986438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/3af7e3fd654216ca50675ab6/3af7e3fd654216ca50675ab6438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2572,10 +2698,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/fd485e2ec227cb27c2e2a284/fd485e2ec227cb27c2e2a284438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/5fec99d539bc15d1e4dafff3/5fec99d539bc15d1e4dafff3438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/59d5c25b738e1a6d8cedebc4/59d5c25b738e1a6d8cedebc4438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2586,10 +2726,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e7e81d0b9e11265ea13f8fb6/e7e81d0b9e11265ea13f8fb6438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/efcfbcc83f16089cc0026b27/efcfbcc83f16089cc0026b27438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/2200c5c00b0bb8faf8453d7e/2200c5c00b0bb8faf8453d7e438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2600,10 +2754,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a79f9c12bc6f0344fa6a4390/a79f9c12bc6f0344fa6a4390438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/f6ab09319e0d4a99dc2f5096/f6ab09319e0d4a99dc2f5096438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b39d29fd33a47d1e868cc0ca/b39d29fd33a47d1e868cc0ca438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2614,10 +2782,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d9d0f2777d750dec160f708b/d9d0f2777d750dec160f708b438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/62d92499d916448d844f8347/62d92499d916448d844f8347438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0710c2d556bcdc99e7ada445/0710c2d556bcdc99e7ada445438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2628,10 +2810,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/297dc154c9777218ecc68363/297dc154c9777218ecc68363438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 14",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/3dca3aa047365ac4043cd05c/3dca3aa047365ac4043cd05c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/1c0cf3e80109b447abc88eea/1c0cf3e80109b447abc88eea438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2642,10 +2838,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/c1f14880a9b500a51cb62dcb/c1f14880a9b500a51cb62dcb438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 16",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/bdee597d2db4c61a8e490398/bdee597d2db4c61a8e490398438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/93ed92ceb3b913cced9e72a5/93ed92ceb3b913cced9e72a5438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2656,10 +2866,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a7d4667c6bf179234a887fdd/a7d4667c6bf179234a887fdd438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 18",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/c8b98d0fb409ec03f4529b84/c8b98d0fb409ec03f4529b84438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/827013e4133bda7252aa18df/827013e4133bda7252aa18df438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2670,10 +2894,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/2d1e94870c4aac63c923d1ed/2d1e94870c4aac63c923d1ed438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 20",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/7ce91ad70f6ffae4768c7a9e/7ce91ad70f6ffae4768c7a9e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/05e8d206d13af334979aaaf4/05e8d206d13af334979aaaf4438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2684,10 +2922,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 21",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/106f29a36930a4b1432f2b74/106f29a36930a4b1432f2b74438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 22",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/be2a970ddab92c3af87b0939/be2a970ddab92c3af87b0939438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/94f8920aa17eb2005c32aae6/94f8920aa17eb2005c32aae6438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2698,10 +2950,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 23",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/77e37b65488fec57ef203ff6/77e37b65488fec57ef203ff6438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 24",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/fc352bb1d6426c605db3c343/fc352bb1d6426c605db3c343438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/85a172b71c8c2b37ce2b6970/85a172b71c8c2b37ce2b6970438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2712,10 +2978,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 25",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/08b90a25a1001956f968ac91/08b90a25a1001956f968ac91438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 26",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/b0ffeab1b8fd2d60e835a6dc/b0ffeab1b8fd2d60e835a6dc438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4198b66f04177cee7991381c/4198b66f04177cee7991381c438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2726,10 +3006,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 27",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4cc32cb40f11f50594c4c0ce/4cc32cb40f11f50594c4c0ce438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 28",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/0ac03f1eb409083a3ae55912/0ac03f1eb409083a3ae55912438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/91978bf39f86597104be5e71/91978bf39f86597104be5e71438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2740,10 +3034,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 29",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e0e44784e764a74ff335d2e1/e0e44784e764a74ff335d2e1438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 30",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/f8b370c31d65d24925eb9dea/f8b370c31d65d24925eb9dea438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 30",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/87c469a5ffb6c01b70028fef/87c469a5ffb6c01b70028fef438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2754,10 +3062,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 31",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/79b8c199b27c065d232f699f/79b8c199b27c065d232f699f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 32",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/a3312507289011df12cb4c2e/a3312507289011df12cb4c2e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 32",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/93d41c62ca15232b9f4494fa/93d41c62ca15232b9f4494fa438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2768,10 +3090,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 33",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/34fda74d3884ddf62ffa6df1/34fda74d3884ddf62ffa6df1438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 34",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/00bcd179326a608047c9dfb3/00bcd179326a608047c9dfb3438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 34",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/fd3e0e90a0fd10b686d95a73/fd3e0e90a0fd10b686d95a73438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -2782,10 +3118,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 35",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/28f46820feed51e833e6b262/28f46820feed51e833e6b262438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 36",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/f36a012c31a8334d286f6d5a/f36a012c31a8334d286f6d5a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 36",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Tang-Dynasty-Tour-2018-ย้อนเวลามาป่วนวัง-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/6da359a50d8ca83a372e4cbc/6da359a50d8ca83a372e4cbc438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -3030,7 +3380,7 @@
      "name": "ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/The-Rain-2018-เดอะ-เรน-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/71c0aa12a6566e476f9a0544/71c0aa12a6566e476f9a0544438.m3u8",
+     "url": "https://main.77player.xyz/newplaylist/71c0aa12a6566e476f9a0544/71c0aa12a6566e476f9a0544.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3097,10 +3447,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-4-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/6b595abb212f34d7cdf7111a/6b595abb212f34d7cdf7111a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-4-2017-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/36bd0310df636b9379fc12bc/36bd0310df636b9379fc12bc438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-4-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/2faccb5b3d2a54132503b2e8/2faccb5b3d2a54132503b2e8438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3111,10 +3475,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-4-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/524525bf86f0f3c973ad565e/524525bf86f0f3c973ad565e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-4-2017-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/a6cb281bcd5a5845f1969db2/a6cb281bcd5a5845f1969db2438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-4-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d138d61fa4224171daf46874/d138d61fa4224171daf46874438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3125,10 +3503,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-4-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b9927733880c6cf4d5d8c07c/b9927733880c6cf4d5d8c07c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-4-2017-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/00c72147f00cddebcad7e602/00c72147f00cddebcad7e602438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-4-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/86e0db13daf97cfec2d6a3d0/86e0db13daf97cfec2d6a3d0438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -3146,10 +3538,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/536464ed850f29294692e527/536464ed850f29294692e527438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-2-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/af2e4ca687f8706f128f7099/af2e4ca687f8706f128f7099438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e617b368520eb878582f5715/e617b368520eb878582f5715438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3160,10 +3566,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/3b8331376525f11425fccca0/3b8331376525f11425fccca0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-2-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/2ea1d96766d98d4ba146e756/2ea1d96766d98d4ba146e756438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-2-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/28141de8e3d46bae8dbea772/28141de8e3d46bae8dbea772438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -3181,6 +3601,13 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-5-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/26e4b68899909b38fc84c254/26e4b68899909b38fc84c254438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-5-2019-187x269.jpg",
@@ -3188,10 +3615,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-5-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e585f8162e1b60d2b0515cad/e585f8162e1b60d2b0515cad438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-5-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/7d326816a9b2089138d99942/7d326816a9b2089138d99942438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-5-2019-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a348670449752c8dab62568e/a348670449752c8dab62568e438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -3209,10 +3650,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-3-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/083b1584753aa5cca91a6531/083b1584753aa5cca91a6531438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-3-2016-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/cb1c1213e2a15da1db79149a/cb1c1213e2a15da1db79149a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-3-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/69a44f7ef652e8d9b283bc93/69a44f7ef652e8d9b283bc93438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3223,10 +3678,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-3-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f1a95bd37284bfd5716102b8/f1a95bd37284bfd5716102b8438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-3-2016-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/5d1292d14dae901fbcfc501e/5d1292d14dae901fbcfc501e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-3-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/5b2180d1e31d9d381ae99530/5b2180d1e31d9d381ae99530438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3237,10 +3706,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-3-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/467efe92ddd85eb00d98c0d5/467efe92ddd85eb00d98c0d5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-3-2016-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/0b68a0138065e2502605f176/0b68a0138065e2502605f176438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-3-2016-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/fa41c1e5c5fbfbf05659e3cb/fa41c1e5c5fbfbf05659e3cb438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -3258,6 +3741,13 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-2011-แบล็ก-มิร์เรอร์-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/89ecb4e29309743c2c152357/89ecb4e29309743c2c152357438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-2011-แบล็ก-มิร์เรอร์-187x269.jpg",
@@ -3265,10 +3755,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-2011-แบล็ก-มิร์เรอร์-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0ed190c349d010a322db5131/0ed190c349d010a322db5131438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-2011-แบล็ก-มิร์เรอร์-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/1d482ae3d1587abfd2bc18ba/1d482ae3d1587abfd2bc18ba438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-2011-แบล็ก-มิร์เรอร์-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/cd82bba2984f050cfa7db050/cd82bba2984f050cfa7db050438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -3286,10 +3790,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-6-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d79b858d65a7656fe103dd51/d79b858d65a7656fe103dd51438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-6-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/07d8a4773ad4e136c5f736f3/07d8a4773ad4e136c5f736f3438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-6-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/436f2002e3eec3e3a804e1bc/436f2002e3eec3e3a804e1bc438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3300,6 +3818,13 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-6-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a945eddaeee11f821586d97a/a945eddaeee11f821586d97a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-6-2023-187x269.jpg",
@@ -3307,10 +3832,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-6-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9555428097bfdaf38fc6303d/9555428097bfdaf38fc6303d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-6-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/d868e555511a2707da83ac4a/d868e555511a2707da83ac4a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Black-Mirror-Season-6-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/64e064d121413077158db1c4/64e064d121413077158db1c4438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -3328,10 +3867,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Duty-After-School-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/5e982942f7bbacedd2742d24/5e982942f7bbacedd2742d24438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Duty-After-School-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/d473c1e2f9500fe5ea592ec7/d473c1e2f9500fe5ea592ec7438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Duty-After-School-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/8b92e52ec71f4532bda3a189/8b92e52ec71f4532bda3a189438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3342,10 +3895,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Duty-After-School-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/62bd60e18269537fe79bd43f/62bd60e18269537fe79bd43f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Duty-After-School-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/da6869eda9e3a020da9a5c62/da6869eda9e3a020da9a5c62438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Duty-After-School-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/396a0091684e0734467ad8ce/396a0091684e0734467ad8ce438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3356,10 +3923,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Duty-After-School-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/26d0a7e8fe4f39932c2139d8/26d0a7e8fe4f39932c2139d8438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Duty-After-School-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/3c4c8aea8f50636f8d9da1d0/3c4c8aea8f50636f8d9da1d0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Duty-After-School-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/426c41cefc3cc1804d80848e/426c41cefc3cc1804d80848e438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3370,10 +3951,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Duty-After-School-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/89090627e591efeb6b222eaa/89090627e591efeb6b222eaa438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Duty-After-School-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/f43cb618bdf327f0dc27a1fa/f43cb618bdf327f0dc27a1fa438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Duty-After-School-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/1e4959ef8083f9b03e732ffd/1e4959ef8083f9b03e732ffd438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3384,10 +3979,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Duty-After-School-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f5030fb2769e5cb2251288d0/f5030fb2769e5cb2251288d0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Duty-After-School-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/8e0090190e2439bc33840b2a/8e0090190e2439bc33840b2a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Duty-After-School-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/77631de473ebd4918c59832d/77631de473ebd4918c59832d438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -3860,10 +4469,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/05/Black-Knight-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/cbd3e5df149814e9beb6a9d7/cbd3e5df149814e9beb6a9d7438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/05/Black-Knight-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/cd856070f459e73f4a0ee4cc/cd856070f459e73f4a0ee4cc438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/05/Black-Knight-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/acc785de8aef5a76d0f0de3b/acc785de8aef5a76d0f0de3b438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3874,10 +4497,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/05/Black-Knight-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/943ac249c29af4d9e3385266/943ac249c29af4d9e3385266438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/05/Black-Knight-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/87cd32a91b4c59b76d3a61b4/87cd32a91b4c59b76d3a61b4438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/05/Black-Knight-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b48fd3611ffddc518ef8670f/b48fd3611ffddc518ef8670f438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -3888,10 +4525,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/05/Black-Knight-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/1dd53007d7fffdd841e97e89/1dd53007d7fffdd841e97e89438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/05/Black-Knight-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/d67856400e89f002ef7485d4/d67856400e89f002ef7485d4438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/05/Black-Knight-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/da91e41954a4f0a1336a8b59/da91e41954a4f0a1336a8b59438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -4042,10 +4693,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/The-Book-of-Boba-Fett-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/872d67ed5ac2fdd7014febe6/872d67ed5ac2fdd7014febe6438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/The-Book-of-Boba-Fett-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/59af75d71d743220a291ca57/59af75d71d743220a291ca57438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/The-Book-of-Boba-Fett-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9ecaaca6e80864d26a86586c/9ecaaca6e80864d26a86586c438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4056,10 +4721,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/The-Book-of-Boba-Fett-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/722bc4e6edb23e168dce3ac9/722bc4e6edb23e168dce3ac9438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/The-Book-of-Boba-Fett-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/7bf3ceb629f0418f415c897f/7bf3ceb629f0418f415c897f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/The-Book-of-Boba-Fett-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0806747c42518ad68c6c471a/0806747c42518ad68c6c471a438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4070,6 +4749,13 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/The-Book-of-Boba-Fett-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/42f61cd152ebc26be9bfd40f/42f61cd152ebc26be9bfd40f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/The-Book-of-Boba-Fett-2022-187x269.jpg",
@@ -4077,10 +4763,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/The-Book-of-Boba-Fett-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0228667b80a0da47df0d40cb/0228667b80a0da47df0d40cb438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 7",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/The-Book-of-Boba-Fett-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/ddd52d89034185648c1aa52e/ddd52d89034185648c1aa52e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/The-Book-of-Boba-Fett-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/cb6f64c6441fac5fe6ee051b/cb6f64c6441fac5fe6ee051b438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -4206,7 +4906,7 @@
      "name": "ตอนที่ 17",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/2323-187x269.jpg",
-     "url": "https://main.77player.xyz/newplaylist/3de695eb519d936b1354f583/3de695eb519d936b1354f583.m3u8",
+     "url": "https://main.77player.xyz/m3u8/3de695eb519d936b1354f583/3de695eb519d936b1354f583168.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4231,10 +4931,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-3-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/bfac81cfa3af5c1de48f6a77/bfac81cfa3af5c1de48f6a77438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-3-2018-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/f97fe3ee1a0bf04d36e9ba60/f97fe3ee1a0bf04d36e9ba60438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-3-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0f6775c433aadf7104ce275e/0f6775c433aadf7104ce275e438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4245,10 +4959,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-3-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/530cfccd24bb90ec68bd7232/530cfccd24bb90ec68bd7232438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-3-2018-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/5f17e94eb50dca27397e0161/5f17e94eb50dca27397e0161438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-3-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/6635a9d42d061e78437391de/6635a9d42d061e78437391de438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4259,10 +4987,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-3-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0440382fc703ddc4950a1e49/0440382fc703ddc4950a1e49438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-3-2018-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/b2e75350e7dcc324ae272d1e/b2e75350e7dcc324ae272d1e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-3-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/8253d8bdb9016c9ccecf4562/8253d8bdb9016c9ccecf4562438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4273,10 +5015,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-3-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a236a744d8d2acad4c743b4e/a236a744d8d2acad4c743b4e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-3-2018-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/06abbdae910343f0f81bfd7c/06abbdae910343f0f81bfd7c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-3-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/52909026f42f6bb49a3ee53b/52909026f42f6bb49a3ee53b438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4287,10 +5043,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-3-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/abd591b58b5726401d3ae92f/abd591b58b5726401d3ae92f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-3-2018-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/d6e4ade6408e829b037df25d/d6e4ade6408e829b037df25d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-3-2018-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4775ec0034652f2254c51883/4775ec0034652f2254c51883438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -4308,10 +5078,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-2-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/08f9c13c532514a63b4a078f/08f9c13c532514a63b4a078f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-2-2017-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/9e702beb5f01799fc85cfceb/9e702beb5f01799fc85cfceb438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-2-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/93ba825387e1dcc8df927649/93ba825387e1dcc8df927649438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4322,10 +5106,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-2-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/62343024ec27797dd9898772/62343024ec27797dd9898772438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-2-2017-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/bd4d142e820310166a51dc40/bd4d142e820310166a51dc40438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-2-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4a62aab70e131ef5211c4531/4a62aab70e131ef5211c4531438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4336,10 +5134,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-2-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9557bf34d2a61c3bd5a8bdc0/9557bf34d2a61c3bd5a8bdc0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-2-2017-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/2febc46a6aa718608caa0e05/2febc46a6aa718608caa0e05438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-2-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/ebfb4c844ed1f8e045f7f52a/ebfb4c844ed1f8e045f7f52a438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4350,10 +5162,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-2-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/3870e31ba410efb4fa632c9c/3870e31ba410efb4fa632c9c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-2-2017-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/34f8ebcce19ee3f316964d21/34f8ebcce19ee3f316964d21438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-2-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/886b29f8e0a3f10b068dae0b/886b29f8e0a3f10b068dae0b438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4364,10 +5190,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-2-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/93316c2ae4942315f2e40317/93316c2ae4942315f2e40317438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-2-2017-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/bc9c34457b677756d589a625/bc9c34457b677756d589a625438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-2-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/ad66cf34764fc6fe12ec6ca9/ad66cf34764fc6fe12ec6ca9438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4378,10 +5218,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-2-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/83716dd341347dc334aae953/83716dd341347dc334aae953438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-2-2017-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/25a98ac0eca4993b2396ffdd/25a98ac0eca4993b2396ffdd438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-2-2017-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e32631068ead37f03cfd9079/e32631068ead37f03cfd9079438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -4399,10 +5253,31 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-1-2016-1-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a287e719b35afecb6d4f7b22/a287e719b35afecb6d4f7b22438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-1-2016-1-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/057a646714db5c0013fa894e/057a646714db5c0013fa894e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-1-2016-1-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/04d6023820a47f083bca0d4b/04d6023820a47f083bca0d4b438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-1-2016-1-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/6d08a3dff4e40c02c1a36015/6d08a3dff4e40c02c1a36015438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4413,10 +5288,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-1-2016-1-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/177e0a4866a6e97223d1451f/177e0a4866a6e97223d1451f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-1-2016-1-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/a65285e47936023139f67078/a65285e47936023139f67078438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-1-2016-1-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/429b7dcf7cf1c21c3b95b35c/429b7dcf7cf1c21c3b95b35c438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4427,10 +5316,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-1-2016-1-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/177130b12bd5ca216506c24b/177130b12bd5ca216506c24b438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 7",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-1-2016-1-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/ce514952aace430970ad9062/ce514952aace430970ad9062438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-1-2016-1-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f777e2a399cffa8725ce8fed/f777e2a399cffa8725ce8fed438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4441,10 +5344,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-1-2016-1-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/6b78ab1e5b3cbf4904f99849/6b78ab1e5b3cbf4904f99849438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 9",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-1-2016-1-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/f8d88ae1bbaf33cff5661967/f8d88ae1bbaf33cff5661967438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-1-2016-1-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/47048c95e87599590857faac/47048c95e87599590857faac438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4455,6 +5372,13 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-1-2016-1-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/dba8abe0a71343953fb95b48/dba8abe0a71343953fb95b48438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 11",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-1-2016-1-187x269.jpg",
@@ -4462,10 +5386,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-1-2016-1-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/8df70217f9e1f543e139cd98/8df70217f9e1f543e139cd98438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-1-2016-1-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/9da4b9a8acee6ae9356d3cfa/9da4b9a8acee6ae9356d3cfa438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Travelers-Season-1-2016-1-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/fb9ed7db9adfcfa203ed60e7/fb9ed7db9adfcfa203ed60e7438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -4581,10 +5519,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/My-Holo-Love-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/2d5d764e221613e85685c6354009e73c/2d5d764e221613e85685c6354009e73c.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/My-Holo-Love-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/5d3215d7d1e3515f356bac18/5d3215d7d1e3515f356bac18438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/My-Holo-Love-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/8931c0482d27d1c94f2afd163462dc04/8931c0482d27d1c94f2afd163462dc04.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4595,10 +5547,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/My-Holo-Love-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/a5d2ca92cc2de6110b876066434ef8ae/a5d2ca92cc2de6110b876066434ef8ae.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/My-Holo-Love-2020-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/5ff99dfa1ca920d8adb1b79f8bb8159a/5ff99dfa1ca920d8adb1b79f8bb8159a.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/My-Holo-Love-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/7deefe0aa3aaf00a076bc768926fd149/7deefe0aa3aaf00a076bc768926fd149.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4609,10 +5575,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/My-Holo-Love-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/373790f9c6453987db6eb06c0f5ea4d7/373790f9c6453987db6eb06c0f5ea4d7.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/My-Holo-Love-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/b7f1beebaf4b7dad5d286cdc/b7f1beebaf4b7dad5d286cdc438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/My-Holo-Love-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/14ee978c22a1859f7e46483886178524/14ee978c22a1859f7e46483886178524.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4623,10 +5603,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/My-Holo-Love-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/1d34df88ad41a0a2a1ee5bdfbd7c5ca5/1d34df88ad41a0a2a1ee5bdfbd7c5ca5.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/My-Holo-Love-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/a5b6d5d22491aefba9927842/a5b6d5d22491aefba9927842438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/My-Holo-Love-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/fdb298bdf362f26f0dbe03ad6e821748/fdb298bdf362f26f0dbe03ad6e821748.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4637,10 +5631,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/My-Holo-Love-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/eed8b13b6c63e2a3d890456de806e46a/eed8b13b6c63e2a3d890456de806e46a.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/My-Holo-Love-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/6941c6a8a7cc6acc20942e6a/6941c6a8a7cc6acc20942e6a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/My-Holo-Love-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/f675f1e440e417d6dae2325fe0fb5d85/f675f1e440e417d6dae2325fe0fb5d85.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4651,10 +5659,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/My-Holo-Love-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/f4f77bac9aadbbac68c1b29b5a949662/f4f77bac9aadbbac68c1b29b5a949662.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/My-Holo-Love-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/88358db5b1494dac2d2b30a9/88358db5b1494dac2d2b30a9438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/My-Holo-Love-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/309cc009510ecbe5b06916fae44ad88d/309cc009510ecbe5b06916fae44ad88d.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -4721,10 +5743,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Grid-2022-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/97cafc4773fc76d6630366a8298ca319/97cafc4773fc76d6630366a8298ca319.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Grid-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/3663aabb9dcb8cb663fcc26e/3663aabb9dcb8cb663fcc26e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Grid-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/77cd4a0892892476c46a7fad/77cd4a0892892476c46a7fad438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4735,10 +5771,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Grid-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0bdc3ca2b4dee14802ebbeaa/0bdc3ca2b4dee14802ebbeaa438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Grid-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/988792648191ebb1f256b3eb/988792648191ebb1f256b3eb438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Grid-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/cce0b99ab5b2907d54abf5c5/cce0b99ab5b2907d54abf5c5438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4749,10 +5799,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Grid-2022-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/79c842c07164e4b3aa280d723f6194da/79c842c07164e4b3aa280d723f6194da.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Grid-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/d8899a3fb5dced17409cb357/d8899a3fb5dced17409cb357438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Grid-2022-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/7307f374564705f46ea14427485f8ce1/7307f374564705f46ea14427485f8ce1.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4763,10 +5827,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Grid-2022-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/591134b5364c314ff2df2f525cdb384a/591134b5364c314ff2df2f525cdb384a.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Grid-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/8890755e263c7ad2a9a0e9b3/8890755e263c7ad2a9a0e9b3438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Grid-2022-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/5ae856d7a8171d531da3cadefa8e3ece/5ae856d7a8171d531da3cadefa8e3ece.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -4777,10 +5855,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Grid-2022-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/ae22511e134c25ffabc7b4cc715370c4/ae22511e134c25ffabc7b4cc715370c4.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Grid-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/b9b57379b45879bb6fd81ff6/b9b57379b45879bb6fd81ff6438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Grid-2022-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/75d7838bfeb617914eb6ab3bc7fae2b3/75d7838bfeb617914eb6ab3bc7fae2b3.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -5015,10 +6107,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Glitch-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/dcb66cc7cc2fd12f95b586f7/dcb66cc7cc2fd12f95b586f7438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Glitch-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/79e22a432da486359b44eeac/79e22a432da486359b44eeac438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Glitch-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/56804f693106353621f014c9/56804f693106353621f014c9438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5029,10 +6135,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Glitch-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/554364851f2b0fad26514467/554364851f2b0fad26514467438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Glitch-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/ef26142297c383e10710b0a3/ef26142297c383e10710b0a3438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Glitch-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e5ec2fd274b03ae8acca0106/e5ec2fd274b03ae8acca0106438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5043,10 +6163,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Glitch-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/004c41ef1ded5e2b6feb7861/004c41ef1ded5e2b6feb7861438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Glitch-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/02e6f963973f57bb056dd2d4/02e6f963973f57bb056dd2d4438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Glitch-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/6a62de918b894691ad0ac9bf/6a62de918b894691ad0ac9bf438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5057,10 +6191,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Glitch-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/46ead1876b9cd9fa38fb2763/46ead1876b9cd9fa38fb2763438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Glitch-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/1812d8834c367dce76f605c0/1812d8834c367dce76f605c0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Glitch-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/ee930ddfdd9224172dddf804/ee930ddfdd9224172dddf804438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -5071,10 +6219,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Glitch-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/094223c8b964dba146ef3a1e/094223c8b964dba146ef3a1e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Glitch-2022-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/ca385eef5dbaf34d6222adc1/ca385eef5dbaf34d6222adc1438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Glitch-2022-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9520b0b85136d9aaf47975e6/9520b0b85136d9aaf47975e6438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]

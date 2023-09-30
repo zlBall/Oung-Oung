@@ -1,9 +1,30 @@
 {
  "name": "เพลงดนตรี Musical",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 19 กันยายน 2566",
+ "author": "อุ๋ง อุ๋ง อัพวันที่ 30 กันยายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
  "groups": [
+  {
+   "name": "Twinkling Watermelon (2023)",
+   "info": "EP 2",
+   "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-187x269.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/5e6a797ec4d3da47253bf8af/5e6a797ec4d3da47253bf8af438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/6de09ed26fc1f804f1fc2c0f/6de09ed26fc1f804f1fc2c0f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    }
+   ]
+  },
   {
    "name": "Infamy (2023) สาวยิปซีหัวใจขบถ",
    "info": "จบแล้ว",
@@ -80,10 +101,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Soundtrack-1-2022-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/0979df84992ac61ace81a705d724ef17/0979df84992ac61ace81a705d724ef17.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Soundtrack-1-2022-187x269.png",
      "url": "https://xxx.77player.xyz/ioshls/07c36e2d5b9b31f640157a5e37f3a15c/07c36e2d5b9b31f640157a5e37f3a15c.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Soundtrack-1-2022-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/ab70423cf97ce9a825cac9094568f4a5/ab70423cf97ce9a825cac9094568f4a5.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -94,10 +129,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Soundtrack-1-2022-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/7dce9a643f4599e51d5be15d36b7bcc9/7dce9a643f4599e51d5be15d36b7bcc9.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Soundtrack-1-2022-187x269.png",
      "url": "https://main.77player.xyz/m3u8/debed1a703c81a46abe906b7/debed1a703c81a46abe906b7438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Soundtrack-1-2022-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/b5321933032e43e4441eb60e57e51d0a/b5321933032e43e4441eb60e57e51d0a.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -115,10 +164,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/616d0507b772ae40c953ec7476a4430b/616d0507b772ae40c953ec7476a4430b.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/65d3e66e3561204fd5925f7d/65d3e66e3561204fd5925f7d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/aab77f0f804bdd8acb8e0b70f9778fb5/aab77f0f804bdd8acb8e0b70f9778fb5.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -129,10 +192,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/ad93d56d384ba8cc99006c2f1b784b23/ad93d56d384ba8cc99006c2f1b784b23.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/eac4ba53c5456e74aadbfbc7/eac4ba53c5456e74aadbfbc7438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/eafa4c7b8f7d6ee319276e90aeba5618/eafa4c7b8f7d6ee319276e90aeba5618.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -143,10 +220,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/eddf928b2ab68e29763bef3cb3d7f38a/eddf928b2ab68e29763bef3cb3d7f38a.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/c2c7b61f6e811127057540b9/c2c7b61f6e811127057540b9438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/99dbdea9a6d36001ed0463c6a1abb7f9/99dbdea9a6d36001ed0463c6a1abb7f9.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -157,10 +248,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/2fb29c4c9789edc31ed5c72c8580b26e/2fb29c4c9789edc31ed5c72c8580b26e.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/5a3df8f72f29bf2c82ad6752/5a3df8f72f29bf2c82ad6752438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/2b0be954b8742eb1ddf54fd30e575a7b/2b0be954b8742eb1ddf54fd30e575a7b.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -171,10 +276,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/210687b1037aed914865b8d4d0377a38/210687b1037aed914865b8d4d0377a38.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/d93bfae4ea50839a4ca159f3/d93bfae4ea50839a4ca159f3438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/4cacbd4aec7a03e5da6cd4d36c419058/4cacbd4aec7a03e5da6cd4d36c419058.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -185,10 +304,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/758436574b817f7b1781bacc7098c4e2/758436574b817f7b1781bacc7098c4e2.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/8e6e44449943bb6a2827c868/8e6e44449943bb6a2827c868438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/2814add8e74ad2355a936604657a4ce2/2814add8e74ad2355a936604657a4ce2.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -199,10 +332,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/a6501811bf2133f4f68794a978a6c4d4/a6501811bf2133f4f68794a978a6c4d4.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 14",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/5a9b5df1a60c44d87bd0def4/5a9b5df1a60c44d87bd0def4438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/d50319697fd3ccdef9543d84a8073721/d50319697fd3ccdef9543d84a8073721.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -213,10 +360,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/d15ba210d41597ea9b44f0ecb2109ca8/d15ba210d41597ea9b44f0ecb2109ca8.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 16",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/189eda7f82ab6ad426a5d00d/189eda7f82ab6ad426a5d00d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/bd2993da5c8e7a586f8fa2bc4146c518/bd2993da5c8e7a586f8fa2bc4146c518.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -227,10 +388,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/4b14c103e13123168118decc29f8d442/4b14c103e13123168118decc29f8d442.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 18",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/3a50551ea06a546a402b6ad1/3a50551ea06a546a402b6ad1438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/32be16e713a2bf31b9ff5292414adc50/32be16e713a2bf31b9ff5292414adc50.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -241,10 +416,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/79f9c19ffbd2790c843d0c230a6d324a/79f9c19ffbd2790c843d0c230a6d324a.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 20",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/1dcc2bfd7ad20f60ec26730d/1dcc2bfd7ad20f60ec26730d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/67ba1831780f3a6c035d53a51be0383c/67ba1831780f3a6c035d53a51be0383c.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -255,10 +444,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 21",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/08a7f96a01d9f44d63ea176fbb708a0a/08a7f96a01d9f44d63ea176fbb708a0a.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 22",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/f145ce42fb956d68752e51ab/f145ce42fb956d68752e51ab438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/b7bc22e9a8d8f385f96c325c75ac5af5/b7bc22e9a8d8f385f96c325c75ac5af5.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -269,10 +472,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 23",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/c1cc71e40aa4b639f0fc1909f3845f2e/c1cc71e40aa4b639f0fc1909f3845f2e.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 24",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/c7ceb2a2f90ef59513a5c5c2/c7ceb2a2f90ef59513a5c5c2438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/94c8e7abcdb57eff6f42146baa3e5456/94c8e7abcdb57eff6f42146baa3e5456.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -283,10 +500,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 25",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/bdffcf8971d031976eaf25f263d3ab5d/bdffcf8971d031976eaf25f263d3ab5d.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 26",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/05462a194b540e016d3f885c/05462a194b540e016d3f885c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/8944cec7e06c3cba17831e2cc38bac69/8944cec7e06c3cba17831e2cc38bac69.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -297,10 +528,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 27",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/3c5587ab6e6c71cc21d4f13bc21f23ba/3c5587ab6e6c71cc21d4f13bc21f23ba.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 28",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/8f8df18555a36570df7c83d6/8f8df18555a36570df7c83d6438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/70c3f2603efa17b1e16badc4f449839b/70c3f2603efa17b1e16badc4f449839b.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -311,10 +556,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 29",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/9c3dbf7cdccd0c720cd63ce8040f7f23/9c3dbf7cdccd0c720cd63ce8040f7f23.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 30",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/8468f708b43289a2346a020f/8468f708b43289a2346a020f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 30",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/e70196c5ab2162b7e8268621fd29adb1/e70196c5ab2162b7e8268621fd29adb1.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -325,10 +584,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 31",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/c0b1ab52d725630a50441524589e350e/c0b1ab52d725630a50441524589e350e.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 32",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/e5cc26f0651f244c7653a4bd/e5cc26f0651f244c7653a4bd438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 32",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/08/Thirty-but-Seventeen-2018-30-ยังใส-หัวใจ-17-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/07804cb8c6368bb076e8aecba6d067d1/07804cb8c6368bb076e8aecba6d067d1.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -461,7 +734,7 @@
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/05/Mission-Fan-Possible-2023-187x269.jpg",
-     "url": "https://main.77player.xyz/newplaylist/5f507e082e274da798e70ba7/5f507e082e274da798e70ba7.m3u8",
+     "url": "https://main.77player.xyz/m3u8/5f507e082e274da798e70ba7/5f507e082e274da798e70ba7438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -790,7 +1063,7 @@
      "name": "ตอนที่ 40",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Love-and-Revenge-2023-187x269.jpg",
-     "url": "https://main.77player.xyz/newplaylist/3fb57b86ad7de6b6a5328f16/3fb57b86ad7de6b6a5328f16.m3u8",
+     "url": "https://main.77player.xyz/m3u8/3fb57b86ad7de6b6a5328f16/3fb57b86ad7de6b6a5328f16438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -802,9 +1075,23 @@
    "stations": [
     {
      "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/0e2aed5fddc87bf909b1663fe01784c4/0e2aed5fddc87bf909b1663fe01784c4.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/fa43fa02d07c5ea68ef4cba6/fa43fa02d07c5ea68ef4cba6438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/d3fda5b6b2660e640b22d10259b5d44b/d3fda5b6b2660e640b22d10259b5d44b.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -816,9 +1103,23 @@
     },
     {
      "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/b768eeeacf9bcc1f6825efdc464446bb/b768eeeacf9bcc1f6825efdc464446bb.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/1d50c839326b7cd2550dcf4e/1d50c839326b7cd2550dcf4e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/76e5fd24c3da8df4577279c1aad1bb86/76e5fd24c3da8df4577279c1aad1bb86.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -830,9 +1131,23 @@
     },
     {
      "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/e04085a182c7a5631f3def0374dfefb7/e04085a182c7a5631f3def0374dfefb7.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/d7da7019c03c494b962aa4fe/d7da7019c03c494b962aa4fe438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/fdc565ae35146d32c6033b325fc016ac/fdc565ae35146d32c6033b325fc016ac.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -844,9 +1159,23 @@
     },
     {
      "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/90849a0eb08eeb88994f75308330032f/90849a0eb08eeb88994f75308330032f.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/5be84d8d9a1572d5cbe9e193/5be84d8d9a1572d5cbe9e193438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/3e6a42dcf991b8cb4b28ce75c86e8440/3e6a42dcf991b8cb4b28ce75c86e8440.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -858,9 +1187,23 @@
     },
     {
      "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/e80abdedccf9a78a92832b4b494e69a0/e80abdedccf9a78a92832b4b494e69a0.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/efaf430d76ac80f8f4523de2/efaf430d76ac80f8f4523de2438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/093487d38673765af357993ed975221e/093487d38673765af357993ed975221e.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -872,9 +1215,23 @@
     },
     {
      "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/cd7c3773cc07eb03af53ce223168b20c/cd7c3773cc07eb03af53ce223168b20c.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/d3865d5ddcafefdf3970b359/d3865d5ddcafefdf3970b359438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/2a6611894550bd180fe2f0dbb8df99bd/2a6611894550bd180fe2f0dbb8df99bd.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -886,9 +1243,23 @@
     },
     {
      "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/5f97669ba3321b4d368c21b63e497077/5f97669ba3321b4d368c21b63e497077.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/1100318a3904740b85dea4cf/1100318a3904740b85dea4cf438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/e7a435419be5b9dfa779c847f2dbf134/e7a435419be5b9dfa779c847f2dbf134.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -900,9 +1271,23 @@
     },
     {
      "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/f51e7eda5a16776c828265de5c8a98b3/f51e7eda5a16776c828265de5c8a98b3.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/6f8bce5f0c12158bd411e4b0/6f8bce5f0c12158bd411e4b0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/5a92f0a4ab0c94c0b4ef4e646065bc48/5a92f0a4ab0c94c0b4ef4e646065bc48.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -914,9 +1299,23 @@
     },
     {
      "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/d31d483e222893222f906226ceb46ab8/d31d483e222893222f906226ceb46ab8.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 17",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/d31d483e222893222f906226ceb46ab8/d31d483e222893222f906226ceb46ab8.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/3b79d637801aca73b7d51e86be91e061/3b79d637801aca73b7d51e86be91e061.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -928,9 +1327,23 @@
     },
     {
      "name": "ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/ee09b00ef624ed8208b9b654/ee09b00ef624ed8208b9b654438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 19",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/ee09b00ef624ed8208b9b654/ee09b00ef624ed8208b9b654438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9963d0644fda503128659002/9963d0644fda503128659002438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -942,9 +1355,23 @@
     },
     {
      "name": "ตอนที่ 21",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/61dcef674a9cf8c208640b51de29516a/61dcef674a9cf8c208640b51de29516a.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 21",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/61dcef674a9cf8c208640b51de29516a/61dcef674a9cf8c208640b51de29516a.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/bb5d90c2fe895a86dd40736f47280d15/bb5d90c2fe895a86dd40736f47280d15.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -956,9 +1383,23 @@
     },
     {
      "name": "ตอนที่ 23",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/59c6a58547cab83962a88a24fe464f48/59c6a58547cab83962a88a24fe464f48.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 23",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/59c6a58547cab83962a88a24fe464f48/59c6a58547cab83962a88a24fe464f48.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/d13aec624933f30e05bb43e8a7e1a280/d13aec624933f30e05bb43e8a7e1a280.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -970,9 +1411,23 @@
     },
     {
      "name": "ตอนที่ 25",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/44af634f0b4d9529a9b934f359f48b11/44af634f0b4d9529a9b934f359f48b11.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 25",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/44af634f0b4d9529a9b934f359f48b11/44af634f0b4d9529a9b934f359f48b11.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/fbc97aff47606e99b354a6491d816b11/fbc97aff47606e99b354a6491d816b11.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -984,9 +1439,23 @@
     },
     {
      "name": "ตอนที่ 27",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/6aac99f19d10f2bf751684a5b06910b6/6aac99f19d10f2bf751684a5b06910b6.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 27",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/6aac99f19d10f2bf751684a5b06910b6/6aac99f19d10f2bf751684a5b06910b6.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/197d80825e3ad6b2a43253d4540d9da8/197d80825e3ad6b2a43253d4540d9da8.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -998,9 +1467,23 @@
     },
     {
      "name": "ตอนที่ 29",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/a220d9fded6203ba2a5a926ccbefab2a/a220d9fded6203ba2a5a926ccbefab2a.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 29",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/a220d9fded6203ba2a5a926ccbefab2a/a220d9fded6203ba2a5a926ccbefab2a.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 30",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/eca743e6b1ec9e07676d897df54529a9/eca743e6b1ec9e07676d897df54529a9.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1012,9 +1495,23 @@
     },
     {
      "name": "ตอนที่ 31",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/5b21e83ce1f23cf69d3b23665910e0cd/5b21e83ce1f23cf69d3b23665910e0cd.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 31",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/5b21e83ce1f23cf69d3b23665910e0cd/5b21e83ce1f23cf69d3b23665910e0cd.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 32",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/Do-You-Like-Brahms-2020-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/ed0ffa9400c689690f08817deee5b754/ed0ffa9400c689690f08817deee5b754.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1074,10 +1571,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d9a1a9a9448767ae53f25909/d9a1a9a9448767ae53f25909438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/0bb355de6462c97837d5d932/0bb355de6462c97837d5d932438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4c4bfc43aa344760472a90b2/4c4bfc43aa344760472a90b2438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1088,8 +1599,22 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/966acf2c155888dc6fb9bbfa/966acf2c155888dc6fb9bbfa438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/61df505f7137fd7bf8f2bb5c/61df505f7137fd7bf8f2bb5c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/61df505f7137fd7bf8f2bb5c/61df505f7137fd7bf8f2bb5c438.m3u8",
      "referer": "https://www.seriesday.com/"
@@ -1102,8 +1627,22 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/08bd316951854d88557adc4f/08bd316951854d88557adc4f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/5c3d243bc607d5bb2b6bc358/5c3d243bc607d5bb2b6bc358438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/5c3d243bc607d5bb2b6bc358/5c3d243bc607d5bb2b6bc358438.m3u8",
      "referer": "https://www.seriesday.com/"
@@ -1116,10 +1655,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/326da544b3c51eaf3a9c419d/326da544b3c51eaf3a9c419d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/4b36863b34d042171233ce6d/4b36863b34d042171233ce6d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d89150f5a97b2349b6ebe125/d89150f5a97b2349b6ebe125438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1130,10 +1683,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a518f6dd7784c5ed86c1b35d/a518f6dd7784c5ed86c1b35d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/3f76863a2c2f300d4c41ec00/3f76863a2c2f300d4c41ec00438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/Daisy-Jones-The-Six-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/50f1c09d50a71037b12b81ec/50f1c09d50a71037b12b81ec438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -1224,7 +1791,14 @@
      "name": "ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/1641035b325f1baa1909764e/1641035b325f1baa1909764e438.m3u8",
+     "url": "https://main.77player.xyz/newplaylist/1641035b325f1baa1909764e/1641035b325f1baa1909764e.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/f7122acbe03a59299af69c92cc41fa36/f7122acbe03a59299af69c92cc41fa36.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1235,10 +1809,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/4573c94c7223201ba22fd11aa1504cf0/4573c94c7223201ba22fd11aa1504cf0.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/22840edb929ac5b5915acbde/22840edb929ac5b5915acbde438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/3a78d4388e680a34b84af4a69447e2f5/3a78d4388e680a34b84af4a69447e2f5.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1249,10 +1837,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/ab716eb345af4fc693e7cb924393c6cf/ab716eb345af4fc693e7cb924393c6cf.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/b51a64d1ca1b78c9fdaf96c4/b51a64d1ca1b78c9fdaf96c4438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/8690eba1c89171423ff125e7ecc7c87e/8690eba1c89171423ff125e7ecc7c87e.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1263,10 +1865,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/72c23edbc5d493a7e0bb137330c37cce/72c23edbc5d493a7e0bb137330c37cce.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 7",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/384678e3b9c6cea1169fc121/384678e3b9c6cea1169fc121438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/3d63c8bd037b953e1153ece4df3229be/3d63c8bd037b953e1153ece4df3229be.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1277,10 +1893,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/49c1c93e5f376575ba4530926c2b3053/49c1c93e5f376575ba4530926c2b3053.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 9",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/a694be9f92aa98bcc8fc9c00/a694be9f92aa98bcc8fc9c00438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/1708dd2803c115b5c5df18eb54ca2307/1708dd2803c115b5c5df18eb54ca2307.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1291,10 +1921,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/641d0317dc0d552ab4f2e7f1419a1e67/641d0317dc0d552ab4f2e7f1419a1e67.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 11",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/cda52474aba1304b2905e320/cda52474aba1304b2905e320438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/40993f34e9277522e44bcd1340d497ab/40993f34e9277522e44bcd1340d497ab.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1305,10 +1949,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/93655cbe6d25ab924f60485cfc4a2068/93655cbe6d25ab924f60485cfc4a2068.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 13",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/1f1a63540a612201cfb86cdb/1f1a63540a612201cfb86cdb438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/e81463ccce160057c7e8239637ad85a1/e81463ccce160057c7e8239637ad85a1.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1319,10 +1977,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/91344c8bf9e92cc119e8dfa4b5695188/91344c8bf9e92cc119e8dfa4b5695188.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 15",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/3590c0004a1305b3f3dadb2d/3590c0004a1305b3f3dadb2d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/707879211581925b9a6aebc7ed8e26bf/707879211581925b9a6aebc7ed8e26bf.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1333,10 +2005,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/9245dd013530d6c6ccb71662f2be1a22/9245dd013530d6c6ccb71662f2be1a22.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 17",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/f960f8dc34f72ff5008eb4c7/f960f8dc34f72ff5008eb4c7438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/912904cc7d8eac02e0f689d026d18b8a/912904cc7d8eac02e0f689d026d18b8a.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1347,10 +2033,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/42813371911aaf4d1f02dcc1c34df862/42813371911aaf4d1f02dcc1c34df862.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 19",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/cc760ae6675a50ea6fdf2089/cc760ae6675a50ea6fdf2089438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/7f7b75b944dccf199bd9257ceb0a6b75/7f7b75b944dccf199bd9257ceb0a6b75.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1361,10 +2061,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 20",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/042c398c24bf75bce1260a617be1844d/042c398c24bf75bce1260a617be1844d.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 21",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/0b50028d2263e571afd20b71/0b50028d2263e571afd20b71438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/0fd61d6f6a4bec6b00abdec0f06a8292/0fd61d6f6a4bec6b00abdec0f06a8292.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1375,10 +2089,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 22",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/d7ef2c0fe4735d3e1862ffc7c6abeca2/d7ef2c0fe4735d3e1862ffc7c6abeca2.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 23",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/afb7b64c07971e1945688556/afb7b64c07971e1945688556438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/a73b8417c6e741bdb91286c1aa16ac67/a73b8417c6e741bdb91286c1aa16ac67.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1389,10 +2117,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 24",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/855b497d15a7b9e27b0c61d0c217af43/855b497d15a7b9e27b0c61d0c217af43.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 25",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/35247b00b3b1fc9e9364e203/35247b00b3b1fc9e9364e203438.m3u8",
+     "url": "https://main.77player.xyz/newplaylist/35247b00b3b1fc9e9364e203/35247b00b3b1fc9e9364e203.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 25",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/e17ab4016dd64e532c4322b871a1920c/e17ab4016dd64e532c4322b871a1920c.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1403,10 +2145,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 26",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/c97f60c85ef36c0d239a2f7734ae36a5/c97f60c85ef36c0d239a2f7734ae36a5.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 27",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/752fd30fea78d3bbcf095aa3/752fd30fea78d3bbcf095aa3438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 27",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/758cec2459a658b4fc7b08f8f40166a7/758cec2459a658b4fc7b08f8f40166a7.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1417,10 +2173,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 28",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/36c8b58b2a1ac33a99787979fa1347d7/36c8b58b2a1ac33a99787979fa1347d7.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 29",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/00bc76610369b5e0e9f98473/00bc76610369b5e0e9f98473438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 29",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/03/The-Oath-of-Love-2019-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/13bde5dbc45953b13a19995970f8d74f/13bde5dbc45953b13a19995970f8d74f.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -1438,10 +2208,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/657f6dda532c907edaacf989/657f6dda532c907edaacf989438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/1fcd5823e7923abe977d3feb/1fcd5823e7923abe977d3feb438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/78c4b009e8d1c58c02847d1c/78c4b009e8d1c58c02847d1c438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1452,10 +2236,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/2f6800a1eee930c83119f0e8/2f6800a1eee930c83119f0e8438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/690878721447679a9e1fc180/690878721447679a9e1fc180438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/cc0cd4f7dae1e4c6f52899a9/cc0cd4f7dae1e4c6f52899a9438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1466,10 +2264,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d69a3c18b3b46eb791519f14/d69a3c18b3b46eb791519f14438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/b0498a4b822d204df2d70684/b0498a4b822d204df2d70684438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f6b789d64c99ebf3c607b9bd/f6b789d64c99ebf3c607b9bd168.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1480,10 +2292,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/90a5966a15811ac794e94dd5/90a5966a15811ac794e94dd5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/f5259728cfd76aa261947977/f5259728cfd76aa261947977438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a7f972df131666c86de2f98f/a7f972df131666c86de2f98f438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1494,10 +2320,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/cc9267a4450557a33eeb26f2/cc9267a4450557a33eeb26f2438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/940b03107dfd4f49165e24d4/940b03107dfd4f49165e24d4438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4a2e98e0da94798fa36ff3b9/4a2e98e0da94798fa36ff3b9438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1508,10 +2348,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/8f923421e41ad2579519c140/8f923421e41ad2579519c140438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
-     "url": "https://main.77player.xyz/newplaylist/0112e12e7e0bcb04d91c8d5b/0112e12e7e0bcb04d91c8d5b.m3u8",
+     "url": "https://main.77player.xyz/m3u8/0112e12e7e0bcb04d91c8d5b/0112e12e7e0bcb04d91c8d5b438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/13748b9f524cea4190a0ff4c/13748b9f524cea4190a0ff4c438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1522,10 +2376,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/43e0d93e7fad07bc2c24c50d/43e0d93e7fad07bc2c24c50d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 14",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/3f68af0660d38705962edbd6/3f68af0660d38705962edbd6438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f3ee7390bb90acf56d478214/f3ee7390bb90acf56d478214438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1536,10 +2404,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f084a69a63a4ae6f1d762fda/f084a69a63a4ae6f1d762fda438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 16",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/4367f531cf463c365e08ebca/4367f531cf463c365e08ebca438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/Hes-Beautiful-2009-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/7a3f052c05fe13eebe29c71e/7a3f052c05fe13eebe29c71e438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -1557,10 +2439,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Sound-of-Magic-2022-โอม-รักเอยจงมา-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/65737b5687ae2c66e7255dd9d03935b3/65737b5687ae2c66e7255dd9d03935b3.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Sound-of-Magic-2022-โอม-รักเอยจงมา-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/0f11d0500f1e7a2400147500ba3b3b8f/0f11d0500f1e7a2400147500ba3b3b8f.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Sound-of-Magic-2022-โอม-รักเอยจงมา-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/57f6361815ec22ad37479d55a130de59/57f6361815ec22ad37479d55a130de59.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1571,10 +2467,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Sound-of-Magic-2022-โอม-รักเอยจงมา-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/8a3a231e04cd8404fbb955a8e1170509/8a3a231e04cd8404fbb955a8e1170509.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Sound-of-Magic-2022-โอม-รักเอยจงมา-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/fc697dcc643052c9177ed63c386b9c97/fc697dcc643052c9177ed63c386b9c97.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Sound-of-Magic-2022-โอม-รักเอยจงมา-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/cb171d7c94c616d69a3f4180d2dc9324/cb171d7c94c616d69a3f4180d2dc9324.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1585,10 +2495,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Sound-of-Magic-2022-โอม-รักเอยจงมา-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/09c31290cd7ae4255a315345381b830b/09c31290cd7ae4255a315345381b830b.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Sound-of-Magic-2022-โอม-รักเอยจงมา-187x269.jpg",
      "url": "https://xxx.77player.xyz/ioshls/8717d7fab57b19fa06893b40da8b6327/8717d7fab57b19fa06893b40da8b6327.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/02/The-Sound-of-Magic-2022-โอม-รักเอยจงมา-187x269.jpg",
+     "url": "https://xxx.77player.xyz/ioshls/102d1e8dd485501c4c7a8e52c0e0eaef/102d1e8dd485501c4c7a8e52c0e0eaef.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]

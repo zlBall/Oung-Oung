@@ -1,6 +1,6 @@
 {
  "name": "สงคราม War",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 19 กันยายน 2566",
+ "author": "อุ๋ง อุ๋ง อัพวันที่ 30 กันยายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
  "groups": [
@@ -20,7 +20,7 @@
      "name": "ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/09/Band-of-Brothers-2001-187x269.jpg",
-     "url": "https://main.77player.xyz/m3u8/bcc970b8a3cc67bdf1bd2352/bcc970b8a3cc67bdf1bd2352438.m3u8",
+     "url": "https://main.77player.xyz/newplaylist/bcc970b8a3cc67bdf1bd2352/bcc970b8a3cc67bdf1bd2352.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -181,7 +181,7 @@
      "name": "ตอนที่ 14",
      "info": "ซับไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/09/The-Eve-2023-187x269.jpg",
-     "url": "https://main.77player.xyz/newplaylist/a508f0cffab44c704a4090e0/a508f0cffab44c704a4090e0.m3u8",
+     "url": "https://main.77player.xyz/m3u8/a508f0cffab44c704a4090e0/a508f0cffab44c704a4090e0438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -325,10 +325,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/e0962b53064dbf09ae0cc10a179bcb8b/e0962b53064dbf09ae0cc10a179bcb8b.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/572226fce6c031109a5ccfc8/572226fce6c031109a5ccfc8438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/86111e60de5485c67e8fc2f11a1492f9/86111e60de5485c67e8fc2f11a1492f9.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -339,10 +353,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/fc2421e44d6f7bf0dd95e50859ddb424/fc2421e44d6f7bf0dd95e50859ddb424.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/2b819510b1717e8013fbb1c6/2b819510b1717e8013fbb1c6438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/5d23421018c2470c657459cd2246310e/5d23421018c2470c657459cd2246310e.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -353,10 +381,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/6ee78bab02466444211d8c4f937f712e/6ee78bab02466444211d8c4f937f712e.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/d7bee2c14a0a889a28c78bd7/d7bee2c14a0a889a28c78bd7438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/843f639193776faa96a5ff2b444d153e/843f639193776faa96a5ff2b444d153e.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -367,10 +409,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/e4cd440101ab654309dbb4b07e0d27aa/e4cd440101ab654309dbb4b07e0d27aa.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/fab5b26e8a02332f6d1c6558/fab5b26e8a02332f6d1c6558438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/d9ae1e33106dd36d05cb8c7609879451/d9ae1e33106dd36d05cb8c7609879451.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -381,10 +437,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/6b95df54dbd9e8d5064c0b5d0c42a5d1/6b95df54dbd9e8d5064c0b5d0c42a5d1.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/28b958916d6f3552658d29d3/28b958916d6f3552658d29d3438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/dec614d446145c696562e28e4365f1b8/dec614d446145c696562e28e4365f1b8.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -395,10 +465,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/95d1015c0f451208c02a5570741caa09/95d1015c0f451208c02a5570741caa09.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/917b796a127329ba6c7674f3/917b796a127329ba6c7674f3438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/4e09b247aecddc47b15253eace636adb/4e09b247aecddc47b15253eace636adb.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -409,10 +493,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/62ad1d900c81f76e19c2e38fe5df813d/62ad1d900c81f76e19c2e38fe5df813d.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 14",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/916f67c630cc8e755aec3c8e/916f67c630cc8e755aec3c8e438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/a80d3bb9cbe7eadfb40b6be4e0b436ed/a80d3bb9cbe7eadfb40b6be4e0b436ed.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -423,10 +521,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/9d3e33a1f9dca53f7b9c33182dafbf0c/9d3e33a1f9dca53f7b9c33182dafbf0c.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 16",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/c6187d2e1bfbd50bb350b8ab/c6187d2e1bfbd50bb350b8ab438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/4372f502e4a990ea106a62b78eba964e/4372f502e4a990ea106a62b78eba964e.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -437,10 +549,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/d9b42f064d4cef042c1592c497bda341/d9b42f064d4cef042c1592c497bda341.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 18",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/9b8927ea1a9a5c32f6613f67/9b8927ea1a9a5c32f6613f67438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/beae8d3b6b36a7c156c73ad80721255a/beae8d3b6b36a7c156c73ad80721255a.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -451,10 +577,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/339ee3b8ce7710061e0fcfe84e779db5/339ee3b8ce7710061e0fcfe84e779db5.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 20",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/d6aac0d89da23f7c9a9ab151/d6aac0d89da23f7c9a9ab151438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/737d0721e287f8db45cfb374d4bc484f/737d0721e287f8db45cfb374d4bc484f.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -465,10 +605,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 21",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/68866ca4f6e63d56e3afecb024f129cb/68866ca4f6e63d56e3afecb024f129cb.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 22",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/1e0307fa554917d39027eac9/1e0307fa554917d39027eac9438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/c64e0474a4a7453849a01eaea57a3cfd/c64e0474a4a7453849a01eaea57a3cfd.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -479,10 +633,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 23",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/180fd1510e1d3ae6fa93ced4e3d9f32f/180fd1510e1d3ae6fa93ced4e3d9f32f.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 24",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/520d88dafd9635177c927f20/520d88dafd9635177c927f20438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/2ed5a1ce0fd14eb503a659e4d3235109/2ed5a1ce0fd14eb503a659e4d3235109.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -493,10 +661,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 25",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/48448f9761fc62546b1bad4a03bf1123/48448f9761fc62546b1bad4a03bf1123.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 26",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/165d0c9f75224746308fba7b/165d0c9f75224746308fba7b438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/98df672b0a41e30979306a6a9785918a/98df672b0a41e30979306a6a9785918a.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -507,10 +689,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 27",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/e5e6a9c91c39ec48a75a55a0828ae8e3/e5e6a9c91c39ec48a75a55a0828ae8e3.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 28",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/cf6f40ff13f64b251bede9ef/cf6f40ff13f64b251bede9ef438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/f83642cfb5a2738a9d8be2a6da79ab2a/f83642cfb5a2738a9d8be2a6da79ab2a.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -521,10 +717,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 29",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/4e8a09bd4e5f6ce2378ebf1774530770/4e8a09bd4e5f6ce2378ebf1774530770.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 30",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/a269cc27482d595286320b4f/a269cc27482d595286320b4f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 30",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/34489147b8ae78b70e40a9e8db1f7fb8/34489147b8ae78b70e40a9e8db1f7fb8.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -535,10 +745,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 31",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/537065ffb5b464fdcb42cb79214f76f6/537065ffb5b464fdcb42cb79214f76f6.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 32",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/a0b91e57cfc1b93ddae00130/a0b91e57cfc1b93ddae00130438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 32",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/e10c8c248ad4f4d785da063729690e57/e10c8c248ad4f4d785da063729690e57.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -549,10 +773,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 33",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/23b8b6250c27d2911a9c6074844eb141/23b8b6250c27d2911a9c6074844eb141.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 34",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/fa576ce14c3dc29a518f7862/fa576ce14c3dc29a518f7862438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 34",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/4bfab0475db38d6277cf7018b0fe3a7b/4bfab0475db38d6277cf7018b0fe3a7b.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -563,10 +801,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 35",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/12988c72ab581feafd38bbf5034c85e1/12988c72ab581feafd38bbf5034c85e1.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 36",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/233b11c1dd2d65da36f66cdf/233b11c1dd2d65da36f66cdf438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 36",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/503b59cb4fec891b2483c806cf23e678/503b59cb4fec891b2483c806cf23e678.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -577,10 +829,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 37",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/208b03ae2495377520163c869f51ec94/208b03ae2495377520163c869f51ec94.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 38",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/c195b0ea8be28c9b0cc90114/c195b0ea8be28c9b0cc90114438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 38",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/107425d9467401c12d462f4d3448b148/107425d9467401c12d462f4d3448b148.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -591,10 +857,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 39",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/67cbc9d65a12c229a14ad17c22dbd485/67cbc9d65a12c229a14ad17c22dbd485.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 40",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
      "url": "https://main.77player.xyz/m3u8/486f0481772c0bd2645069fc/486f0481772c0bd2645069fc438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 40",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/Ace-Troops-2021-187x269.png",
+     "url": "https://xxx.77player.xyz/ioshls/cc94094b0950f1eac5dbe7f791b9fcda/cc94094b0950f1eac5dbe7f791b9fcda.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -612,10 +892,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/0cd3819a85357d7d46965963/0cd3819a85357d7d46965963438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/a46b5141ccc7656bf3196e05/a46b5141ccc7656bf3196e05438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/799123ba993209ec039d6726/799123ba993209ec039d6726438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -626,10 +920,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/6c338d385b4ef310637fdcc5/6c338d385b4ef310637fdcc5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/29357505704cb2448c18d178/29357505704cb2448c18d178438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/23d6c348c576ffb3d6f0f4e9/23d6c348c576ffb3d6f0f4e9438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -640,10 +948,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/33da548d6ec178d5201f18ca/33da548d6ec178d5201f18ca438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/a826ead96df21d475076cbbc/a826ead96df21d475076cbbc438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/8ff1148d7e8d66de0b1bdd3c/8ff1148d7e8d66de0b1bdd3c438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -654,10 +976,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/76f418374bfa661950d4afcb/76f418374bfa661950d4afcb438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/cc5d2898946c012d1367d8fa/cc5d2898946c012d1367d8fa438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b5ab4896d4d9b0a907b87b5a/b5ab4896d4d9b0a907b87b5a438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -668,10 +1004,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b55c36f7ee961ccde4ae0c12/b55c36f7ee961ccde4ae0c12438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/b38f3b6705d40b5f6d76fa8c/b38f3b6705d40b5f6d76fa8c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a1371fa0c1ad3e7dc9d945ec/a1371fa0c1ad3e7dc9d945ec438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -682,10 +1032,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/79d18983331a9d9e0a3837f8/79d18983331a9d9e0a3837f8438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/cc657eb9dcbacd890aef575a/cc657eb9dcbacd890aef575a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b07f7112f16c514cb1726510/b07f7112f16c514cb1726510438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -696,10 +1060,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 13",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/ca2c43db41693d189d03395d/ca2c43db41693d189d03395d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 14",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/ad7abb3a070908f7137cf7d4/ad7abb3a070908f7137cf7d4438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/ebe93706ded61dabca10bbba/ebe93706ded61dabca10bbba438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -710,10 +1088,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/24044abd68a0c32637bd27b8/24044abd68a0c32637bd27b8438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 16",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/95647b1d44dc6bbb0a4b2a39/95647b1d44dc6bbb0a4b2a39438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/4ce5f94d69e57a2f473d7e17/4ce5f94d69e57a2f473d7e17438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -724,10 +1116,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/c49c35752d442a3be7d4694c/c49c35752d442a3be7d4694c438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 18",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/e1e39049e6d4dcc5ec6ecad5/e1e39049e6d4dcc5ec6ecad5438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/b55b3e5e508d294e48241dc5/b55b3e5e508d294e48241dc5438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -738,10 +1144,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d2fa09123c6f4f81151ff12b/d2fa09123c6f4f81151ff12b438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 20",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/22fc6c7cb232d899a66536c6/22fc6c7cb232d899a66536c6438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e53c540f5ec07f26e0baac5f/e53c540f5ec07f26e0baac5f438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -752,10 +1172,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 21",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/9ef4d6b1606d8821cb751707/9ef4d6b1606d8821cb751707438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 22",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/e3d64f8c9229a2200e0788a2/e3d64f8c9229a2200e0788a2438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/107bf0f9f99a4d178118bc25/107bf0f9f99a4d178118bc25438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -766,10 +1200,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 23",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/bfea79d47f786db2c155fee7/bfea79d47f786db2c155fee7438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 24",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/7ef929938797666db4cdfa4d/7ef929938797666db4cdfa4d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f1caa86ff4a34f5f8d7c55ec/f1caa86ff4a34f5f8d7c55ec438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -780,10 +1228,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 25",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/c4888287254feb7672d0e2d1/c4888287254feb7672d0e2d1438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 26",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/0dfb4a28bb4368886bbe41ac/0dfb4a28bb4368886bbe41ac438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/769a885871a9abe48c0139a2/769a885871a9abe48c0139a2438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -794,10 +1256,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 27",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/53d6e479a84ed1de9c2ac04d/53d6e479a84ed1de9c2ac04d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 28",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/34cb1baf8d94522ca1989b7d/34cb1baf8d94522ca1989b7d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/be69f3e910a093e77e714a58/be69f3e910a093e77e714a58438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -808,10 +1284,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 29",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/da40c9fb93fa93853e6d1491/da40c9fb93fa93853e6d1491438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 30",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/9801f7e4ad7d943fa9ad3dea/9801f7e4ad7d943fa9ad3dea438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 30",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/5d86da3dec904d7bf43994b1/5d86da3dec904d7bf43994b1438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -822,10 +1312,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 31",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/964840e8af6ec8f5afb715e6/964840e8af6ec8f5afb715e6438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 32",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/105a4720e10ca7fba86be810/105a4720e10ca7fba86be810438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 32",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e1d3256d89c6471cee37085c/e1d3256d89c6471cee37085c438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -836,10 +1340,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 33",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/2989e5e6a6f7754404a96966/2989e5e6a6f7754404a96966438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 34",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/ae8af994ff70b22c0922f0ab/ae8af994ff70b22c0922f0ab438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 34",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/07faafd7a879ac5b3d56dd9e/07faafd7a879ac5b3d56dd9e438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -850,10 +1368,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 35",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/bb33e67a9a3b082bcda0cd0f/bb33e67a9a3b082bcda0cd0f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 36",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/be71af4048fa0926dbac59b9/be71af4048fa0926dbac59b9438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 36",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/099979577a2495669cfa9182/099979577a2495669cfa9182438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -864,6 +1396,13 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 37",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/5183f6398c7d012ea0d49a45/5183f6398c7d012ea0d49a45438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 38",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
@@ -871,10 +1410,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 38",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/e91c7501f25efbc10db463e1/e91c7501f25efbc10db463e1438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 39",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/d7f63855b5c775b5a2c25aa0/d7f63855b5c775b5a2c25aa0438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 39",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/07/The-Legend-of-Anle-2023-อันเล่อจ้วน-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f063c8d587ff47ddd92543f2/f063c8d587ff47ddd92543f2438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -1585,10 +2138,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Generation-Kill-2008-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/590caeee60eb82553ac7ccaa/590caeee60eb82553ac7ccaa438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Generation-Kill-2008-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/ac4924443b72ca842e81f302/ac4924443b72ca842e81f302438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Generation-Kill-2008-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/3cfc12412c99696b90dfabcb/3cfc12412c99696b90dfabcb438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1599,10 +2166,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Generation-Kill-2008-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/db75c51aca795f62f9106d9a/db75c51aca795f62f9106d9a438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Generation-Kill-2008-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/3e65b1d5348c7715434fee4d/3e65b1d5348c7715434fee4d438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Generation-Kill-2008-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/2f928bf6d4626953489f5b2b/2f928bf6d4626953489f5b2b438.m3u8",
      "referer": "https://www.seriesday.com/"
     },
     {
@@ -1613,6 +2194,13 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Generation-Kill-2008-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/96b816b611511459ca9d7c6b/96b816b611511459ca9d7c6b438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Generation-Kill-2008-187x269.jpg",
@@ -1620,10 +2208,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Generation-Kill-2008-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/43fc780b89dfe5bc1bc9b334/43fc780b89dfe5bc1bc9b334438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 7",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Generation-Kill-2008-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/d93f06f73c734d01e8b3d1ab/d93f06f73c734d01e8b3d1ab438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/06/Generation-Kill-2008-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/30c1b78cf52937aeb0c4ec4c/30c1b78cf52937aeb0c4ec4c438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
@@ -1774,6 +2376,13 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/War-Sailor-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/f77e75f8ec5b13d617605f67/f77e75f8ec5b13d617605f67438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/War-Sailor-2023-187x269.jpg",
@@ -1781,10 +2390,24 @@
      "referer": "https://www.seriesday.com/"
     },
     {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/War-Sailor-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/d5afad42d288840584e098c9/d5afad42d288840584e098c9438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
      "name": "ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.seriesday.com/wp-content/uploads/2023/04/War-Sailor-2023-187x269.jpg",
      "url": "https://main.77player.xyz/m3u8/f049e617d964351f9326380f/f049e617d964351f9326380f438.m3u8",
+     "referer": "https://www.seriesday.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.seriesday.com/wp-content/uploads/2023/04/War-Sailor-2023-187x269.jpg",
+     "url": "https://main.77player.xyz/m3u8/a97a33a291ee6736da1d1289/a97a33a291ee6736da1d1289438.m3u8",
      "referer": "https://www.seriesday.com/"
     }
    ]
