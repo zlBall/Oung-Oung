@@ -2,7 +2,7 @@
 	"name": "(=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)",
 	"author": "เจียว เจียว",
 	"image": "https://i.ibb.co/TWNQhtv/image.png",
-	"url": "https",
+	"url": "https://br14.short.gy/เจียวเจียว",
 	"groups": [
     {
         "name": "แจกฟรี 100%",
@@ -12,13 +12,13 @@
 	{
 		"name": "",
 		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkTqtz9oF061oQmn54m05L5-NVqkXseF3X9PNwUIpuaTAaJE0Qrj2h_mTN--9kie8yfXbPsdXeKCVTR27eWPHNJRelH0tnhxwcYsGVON-e3sbkPTDJ19r0njx8UWZ1DpOZa-EAxH7N0WM1jotOUe1kBkRF_JLpjbdLpBKjur0z6RCKUzaWlxU-iDiHkI11/s500/pngegg.png",
-		"url": "%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%99.txt",
+		"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%99.txt",
 		"embed": "true"
 	},
 	{
 		"name": "",
 		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkTqtz9oF061oQmn54m05L5-NVqkXseF3X9PNwUIpuaTAaJE0Qrj2h_mTN--9kie8yfXbPsdXeKCVTR27eWPHNJRelH0tnhxwcYsGVON-e3sbkPTDJ19r0njx8UWZ1DpOZa-EAxH7N0WM1jotOUe1kBkRF_JLpjbdLpBKjur0z6RCKUzaWlxU-iDiHkI11/s500/pngegg.png",
-		"url": "%E0%B8%97%E0%B8%B3%E0%B8%9A%E0%B8%B8%E0%B8%8D.txt",
+		"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/%E0%B8%97%E0%B8%B3%E0%B8%9A%E0%B8%B8%E0%B8%8D.txt",
 		"embed": "true"
 	}
 	]
@@ -26,7 +26,7 @@
 	{
 		"name": "กด Refresh เพื่ออัพเดท",
 		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7TR0FDy8YEHn4IqG9TGjNpcnEwB1qubzUEdMduUGsBNVqHPbk_k1pnloPPxNmevypd9dPwRYHtVe7jTjo2HDgK1Nu7xQOeskJ2dTrz94KoRuWqQhZlViZXJQDdThb6tR1khNAS4Kd7mUOVDHjABnGJ513dIf69luaiOpUlLFV6q1KlchDn2R-LZ4VOA/w510-h640/depositphotos_54665347-stock-photo-refresh-rotate-icon-glossy-green.jpg",
-		"url": "https",
+		"url": "https://br14.short.gy/เจียวเจียว",
 		"import": "true"
 	},
 	{
@@ -43,110 +43,116 @@
 			{
 				"name": "ดูหนังออนไลน์HD",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_ดูหนังออนไลน์.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังภาคต่อ",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังภาคต่อ.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังใหม่2023",
 				"image": "https://png.pngtree.com/png-vector/20220910/ourmid/pngtree-2023-colourful-logo-png-image_6156691.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังใหม่-2023.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนัง2022",
 				"image": "https://th.bing.com/th/id/R.ab0300f29392f0fd2352df4d5b87e183?rik=0sOFmJof9Mx6jw&pid=ImgRaw&r=0",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังใหม่-2022.w3u",
 				"import": "false"
 			},
 				{
 				"name": "หนัง2021",
 				"image": "https://th.bing.com/th/id/R.eeaabd8a6065d250ad10cbf300319f35?rik=Co4gMpVQ0fEJmA&pid=ImgRaw&r=0",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังใหม่-2021.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนัง2020",
 				"image": "https://th.bing.com/th/id/R.4cccb8477ad0c313ecb3b5ea8491658d?rik=ES%2b4FZ7hbyGYWA&pid=ImgRaw&r=0",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังใหม่-2020.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนัง2019",
 				"image": "https://th.bing.com/th/id/R.4c18718b8b96a7cbb32b68b089369d79?rik=mvJR7di%2fdr%2b21w&pid=ImgRaw&r=0",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังใหม่-2019.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังชนโรง",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังชนโรง.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังNetflix",
 				"image": "https://th.bing.com/th/id/R.4d30a09d38e6dfe3feaa31920a680108?rik=GnWkgmKvj5nwNg&riu=http%3a%2f%2fwww.cultjer.com%2fimg%2fug_photo%2f2016_09%2f76248820160921034356.jpg&ehk=grD%2fdqb%2b43FMvO3KHmAdPwgUvOikuZkwrJQwMPdCHUM%3d&risl=&pid=ImgRaw&r=0",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_ดูหนัง-netflix.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังฝรั่ง",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังฝรั่ง.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังไทย",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังไทย.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังจีน",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังจีน.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังญี่ปุ่น",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังญี่ปุ่น.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังอินเดีย",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังอินเดีย.w3u",
 				"import": "false"
 			},
 
 			{
 				"name": "หนังเกาหลี",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังเกาหลี.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังHBO",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนัง-hbo.w3u",
 				"import": "false"
 			},
 			{
 				"name": "รวมหนังmarvel",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_รวมหนัง-marvel.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังซอมบี้",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังซอมบี้.w3u",
+				"import": "false"
+			},
+			{
+				"name": "1970-2021",
+				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/1970-2021.w3u",
 				"import": "false"
 			}
 		  ]
@@ -159,79 +165,79 @@
 			{
 				"name": "ดูซีรี่ย์ออนไลน์",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_ดูซีรี่ย์ออนไลน์.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ซีรี่ย์ใหม่2023",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_ซีรี่ย์ใหม่-2023.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ซีรี่ย์ใหม่2022",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_ซีรี่ย์ใหม่-2022.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ซีรี่ย์ใหม่2021",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_ซีรี่ย์ใหม่-2021.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ซีรี่ย์ใหม่2020",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_ซีรี่ย์ใหม่-2020.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ซีรี่ย์พากย์ไทย",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_ซีรี่ย์พากย์ไทย.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ซีรี่ย์ซับไทย",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_ซีรี่ย์ซับไทย.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ซีรี่ย์จีน",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_ซีรี่ย์จีน.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ซีรี่ย์เกาหลี",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_ซีรี่ย์เกาหลี.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ซีรี่ย์ฝรั่ง",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_series-ฝรั่ง.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ซีรี่ย์ไทย",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_series-ไทย.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ซีรี่ย์ญี่ปุ่น",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_series-ญี่ปุ่น.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ซีรี่ย์วาย",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_ซีรีย์วาย.w3u",
 				"import": "false"
 			}
 		  ]
@@ -245,121 +251,121 @@
 			{
 				"name": "พากย์ไทย",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_พากย์ไทย.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ซับไทย",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_ซับไทย.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ตอนแรก",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_ตอนแรก.w3u",
 				"import": "false"
 			},
 			{
 				"name": "united-states",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_united-states.w3u",
 				"import": "false"
 			},
 			{
 				"name": "united-kingdom",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_united-kingdom.w3u",
 				"import": "false"
 			},
 			{
 				"name": "canada",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_canada.w3u",
 				"import": "false"
 			},
 			{
 				"name": "germany",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_germany.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังไซไฟ",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังไซไฟ.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังแนวปริศนา",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังแนวปริศนา.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังระทึกขวัญ",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังระทึกขวัญ.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังสยองขวัญ",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังสยองขวัญ.w3u",
 				"import": "false"
 			},
 			{
 				"name": "Actionบู๊",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังบู๊แอ็คชั่น.w3u",
 				"import": "false"
 			},
 			{
 				"name": "Adventureผจญภัย",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังแนวผจญภัย.w3u",
 				"import": "false"
 			},
 			{
 				"name": "Biographyชีวิตจริง",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังสร้างจากชีวิตจริง.w3u",
 				"import": "false"
 			},
 			{
 				"name": "Comedyตลก",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังตลก.w3u",
 				"import": "false"
 			},
 			{
 				"name": "Crimeอาชญากรรม",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังอาชญากรรม.w3u",
 				"import": "false"
 			},
 			{
 				"name": "Documentaryสารคดี",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_สารคดี.w3u",
 				"import": "false"
 			},
 			{
 				"name": "Dramaชีวิต",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังแนวดราม่า.w3u",
 				"import": "false"
 			},
 			{
 				"name": "Familyครอบครัว",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังครอบครัว.w3u",
 				"import": "false"
 			},
 			{
 				"name": "Fantasyแฟนตาซี",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_หนังแฟนตาซี.w3u",
 				"import": "false"
 			}
 		  ]
@@ -372,19 +378,19 @@
 			{
 				"name": "Animeอนิเมะ",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_anime-อนิเมะ.w3u",
 				"import": "false"
 			},
 			{
 				"name": "Animationอนิเมชั่น",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_animation.w3u",
 				"import": "false"
 			},
 			{
 				"name": "TheMovieเดอะมูฟวี่",
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/123-hd_the-movie-เดอะมูฟวี่.w3u",
 				"import": "false"
 			},
 		  ]
@@ -400,7 +406,7 @@
 		{
 		   "name": "หน้า Home", 
 		   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-		   "url": "hhhhhhhhhh",
+		   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_.w3u",
 		   "import": "false"
 		},
 		{
@@ -412,67 +418,67 @@
 			{
 			   "name": "หนังใหม่", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_หนังใหม่.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "หนังใหม่ 2023", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_หนังใหม่-2023.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ดูหนัง 2023", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_ดูหนัง-2023.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ดูหนัง 2022", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_ดูหนัง-2022.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "หนังไทย", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_หนังไทย.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "หนังฝรั่ง", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_หนังฝรั่ง.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "หนังจีน", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_หนังจีน.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "หนังเกาหลี", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_หนังเกาหลี.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "หนังญี่ปุ่น", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_หนังญี่ปุ่น.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "หนังอินเดีย", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_หนังอินเดีย.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "หนังซอมบี้", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_หนังซอมบี้.w3u",
 			   "import": "false"
 			}
 		  ]
@@ -486,25 +492,25 @@
 			{
 			   "name": "ดูซีรี่ย์", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_ดูซีรีย์.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ซีรี่ย์จีน", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_ซีรีย์จีน.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ซีรี่ย์เกาหลี", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_ซีรีย์เกาหลี.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ซีรี่ย์ฝรั่ง", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_ซีรีย์ฝรั่ง.w3u",
 			   "import": "false"
 			}
 		  ]
@@ -518,127 +524,127 @@
 			{
 			   "name": "TOP IMDb", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_top-imdb.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "Netflix", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_netflix.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "WeTV", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_wetv.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "แอคชั่น Action", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_แอคชั่น-action.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ผจญภัย Adventure", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_ผจญภัย-adventure.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ตลก Comedy", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_ตลก-comedy.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "แฟนตาซี Fantasy", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_แฟนตาซี-fantasy.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "อาชญากรรม Crime", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_อาชญากรรม-crime.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "อนิเมชั่น Animation", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_อนิเมชั่น-animation.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "สารคดี Documentary", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_สารคดี-documentary.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "สยองขวัญ Horror", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_สยองขวัญ-horror.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ระทึกขวัญ Thriller", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_ระทึกขวัญ-thriller.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "โรแมนติก Romance", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_โรแมนติก-romance.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ลึกลับ Mystery", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_ลึกลับ-mystery.w3u",
 			   "import": "false"
 			},
 			{
-			   "name": "เพลงดนตรี Musicalal", 
+			   "name": "เพลงดนตรี Musical", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_เพลงดนตรี-musical.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ประวัติศาสตร์ History", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_ประวัติศาสตร์-history.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ดราม่า Drama", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_ดราม่า-drama.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ไซไฟ Sci-fi", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_ไซไฟ-sci-fi.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ชีวประวัติ Biography", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_ชีวประวัติ-biography.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ครอบครัว Family", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_ครอบครัว-family.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "กีฬา Sports", 
 			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/9nunghd_กีฬา-sports.w3u",
 			   "import": "false"
 			}
 		  ]
@@ -660,37 +666,37 @@
 			{
 			   "name": "TOP IMDb", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_top-imdb.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ซีรี่ย์ใหม่ 2023", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_ซีรี่ย์ใหม่-2023.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ซีรี่ย์ใหม่ 2022", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_ซีรี่ย์ใหม่-2022.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ซีรี่ย์พากย์ไทย", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_ซีรี่ย์พากย์ไทย.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ซีรี่ย์ซับไทย", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_ซีรี่ย์ซับไทย.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ซีรี่ย์วาย", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_ซีรี่ย์วาย.w3u",
 			   "import": "false"
 			}
 		  ]
@@ -704,55 +710,55 @@
 			{
 			   "name": "NETFLIX", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_netflix.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "IQIYI", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_iqiyi.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "WETV", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_wetv.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "VIU", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_viu.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "HBO", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_hbo.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "APPLE TV", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_apple-tv.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "DISNEY+", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_disney-plus.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "AMAZON PRIME", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_amazon-prime-video.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "YOUKU", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_youku.w3u",
 			   "import": "false"
 			}
 		  ]
@@ -766,43 +772,43 @@
 			{
 			   "name": "ซีรี่ย์ไทย", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_ซีรี่ย์ไทย.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ซีรี่ย์ฝรั่ง", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_ซีรี่ย์ฝรั่ง.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ซีรี่ย์จีน", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_ซีรี่ย์จีน.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ซีรี่ย์เกาหลี", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_ซีรี่ย์เกาหลี.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ซีรี่ย์ญี่ปุ่น", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_ซีรี่ย์ญี่ปุ่น.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ซีรี่ย์เอเชีย", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_ซีรี่ย์เอเชีย.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ซีรี่ย์อินเดีย", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_ซีรี่ย์อินเดีย.w3u",
 			   "import": "false"
 			}
 		  ]
@@ -816,115 +822,115 @@
 			{
 			   "name": "แอคชั่น", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_แอคชั่น-action.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ผจญภัย", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_ผจญภัย-adventure.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "แฟนตาซี", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_แฟนตาซี-fantasy.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ดราม่า", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_ดราม่า-drama.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ตลก", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_ตลก-comedy.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "อาชญากรรม", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_อาชญากรรม-crime.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "วิทยาศาสตร์", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_วิทยาศาสตร์-sci-fi.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ลึกลับซ่อนเงื่อน", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_ลึกลับซ่อนเงื่อน-mystery.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "แอนนิเมชั่น", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_แอนนิเมชั่น-animation.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "สยองขวัญ", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_สยองขวัญ-horror.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "สงคราม", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_สงคราม-war.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "โรแมนติก", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_โรแมนติก-romance.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ระทึกขวัญ", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_ระทึกขวัญ-thriller.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "คาวบอย", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_คาวบอย-western.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "กีฬา", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_sport.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ครอบครัว", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_family.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "ชีวิตจริง", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_ชีวิตจริง-biography.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "เพลงดนตรี", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_เพลงดนตรี-musical.w3u",
 			   "import": "false"
 			},
 			{
 			   "name": "สารคดี", 
 			   "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-			   "url": "hhhhhhhhhh",
+			   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_สารคดี-documentary.w3u",
 			   "import": "false"
 			}
 		  ]
@@ -945,19 +951,19 @@
 			{
 				"name": "หนังไทย",
 				"image": "https://fw4free.com/images/logo7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/fw4free_หนังไทย.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังฝรัง",
 				"image": "https://fw4free.com/images/logo7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/fw4free_หนังฝรั่ง.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังเอเชีย",
 				"image": "https://fw4free.com/images/logo7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/fw4free_หนังเอเซีย.w3u",
 				"import": "false"
 			}
 		  ]
@@ -971,79 +977,79 @@
 			{
 				"name": "วิทยาศาสตร์",
 				"image": "https://fw4free.com/images/logo7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/fw4free_วิทยาศาสตร์.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ตลก",
 				"image": "https://fw4free.com/images/logo7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/fw4free_ตลก.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังสยองขวัญ",
 				"image": "https://fw4free.com/images/logo7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/fw4free_สยองขวัญ.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังโรแมนติก",
 				"image": "https://fw4free.com/images/logo7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/fw4free_โรแมนติก.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังแอคชั่น",
 				"image": "https://fw4free.com/images/logo7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/fw4free_แอคชั่น.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังกระตุกขวัญ",
 				"image": "https://fw4free.com/images/logo7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/fw4free_กระตุกขวัญ.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังดราม่า",
 				"image": "https://fw4free.com/images/logo7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/fw4free_ดราม่า.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังลึกลับ",
 				"image": "https://fw4free.com/images/logo7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/fw4free_ลึกลับ.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังอาชญากรรม",
 				"image": "https://fw4free.com/images/logo7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/fw4free_อาชญากรรม.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังผจญภัย",
 				"image": "https://fw4free.com/images/logo7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/fw4free_ผจญภัย.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังแฟนตาซี",
 				"image": "https://fw4free.com/images/logo7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/fw4free_แฟนตาซี.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังสงคราม",
 				"image": "https://fw4free.com/images/logo7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/fw4free_สงคราม.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ซูเปอร์ฮีโร่",
 				"image": "https://fw4free.com/images/logo7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/fw4free_ซูเปอร์ฮีโร่.w3u",
 				"import": "false"
 			}
 		  ]
@@ -1057,13 +1063,13 @@
 			{
 				"name": "หนังการ์ตูน",
 				"image": "https://fw4free.com/images/logo7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/fw4free_การ์ตูน.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังอนิเมชั่น",
 				"image": "https://fw4free.com/images/logo7.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/fw4free_อนิเมชั่น.w3u",
 				"import": "false"
 			}
 		  ]
@@ -1078,13 +1084,13 @@
 		{
 		   "name": "หน้า Home", 
 		   "image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-		   "url": "hhhhhhhhhh",
+		   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/tvallseries_.w3u",
 		   "import": "false"
 		},
 		{
 			"name": "การ์ตูน",
 			"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-			"url": "hhhhhhhhhh",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/tvallseries_ซีรีย์การ์ตูน.w3u",
 			"import": "false"
 		},
 		{
@@ -1095,51 +1101,51 @@
 			{
 				"name": "ละครไทย",
 				"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/tvallseries_ซีรีย์ละครไทย.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ฝรั่ง",
 				"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/tvallseries_ซีรีย์ฝรั่ง.w3u",
 				"import": "false"
 			},
 			{
 				"name": "จีน",
 				"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/tvallseries_ซีรีย์จีน.w3u",
 				"import": "false"
 			},
 			{
 				"name": "เกาหลี",
 				"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/tvallseries_ซีรีย์เกาหลี.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ญี่ปุ่น",
 				"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/tvallseries_ซีรีย์ญี่ปุ่น.w3u",
 				"import": "false"
 			},
 			{
 				"name": "เวียดนาม",
 				"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/tvallseries_ซีรีย์เวียดนาม.w3u",
 				"import": "false"
 			},
 			{
 				"name": "อินเดีย",
 				"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/tvallseries_ซีรีย์อินเดีย.w3u",
 				"import": "false"
 			},
 			{
 				"name": "อินโดนีเซีย",
 				"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/tvallseries_ซีรีย์อินโดนีเซีย.w3u",
 				"import": "false"
-			},
+			}
 		  ]
 		},
 		{
@@ -1150,43 +1156,43 @@
 			{
 				"name": "netflix",
 				"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/tvallseries_ซีรีย์netflix.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ซีรีย์ยังไม่จบ",
 				"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/tvallseries_ซีรีย์ยังไม่จบ.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ซีรีย์จบ",
 				"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/tvallseries_ซีรีย์netflix.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ซาวด์แทรค",
 				"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/tvallseries_ซีรีย์ซาวด์แทรค.w3u",
 				"import": "false"
 			},
 			{
 				"name": "ซับไทย",
 				"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/tvallseries_ซีรีย์ซับไทย.w3u",
 				"import": "false"
 			},
 			{
 				"name": "พากย์ไทย",
 				"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/tvallseries_ซีรีย์พากย์ไทย.w3u",
 				"import": "false"
 			},
 			{
 				"name": "สารคดี",
 				"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-				"url": "hhhhhhhhhh",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/tvallseries_ซีรีย์สารคดี.w3u",
 				"import": "false"
 			}
 		  ]	
@@ -1201,83 +1207,83 @@
 		{
 			"name": "ละคร",
 			"image": "https://cdn.watchlakorn.in/images/video_logo.png",
-			"url": "hhhhhhhhhh",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/Watchlakorn_ละคร.w3u",
 			"import": "false"
 		},
 		{
 			"name": "ซิกคอม",
 			"image": "https://cdn.watchlakorn.in/images/video_logo.png",
-			"url": "hhhhhhhhhh",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/Watchlakorn_ซิทคอม.w3u",
 			"import": "false"
 		},
 			{
-			"name": "ซีรีย์",
+			"name": "เรียลลิตี้",
 			"image": "https://cdn.watchlakorn.in/images/video_logo.png",
-			"url": "hhhhhhhhhh",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/Watchlakorn_เรียลลิตี้.w3u",
 			"import": "false"
 		},
 		{
 			"name": "ละครเก่า",
 			"image": "https://cdn.watchlakorn.in/images/video_logo.png",
-			"url": "hhhhhhhhhh",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/Watchlakorn_ละครเก่า.w3u",
 			"import": "false"
 		},
 		{
-			"name": "วาไรตี้",
+			"name": "วาไรตี้ เกมโชว์",
 			"image": "https://cdn.watchlakorn.in/images/video_logo.png",
-			"url": "hhhhhhhhhh",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/Watchlakorn_%E0%B8%A7%E0%B8%B2%E0%B9%84%E0%B8%A3%E0%B8%95%E0%B8%B5%E0%B9%89%20%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%82%E0%B8%8A%E0%B8%A7%E0%B9%8C.w3u",
 			"import": "false"
 		},
 		{
 			"name": "กีฬา",
 			"image": "https://cdn.watchlakorn.in/images/video_logo.png",
-			"url": "hhhhhhhhhh",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/Watchlakorn_กีฬา.w3u",
 			"import": "false"
 		},
 		{
 			"name": "ข่าว",
 			"image": "https://cdn.watchlakorn.in/images/video_logo.png",
-			"url": "hhhhhhhhhh",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/Watchlakorn_ข่าวและเหตุการณ์.w3u",
 			"import": "false"
 		},
 		{
-			"name": "ประกวด",
+			"name": "คอนเสิร์ต",
 			"image": "https://cdn.watchlakorn.in/images/video_logo.png",
-			"url": "hhhhhhhhhh",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/Watchlakorn_คอนเสิร์ต.w3u",
 			"import": "false"
 		},
 		{
 			"name": "สารคดี",
 			"image": "https://cdn.watchlakorn.in/images/video_logo.png",
-			"url": "hhhhhhhhhh",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/Watchlakorn_สาระความรู้.w3u",
 			"import": "false"
 		}
 	  ]
 	},
 	{
-		"name": "7yup.net",
+		"name": "666HD",
 		"author": "อุ๋ง อุ๋ง",
-		"image": "https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
+		"image": "https://666hd.com/wp-content/uploads/2022/08/666-hd.webp",
 		"groups": [
 		{
 			"name": "หนัง",
 			"author": "อุ๋ง อุ๋ง",
-			"image": "https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
+			"image": "https://666hd.com/wp-content/uploads/2022/08/666-hd.webp",
 			"groups": [
 			{
-				"name": "หนัง",
-				"image": "https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
-				"url": "movies",
+				"name": "รวม หนัง",
+				"image": "https://666hd.com/wp-content/uploads/2022/08/666-hd.webp",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/Movie_666hd_movies.w3u",
 				"import": "false"
 			},
 			{
 				"name": "แยกตามประเทศ",
-				"image": "https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
+				"image": "https://666hd.com/wp-content/uploads/2022/08/666-hd.webp",
 				"groups": [
 				{
-					"name": "หนังเกาหลี",
-					"image": "https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
-					"url": "หนังเกาหลี",
+					"name": "ซีรีย์จีน",
+					"image": "https://666hd.com/wp-content/uploads/2022/08/666-hd.webp",
+					"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/Movie_666hd_หนังจีน.w3u",
 					"import": "false"
 				}
 			  ]
@@ -1286,29 +1292,31 @@
 		},
 		{
 			"name": "ซีรีย์",
-			"image": "https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
+			"image": "https://666hd.com/wp-content/uploads/2022/08/666-hd.webp",
 			"groups": [
 			{
-				"name": "ซีรีย์ ",
-				"image": "https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
-				"url": "series",
+				"name": "รวม ซีรีย์ ",
+				"image": "https://666hd.com/wp-content/uploads/2022/08/666-hd.webp",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/Series_666hd_series.w3u",
 				"import": "false"
 			},
 			{
 				"name": "แยกตามประเทศ",
-				"image": "https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
+				"image": "https://666hd.com/wp-content/uploads/2022/08/666-hd.webp",
 				"groups": [
 				{
-					"name": "ซีรีย์เกาหลี",
-					"image": "https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
-					"url": "ซีรีย์เกาหลี",
+					"name": "ซีรีย์จีน",
+					"image": "https://666hd.com/wp-content/uploads/2022/08/666-hd.webp",
+					"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/Series_666hd_ซีรีย์จีน.w3u",
 					"import": "false"
 				}
 			  ]
 			}
 		  ]
-		},
-		{
+		}
+	  ]
+	},
+	{
 		"name": "Nung2hdd",
 		"author": "เจียว เจียว",
 		"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
@@ -1316,7 +1324,7 @@
 		{
 			"name": "หน้า Home",
 			"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-			"url": "hhhhhhhhhh",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/nung2hdd_.w3u",
 			"import": "false"
 		},
 		{
@@ -1327,25 +1335,25 @@
 			{
 				"name": "หนังไทย",
 				"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-				"url": "series",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/nung2hdd_thai-movies.w3u",
 				"import": "false"
 			},
 			{
 				"name": "Collection",
 				"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-				"url": "series",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/nung2hdd_collection-movies.w3u",
 				"import": "false"
 			},
 			{
 				"name": "Local_Movie",
 				"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-				"url": "series",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/nung2hdd_local-movies.w3u",
 				"import": "false"
 			},
 			{
 				"name": "TVSHOW",
 				"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-				"url": "series",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/nung2hdd_tvshow.w3u",
 				"import": "false"
 			}
 		  ]
