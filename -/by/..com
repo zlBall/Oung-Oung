@@ -27,11 +27,11 @@
   "name": "dooball2you TV",
   "author": "เจียว เจียว อัพเดท 19/07/2023",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
-  "image": "https://dooball2you.com/wp-content/themes/dooball2you/images/logo-dooball.png",
+  "image": "https://dooball2you.com/wp-content/uploads/2023/09/cropped-dooball2you.png",
   "groups": [
     {
       "name": "ช่องทีวีดิจิตอล",
-      "image": "https://dooball2you.com/wp-content/themes/dooball2you/images/logo-dooball.png",
+      "image": "https://dooball2you.com/wp-content/uploads/2023/09/cropped-dooball2you.png",
       "stations": [
         {
           "name": "ช่อง : CH3",
@@ -139,7 +139,7 @@
     },
     {
       "name": "ช่องกีฬา",
-      "image": "https://dooball2you.com/wp-content/themes/dooball2you/images/logo-dooball.png",
+      "image": "https://dooball2you.com/wp-content/uploads/2023/09/cropped-dooball2you.png",
       "stations": [
         {
           "name": "ช่อง: True Sport HD 1",
