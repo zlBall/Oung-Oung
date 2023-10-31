@@ -1,9 +1,159 @@
 {
   "name": "หนังใหม่ 2023",
-  "author": "เจียว เจียว อัพวันที่ 27 ตุลาคม 2566",
+  "author": "เจียว เจียว อัพวันที่ 31 ตุลาคม 2566",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
+    {
+      "name": "Countdown (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Countdown-2023-1-300x450.jpg",
+      "stations": [
+        {
+          "name": "Countdown (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Countdown-2023-1-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/86a4c65c9861f285a7632236/86a4c65c9861f285a7632236438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "My Worst Neighbor (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/My-Worst-Neighbor-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "My Worst Neighbor (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/My-Worst-Neighbor-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/3a39468695edf7f6b21878b6/3a39468695edf7f6b21878b6438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Appendage (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Appendage-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "Appendage (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Appendage-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/abb47b694ff120bdc2017e46/abb47b694ff120bdc2017e46438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "LEGO Marvel Avengers Code Red (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/LEGO-Marvel-Avengers-Code-Red-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "LEGO Marvel Avengers Code Red (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/LEGO-Marvel-Avengers-Code-Red-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/0c92b7deff843012bb206ea6/0c92b7deff843012bb206ea6438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Dream Girl 2 (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Dream-Girl-2-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "Dream Girl 2 (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Dream-Girl-2-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/7a5e0844ccd6ab9e02ec825d/7a5e0844ccd6ab9e02ec825d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Exorcist-Believer-2023-หมอผีเอ็กซอร์ซิสต์-ผู้ศรัทธา-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Exorcist-Believer-2023-หมอผีเอ็กซอร์ซิสต์-ผู้ศรัทธา-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/3aa3b471b121f03ad805e653/3aa3b471b121f03ad805e653438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Sister Death (2023) ซิสเตอร์เดท",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Sister-Death-2023-ซิสเตอร์เดท-300x450.jpg",
+      "stations": [
+        {
+          "name": "Sister Death (2023) ซิสเตอร์เดท",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Sister-Death-2023-ซิสเตอร์เดท-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/7819787e3ef15ecae6cbc601/7819787e3ef15ecae6cbc601438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Pain Hustlers (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Pain-Hustlers-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "Pain Hustlers (2023)",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Pain-Hustlers-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/9c026b3e2eaadf9a90e5c7fb/9c026b3e2eaadf9a90e5c7fb438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Yellow Door (2023) ชมรมหนังยุค 90",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Yellow-Door-2023-ชมรมหนังยุค-90-300x450.jpg",
+      "stations": [
+        {
+          "name": "Yellow Door (2023) ชมรมหนังยุค 90",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Yellow-Door-2023-ชมรมหนังยุค-90-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/77c37e831cfe7ef6c90159b4/77c37e831cfe7ef6c90159b4438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Yellow Door (2023) ชมรมหนังยุค 90",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Yellow-Door-2023-ชมรมหนังยุค-90-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/6d80c27728fa0b918bd6c644/6d80c27728fa0b918bd6c644800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Prisoner's Daughter (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Prisoners-Daughter-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "Prisoner's Daughter (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Prisoners-Daughter-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/89301cbd8a4fbc097b66e2ad/89301cbd8a4fbc097b66e2ad438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Blackening (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Blackening-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Blackening (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Blackening-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/add19f10f62facedafda4a83/add19f10f62facedafda4a83438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
     {
       "name": "OneFour Against All Odds (2023) ดนตรีฝ่าอุปสรรค",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/OneFour-Against-All-Odds-2023-ดนตรีฝ่าอุปสรรค-300x450.jpg",
@@ -525,19 +675,6 @@
       ]
     },
     {
-      "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Exorcist-Believer-2023-หมอผีเอ็กซอร์ซิสต์-ผู้ศรัทธา-300x450.jpg",
-      "stations": [
-        {
-          "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Exorcist-Believer-2023-หมอผีเอ็กซอร์ซิสต์-ผู้ศรัทธา-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/319b025ee7f70e56132c085c/319b025ee7f70e56132c085c438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "The Worm Valley (2023) หุบเขาหนอน",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Worm-Valley-2023-หุบเขาหนอน-300x450.jpg",
       "stations": [
@@ -764,19 +901,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Are-You-There-God-Its-Me-Margaret-2023-วันนั้นของมาร์กาเร็ต-300x450.jpg",
           "url": "https://main.77player.xyz/m3u8/50d3a68b3ca58005832f9d45/50d3a68b3ca58005832f9d45438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Countdown (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Countdown-2023-300x450.jpg",
-      "stations": [
-        {
-          "name": "Countdown (2023)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Countdown-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/3291d1410a38ae2f3989ab08/3291d1410a38ae2f3989ab08438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
