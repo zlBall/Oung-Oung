@@ -1,525 +1,413 @@
 {
  "name": "ดูบอลสด เว็บลูกหนังตัวจริง ดูบอลฟรี4k ไม่มีกะตุก ฟุตบอลสด ทุกคู่ ดูได้24ชม.",
- "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 01 พฤศจิกายน 2566",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 02 พฤศจิกายน 2566",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://soccertv4k.com/wp-content/uploads/2022/11/soccertv4k-logo-v2-300x116-1.png",
  "stations": [
   {
-   "name": "เจนัว 🆅🆂 เรจเจียน่า",
-   "info": "01/11/2023 เวลา 21:00",
+   "name": "สลาเวีย โซเฟีย 🆅🆂 Ludogorets",
+   "info": "02/11/2023 เวลา 23:00",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/diemasport1/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "Akron Togliatti 🆅🆂 โวลการ์ อัสตราแกน",
+   "info": "02/11/2023 เวลา 20:00",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch18/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "ซีเอสเคเอ มอสโก 🆅🆂 กาโซวิค โอเรนเบิร์ก",
+   "info": "02/11/2023 เวลา 22:30",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch12/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "รอสตอฟ 🆅🆂 อูราล",
+   "info": "03/11/2023 เวลา 00:45",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch10/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "ดินาโม มอสโก 🆅🆂 นิซนี่ นอฟโกรอด",
+   "info": "03/11/2023 เวลา 00:45",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch11/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "กาเซียนเท็ปสปอร์ 🆅🆂 Efeler 09",
+   "info": "02/11/2023 เวลา 19:00",
    "image": "https://www.soccertv4k.com/live.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch4/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "คอนยาสปอร์ 🆅🆂 Erbaaspor",
+   "info": "02/11/2023 เวลา 21:30",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch4/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "คายเซริสปอร์ 🆅🆂 Igdir FK",
+   "info": "03/11/2023 เวลา 00:00",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch4/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "อัล จาห์ร่า 🆅🆂 อัล ชาร์จาห์",
+   "info": "02/11/2023 เวลา 19:45",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch15/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "อัล วาเซิ่ล 🆅🆂 อัล ไอน์",
+   "info": "02/11/2023 เวลา 22:30",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch13/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "Qizilqum 🆅🆂 Andijan",
+   "info": "02/11/2023 เวลา 20:15",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch2/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "คราโคเวีย คราคอฟ 🆅🆂 ซาเกลบี้ ลูบิน",
+   "info": "02/11/2023 เวลา 21:00",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch3/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "ŁKS Łódź 🆅🆂 ราคอฟ เชสโตโชว่า",
+   "info": "03/11/2023 เวลา 00:00",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch3/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "ตีคี่ 71 🆅🆂 ลีเกีย วอร์ซอว์",
+   "info": "03/11/2023 เวลา 03:00",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://soccertv4k.com/ดูบอลสด?id=2244245",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "อัล ซาดด์ 🆅🆂 Al Markhiya",
+   "info": "02/11/2023 เวลา 21:30",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch7/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "Muaither SC 🆅🆂 อุมม์ ซาลาล",
+   "info": "02/11/2023 เวลา 21:30",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch9/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "อัล ดูฮาอิล 🆅🆂 อัล เรย์ยาน",
+   "info": "02/11/2023 เวลา 23:30",
+   "image": "https://www.soccertv4k.com/link.gif",
    "url": "https://cdn1.googlecdn.live/4k/ch1/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "เลชเช่ 🆅🆂 ปาร์ม่า",
-   "info": "02/11/2023 เวลา 00:00",
+   "name": "อารารัต 🆅🆂 BKMA",
+   "info": "02/11/2023 เวลา 21:00",
    "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ziggosportvoetbal/playlist.m3u8",
+   "url": "https://cdn1.googlecdn.live/4k/ch5/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "อูดิเนเซ่ 🆅🆂 กายารี่",
-   "info": "02/11/2023 เวลา 03:00",
+   "name": "ดินาโม มินส์ค 🆅🆂 บาเต้",
+   "info": "02/11/2023 เวลา 22:45",
    "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ziggosportvoetbal/playlist.m3u8",
+   "url": "https://cdn1.googlecdn.live/4k/ch18/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "เอชเอชซี ฮาร์เดนเบิร์ก 🆅🆂 เฮราเคิ่ลส์",
-   "info": "02/11/2023 เวลา 00:45",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/foxsports2nl/playlist.m3u8",
+   "name": "Borneo 🆅🆂 Persik Kediri",
+   "info": "02/11/2023 เวลา 19:00",
+   "image": "https://www.soccertv4k.com/live.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch9/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "ไอเซิลเมียร์โวเกลส์ 🆅🆂 สปาร์ต้า ร็อตเตอร์ดัม",
-   "info": "02/11/2023 เวลา 02:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/foxsports4nl/playlist.m3u8",
+   "name": "Bhayangkara 🆅🆂 PSIS Semarang",
+   "info": "02/11/2023 เวลา 19:00",
+   "image": "https://www.soccertv4k.com/live.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch10/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "เดน บอช 🆅🆂 เอ็กเซลซิเออร์",
-   "info": "02/11/2023 เวลา 03:00",
+   "name": "อัล นาสเซอร์ 🆅🆂 อัล อาราบี",
+   "info": "02/11/2023 เวลา 21:30",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch10/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "อัล คูเวต 🆅🆂 อัล ฟาฮาฮีล",
+   "info": "03/11/2023 เวลา 00:20",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch9/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "Alexandria 🆅🆂 โบโตซานี่",
+   "info": "02/11/2023 เวลา 19:00",
+   "image": "https://www.soccertv4k.com/live.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch11/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "กลอเรีย บูเซา 🆅🆂 SSC Farul",
+   "info": "02/11/2023 เวลา 22:30",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch15/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "Universitatea Cluj 🆅🆂 ซีเอฟอาร์ คลูช",
+   "info": "03/11/2023 เวลา 01:30",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch18/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "Sassuolo 🆅🆂 สเปเซีย",
+   "info": "03/11/2023 เวลา 00:00",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch5/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "โตริโน่ 🆅🆂 โฟรซิโนเน่",
+   "info": "03/11/2023 เวลา 03:00",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://soccertv4k.com/ดูบอลสด?id=2244246",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "Ishoj 🆅🆂 อาร์ฮุส",
+   "info": "03/11/2023 เวลา 00:00",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch6/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "แรนเดอร์ส 🆅🆂 บรอนด์บี้",
+   "info": "03/11/2023 เวลา 02:00",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch2/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "ไรน์ดอร์ฟ อัลทัค 🆅🆂 เบลา-ไวส์ ลินซ์",
+   "info": "03/11/2023 เวลา 00:00",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch7/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "Grazer AK 🆅🆂 สตวร์ม กราซ",
+   "info": "03/11/2023 เวลา 02:30",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://soccertv4k.com/ดูบอลสด?id=2244242",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "คัมบูร์ 🆅🆂 เอ็มวีวี มาสทริชท์",
+   "info": "03/11/2023 เวลา 00:45",
    "image": "https://www.soccertv4k.com/link.gif",
    "url": "https://cdn1.googlecdn.live/4k/foxsports3nl/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "อูนิยง แซงต์-ชิลลวส 🆅🆂 Meux",
-   "info": "01/11/2023 เวลา 21:00",
-   "image": "https://www.soccertv4k.com/live.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch19/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "เค ลีร์เซ่ 🆅🆂 รอยัล อันท์เวิร์ป",
-   "info": "01/11/2023 เวลา 21:45",
-   "image": "https://www.soccertv4k.com/live.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ziggosportselect/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "URSL Visé 🆅🆂 เกงค์",
-   "info": "01/11/2023 เวลา 22:00",
+   "name": "เอฟซี ออสส์ 🆅🆂 เอฟซี ไอนด์โฮเฟ่น",
+   "info": "03/11/2023 เวลา 02:00",
    "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch5/playlist.m3u8",
+   "url": "https://cdn1.googlecdn.live/4k/foxsports4nl/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "Etar 🆅🆂 ซีเอสเคเอ โซเฟีย",
-   "info": "01/11/2023 เวลา 22:00",
+   "name": "SJC Noordwijk 🆅🆂 วิลเล่ม ทเว",
+   "info": "03/11/2023 เวลา 02:00",
    "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/diemasport1/playlist.m3u8",
+   "url": "https://cdn1.googlecdn.live/4k/ch3/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "Arda Kardzhali 🆅🆂 เลฟสกี้ โซเฟีย",
-   "info": "02/11/2023 เวลา 00:30",
+   "name": "เอ็นอีซี ไนจ์เมเก้น 🆅🆂 โรด้า เจซี",
+   "info": "03/11/2023 เวลา 03:00",
    "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/diemasport1/playlist.m3u8",
+   "url": "https://cdn1.googlecdn.live/4k/foxsports1nl/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "สปอร์ติ้ง บราก้า 🆅🆂 คาซ่า เปีย",
-   "info": "02/11/2023 เวลา 03:15",
+   "name": "Chiclana 🆅🆂 บียาร์เรอัล",
+   "info": "03/11/2023 เวลา 01:00",
    "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/sporttv1/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "เดเฟนซ่า อี ฮุสติเซีย 🆅🆂 ราซิ่ง คลับ",
-   "info": "02/11/2023 เวลา 06:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/sporttv1/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "Oriolik 🆅🆂 ดินาโม ซาเกร็บ",
-   "info": "01/11/2023 เวลา 20:00",
-   "image": "https://www.soccertv4k.com/live.gif",
    "url": "https://cdn1.googlecdn.live/4k/ch12/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "กอริก้า 🆅🆂 Radnik Krizevci",
-   "info": "01/11/2023 เวลา 22:30",
+   "name": "Arosa 🆅🆂 กรานาด้า",
+   "info": "03/11/2023 เวลา 01:00",
    "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch9/playlist.m3u8",
+   "url": "https://cdn1.googlecdn.live/4k/ch13/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "สโลวาน ลิเบอเรช 🆅🆂 มลาด้า โบเลสลาฟ",
-   "info": "01/11/2023 เวลา 22:30",
+   "name": "Gimnastica Segoviana 🆅🆂 Sestao",
+   "info": "03/11/2023 เวลา 01:00",
    "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch10/playlist.m3u8",
+   "url": "https://cdn1.googlecdn.live/4k/ch15/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "โบฮีเมียนส์ 1905 🆅🆂 สปาร์ต้า ปราก",
-   "info": "01/11/2023 เวลา 23:30",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch19/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "บานิค ออสตราว่า 🆅🆂 ซลิน",
-   "info": "01/11/2023 เวลา 23:30",
+   "name": "Atzeneta 🆅🆂 เรอัล ซาราโกซ่า",
+   "info": "03/11/2023 เวลา 02:00",
    "image": "https://www.soccertv4k.com/link.gif",
    "url": "https://cdn1.googlecdn.live/4k/ch1/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "ฮอนก้า 🆅🆂 วีพีเอส วาซ่า",
-   "info": "01/11/2023 เวลา 23:00",
+   "name": "อูเด โลโกรนเญส 🆅🆂 บาเลนเซีย",
+   "info": "03/11/2023 เวลา 02:00",
    "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch13/playlist.m3u8",
+   "url": "https://cdn1.googlecdn.live/4k/ziggosportvoetbal/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "วีบอร์ก 🆅🆂 นอร์ดเชลลันด์",
-   "info": "02/11/2023 เวลา 00:00",
+   "name": "เอร์กูเลส 🆅🆂 บูร์โกส",
+   "info": "03/11/2023 เวลา 02:30",
    "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch2/playlist.m3u8",
+   "url": "https://soccertv4k.com/ดูบอลสด?id=2244240",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "เฟรเดริเซีย 🆅🆂 โอบี โอเดนเซ่",
-   "info": "02/11/2023 เวลา 02:00",
+   "name": "Villanovense 🆅🆂 UD Ibiza",
+   "info": "03/11/2023 เวลา 02:30",
    "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch15/playlist.m3u8",
+   "url": "https://soccertv4k.com/ดูบอลสด?id=2244241",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "ตูนารี่ 🆅🆂 โวลุนตารี่",
-   "info": "01/11/2023 เวลา 20:00",
+   "name": "Deportivo Murcia 🆅🆂 เดปอร์ติโบ อลาเบส",
+   "info": "03/11/2023 เวลา 03:00",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://soccertv4k.com/ดูบอลสด?id=2244244",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "Aluminium Arak 🆅🆂 ซอบ อาฮาน",
+   "info": "02/11/2023 เวลา 18:30",
    "image": "https://www.soccertv4k.com/live.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch13/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "UTA Arad 🆅🆂 ซีเอส ยู ไครโอว่า",
-   "info": "01/11/2023 เวลา 23:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch15/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "สเตอัว บูคาเรสต์ 🆅🆂 ราปิด บูคาเรสต์",
-   "info": "02/11/2023 เวลา 02:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch18/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "เวสต์แฮม ยูไนเต็ด 🆅🆂 อาร์เซน่อล",
-   "info": "02/11/2023 เวลา 02:30",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/skysportmainevent/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "เอเอฟซี บอร์นมัธ 🆅🆂 ลิเวอร์พูล",
-   "info": "02/11/2023 เวลา 02:45",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch2/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "เชลซี 🆅🆂 แบล็คเบิร์น โรเวอร์ส",
-   "info": "02/11/2023 เวลา 02:45",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch3/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "เอฟเวอร์ตัน 🆅🆂 เบิร์นลี่ย์",
-   "info": "02/11/2023 เวลา 02:45",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch4/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "อิปสวิช ทาวน์ 🆅🆂 ฟูแล่ม",
-   "info": "02/11/2023 เวลา 02:45",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch5/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "แมนเชสเตอร์ ยูไนเต็ด 🆅🆂 นิวคาสเซิ่ล ยูไนเต็ด",
-   "info": "02/11/2023 เวลา 03:15",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch12/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "คิมกิ 🆅🆂 Dynamo Vladivostok",
-   "info": "01/11/2023 เวลา 20:00",
-   "image": "https://www.soccertv4k.com/live.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch15/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "โลโคโมทีฟ มอสโก 🆅🆂 รูบิน คาซาน",
-   "info": "01/11/2023 เวลา 22:30",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch11/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "Sochi 🆅🆂 ฟาเคล",
-   "info": "01/11/2023 เวลา 22:30",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch12/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "สปาร์ตัก มอสโก 🆅🆂 คราสโนดาร์",
-   "info": "02/11/2023 เวลา 00:45",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch12/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "Rukh Vynnyky 🆅🆂 Dnipro-1",
-   "info": "01/11/2023 เวลา 23:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch18/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "เชอร์โนโมเร็ตส์ โอเดสซ่า 🆅🆂 ซอร์ย่า",
-   "info": "01/11/2023 เวลา 20:00",
-   "image": "https://www.soccertv4k.com/live.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch18/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "ฮาร์ทแบร์ก 🆅🆂 เร้ด บูลล์ ซัลซ์บวร์ก",
-   "info": "02/11/2023 เวลา 00:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch3/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "แอลดียู กีโต้ 🆅🆂 อูนิเวร์ซิดาด คาโตลิก้า",
-   "info": "02/11/2023 เวลา 07:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch9/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "โบรุสเซีย ดอร์ทมุนด์ 🆅🆂 ฮอฟเฟ่นไฮม์",
-   "info": "02/11/2023 เวลา 00:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch4/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "ไฟร์บวร์ก 🆅🆂 พาเดอร์บอร์น",
-   "info": "02/11/2023 เวลา 00:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch5/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "เอสเฟา ซานด์เฮาเซ่น 🆅🆂 ไบเออร์ เลเวอร์คูเซ่น",
-   "info": "02/11/2023 เวลา 00:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch6/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "ซาร์บรุ๊คเค่น 🆅🆂 บาเยิร์น มิวนิค",
-   "info": "02/11/2023 เวลา 02:45",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch6/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "แฮร์ธ่า เบอร์ลิน 🆅🆂 ไมนซ์ 05",
-   "info": "02/11/2023 เวลา 02:45",
-   "image": "https://www.soccertv4k.com/link.gif",
    "url": "https://cdn1.googlecdn.live/4k/ch7/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "วิคตอเรีย โคโลญจน์ 🆅🆂 ไอน์ทรัค แฟร้งค์เฟิร์ต",
-   "info": "02/11/2023 เวลา 02:45",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch9/playlist.m3u8",
+   "name": "Shams Azar Qazvin 🆅🆂 เอสเตกัล",
+   "info": "02/11/2023 เวลา 19:00",
+   "image": "https://www.soccertv4k.com/live.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch12/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "โครินเธียนส์ 🆅🆂 อัตเลติโก ปาราเนนเซ่",
-   "info": "02/11/2023 เวลา 05:00",
+   "name": "แทร็คเตอร์ ซาซี่ 🆅🆂 Nassaji Mazandaran",
+   "info": "02/11/2023 เวลา 19:00",
+   "image": "https://www.soccertv4k.com/live.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch13/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "เซปาฮาน 🆅🆂 Malavan",
+   "info": "02/11/2023 เวลา 20:00",
    "image": "https://www.soccertv4k.com/link.gif",
    "url": "https://cdn1.googlecdn.live/4k/ch1/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "อินเตอร์นาซิอองนาล 🆅🆂 อเมริกา มิเนโร่",
-   "info": "02/11/2023 เวลา 05:00",
+   "name": "เปอร์เซโปลิส 🆅🆂 Sanat Naft",
+   "info": "02/11/2023 เวลา 21:30",
    "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch2/playlist.m3u8",
+   "url": "https://cdn1.googlecdn.live/4k/ch11/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "โคริติบา 🆅🆂 เกรมิโอ",
-   "info": "02/11/2023 เวลา 06:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch3/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "ฟลาเมงโก 🆅🆂 ซานโตส",
-   "info": "02/11/2023 เวลา 06:00",
+   "name": "อาแจ็กซ์ อัมสเตอร์ดัม 🆅🆂 โฟเลนดัม",
+   "info": "03/11/2023 เวลา 02:00",
    "image": "https://www.soccertv4k.com/link.gif",
    "url": "https://cdn1.googlecdn.live/4k/ch4/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "อัตเลติโก มิเนโร่ 🆅🆂 ฟอร์ตาเลซ่า",
-   "info": "02/11/2023 เวลา 07:30",
+   "name": "คูยาบา 🆅🆂 วาสโก ดา กาม่า",
+   "info": "03/11/2023 เวลา 03:00",
    "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch10/playlist.m3u8",
+   "url": "https://soccertv4k.com/ดูบอลสด?id=2244243",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "โบตาโฟโก้ 🆅🆂 พัลไมรัส",
-   "info": "02/11/2023 เวลา 07:30",
+   "name": "โกยาส 🆅🆂 บรากันติโน่",
+   "info": "03/11/2023 เวลา 04:00",
    "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch11/playlist.m3u8",
+   "url": "https://soccertv4k.com/ดูบอลสด?id=2244249",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "แอตเลติโก้ กัวเนนเซ่ 🆅🆂 โนโวซอนติโน่",
-   "info": "02/11/2023 เวลา 06:00",
+   "name": "เซา เปาโล 🆅🆂 ครูไซโร่",
+   "info": "03/11/2023 เวลา 06:00",
    "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch5/playlist.m3u8",
+   "url": "https://soccertv4k.com/ดูบอลสด?id=2244250",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "กลาสโกว์ เซลติก 🆅🆂 เซนต์ เมียร์เรน",
-   "info": "02/11/2023 เวลา 02:45",
+   "name": "สปอร์ติ้ง ลิสบอน 🆅🆂 ฟาเรนเซ่",
+   "info": "03/11/2023 เวลา 03:15",
    "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch10/playlist.m3u8",
+   "url": "https://soccertv4k.com/ดูบอลสด?id=2244248",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "ดันดี เอฟซี 🆅🆂 กลาสโกว์ เรนเจอร์ส",
-   "info": "02/11/2023 เวลา 02:45",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch11/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "เซอร์เวน่า ซเวซด้า 🆅🆂 Bačka Topola",
-   "info": "02/11/2023 เวลา 01:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch13/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "อันตัลยาสปอร์ 🆅🆂 52 Orduspor",
-   "info": "02/11/2023 เวลา 00:30",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch7/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "โคลัมบัส ครูว์ 🆅🆂 Atlanta United",
-   "info": "02/11/2023 เวลา 06:30",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/foxsports1usa/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "อัตลาส 🆅🆂 ปาชูก้า",
-   "info": "02/11/2023 เวลา 08:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch12/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "ครูซ​ อาซูล 🆅🆂 Juarez",
-   "info": "02/11/2023 เวลา 08:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch13/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "อัตเลติโก ซาน หลุยส์ 🆅🆂 อเมริกา",
-   "info": "02/11/2023 เวลา 10:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch18/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "ติฮัวน่า 🆅🆂 ติเกรส ยูเอเอ็นแอล",
-   "info": "02/11/2023 เวลา 10:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch15/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "Mazatlan 🆅🆂 ซานโตส ลากูน่า",
-   "info": "02/11/2023 เวลา 10:00",
+   "name": "ดารุล ทักซิม 🆅🆂 เปรัค",
+   "info": "02/11/2023 เวลา 20:00",
    "image": "https://www.soccertv4k.com/link.gif",
    "url": "https://cdn1.googlecdn.live/4k/ch19/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   },
   {
-   "name": "Quintanar de la Orden 🆅🆂 เซบีย่า",
-   "info": "01/11/2023 เวลา 21:30",
+   "name": "ศึกเพชรยินดี 🆅🆂 ศึกเพชรยินดี",
+   "info": "02/11/2023 เวลา 18:00",
    "image": "https://www.soccertv4k.com/live.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch6/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "Shabab Al Ordon 🆅🆂 Aqaba",
+   "info": "02/11/2023 เวลา 21:00",
+   "image": "https://www.soccertv4k.com/link.gif",
+   "url": "https://cdn1.googlecdn.live/4k/ch6/playlist.m3u8",
+   "referer": "https://soccertv4k.com/"
+  },
+  {
+   "name": "Al-Faisaly Amman 🆅🆂 Al Jalil",
+   "info": "02/11/2023 เวลา 23:30",
+   "image": "https://www.soccertv4k.com/link.gif",
    "url": "https://cdn1.googlecdn.live/4k/ch2/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "Turegano 🆅🆂 เซลต้า บีโก้",
-   "info": "01/11/2023 เวลา 21:30",
-   "image": "https://www.soccertv4k.com/live.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch3/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "Antoniano 🆅🆂 ลูโก้",
-   "info": "01/11/2023 เวลา 22:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch6/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "แอตเลติโก อัสตอร์ก้า 🆅🆂 เอฟซี อันดอร์ร่า",
-   "info": "01/11/2023 เวลา 22:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch7/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "Boiro 🆅🆂 เรอัล มายอร์ก้า",
-   "info": "02/11/2023 เวลา 00:30",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch9/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "CD Bunol 🆅🆂 เรอัล โซเซียดาด",
-   "info": "02/11/2023 เวลา 00:30",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch10/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "Tardienta 🆅🆂 เคตาเฟ่",
-   "info": "02/11/2023 เวลา 00:30",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch11/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "Hernán Cortés 🆅🆂 เรอัล เบติส",
-   "info": "02/11/2023 เวลา 02:30",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch1/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "UE Rubi 🆅🆂 แอธเลติก บิลเบา",
-   "info": "02/11/2023 เวลา 03:30",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch13/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "โพรเลเตอร์ โนวี ซาด 🆅🆂 วอยโวดิน่า",
-   "info": "02/11/2023 เวลา 01:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/arenasport3/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "แอลเอ คลิปเปอร์ส 🆅🆂 แอลเอ เลเกอร์ส",
-   "info": "02/11/2023 เวลา 09:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/sporttv1/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "เดปอร์ติโว่ ซาปริสซ่า 🆅🆂 โมตากัว",
-   "info": "02/11/2023 เวลา 07:00",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch7/playlist.m3u8",
-   "referer": "https://soccertv4k.com/"
-  },
-  {
-   "name": "อลาเฮวเลนเซ่ 🆅🆂 เฮเรเดียโน่",
-   "info": "02/11/2023 เวลา 09:15",
-   "image": "https://www.soccertv4k.com/link.gif",
-   "url": "https://cdn1.googlecdn.live/4k/ch6/playlist.m3u8",
    "referer": "https://soccertv4k.com/"
   }
  ]
