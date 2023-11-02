@@ -1205,6 +1205,12 @@
 		"image": "https://cdn.watchlakorn.in/images/video_logo.png",
 		"groups":  [
 		{
+			"name": "ละคร ONAIR",
+			"image": "https://cdn.watchlakorn.in/images/video_logo.png",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/Watchlakorn_ละคร-ONAIRnew.w3u",
+			"import": "false"
+		},
+		{
 			"name": "ละคร",
 			"image": "https://cdn.watchlakorn.in/images/video_logo.png",
 			"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/Watchlakorn_ละคร.w3u",
