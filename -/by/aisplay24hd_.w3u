@@ -1,61 +1,33 @@
 {
- "name": "โปรแกรมถ่ายทอดสดวันที่ 02 พฤศจิกายน 2566",
- "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 02 พฤศจิกายน 2566",
+ "name": "โปรแกรมถ่ายทอดสดวันที่ 03 พฤศจิกายน 2566",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 03 พฤศจิกายน 2566",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://www.aisplay24hd.com/wp-content/uploads/2021/09/cropped-logo_m_md.png",
  "stations": [
   {
-   "name": "บัลแกเรีย - เอ พีเอฟจี : สลาเวีย โซเฟีย พบ Ludogorets",
-   "info": " 23:00 LIVE ",
-   "image": "https://lh3.googleusercontent.com/-Zu-ahmr8JUk/ZRoo5Y7Nf3I/AAAAAAAAFso/EadwUcVzSTcWyYIuBqQuyqfr9Hsgm1IBACNcBGAsYHQ/h111/23.00.gif",
-   "url": "https://cdn1.aws-live-streaming.com/ais/diemasport1/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "รัสเซีย - รัสเซีย คัพ : ซีเอสเคเอ มอสโก พบ กาโซวิค โอเรนเบิร์ก",
-   "info": " 22:30 LIVE ",
-   "image": "https://lh3.googleusercontent.com/-SF3m_wrCCEQ/ZRpnJdTSmqI/AAAAAAAAFvE/aR_iXrUKX786ApmoTVjjaDBYyP2L1WLQACNcBGAsYHQ/h111/22.30.gif",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch12/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
    "name": "รัสเซีย - รัสเซีย คัพ : รอสตอฟ พบ อูราล",
-   "info": " 00:45 ",
+   "info": " 00:45 LIVE ",
    "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
    "url": "https://cdn1.aws-live-streaming.com/ais/ch10/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
    "name": "รัสเซีย - รัสเซีย คัพ : ดินาโม มอสโก พบ นิซนี่ นอฟโกรอด",
-   "info": " 00:45 ",
+   "info": " 00:45 LIVE ",
    "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
    "url": "https://cdn1.aws-live-streaming.com/ais/ch11/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
-   "name": "ตุรกี - ตุรกี คัพ : คอนยาสปอร์ พบ Erbaaspor",
-   "info": " 21:30 LIVE ",
-   "image": "https://lh3.googleusercontent.com/-mCGdVhuQuzI/ZRpmIw5lXNI/AAAAAAAAFuw/_xgbGps9of8aGmBNCJQ3wwOpEaA3iSyngCNcBGAsYHQ/h111/21.30.gif",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch4/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
    "name": "ตุรกี - ตุรกี คัพ : คายเซริสปอร์ พบ Igdir FK",
-   "info": " 00:00 ",
+   "info": " 00:00 LIVE ",
    "image": "https://lh3.googleusercontent.com/-Ck9X1Tzd4kI/ZRpa3AnSJkI/AAAAAAAAFtQ/XqRO0Q6XHncfQzr22LxhsC_IaMjG_XA7ACNcBGAsYHQ/h109/00.00.gif",
    "url": "https://cdn1.aws-live-streaming.com/ais/ch4/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
-   "name": "สหรัฐอาหรับเอมิเรตส์ - อาราเบียน กัลฟ์ ลีก : อัล วาเซิ่ล พบ อัล ไอน์",
-   "info": " 22:30 LIVE ",
-   "image": "https://lh3.googleusercontent.com/-SF3m_wrCCEQ/ZRpnJdTSmqI/AAAAAAAAFvE/aR_iXrUKX786ApmoTVjjaDBYyP2L1WLQACNcBGAsYHQ/h111/22.30.gif",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch13/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
    "name": "โปแลนด์ - โปแลนด์ คัพ : ŁKS Łódź พบ ราคอฟ เชสโตโชว่า",
-   "info": " 00:00 ",
+   "info": " 00:00 LIVE ",
    "image": "https://lh3.googleusercontent.com/-Ck9X1Tzd4kI/ZRpa3AnSJkI/AAAAAAAAFtQ/XqRO0Q6XHncfQzr22LxhsC_IaMjG_XA7ACNcBGAsYHQ/h109/00.00.gif",
    "url": "https://cdn1.aws-live-streaming.com/ais/ch3/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
@@ -68,64 +40,22 @@
    "referer": "https://www.aisplay24hd.com/"
   },
   {
-   "name": "กาตาร์ - สตาร์ส ลีก : อัล ซาดด์ พบ Al Markhiya",
-   "info": " 21:30 LIVE ",
-   "image": "https://lh3.googleusercontent.com/-mCGdVhuQuzI/ZRpmIw5lXNI/AAAAAAAAFuw/_xgbGps9of8aGmBNCJQ3wwOpEaA3iSyngCNcBGAsYHQ/h111/21.30.gif",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch7/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "กาตาร์ - สตาร์ส ลีก : Muaither SC พบ อุมม์ ซาลาล",
-   "info": " 21:30 LIVE ",
-   "image": "https://lh3.googleusercontent.com/-mCGdVhuQuzI/ZRpmIw5lXNI/AAAAAAAAFuw/_xgbGps9of8aGmBNCJQ3wwOpEaA3iSyngCNcBGAsYHQ/h111/21.30.gif",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch9/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "กาตาร์ - สตาร์ส ลีก : อัล ดูฮาอิล พบ อัล เรย์ยาน",
-   "info": " 23:30 ",
-   "image": "https://lh3.googleusercontent.com/-yOA-EUUSL5w/ZRoo5r745oI/AAAAAAAAFss/8-aWr_twmo0nPbRBUiMg97D8ikx4qqNpwCNcBGAsYHQ/h111/23.30.gif",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch1/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "เบลารุส - พรีเมียร์ลีก : ดินาโม มินส์ค พบ บาเต้",
-   "info": " 22:45 LIVE ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch18/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "คูเวต - พรีเมียร์ลีก : อัล นาสเซอร์ พบ อัล อาราบี",
-   "info": " 21:30 LIVE ",
-   "image": "https://lh3.googleusercontent.com/-mCGdVhuQuzI/ZRpmIw5lXNI/AAAAAAAAFuw/_xgbGps9of8aGmBNCJQ3wwOpEaA3iSyngCNcBGAsYHQ/h111/21.30.gif",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch10/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
    "name": "คูเวต - พรีเมียร์ลีก : อัล คูเวต พบ อัล ฟาฮาฮีล",
-   "info": " 00:20 ",
+   "info": " 00:20 LIVE ",
    "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
    "url": "https://cdn1.aws-live-streaming.com/ais/ch9/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "โรมาเนีย - คูปา โรมาเนีย : กลอเรีย บูเซา พบ SSC Farul",
-   "info": " 22:30 LIVE ",
-   "image": "https://lh3.googleusercontent.com/-SF3m_wrCCEQ/ZRpnJdTSmqI/AAAAAAAAFvE/aR_iXrUKX786ApmoTVjjaDBYyP2L1WLQACNcBGAsYHQ/h111/22.30.gif",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch15/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
    "name": "โรมาเนีย - คูปา โรมาเนีย : Universitatea Cluj พบ ซีเอฟอาร์ คลูช",
-   "info": " 01:30 ",
+   "info": " 01:30 LIVE ",
    "image": "https://lh3.googleusercontent.com/-pCVjHWql-3E/ZRpa4CLnecI/AAAAAAAAFtU/UDx58L14YGUcPHotIvgNkoMd9U3UZu6MgCNcBGAsYHQ/h109/01.30.gif",
    "url": "https://cdn1.aws-live-streaming.com/ais/ch18/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
    "name": "อิตาลี - โคปปา อิตาเลีย : Sassuolo พบ สเปเซีย",
-   "info": " 00:00 ",
+   "info": " 00:00 LIVE ",
    "image": "https://lh3.googleusercontent.com/-Ck9X1Tzd4kI/ZRpa3AnSJkI/AAAAAAAAFtQ/XqRO0Q6XHncfQzr22LxhsC_IaMjG_XA7ACNcBGAsYHQ/h109/00.00.gif",
    "url": "https://cdn1.aws-live-streaming.com/ais/ch5/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
@@ -139,7 +69,7 @@
   },
   {
    "name": "เดนมาร์ก - ดีบียู โพคาเล่น : Ishoj พบ อาร์ฮุส",
-   "info": " 00:00 ",
+   "info": " 00:00 LIVE ",
    "image": "https://lh3.googleusercontent.com/-Ck9X1Tzd4kI/ZRpa3AnSJkI/AAAAAAAAFtQ/XqRO0Q6XHncfQzr22LxhsC_IaMjG_XA7ACNcBGAsYHQ/h109/00.00.gif",
    "url": "https://cdn1.aws-live-streaming.com/ais/ch6/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
@@ -153,7 +83,7 @@
   },
   {
    "name": "ออสเตรีย - ออสเตรีย คัพ : ไรน์ดอร์ฟ อัลทัค พบ เบลา-ไวส์ ลินซ์",
-   "info": " 00:00 ",
+   "info": " 00:00 LIVE ",
    "image": "https://lh3.googleusercontent.com/-Ck9X1Tzd4kI/ZRpa3AnSJkI/AAAAAAAAFtQ/XqRO0Q6XHncfQzr22LxhsC_IaMjG_XA7ACNcBGAsYHQ/h109/00.00.gif",
    "url": "https://cdn1.aws-live-streaming.com/ais/ch7/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
@@ -167,7 +97,7 @@
   },
   {
    "name": "เนเธอร์แลนด์ - ดัตช์ คัพ : คัมบูร์ พบ เอ็มวีวี มาสทริชท์",
-   "info": " 00:45 ",
+   "info": " 00:45 LIVE ",
    "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
    "url": "https://cdn1.aws-live-streaming.com/ais/foxsports3nl/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
@@ -195,21 +125,21 @@
   },
   {
    "name": "สเปน - โกปา เดล เรย์ : Chiclana พบ บียาร์เรอัล",
-   "info": " 01:00 ",
+   "info": " 01:00 LIVE ",
    "image": "https://lh3.googleusercontent.com/-yLfmmXHRxZ4/ZRpmnCy1g-I/AAAAAAAAFu4/yqs0HjdRcSY4tcQ2nrCRcScVMfa98nMgQCNcBGAsYHQ/h109/01.00.gif",
    "url": "https://cdn1.aws-live-streaming.com/ais/ch12/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
    "name": "สเปน - โกปา เดล เรย์ : Arosa พบ กรานาด้า",
-   "info": " 01:00 ",
+   "info": " 01:00 LIVE ",
    "image": "https://lh3.googleusercontent.com/-yLfmmXHRxZ4/ZRpmnCy1g-I/AAAAAAAAFu4/yqs0HjdRcSY4tcQ2nrCRcScVMfa98nMgQCNcBGAsYHQ/h109/01.00.gif",
    "url": "https://cdn1.aws-live-streaming.com/ais/ch13/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
    "name": "สเปน - โกปา เดล เรย์ : Gimnastica Segoviana พบ Sestao",
-   "info": " 01:00 ",
+   "info": " 01:00 LIVE ",
    "image": "https://lh3.googleusercontent.com/-yLfmmXHRxZ4/ZRpmnCy1g-I/AAAAAAAAFu4/yqs0HjdRcSY4tcQ2nrCRcScVMfa98nMgQCNcBGAsYHQ/h109/01.00.gif",
    "url": "https://cdn1.aws-live-streaming.com/ais/ch15/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
@@ -250,13 +180,6 @@
    "referer": "https://www.aisplay24hd.com/"
   },
   {
-   "name": "อิหร่าน - เปอร์เซียน กัลฟ์ โปรลีก : เปอร์เซโปลิส พบ Sanat Naft",
-   "info": " 21:30 LIVE ",
-   "image": "https://lh3.googleusercontent.com/-mCGdVhuQuzI/ZRpmIw5lXNI/AAAAAAAAFuw/_xgbGps9of8aGmBNCJQ3wwOpEaA3iSyngCNcBGAsYHQ/h111/21.30.gif",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch11/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
    "name": "เนเธอร์แลนด์ - เอเรดิวิชี่ : อาแจ็กซ์ อัมสเตอร์ดัม พบ โฟเลนดัม",
    "info": " 02:00 ",
    "image": "https://lh3.googleusercontent.com/-3LqIfaS0ukQ/ZRpa43B9k3I/AAAAAAAAFtc/q55J9Tup3LY99mBfHD83REvkB5gm2h8bQCNcBGAsYHQ/h109/02.00.gif",
@@ -289,13 +212,6 @@
    "info": " 03:15 ",
    "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
    "url": "https://www.aisplay24hd.com/live-football?id=2244248",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "จอร์แดน - พรีเมียร์ ลีก : Al-Faisaly Amman พบ Al Jalil",
-   "info": " 23:30 ",
-   "image": "https://lh3.googleusercontent.com/-yOA-EUUSL5w/ZRoo5r745oI/AAAAAAAAFss/8-aWr_twmo0nPbRBUiMg97D8ikx4qqNpwCNcBGAsYHQ/h111/23.30.gif",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch2/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   }
  ]
