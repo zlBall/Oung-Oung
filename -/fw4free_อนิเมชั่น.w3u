@@ -1,9 +1,29 @@
 {
  "name": "อนิเมชั่น",
- "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 31 ตุลาคม 2566",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 04 พฤศจิกายน 2566",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://fw4free.com/images/logo7.png",
  "groups": [
+  {
+   "name": "The Swan Princess: Far Longer Than Forever เจ้าหญิงหงส์ขาว ตอน ตราบนานชั่วกัลปาวสาน (2023)",
+   "image": "https://img.inwiptv.net/postor/20231101154808dWyxPokAp4eiJXWriYbNvU2v1V.jpg",
+   "stations": [
+    {
+     "name": "The Swan Princess: Far Longer Than Forever เจ้าหญิงหงส์ขาว ตอน ตราบนานชั่วกัลปาวสาน (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20231101154808dWyxPokAp4eiJXWriYbNvU2v1V.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Swan_Princess_Far_Longer_Than_Forever_2023/The_Swan_Princess_Far_Longer_Than_Forever_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    },
+    {
+     "name": "The Swan Princess: Far Longer Than Forever เจ้าหญิงหงส์ขาว ตอน ตราบนานชั่วกัลปาวสาน (2023)",
+     "info": " บรรยายไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20231101154808dWyxPokAp4eiJXWriYbNvU2v1V.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Swan_Princess_Far_Longer_Than_Forever_2023/The_Swan_Princess_Far_Longer_Than_Forever_2023_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
   {
    "name": "LEGO Marvel Avengers: Code Red (2023)",
    "image": "https://img.inwiptv.net/postor/20231028102131rDzig50dj7VpLwJ7SThbamETK1G.jpg",
