@@ -1,9 +1,268 @@
 {
  "name": "ดูหนัง 2023",
- "author": "เจียว เจียว อัพวันที่ 31 ตุลาคม 2566",
+ "author": "เจียว เจียว อัพวันที่ 04 พฤศจิกายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
+  {
+   "name": "Face Off 6 : The Ticket Of Destiny (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/9F0L1Ksfe2pqCRIvCdaA7Uvnr9W-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Face Off 6 : The Ticket Of Destiny (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/9F0L1Ksfe2pqCRIvCdaA7Uvnr9W-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/9af39954-3fb6-5310-bd3a-a5ed807efee6.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Sly (2023) ซิลเวสเตอร์ สตอลโลน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/5rRZWF8KbZQYjZOVZrewdQUbTz7-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Sly (2023) ซิลเวสเตอร์ สตอลโลน",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/5rRZWF8KbZQYjZOVZrewdQUbTz7-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/c5869f83-2d76-5b76-9fb4-2ff8df2b2fe9.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Sly (2023) ซิลเวสเตอร์ สตอลโลน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/5rRZWF8KbZQYjZOVZrewdQUbTz7-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/c87d74d1-b06b-5156-a50b-081116e7626a.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Nyad (2023) ว่ายเพื่อฝัน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/tSwjMBWV3XY15bsIKrAS1UcbERi-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Nyad (2023) ว่ายเพื่อฝัน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/tSwjMBWV3XY15bsIKrAS1UcbERi-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/2933ffe1-cf10-526a-9b4a-dba55dc00431.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Knuckle Girl (2023) เจ๊ทวงแค้น",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/29t0vg3KPJdmJSgJpkldJAVELZk-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Knuckle Girl (2023) เจ๊ทวงแค้น",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/29t0vg3KPJdmJSgJpkldJAVELZk-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/ebf02aad-21d5-59b5-8b7a-446edeaaea43.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Knuckle Girl (2023) เจ๊ทวงแค้น",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/29t0vg3KPJdmJSgJpkldJAVELZk-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/efd5d6a7-981a-525f-a769-0a292a88ef6e.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Swan Princess Far Longer Than Forever (2023) เจ้าหญิงหงส์ขาว ตอน ตราบนานชั่วกัลปาวสาน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/nCUV5k2YqpP6Pdi3FY8WR5VRDHF-scaled-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Swan Princess Far Longer Than Forever (2023) เจ้าหญิงหงส์ขาว ตอน ตราบนานชั่วกัลปาวสาน",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/nCUV5k2YqpP6Pdi3FY8WR5VRDHF-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/992a0ef0-b016-597d-8a8a-21494177a262.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Swan Princess Far Longer Than Forever (2023) เจ้าหญิงหงส์ขาว ตอน ตราบนานชั่วกัลปาวสาน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/nCUV5k2YqpP6Pdi3FY8WR5VRDHF-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/5adbc655-66eb-59fb-aa7a-6cb58c9b21b7.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "My Precious (2023) รักแรกโคตรลืมยาก",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/vw4HA43IKIqDuFoxoBQBqz2LXEg-scaled-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "My Precious (2023) รักแรกโคตรลืมยาก",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/vw4HA43IKIqDuFoxoBQBqz2LXEg-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/186176e5-4150-5741-87bf-40acfacec133.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Rebound (2023) รีบาวด์",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/cioCtpRThVQB5UDnwDSGIljIu3j-scaled-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Rebound (2023) รีบาวด์",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/cioCtpRThVQB5UDnwDSGIljIu3j-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/c285b403-53c0-5d4a-85a8-1398ae28e232.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "My Worst Neighbor (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/wQfPQOpcZPKpq8tuCkyViQHvNKC-scaled-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "My Worst Neighbor (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/wQfPQOpcZPKpq8tuCkyViQHvNKC-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/ad80edde-005f-587f-a6a5-d64c78a6e2dc.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/136a6829-56d1-5ed0-8250-a432edab0be2.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Lost in the Stars (2023) เมียผมหายในหมู่ดาว",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/vE7JtBnH1afjQpIs1C0fugyqz9R-scaled-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Lost in the Stars (2023) เมียผมหายในหมู่ดาว",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/vE7JtBnH1afjQpIs1C0fugyqz9R-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/082f9673-f3db-5682-85e6-e2184975719a.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Locked In (2023) ต้องขัง",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/dn8khWEvYMtqUMJadirvWAXTgtO-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Locked In (2023) ต้องขัง",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/dn8khWEvYMtqUMJadirvWAXTgtO-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/c18e1005-8672-5dc0-877b-1e3f9077e7e0.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Locked In (2023) ต้องขัง",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/dn8khWEvYMtqUMJadirvWAXTgtO-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/99192e35-0551-56c3-9463-4a2492a65d44.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Nuovo Olimpo (2023) รักรีเทิร์น ณ นิวโอลิมปัส",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/202tZxbgyHefvTyvdVpVKa8Kull-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Nuovo Olimpo (2023) รักรีเทิร์น ณ นิวโอลิมปัส",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/202tZxbgyHefvTyvdVpVKa8Kull-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/c0bdaaf5-717d-50de-9b3b-ada3f6858609.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Nuovo Olimpo (2023) รักรีเทิร์น ณ นิวโอลิมปัส",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/202tZxbgyHefvTyvdVpVKa8Kull-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/2cf8e6b9-063e-591b-ac46-430d8ba395b6.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Wingwomen (2023) ร่วมด้วยช่วยกัน…ปล้น",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/4YlUSrX2kIgA0SlE8h6RkMZjzYQ-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Wingwomen (2023) ร่วมด้วยช่วยกัน…ปล้น",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/4YlUSrX2kIgA0SlE8h6RkMZjzYQ-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/e34d929a-8928-5e38-bcaa-369520c12fb4.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Wingwomen (2023) ร่วมด้วยช่วยกัน…ปล้น",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/4YlUSrX2kIgA0SlE8h6RkMZjzYQ-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/4faab071-727c-562c-bf66-e125bd294968.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "A Haunting in Venice (2023) ฆาตกรรมหลอนแห่งนครเวนิส",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "A Haunting in Venice (2023) ฆาตกรรมหลอนแห่งนครเวนิส",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/6c5dcca5-564c-5f1b-916a-b06babfecb46.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "A Haunting in Venice (2023) ฆาตกรรมหลอนแห่งนครเวนิส",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/5b7b47ee-1e2e-531c-b2f9-41079e7db5e6.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Five Nights at Freddy’s (2023) คืนสยองที่เฟรดดี้",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/rOLjOfKkv9pkk8sl0yLSEU49smT-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Five Nights at Freddy’s (2023) คืนสยองที่เฟรดดี้",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/rOLjOfKkv9pkk8sl0yLSEU49smT-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/197c60c4-460a-574c-88c7-1c6d600d8796.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
   {
    "name": "LEGO Marvel Avengers Code Red (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/rDzig50dj7VpLwJ7SThbamETK1G-scaled-190x300-c-default.webp",
@@ -138,27 +397,6 @@
    ]
   },
   {
-   "name": "Pain Hustlers (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/BtmdiaoXyqO2mKBGZNAOimrvW0-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Pain Hustlers (2023)",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/BtmdiaoXyqO2mKBGZNAOimrvW0-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/147ed6e3-73a8-5a68-8597-e577c8e24105.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Pain Hustlers (2023)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/BtmdiaoXyqO2mKBGZNAOimrvW0-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/6103ab85-529b-5456-bc8e-4d789ccf15c8.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Prisoner’s Daughter (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/2NYd7jKFnilcIOUfDI8o2TOuCmu-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -168,20 +406,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/2NYd7jKFnilcIOUfDI8o2TOuCmu-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3da21465-bec8-51db-b56e-7ad03fb4b661.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Blackening (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ooB4KSRRhp7XYRQUmsi82iFnMNC-scaled-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "The Blackening (2023)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ooB4KSRRhp7XYRQUmsi82iFnMNC-scaled-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/f2b9eeea-6f7e-5ce5-b712-bc6344f04af7.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -233,20 +457,6 @@
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Inside-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": []
-  },
-  {
-   "name": "All Fun and Games (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/1m0CTxlotr8H8GaoioL2IJHL1gW-scaled-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "All Fun and Games (2023)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/1m0CTxlotr8H8GaoioL2IJHL1gW-scaled-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/aa761059-b76a-5dfc-8285-bb5f09207409.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
   },
   {
    "name": "The Dive (2023) เดอะไดฟ์",
@@ -356,27 +566,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/gsRDrAML7hJC8ZCgRQobHIrzbxR-scaled-190x300-c-default.webp",
      "url": "https://streamhls.com/view/032bee22-db63-56ff-b8f2-5bcb6c729e73.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/278e9dc1-4e8b-58c0-b0ff-6729bacfc5da.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/f0d503b1-fa52-5481-b5b8-b471b699c6aa.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -660,59 +849,101 @@
    "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 2 ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/de58a7c8-fa6c-573e-b4a4-105e3f88b7c6.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 2 ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/de58a7c8-fa6c-573e-b4a4-105e3f88b7c6.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 2 ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/7a2f92e2-261c-5d91-88df-3dd5fb5f3426.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 2 ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/7a2f92e2-261c-5d91-88df-3dd5fb5f3426.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 2 ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/3d20826d-6a9e-5bde-8733-73ee3b6641e5.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 2 ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/3d20826d-6a9e-5bde-8733-73ee3b6641e5.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 2 ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/f41fafad-e70f-5875-aa01-f547bb6f7383.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 2 ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/f41fafad-e70f-5875-aa01-f547bb6f7383.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/00805715-6f88-5c9c-9f4b-a981ed9ed52f.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/00805715-6f88-5c9c-9f4b-a981ed9ed52f.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/7a64047a-934a-5345-9a23-f794da1bb815.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/7a64047a-934a-5345-9a23-f794da1bb815.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/83042753-b387-51ad-b9de-cea8f96e7782.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/83042753-b387-51ad-b9de-cea8f96e7782.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -832,20 +1063,6 @@
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Equalizer-3-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/ec0e1478-a3c3-5940-b3e2-ce1117b09cf5.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/8877837b-976e-52b4-a597-acb70daf07f6.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -1031,112 +1248,112 @@
    "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/b7cdab43-0a49-594d-b29b-72e4117fa0c8.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/e8f06e1b-abf5-59e3-bcff-f9418a87543d.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/aecbf9a5-5651-5875-a51b-4b7e60cf7472.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/5d631fec-43b7-5c0f-99cd-e1a4e39b76e1.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/730f2f33-aed1-5766-a5c6-ea2126fff8ad.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/54a819ef-4c7e-511d-a8c0-608dacc58ba0.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/7e29c243-4df4-5ff4-895b-2e614b9f7e37.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/8036effd-32bc-54ef-95b5-013f1a07899f.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/a77fc7e1-7470-558e-b4df-a851eb460e84.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/00da6157-0708-5a46-b5b5-4d0d43cb5372.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 1 ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/832ee8e4-162c-5d70-9233-66d02ab42cb6.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 1 ตอนที่ 6",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/ca536856-c50f-5b33-b732-6a0a9ee594f0.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 1 ตอนที่ 7",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/515322e7-ee07-55d8-a137-61884087af78.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 1 ตอนที่ 7",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/964823eb-b8b6-5d07-a7db-b20787cedf6a.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 1 ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/d918446e-f152-5d77-84c2-503b7923fb31.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 1 ตอนที่ 8",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/3dddfa1e-8bc8-56f2-a340-83de4532bf2d.m3u8",
@@ -1215,27 +1432,6 @@
    ]
   },
   {
-   "name": "Fair Play (2023) แฟร์เพลย์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Fair-Play-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Fair Play (2023) แฟร์เพลย์",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Fair-Play-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/6463965d-4e6c-5849-a345-986dd028ff6a.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Fair Play (2023) แฟร์เพลย์",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Fair-Play-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/98cbf7bc-f179-56a1-8511-6b02a5c57d42.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Totally Killer (2023) ย้อนเวลาหาฆาตกร",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Totally-Killer-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -1269,143 +1465,157 @@
    "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/16242eb0-0056-55c8-8ef2-b90a0392fe42.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/bf31dd62-5a31-515d-a902-3fef0fe3beff.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/1f0d8960-8201-5090-8272-4e31b413392b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/2cdd48be-55e8-5e6b-8caf-d53c0330239c.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/9a00cb63-70a2-58b4-a06c-8b3fb4f749d6.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/5f3ad5e0-7daa-5b2e-a7ef-141b2b862d78.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/975aca2f-d419-514a-9eb8-7e4ca39c4a9e.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/616e16fa-57ff-5056-932e-3cffa5fb557c.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/4bb9be39-600a-513f-aed8-249a5c79358e.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/6eac32b3-8368-5a08-bd8c-160b9b63ee81.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 1 ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/8fc54695-7790-52b6-98cb-32a6aaab96da.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 1 ตอนที่ 6",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/578f8c90-76e2-56b7-b6be-ab6ca8762800.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 2 ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/0f292ff9-0a9d-5d81-88c3-7b1224ac02eb.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 2 ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/fadde345-3d14-5497-8c39-3d6536dda031.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 2 ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/4d60e810-2322-5504-9259-611c9b039095.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 2 ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/c0617e9b-c5c2-5cad-b2b2-48ca01e12cb2.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 2 ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/45eaccca-a456-5dec-a64c-efd69d9afe80.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 2 ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/9ccd5f89-f6c0-560b-9400-b21f3ee02f34.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 2 ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/e268091e-b202-511b-81b1-0a146b0f508b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 2 ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/6fc08dd9-9e51-54ff-88ae-2482c550d831.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/72fc393b-6659-552e-8d81-b38cd9125786.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Loki-season-2-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/6caf72e0-0aa9-5c63-8f0a-782222334194.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -1416,238 +1626,238 @@
    "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/50f90f51-9726-5acc-bf5f-2ba816bbc63b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/6c1c05e6-dd80-5bf3-8c7f-6b7128508d0b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/1e6cea08-19dd-5cb4-808e-78dd044f4679.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/8e61a739-0040-551f-ae3e-bd67f1280855.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/1b272854-4f4d-5e0a-91e7-93b8df195e45.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/b22d8547-593d-5237-89d0-bb9915ee7252.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/87a25e28-4b78-5438-af4b-4425725e1db5.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/fa74bad7-87b4-5381-94ce-66302884a4b4.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/bd30f88c-47d7-5322-a397-8d13b98b8aee.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/bdce599b-1625-5407-965d-3ebf8e5e1bce.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 2 ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/64ab450d-056d-5016-8614-4c4f77b6b147.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 2 ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/79522ab4-15ac-51f6-8884-6f1c132e2690.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 2 ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/2ebc661e-5da7-5d6d-bfd7-ea335c53ea8f.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 2 ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/aca06d87-54e6-50c4-b97a-19be57b2318e.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 2 ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/613e17db-00db-5f1f-8d9c-4444b4b6812e.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 2 ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/61dc8de0-fb93-5027-9e82-a3a6166bce4b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 2 ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/2a1245da-73eb-5fc3-b40d-8d4429d668a5.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 2 ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/838611b7-5ad4-52a3-ad73-9cb4707ccdf3.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 2 ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/0dac9f3b-b37c-5024-b835-d17bd5076e8e.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 2 ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/a801a0c2-8d26-5104-840b-57e055ef7038.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 3 ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/159ab9a5-cda2-59aa-bfe3-a452b3d1f333.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 3 ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/3b6a64f7-8df2-5497-9ec9-3d24247beef9.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 3 ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/39b3016d-f25d-5627-a876-1f1f62b92eac.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 3 ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/abc51997-b392-5ae1-9afc-d42e97e3a1f4.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 3 ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/bd95378c-1ea3-574d-bbd6-32242c217507.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 3 ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/2a04fbbd-59c9-503c-a3f9-6dae1839ba2f.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 3 ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/edce1f2a-f6c8-5b73-8396-30d8742c4311.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 3 ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/171c6d95-94a2-5c68-8e6e-aefae36ee8b4.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 3 ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/b9ada469-c90d-5f7c-9bd2-156c6201a050.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 3 ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/503730ce-a049-5d8f-9ece-82e8b638d0a8.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 3 ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/083169fc-cbb0-5802-9928-c458c5e0edef.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 3 ตอนที่ 6",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/4fb94be3-f580-53e5-9e07-3918630a799d.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 3 ตอนที่ 7",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/6b3cb41a-e38a-5f88-9681-359df603c64f.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 3 ตอนที่ 7",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Lupin-season-3-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/686e9017-4678-543d-a84c-69733cba9a3a.m3u8",
@@ -1929,20 +2139,6 @@
    ]
   },
   {
-   "name": "Sasaki and Miyano Graduation (2023) ซาซากิกับมิยาโนะ เดอะ มูฟวี่ ภาคจบการศึกษา",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Sasaki-and-Miyano-Graduation-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Sasaki and Miyano Graduation (2023) ซาซากิกับมิยาโนะ เดอะ มูฟวี่ ภาคจบการศึกษา",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Sasaki-and-Miyano-Graduation-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/bbd01f88-c712-5e9b-8c2d-b71a78e9080a.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "The Roof (2023) เดอะรูฟ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/The-Roof-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -2013,6 +2209,27 @@
    ]
   },
   {
+   "name": "Poison (2023) ยาพิษ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Poison-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Poison (2023) ยาพิษ",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Poison-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/f736ff5b-24dc-5ed0-999c-7b2d4c1a0101.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Poison (2023) ยาพิษ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Poison-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/9d05380f-54c4-519b-8811-4952cc5ab1c1.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Do not Disturb (2023) ห้าม รบกวน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Do-Not-Disturb-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -2036,27 +2253,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Flora-and-Son-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/467da266-4fd8-5f48-822c-0140a9e9edd2.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Nowhere (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Nowhere-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Nowhere (2023)",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Nowhere-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/59f1da0c-04f9-5f4a-bec5-3a82785acf3b.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Nowhere (2023)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Nowhere-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/455d07c2-6f78-577f-bb49-220a2962ae88.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -2209,27 +2405,6 @@
    ]
   },
   {
-   "name": "OverHaul (2023) ซิ่งแรงแซงตาย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/OverHaul-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "OverHaul (2023) ซิ่งแรงแซงตาย",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/OverHaul-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/c1c4c417-3272-5f6f-acfa-37089eda102f.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "OverHaul (2023) ซิ่งแรงแซงตาย",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/OverHaul-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/36668d72-a907-520b-87df-580a57df13ca.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Street Flow 2 (2023) ทางแยก 2",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Street-Flow-2-2023-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
@@ -2277,448 +2452,448 @@
    "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/6dbf3027-2df9-5c2d-af4a-6745603faf12.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/3ae4f0b8-a253-5df6-9250-c1d23ff385d9.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/672a202e-a3bc-5435-a9e4-e4c99f537e61.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/8930f936-7b8f-5511-bba9-64b6ed4dde47.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/002c0b5f-5dd4-5848-b041-7598b7219b09.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/422eacdc-5dd9-5a9a-92fc-d86688cb8226.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/c494ed75-2a26-5a2a-9bcc-7f8e8f1ecfde.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/7e6dd849-ff8a-5d5f-b2ce-033dd6d32357.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/da2ece5a-df3e-53ba-a5ef-f4735ff8b23b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/887650c0-3914-5a46-9d57-ef897d3d0264.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 1 ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/4ef14299-e032-599d-945b-0ea7f13d044d.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 1 ตอนที่ 6",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/ffec6a57-6858-5387-938a-a17eca730b67.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 1 ตอนที่ 7",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/0853d810-8be3-5e91-96e3-364bfa7b3d97.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 1 ตอนที่ 7",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/78916443-646b-5dcd-a1b2-126a55c2c14f.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 1 ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/c204ac1f-3202-54cf-9d2c-3d6bdc2d1bf2.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 1 ตอนที่ 8",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/2989441c-e4d5-5ca9-abe6-908164aa424f.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 2 ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/baf4ff66-31da-58a5-bc66-3b4c08e984be.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 2 ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/77d9d92b-d942-51ba-8250-2d30b0526d43.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 2 ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/77d9d92b-d942-51ba-8250-2d30b0526d43.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 2 ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/adcb4b8d-eb89-5b32-96b2-4bcf7656c1f9.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 2 ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/87ab9ea3-c543-584a-81ff-e0059bf5e2f4.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 2 ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/507979af-2e0b-5822-84a3-575efd785762.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 2 ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/faf32985-d297-51af-acdb-8e6be263bc02.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 2 ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/e64c3c4e-5b07-5016-b7d8-261f3aadb724.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 2 ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/622b1885-4b95-5b2e-852b-59fabe6e3cfd.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 2 ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/a0f7f372-b1d6-5769-9516-f6b43743c5d4.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 2 ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/d92739a2-14f7-5f63-b588-21ddc3ac80bd.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 2 ตอนที่ 6",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/d7240459-51f0-5869-b045-34ff7792ad8b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 2 ตอนที่ 7",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/6bde39a6-980b-5998-9e60-0d77c6ae7d01.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 2 ตอนที่ 7",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/8da04551-b36b-5bb2-b161-c841569c8478.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 2 ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/4d1dd25b-9555-5a64-8211-aac657da81fd.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 2 ตอนที่ 8",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/c826f1a9-2692-5992-8d0a-43cb89e56153.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 3 ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/6f8f50e6-17cb-54fa-9a84-8ddfe7e82603.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 3 ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/108598be-b1a1-5bb1-b006-b2d8395e7ca1.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 3 ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/eeb6f44b-5f78-59bc-ade0-0b71e45a3d53.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 3 ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/bacebc80-3301-5f3d-9f47-5cc0cd56e938.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 3 ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/30c986e1-fe57-54e2-b31c-90dfe21d78d7.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 3 ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/2fcdf5ec-1022-5927-bf79-90ea76d24b61.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 3 ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/849a195b-cd50-5b4e-a424-2c958907d5f3.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 3 ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/eb2bb98f-56e0-52e3-b3fb-7fa32275ca09.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 3 ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/60d449f0-c006-5c7d-ace8-a6684eba1a02.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 3 ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/cea991c3-a3d1-5061-8153-6a5591a9b59b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 3 ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/94620142-e8ad-5395-99e1-d89e7381dc83.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 3 ตอนที่ 6",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/dd2e4bdc-5296-5654-bc23-6e9f50cee91d.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 3 ตอนที่ 7",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/0561f7c9-42df-5f01-8eef-6a9a2fac43a3.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 3 ตอนที่ 7",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/6bda9d62-b85b-5230-99d0-b03682688091.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 3 ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/59c385b5-e7fc-59a3-91de-26e6cf944e48.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 3 ตอนที่ 8",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/f3b0f3c5-3fb3-58e5-be7f-76df8a7f8a6f.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 4 ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/62d1544a-08d0-5359-ae91-41894cc72fdc.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 4 ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/0540a195-a14e-5cdd-a295-6189c3b9de25.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 4 ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/02506f2a-8478-5edb-bce8-9e8125ec8256.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 4 ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/714fab3c-9436-56bf-a73f-debab76e005f.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 4 ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/276400ea-be28-5674-96b8-ffcfc981801c.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 4 ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/7a0123cc-7314-5b98-a3aa-1f5cd4e3333d.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 4 ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/254dd85f-cba5-50a3-88fb-bb77fa04f0ae.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 4 ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/b14fcbd0-a873-5e5f-9a3a-1cb0ef3376cf.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 4 ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/33eb9fd9-930a-5580-849c-bc76ac4875e9.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 4 ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/edf321a1-8b6a-53c1-a646-80ef03d1ebae.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 4 ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/c0a104ca-77b0-5d43-9132-3318c5958984.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 4 ตอนที่ 6",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/cb54069b-7aa1-5fe8-8931-b216cf1c7dd0.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 4 ตอนที่ 7",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/eb66c011-3919-5f3d-b4e7-efef321041ba.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 4 ตอนที่ 7",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/8d82bb92-b5d7-5503-9aef-a1522f70289c.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 4 ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/eb744946-19d3-5aba-b802-1ab130264b5b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 4 ตอนที่ 8",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/8fd00e38-9e51-5820-90f8-86d1f2771300.m3u8",
@@ -2851,143 +3026,129 @@
    "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/66272593-5871-5c6b-95a2-274ad9c6280c.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/263026f6-e778-528d-b4e5-b7d22597c463.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/80b0a726-90b3-57f6-97d2-2419a2bb1516.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/e415f1eb-d94f-5cd4-80fb-4bcd6c33066e.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/4b413d35-472f-56ed-a831-dc3697c141c9.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/00c391bb-f47e-5070-a1ff-f1b2bcb0f8ed.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/75a8cfd7-0c98-5ee2-b979-74fd9753bf8f.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/a5965ed8-de04-52c0-a477-4de730f68b49.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/f69b3791-0b22-5a17-aca9-6f45b75a99ed.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/b01f2342-c30e-50fe-9921-55e6d8d274b2.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 1 ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/7d275f0f-4c2a-5e76-a10d-024607850ef9.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 1 ตอนที่ 6",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/5f0d4020-22f4-5d22-bc0a-01c47a75600a.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 1 ตอนที่ 7",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/62281f95-92d4-513d-ac77-0d3841232068.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 1 ตอนที่ 7",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/22cfe524-358e-505c-b376-c31629bbb9f2.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 1 ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/3c92dc24-0fac-52a4-88eb-352ab29c5037.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 1 ตอนที่ 8",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/bb79d6e9-d437-5ccd-ae8d-1c82c446b69d.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 9",
+     "name": "ซีซั่น 1 ตอนที่ 9",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/d043a239-45de-5ee0-9315-2220eee70f2c.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 9",
+     "name": "ซีซั่น 1 ตอนที่ 9",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/e6499c0c-2c5d-5105-a400-6de36a6de91b.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "A Haunting in Venice (2023) ฆาตกรรมหลอนแห่งนครเวนิส",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "A Haunting in Venice (2023) ฆาตกรรมหลอนแห่งนครเวนิส",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/06bda1c9-bce3-57da-a6b3-8ac685acb2d0.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -3070,20 +3231,6 @@
    ]
   },
   {
-   "name": "Suspect (2023) ฆ่าสมการลวง",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Suspect-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Suspect (2023) ฆ่าสมการลวง",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Suspect-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/4306fc34-095d-5b18-90f0-c34bb1125d56.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Ransomed (2023) คู่ระห่ำ ไถ่ข้ามโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ransomed-2023-190x300-c-default.webp",
    "info": "พากย์ไทย",
@@ -3159,420 +3306,420 @@
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/645bb332-a29e-59ca-8df7-5967e265eb4d.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/281d62de-2897-5fb1-948f-26c2dc2f6656.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/becc8dfe-c894-5134-8cca-2d75502d8626.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/be29a0e4-7ab5-5a31-9750-ed782b247002.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/e6ee05bb-20cc-58c6-92a0-2febda4b90af.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/1d28ec49-4bbb-5b02-a40d-e222c4fd0049.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/b531f810-721e-59f9-9f57-1de6bce3047d.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/bc61fa63-a832-550c-9581-2813bc7a3a8a.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/cb0fd00d-f9ae-58ae-95d3-109e237f2567.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/f5566f7a-deec-5770-bcb6-94503592b787.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 1 ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/1d879584-1695-5865-947b-fed66650386c.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 1 ตอนที่ 6",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/b8eb3333-d410-5ce7-8024-928907f61386.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 1 ตอนที่ 7",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/f856ec56-84df-56a8-a886-6cd99efd2239.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 1 ตอนที่ 7",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/068d7a8e-61ff-5bca-9197-309f26dc7b4b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 1 ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/bceefe11-5afe-52b9-8726-a16d6a1f197d.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 1 ตอนที่ 8",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/60eb5022-2354-572c-9d4d-c4a65661bec4.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 9",
+     "name": "ซีซั่น 1 ตอนที่ 9",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/cfc20e03-2bcd-5b5e-b3fb-2f22d4d1932f.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 9",
+     "name": "ซีซั่น 1 ตอนที่ 9",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/af6bab59-672f-5b27-860c-1db2cf43a380.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 10",
+     "name": "ซีซั่น 1 ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/54a56d21-05c0-5765-8275-3d8e213e2ca8.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 10",
+     "name": "ซีซั่น 1 ตอนที่ 10",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/cd3ca536-01f0-5652-af23-f22860c63bdf.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 11",
+     "name": "ซีซั่น 1 ตอนที่ 11",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/a2a69c03-0ddb-58f5-b5f9-c7ca3f51e896.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 11",
+     "name": "ซีซั่น 1 ตอนที่ 11",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/aa5dc1ba-3458-5b39-9971-61bf988a1e64.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 12",
+     "name": "ซีซั่น 1 ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/bfe75905-3777-59fd-9c5b-cf27bde2d1f7.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 12",
+     "name": "ซีซั่น 1 ตอนที่ 12",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/edb96cf9-d6ec-5c1c-acc4-040722cc9944.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 13",
+     "name": "ซีซั่น 1 ตอนที่ 13",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/133058ff-4a9e-50a7-b798-331e643fde22.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 13",
+     "name": "ซีซั่น 1 ตอนที่ 13",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/9771a500-ede8-55b6-8d06-689a992fd179.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 14",
+     "name": "ซีซั่น 1 ตอนที่ 14",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/ac8df3ae-c3b6-52e0-899a-c82ad72c69ad.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 14",
+     "name": "ซีซั่น 1 ตอนที่ 14",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/b8b050ac-27bd-5ed5-9c47-5837b301e00b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 15",
+     "name": "ซีซั่น 1 ตอนที่ 15",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/d683d6df-be53-5931-9982-3040ef439a91.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 15",
+     "name": "ซีซั่น 1 ตอนที่ 15",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/b802e770-1823-589e-98b7-81393c6e00fb.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 16",
+     "name": "ซีซั่น 1 ตอนที่ 16",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/14c33f5b-170a-5407-818f-1fdfc97e3609.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 16",
+     "name": "ซีซั่น 1 ตอนที่ 16",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/e44e6311-1586-59c2-9304-f63cfeb5adc2.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 17",
+     "name": "ซีซั่น 1 ตอนที่ 17",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/7a6123e2-2b56-5429-825f-2308ee56b3ec.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 17",
+     "name": "ซีซั่น 1 ตอนที่ 17",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/5d3269db-5ef0-5df4-9852-37d21556fbc6.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 18",
+     "name": "ซีซั่น 1 ตอนที่ 18",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/5d65e918-51d9-5e55-a97e-5adaa15fe72b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 18",
+     "name": "ซีซั่น 1 ตอนที่ 18",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/160a8f53-a660-5386-a243-4c9fc10abbcb.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 2 ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/160a8f53-a660-5386-a243-4c9fc10abbcb.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 2 ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/c03fe242-12af-5155-8473-545230aacc99.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 2 ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/c03fe242-12af-5155-8473-545230aacc99.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 2 ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/ae154d3a-a15c-5d42-9a73-4159b67430cc.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 2 ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/ae154d3a-a15c-5d42-9a73-4159b67430cc.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 2 ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/1388fcd4-cce6-51f3-a846-3e86c64f0cf9.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 2 ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/1388fcd4-cce6-51f3-a846-3e86c64f0cf9.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 2 ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/e0e6bc3b-e2ef-5ed1-855d-db5ea25f000e.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 2 ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/e0e6bc3b-e2ef-5ed1-855d-db5ea25f000e.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 2 ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/b27fe7d2-c2b7-5216-98df-75674164117a.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 2 ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/b27fe7d2-c2b7-5216-98df-75674164117a.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 2 ตอนที่ 6",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/a550b835-520b-57a1-b56a-4c31d66ff90c.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 2 ตอนที่ 7",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/a550b835-520b-57a1-b56a-4c31d66ff90c.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 2 ตอนที่ 7",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/b908d939-7af6-5818-b61e-bc70fcfc4c7d.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 2 ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/b908d939-7af6-5818-b61e-bc70fcfc4c7d.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 2 ตอนที่ 8",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/3ab2902c-ec41-53ea-823a-3c6c6e845cf4.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 9",
+     "name": "ซีซั่น 2 ตอนที่ 9",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/3ab2902c-ec41-53ea-823a-3c6c6e845cf4.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 9",
+     "name": "ซีซั่น 2 ตอนที่ 9",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/24fc4166-5daf-51f3-90b3-3b77a2c6bc0c.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 10",
+     "name": "ซีซั่น 2 ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/24fc4166-5daf-51f3-90b3-3b77a2c6bc0c.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 10",
+     "name": "ซีซั่น 2 ตอนที่ 10",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/f700f875-6c99-5d6f-9e32-7241198a0e86.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 11",
+     "name": "ซีซั่น 2 ตอนที่ 11",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/f700f875-6c99-5d6f-9e32-7241198a0e86.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 11",
+     "name": "ซีซั่น 2 ตอนที่ 11",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/07166fc5-295a-5787-b4eb-7310b2798ce8.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 12",
+     "name": "ซีซั่น 2 ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/07166fc5-295a-5787-b4eb-7310b2798ce8.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 12",
+     "name": "ซีซั่น 2 ตอนที่ 12",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Arthdal-Chronicles-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/89f1f461-e813-5d6e-966a-b62948f33088.m3u8",
@@ -3586,136 +3733,115 @@
    "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/8b818d52-60a5-567c-b575-47152a28f35f.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/3b1726a8-01ed-54a0-8410-46417b983f45.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/127d2bf2-1834-52bc-95db-9469dda6dea0.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/2a2e84c3-1062-5f9c-9773-64424493988b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/ab05020c-2a14-5705-8bf2-9e5eaa3f8220.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/9c276fab-4fff-529c-ad6c-27059f6d0b9e.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/f20451cd-13aa-5e32-85a9-dcffe4d4849c.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/4551efbc-1cc2-5a39-86bc-2d565a5dcb66.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/c1654503-d02a-5246-b9de-3e3ffc91366b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/a9f83d32-47d8-5a6f-a627-7c7076c3b484.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 1 ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/c2364088-296d-57ea-a503-83d4ed036ae3.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 1 ตอนที่ 6",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/d97859b6-dfd6-5694-b8da-0ef6e5696095.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 1 ตอนที่ 7",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/95cdbba7-e6a7-587a-a355-4022e2462f7b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 1 ตอนที่ 7",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/c11545e6-c831-55fc-990e-36eb9561a9d6.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 1 ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/83689710-5a53-5992-bfd4-2e0cbd919c4e.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 1 ตอนที่ 8",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ahsoka-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/a43b760b-4291-5b38-871e-51cccd70b3e0.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Wandering Earth 2 (2023) ฝ่ามหันตภัยเพลิงสุริยะ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/The-Wandering-Earth-2-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "The Wandering Earth 2 (2023) ฝ่ามหันตภัยเพลิงสุริยะ",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/The-Wandering-Earth-2-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/b6b4449a-3667-5292-838c-68445c2ffdac.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "The Wandering Earth 2 (2023) ฝ่ามหันตภัยเพลิงสุริยะ",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/The-Wandering-Earth-2-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/74439e1c-b154-522a-8f90-3aed17293989.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -3985,168 +4111,168 @@
    "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/512344ac-08f3-5a12-9738-b17ad7fcc7b0.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/1a86272b-1dc6-5544-834f-5d4fab481c97.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/381a890f-04ad-5c58-b202-2262fefd6666.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/6e72539c-9d45-5524-a644-083318a2ea30.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/2e049f95-fee6-508c-bc9c-d8b7a49e9cd2.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/69e052b2-febb-5108-9c06-18f617f24489.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/e53ae131-433e-5f01-a922-10582003a184.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/6a904449-41fb-59d2-bba2-0a108fdc2610.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/a6bb11c0-5ea7-5063-b8b7-08c871f84035.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/ed8f1d32-b5a6-5ee2-bb2d-92004c7d913a.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 1 ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/698beec1-e609-5939-8779-322aa0c3b560.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 1 ตอนที่ 6",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/9cbc013f-db81-5780-8677-14ad5cfcc77f.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 1 ตอนที่ 7",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/7474c510-8b46-5d8a-b5e8-336b26c2bebf.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 1 ตอนที่ 7",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/9bcd3303-760c-5ee1-a6b4-4679d166f593.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 1 ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/09f2b1e1-95b9-5f5b-9e26-0c4479d4d2ab.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 1 ตอนที่ 8",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/e7f8d972-3392-5189-8c6b-b508a60d0218.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 9",
+     "name": "ซีซั่น 1 ตอนที่ 9",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/d1ccf56e-0c3c-5f27-9921-b87ce7ab04d8.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 9",
+     "name": "ซีซั่น 1 ตอนที่ 9",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/77c2e0b3-45ca-5ca9-8056-e1a6bff18a9d.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 10",
+     "name": "ซีซั่น 1 ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/cee0544a-97b6-54d6-8dc0-e057f4c7f928.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 10",
+     "name": "ซีซั่น 1 ตอนที่ 10",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/419adbec-c911-50ab-902c-88a59db9e295.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 11",
+     "name": "ซีซั่น 1 ตอนที่ 11",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/f7b70b2b-c40d-5226-8799-a9980790140a.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 11",
+     "name": "ซีซั่น 1 ตอนที่ 11",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/da9514f4-8a80-5a16-a9db-f1e9016da4f2.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 12",
+     "name": "ซีซั่น 1 ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/fc36b3f5-38d2-51a9-ad39-537e42e24406.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 12",
+     "name": "ซีซั่น 1 ตอนที่ 12",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Time-Called-You-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/c79e232c-ae12-5e46-9e3a-a04ef8c53026.m3u8",
@@ -4160,84 +4286,84 @@
    "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/GAMERA-Rebirth-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/dd486421-9949-599c-bd1a-cd6cb9962653.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/GAMERA-Rebirth-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/0478e595-ee17-57a4-aa4a-080cdfbf6cd4.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/GAMERA-Rebirth-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/8ceb6ba5-56d3-5a09-ab0c-9914eb80a4f8.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/GAMERA-Rebirth-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/a7bdb59b-3846-59c3-b047-c8dd14c119f6.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/GAMERA-Rebirth-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/3fe7df48-baff-5240-b8d9-f99acd30ecfd.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/GAMERA-Rebirth-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/85a5993f-44ef-5927-8104-6a87dcf88bd2.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/GAMERA-Rebirth-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/8b697be7-5d54-54eb-a5f2-1689452404ba.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/GAMERA-Rebirth-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/34e1a5be-9a40-5984-a7e8-fb764e763f6c.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/GAMERA-Rebirth-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/b19891ab-87cd-524e-a581-22a508b0574c.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/GAMERA-Rebirth-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/6d5294cf-ed63-5e98-93fd-0c341d256842.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 1 ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/GAMERA-Rebirth-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/93cfec73-58ab-5088-99db-1c06733904cc.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 1 ตอนที่ 6",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/GAMERA-Rebirth-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/d175b7e4-845c-53bd-af20-d1ba89acf4d0.m3u8",
@@ -4251,241 +4377,255 @@
    "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/d2a4b386-bbdc-5132-9fa6-c37240966310.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 1",
+     "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/d2a4b386-bbdc-5132-9fa6-c37240966310.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/87d437b9-c4cb-532e-8fde-a175c4f1c36f.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/87d437b9-c4cb-532e-8fde-a175c4f1c36f.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/a761bc1b-613b-5fea-825b-4e88ffca406c.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 3",
+     "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/a761bc1b-613b-5fea-825b-4e88ffca406c.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/145e006b-a3e5-54b8-8deb-d93ca38f5a82.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 4",
+     "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/145e006b-a3e5-54b8-8deb-d93ca38f5a82.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/b11e8985-f571-5f5d-ac05-a9f92c9ae976.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 5",
+     "name": "ซีซั่น 1 ตอนที่ 5",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/b11e8985-f571-5f5d-ac05-a9f92c9ae976.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 1 ตอนที่ 6",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/2ec68ef3-58ec-5777-a1d1-1f8d9f1b4cf7.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 6",
+     "name": "ซีซั่น 1 ตอนที่ 6",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/2ec68ef3-58ec-5777-a1d1-1f8d9f1b4cf7.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 1 ตอนที่ 7",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/5f475359-888a-5cc6-8cf8-34eabdc3b8f8.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 7",
+     "name": "ซีซั่น 1 ตอนที่ 7",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/5f475359-888a-5cc6-8cf8-34eabdc3b8f8.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 1 ตอนที่ 8",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/bf3a77a1-4fd9-5609-bad6-7569c0354d8d.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 8",
+     "name": "ซีซั่น 1 ตอนที่ 8",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/bf3a77a1-4fd9-5609-bad6-7569c0354d8d.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 9",
+     "name": "ซีซั่น 1 ตอนที่ 9",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/b177eec2-7bab-5267-96d4-4a35c6809c5f.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 9",
+     "name": "ซีซั่น 1 ตอนที่ 9",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/b177eec2-7bab-5267-96d4-4a35c6809c5f.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 10",
+     "name": "ซีซั่น 1 ตอนที่ 10",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/14a83ab5-41f2-594a-8b73-3ab3090bc6e4.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 10",
+     "name": "ซีซั่น 1 ตอนที่ 10",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/14a83ab5-41f2-594a-8b73-3ab3090bc6e4.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 11",
+     "name": "ซีซั่น 1 ตอนที่ 11",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/3c56fc37-0020-5af1-a4da-2f42ab2e0071.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 11",
+     "name": "ซีซั่น 1 ตอนที่ 11",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/3c56fc37-0020-5af1-a4da-2f42ab2e0071.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 12",
+     "name": "ซีซั่น 1 ตอนที่ 12",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/635b5b7c-d552-5566-880f-bba2618c2058.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 12",
+     "name": "ซีซั่น 1 ตอนที่ 12",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/635b5b7c-d552-5566-880f-bba2618c2058.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 13",
+     "name": "ซีซั่น 1 ตอนที่ 13",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/1961083d-1ee0-5840-bad9-cff437e51976.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 13",
+     "name": "ซีซั่น 1 ตอนที่ 13",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/1961083d-1ee0-5840-bad9-cff437e51976.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 14",
+     "name": "ซีซั่น 1 ตอนที่ 14",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/29a9d9ec-b472-5640-b844-940ffd394eb6.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 14",
+     "name": "ซีซั่น 1 ตอนที่ 14",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/29a9d9ec-b472-5640-b844-940ffd394eb6.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 15",
+     "name": "ซีซั่น 1 ตอนที่ 15",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/ddd2c695-3c17-5649-9fc3-cf0ca497478b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 15",
+     "name": "ซีซั่น 1 ตอนที่ 15",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/ddd2c695-3c17-5649-9fc3-cf0ca497478b.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 16",
+     "name": "ซีซั่น 1 ตอนที่ 16",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/2789ec50-3853-5166-a697-fd44ea47d579.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "ตอนที่ 16",
+     "name": "ซีซั่น 1 ตอนที่ 16",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/2789ec50-3853-5166-a697-fd44ea47d579.m3u8",
      "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Three Musketeers D’Artagnan (2023) สามทหารเสือ กำเนิดนักรบดาร์ตาญัง",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Three-Musketeers-D-Artagnan-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
+    },
     {
-     "name": "The Three Musketeers D’Artagnan (2023) สามทหารเสือ กำเนิดนักรบดาร์ตาญัง",
+     "name": "ซีซั่น 1 ตอนที่ 17",
      "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Three-Musketeers-D-Artagnan-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/c4159d35-4b49-5392-b2ab-a629e7948605.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/39c2c2cc-fe4f-5107-ac2d-af799b274bbe.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/39c2c2cc-fe4f-5107-ac2d-af799b274bbe.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 18",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/3bd78ea2-8e72-5451-a2d0-5dfc63fcebd6.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/3bd78ea2-8e72-5451-a2d0-5dfc63fcebd6.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -4535,6 +4675,20 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Seven-Days-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/91a1c606-4fb2-5743-a9c5-a0dc2844d597.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Scout’s Honor The Secret Files of the Boy Scouts of America (2023) แฟ้มลับสมาคมลูกเสือแห่งอเมริกา",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Scout-s-Honor-The-Secret-Files-of-the-Boy-Scouts-of-America-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Scout’s Honor The Secret Files of the Boy Scouts of America (2023) แฟ้มลับสมาคมลูกเสือแห่งอเมริกา",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Scout-s-Honor-The-Secret-Files-of-the-Boy-Scouts-of-America-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/2d504897-6eac-57ce-91f4-db59ae26be17.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -5275,20 +5429,6 @@
    ]
   },
   {
-   "name": "10 Days of a Bad Man (2023) 10 วันของคนเลว",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/10-Days-of-a-Bad-Man-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "10 Days of a Bad Man (2023) 10 วันของคนเลว",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/10-Days-of-a-Bad-Man-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/e8332994-11c2-5f62-85ff-22ccfacd9b84.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "The Monkey King (2023) พญาวานร",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/The-Monkey-King-2023-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
@@ -5851,20 +5991,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Soulcatcher-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/fbf350b3-584e-55f2-bdb5-f4ea4e3999c6.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Poisoned (2023) ความจริงที่สกปรกของอาหาร",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Poisoned-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Poisoned (2023) ความจริงที่สกปรกของอาหาร",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Poisoned-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/7b02849b-8001-57aa-8881-1610720d3785.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -6703,27 +6829,6 @@
    ]
   },
   {
-   "name": "Guardians of the Galaxy Vol. 3 (2023) รวมพันธุ์นักสู้พิทักษ์จักรวาล 3",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Guardians-of-the-Galaxy-Vol.-3-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Guardians of the Galaxy Vol. 3 (2023) รวมพันธุ์นักสู้พิทักษ์จักรวาล 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Guardians-of-the-Galaxy-Vol.-3-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/205360da-eaea-527b-9ccf-97244ce044ed.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Guardians of the Galaxy Vol. 3 (2023) รวมพันธุ์นักสู้พิทักษ์จักรวาล 3",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Guardians-of-the-Galaxy-Vol.-3-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/205360da-eaea-527b-9ccf-97244ce044ed.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Ambush (2023) ภารกิจฝ่าวงล้อมสงครามเวียดนาม",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Ambush-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -7144,20 +7249,6 @@
    ]
   },
   {
-   "name": "Inhuman Kiss: The Last Breath (Sang Krasue 2) (2023) แสงกระสือ 2",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Inhuman-Kiss-The-Last-Breath2022-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Inhuman Kiss: The Last Breath (Sang Krasue 2) (2023) แสงกระสือ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Inhuman-Kiss-The-Last-Breath2022-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/6087e85d-e98d-5163-a6b8-8a478d97631f.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Lust Stories 2 (2023) เรื่องรัก เรื่องใคร่ 2",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Lust-Stories-2-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -7293,20 +7384,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/The-Glorious-My-Revenge-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0f4259f5-73df-5dc3-bfb3-f8cc0569cebf.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Taz Quest for Burger (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Taz-Quest-for-Burger-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Taz Quest for Burger (2023)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Taz-Quest-for-Burger-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/815bfd44-d078-52c8-af83-8ac7fb0464ad.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -7690,20 +7767,6 @@
    ]
   },
   {
-   "name": "Big Eudemon (2023) ยูเดมอนส์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Big-Eudemon-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Big Eudemon (2023) ยูเดมอนส์",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Big-Eudemon-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/d7e4ad78-eb30-59c3-9d5f-fd04d5258a4a.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Nefarious (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Nefarious-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -7837,20 +7900,6 @@
    ]
   },
   {
-   "name": "Sword Art Online the Movie: Progressive – Scherzo of Deep Night (2022) ซอร์ด อาร์ต ออนไลน์ โปรเกรสซีฟ เดอะมูฟวี่ : สแกรโซแห่งสนธยาโศก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Sword-Art-Online-the-Movie-Progressive-Scherzo-of-Deep-Night-190x300-c-default.webp",
-   "info": "พากย์ไทย(C)",
-   "stations": [
-    {
-     "name": "Sword Art Online the Movie: Progressive – Scherzo of Deep Night (2022) ซอร์ด อาร์ต ออนไลน์ โปรเกรสซีฟ เดอะมูฟวี่ : สแกรโซแห่งสนธยาโศก",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Sword-Art-Online-the-Movie-Progressive-Scherzo-of-Deep-Night-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/fc8bee80-be31-56e0-8783-de3617004bbc.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "The Pope’s Exorcist (2023) โป๊ปปราบผี",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/The-Popes-Exorcist-2023-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
@@ -7937,6 +7986,20 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/The-Mermaid-2023-260-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a942c7eb-c491-54da-b562-4b6aa842ea21.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Gumraah (2023) คนหน้าเหมือน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Gumraah-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Gumraah (2023) คนหน้าเหมือน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Gumraah-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/0170dfbf-a230-5d84-8b40-af4cf6af8b3c.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -8572,27 +8635,6 @@
    ]
   },
   {
-   "name": "Evil Dead Rise (2023) ผีอมตะผงาด",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Evil-Dead-Rise-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Evil Dead Rise (2023) ผีอมตะผงาด",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Evil-Dead-Rise-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/16181945-d307-5fcd-bbb3-6a1f3fa3387d.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Evil Dead Rise (2023) ผีอมตะผงาด",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Evil-Dead-Rise-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/9e1e48ae-493e-537c-8d67-f4cdf644dde4.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Justice League x RWBY: Super Heroes & Huntsmen, Part One (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/RWBY-Super-Heroes-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -8607,20 +8649,6 @@
    ]
   },
   {
-   "name": "Bodyguard (2023) บอดี้การ์ด 2",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Bodyguard-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Bodyguard (2023) บอดี้การ์ด 2",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Bodyguard-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/1379ecea-f875-560a-b6a8-091077cc86ff.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Crater (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Crater-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -8629,7 +8657,7 @@
      "name": "Crater (2023)",
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Crater-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/1379ecea-f875-560a-b6a8-091077cc86ff.m3u8",
+     "url": "https://streamhls.com/view/0075e7a8-816d-5caa-8a29-81186b97aa91.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -8817,6 +8845,20 @@
    ]
   },
   {
+   "name": "Judy Blume Forever (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Judy-Blume-Forever-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Judy Blume Forever (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Judy-Blume-Forever-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/a00fa6e6-8591-5d67-9be6-9422219ec0e7.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Tu Jhoothi Main Makkaar (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Tu-Jhoothi-Main-Makkaar-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -8854,20 +8896,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Hitmen-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/54f0198f-9bb8-529c-aac4-d141b093be83.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Gangs of Lagos (2023) แก๊งแห่งลากอส",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Gangs-of-Lagos-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Gangs of Lagos (2023) แก๊งแห่งลากอส",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Gangs-of-Lagos-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/271028f4-a46a-50d3-932f-4a3b50f99725.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -9099,20 +9127,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Kiss-Kiss-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b98e994c-6359-55ad-9b71-53c73e74c414.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Matchmaker (2023) แม่สื่อ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/The-Matchmaker-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "The Matchmaker (2023) แม่สื่อ",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/The-Matchmaker-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/6aa770fa-a59b-55e2-863e-dbaa6fc4783e.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -9587,20 +9601,6 @@
    ]
   },
   {
-   "name": "5 แม่บ้านถล่มมาเฟีย Bad Ass Maid (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Bad_Ass_Maid_2023_Poster-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "5 แม่บ้านถล่มมาเฟีย Bad Ass Maid (2023)",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Bad_Ass_Maid_2023_Poster-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/6f1909b0-8c1b-5d37-8e80-6a5ff481084b.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Mummies (2023) มัมมี่ส์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Mummies-2023-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
@@ -9790,20 +9790,6 @@
    ]
   },
   {
-   "name": "Nothing Like Paris (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Nothing-Like-Paris-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Nothing Like Paris (2023)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Nothing-Like-Paris-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/1aa051a9-69c2-5a30-8d60-2790984c06ad.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Pathaan (2023) ปาทาน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Pathaan-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -9974,20 +9960,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Magicians-Elephant-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c66c3f5d-6cc9-59b4-9a7d-ffcc968c9783.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Ancient Beast Inostrancevia (2023) ผจญภัยเกาะลับ สัตว์ดึกดำบรรพ์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Ancient-Beast-Inostrancevia-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Ancient Beast Inostrancevia (2023) ผจญภัยเกาะลับ สัตว์ดึกดำบรรพ์",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Ancient-Beast-Inostrancevia-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/b0036553-086b-5e0e-ae84-e5abb91d5085.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -10653,27 +10625,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Somebody-I-Used-to-Know-190x300-c-default.webp",
      "url": "https://streamhls.com/view/40482437-bee9-5970-b5e5-b32c1ca092b8.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Your Place or Mine (2023) รักสลับบ้าน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Your-Place-or-Mine-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Your Place or Mine (2023) รักสลับบ้าน",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Your-Place-or-Mine-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/29a455d0-624e-5633-ac18-e1cc54307bc9.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Your Place or Mine (2023) รักสลับบ้าน",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Your-Place-or-Mine-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/b1c69623-0310-5b90-877c-cc117323cffb.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
