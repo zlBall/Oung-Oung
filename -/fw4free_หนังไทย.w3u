@@ -1,9 +1,22 @@
 {
  "name": "หนังไทย",
- "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 30 ตุลาคม 2566",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 04 พฤศจิกายน 2566",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://fw4free.com/images/logo7.png",
  "groups": [
+  {
+   "name": "รักแรกโคตรลืมยาก My Precious (2023)",
+   "image": "https://img.inwiptv.net/postor/20231103195818MV5BMTEwNThiMDEtZGQ2Mi00NmFmLThjNmYtNzBiMDBkZWEwYjJmXkEyXkFqcGdeQXVyMzcyMDg3ODE@._V1_.jpg",
+   "stations": [
+    {
+     "name": "รักแรกโคตรลืมยาก My Precious (2023)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20231103195818MV5BMTEwNThiMDEtZGQ2Mi00NmFmLThjNmYtNzBiMDBkZWEwYjJmXkEyXkFqcGdeQXVyMzcyMDg3ODE@._V1_.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/My_Precious_2023/My_Precious_2023_th_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
   {
    "name": "ลอง ลีฟ เลิฟว์ Long Live Love! (2023)",
    "image": "https://img.inwiptv.net/postor/20231027113655pTuJyhErW6MtwpitAgYytOdiFj.jpg",
@@ -7866,14 +7879,14 @@
    ]
   },
   {
-   "name": "The Parallel ร่าง",
-   "image": "https://img.inwiptv.net/postor/20200123155211The Parallel ร่าง.jpg",
+   "name": "ร่าง The Parallel (2014)",
+   "image": "https://img.inwiptv.net/postor/20231103142607The Parallel (2014) ร่าง HD Master พากย์ไทยเต็มเรื่อง.jpg",
    "stations": [
     {
-     "name": "The Parallel ร่าง",
-     "info": "พากย์ไทย [720p]",
-     "image": "https://img.inwiptv.net/postor/20200123155211The Parallel ร่าง.jpg",
-     "url": "https://m1free.inwstream.com:1936/movie1/the-parallel/the-parallel-th-720p-fwtv.m4v/playlist.m3u8",
+     "name": "ร่าง The Parallel (2014)",
+     "info": " พากย์ไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20231103142607The Parallel (2014) ร่าง HD Master พากย์ไทยเต็มเรื่อง.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Parallel_2014/The_Parallel_2014_th_1080.mp4/playlist.m3u8",
      "referer": "https://fw4free.com/"
     }
    ]
