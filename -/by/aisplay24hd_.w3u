@@ -1,231 +1,126 @@
 {
- "name": "โปรแกรมถ่ายทอดสดวันที่ 05 พฤศจิกายน 2566",
- "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 05 พฤศจิกายน 2566",
+ "name": "โปรแกรมถ่ายทอดสดวันที่ 06 พฤศจิกายน 2566",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 06 พฤศจิกายน 2566",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://www.aisplay24hd.com/wp-content/uploads/2021/09/cropped-logo_m_md.png",
  "stations": [
   {
-   "name": "ออสเตรเลีย - เอ ลีก : นิวคาสเซิ่ล เจ็ทส์ พบ เวสเทิร์น ซิดนีย์ วันเดอเรอร์ส",
-   "info": " 11:00 ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch3/playlist.m3u8",
+   "name": "เม็กซิโก - ลีกา เอ็มเอ็กซ์ : เนกาซ่า พบ มาซัตลาน",
+   "info": " 05:00 LIVE ",
+   "image": "https://lh3.googleusercontent.com/-vTc28SfEL64/ZRpa6LK8RWI/AAAAAAAAFts/ol6x-tio4lomo8ZDdZ9EnNxxRa4k6JoZwCNcBGAsYHQ/h109/05.00.gif",
+   "url": "https://cdn1.aws-live-streaming.com/ais/ch18/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
-   "name": "ออสเตรเลีย - W-League : Western United พบ เมลเบิร์น ซิตี้",
-   "info": " 12:00 ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch13/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "ญี่ปุ่น - เจลีก ดิวิชั่น 2 : Renofa Yamaguchi พบ Machida Zelvia",
-   "info": " 11:05 ",
+   "name": "เม็กซิโก - ลีกา เอ็มเอ็กซ์ : ซานโตส ลากูน่า พบ โตลูก้า",
+   "info": " 07:05 ",
    "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
    "url": "https://cdn1.aws-live-streaming.com/ais/ch4/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
-   "name": "ญี่ปุ่น - เจลีก ดิวิชั่น 2 : เธสปาคูซัทสึ กุนมะ พบ เจฟ ยูไนเต็ด",
-   "info": " 12:00 ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch6/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "ญี่ปุ่น - เจลีก ดิวิชั่น 2 : ฟาเจียโน่ โอกายามะ พบ เบลาบิตซ์ อาคิตะ",
-   "info": " 12:00 ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch7/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "ญี่ปุ่น - เจลีก ดิวิชั่น 2 : โตเกียว เวอร์ดี้ พบ โตจิหงิ",
-   "info": " 12:00 ",
+   "name": "เม็กซิโก - ลีกา เอ็มเอ็กซ์ : Juárez พบ เกเรตาโร่",
+   "info": " 09:06 ",
    "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
    "url": "https://cdn1.aws-live-streaming.com/ais/ch9/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
-   "name": "อาร์เจนตินา - ปรีเมร่า ดิวิซิโอน : อัตเลติโก ตูคูมาน พบ อินเดเปนเดียนเต้",
-   "info": " 07:00 ",
-   "image": "https://lh3.googleusercontent.com/-Qgi1UWf2efI/ZRpn_Kmg5fI/AAAAAAAAFvQ/LKBJOibYZIIjwAcWSliBlr9BBO7hKmtUQCNcBGAsYHQ/h112/07.00.gif",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch7/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "โบลิเวีย - แอลเอฟพีบี : เอาโรร่า พบ เดอะ สตรองเกสต์",
-   "info": " 05:30 LIVE ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch12/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "บราซิล - เซเรีย เบ : ซัมไปโย่ คอร์เรอา พบ ตอมเบนเซ่",
-   "info": " 05:30 LIVE ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch18/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "บราซิล - เซเรีย อา : อเมริกา มิเนโร่ พบ อัตเลติโก มิเนโร่",
-   "info": " 05:30 LIVE ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
+   "name": "บราซิล - เซเรีย อา : โคริติบา พบ โกยาส",
+   "info": " 04:30 LIVE ",
+   "image": "https://lh3.googleusercontent.com/-DSTNbuCmJ7Q/ZRpa5yidM8I/AAAAAAAAFto/SFHyjSJZmoENNQQioKubJ1VRlbQmoSV2ACNcBGAsYHQ/h109/04.30.gif",
    "url": "https://cdn1.aws-live-streaming.com/ais/canal11pt/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
-   "name": "บราซิล - เซเรีย อา : เกรมิโอ พบ บาเฮีย",
-   "info": " 05:30 LIVE ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch15/playlist.m3u8",
+   "name": "อาร์เจนตินา - ปรีเมร่า ดิวิซิโอน : ราซิ่ง คลับ พบ เซ็นทรัล คอร์โดบา เอสดีอี",
+   "info": " 04:30 LIVE ",
+   "image": "https://lh3.googleusercontent.com/-DSTNbuCmJ7Q/ZRpa5yidM8I/AAAAAAAAFto/SFHyjSJZmoENNQQioKubJ1VRlbQmoSV2ACNcBGAsYHQ/h109/04.30.gif",
+   "url": "https://cdn1.aws-live-streaming.com/ais/ch13/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
-   "name": "เอกวาดอร์ - เซเรีย อา : แอลดียู กีโต้ พบ อินเดเปนเดียนเต้ เดล วาเย่",
-   "info": " 06:00 LIVE ",
-   "image": "https://lh3.googleusercontent.com/-qJZY9fcWLFg/ZRpa6uxeOnI/AAAAAAAAFtw/BKpdyePZ3MQzWZSX5AYYJar1BfcXwl1VgCNcBGAsYHQ/h112/06.00.gif",
+   "name": "อาร์เจนตินา - ปรีเมร่า ดิวิซิโอน : เอสตูเดียนเตส พบ เดเฟนซ่า อี ฮุสติเซีย",
+   "info": " 06:30 ",
+   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
    "url": "https://cdn1.aws-live-streaming.com/ais/ch2/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
-   "name": "เม็กซิโก - ลีกา เอ็มเอ็กซ์ : ติเกรส ยูเอเอ็นแอล พบ อัตเลติโก ซาน หลุยส์",
-   "info": " 05:55 LIVE ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
+   "name": "อาร์เจนตินา - ปรีเมร่า ดิวิซิโอน : นีเวลล์ส โอลด์ บอยส์ พบ ซาร์เมียนโต้",
+   "info": " 07:00 ",
+   "image": "https://lh3.googleusercontent.com/-Qgi1UWf2efI/ZRpn_Kmg5fI/AAAAAAAAFvQ/LKBJOibYZIIjwAcWSliBlr9BBO7hKmtUQCNcBGAsYHQ/h112/07.00.gif",
+   "url": "https://cdn1.aws-live-streaming.com/ais/ch3/playlist.m3u8",
+   "referer": "https://www.aisplay24hd.com/"
+  },
+  {
+   "name": "อุรุกวัย - ปรีเมร่า ดิวิซิโอน : Peñarol พบ Liverpool",
+   "info": " 06:00 ",
+   "image": "https://lh3.googleusercontent.com/-qJZY9fcWLFg/ZRpa6uxeOnI/AAAAAAAAFtw/BKpdyePZ3MQzWZSX5AYYJar1BfcXwl1VgCNcBGAsYHQ/h112/06.00.gif",
+   "url": "https://cdn1.aws-live-streaming.com/ais/ch19/playlist.m3u8",
+   "referer": "https://www.aisplay24hd.com/"
+  },
+  {
+   "name": "เอกวาดอร์ - เซเรีย อา : บาร์เซโลน่า อีซี พบ เอล นาซิอองนาล",
+   "info": " 06:00 ",
+   "image": "https://lh3.googleusercontent.com/-qJZY9fcWLFg/ZRpa6uxeOnI/AAAAAAAAFtw/BKpdyePZ3MQzWZSX5AYYJar1BfcXwl1VgCNcBGAsYHQ/h112/06.00.gif",
    "url": "https://cdn1.aws-live-streaming.com/ais/ch1/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
-   "name": "เม็กซิโก - ลีกา เอ็มเอ็กซ์ : อเมริกา พบ ติฮัวน่า",
-   "info": " 08:00 ",
+   "name": "บราซิล - เซเรีย เบ : วิตอเรีย พบ วิลล่า โนว่า",
+   "info": " 04:00 LIVE ",
    "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
    "url": "https://cdn1.aws-live-streaming.com/ais/ch10/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
-   "name": "เม็กซิโก - ลีกา เอ็มเอ็กซ์ : ชีวาส กัวดาลาฮาร่า พบ ครูซ​ อาซูล",
-   "info": " 10:05 ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch18/playlist.m3u8",
+   "name": "สหรัฐอเมริกา - เมเจอร์ลีก : สปอร์ติ้ง แคนซัส ซิตี้ พบ เซนต์ หลุยส์ เอฟซี",
+   "info": " 05:00 LIVE ",
+   "image": "https://lh3.googleusercontent.com/-vTc28SfEL64/ZRpa6LK8RWI/AAAAAAAAFts/ol6x-tio4lomo8ZDdZ9EnNxxRa4k6JoZwCNcBGAsYHQ/h109/05.00.gif",
+   "url": "https://cdn1.aws-live-streaming.com/ais/ch15/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
-   "name": "เม็กซิโก - ลีกา เอ็มเอ็กซ์ : ปาชูก้า พบ มอนเตอร์เรย์",
-   "info": " 10:05 ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch19/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "อุรุกวัย - ปรีเมร่า ดิวิซิโอน : River Plate พบ นาซิอองนาล",
-   "info": " 06:00 LIVE ",
-   "image": "https://lh3.googleusercontent.com/-qJZY9fcWLFg/ZRpa6uxeOnI/AAAAAAAAFtw/BKpdyePZ3MQzWZSX5AYYJar1BfcXwl1VgCNcBGAsYHQ/h112/06.00.gif",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch3/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "สหรัฐอเมริกา - เมเจอร์ลีก : นิวยอร์ก เร้ด บูลส์ พบ Cincinnati",
-   "info": " 06:00 LIVE ",
-   "image": "https://lh3.googleusercontent.com/-qJZY9fcWLFg/ZRpa6uxeOnI/AAAAAAAAFtw/BKpdyePZ3MQzWZSX5AYYJar1BfcXwl1VgCNcBGAsYHQ/h112/06.00.gif",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch4/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "สหรัฐอเมริกา - เมเจอร์ลีก : เอฟซี ดัลลัส พบ ซีแอตเทิล ซาวน์เดอร์ส",
-   "info": " 08:00 ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch11/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "สหรัฐอเมริกา - USL Championship : ชาร์ลส์ตัน แบตเตอรี่ พบ หลุยส์วิลล์ ซิตี้",
-   "info": " 06:30 LIVE ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch5/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "สหรัฐอเมริกา - USL Championship : ซาคราเมนโต้ รีพับบลิก พบ Phoenix Rising",
-   "info": " 09:00 ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch13/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "เวเนซุเอลา - ปรีเมร่า ดิวิซิโอน : เดปอร์ติโว่ ตาชิร่า พบ Academia Puerto Cabello",
-   "info": " 06:30 LIVE ",
+   "name": "สหรัฐอเมริกา - เมเจอร์ลีก : แวนคูเวอร์ ไวท์แคปส์ พบ Los Angeles FC",
+   "info": " 07:30 ",
    "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
    "url": "https://cdn1.aws-live-streaming.com/ais/ch6/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
-   "name": "โคลอมเบีย - ลีกา อากีล่า เบ : เลโอเนส เอฟซี พบ Fortaleza",
+   "name": "โคลอมเบีย - ลีกา อากีล่า เบ : บาร์รันกีย่า พบ ยาเนรอส",
    "info": " 07:30 ",
    "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch9/playlist.m3u8",
+   "url": "https://cdn1.aws-live-streaming.com/ais/ch5/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
-   "name": "บาสเก็ตบอล - เอ็นบีเอ : ชิคาโก้ บูลส์ พบ เดนเวอร์ นักเก็ทส์",
-   "info": " 08:00 ",
+   "name": "อเมริกา - อเมริกันฟุตบอล NFL : อินดีแอนาโพลิส โคลทส์ พบ แคโรไลนา แพนเธอร์ส",
+   "info": " 04:05 LIVE ",
+   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
+   "url": "https://cdn1.aws-live-streaming.com/ais/ch11/playlist.m3u8",
+   "referer": "https://www.aisplay24hd.com/"
+  },
+  {
+   "name": "อเมริกา - อเมริกันฟุตบอล NFL : แดลลัส คาวบอยส์ พบ ฟิลาเดลเฟีย อีเกิลส์",
+   "info": " 04:25 LIVE ",
    "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
    "url": "https://cdn1.aws-live-streaming.com/ais/tsp1/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
-   "name": "เปรู - ปรีเมร่า ดิวิซิโอน : Universitario พบ อาเลียนซ่า ลิม่า",
-   "info": " 08:00 ",
+   "name": "อเมริกา - อเมริกันฟุตบอล NFL : นิวยอร์ก ไจแอนส์ พบ ลาสเวกัส เรดเดอร์ส",
+   "info": " 04:25 LIVE ",
    "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch12/playlist.m3u8",
+   "url": "https://cdn1.aws-live-streaming.com/ais/tsp3/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   },
   {
-   "name": "มวยไทย : ศึกมวยดีวิถีไทย พบ ศึกมวยดีวิถีไทย",
-   "info": " 12:15 ",
+   "name": "อเมริกา - อเมริกันฟุตบอล NFL : บัฟฟาโล บิลส์ พบ ซินซินแนติ เบงกอลส์",
+   "info": " 08:20 ",
    "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/pptv/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "ญี่ปุ่น - เจลีก ดิวิชัน 3 : อิมาบาริ พบ Sagamihara",
-   "info": " 11:00 ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch1/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "ญี่ปุ่น - เจลีก ดิวิชัน 3 : คาโงะชิมะ ยูไนเต็ด พบ นารา คลับ",
-   "info": " 11:00 ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch2/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "ญี่ปุ่น - เจลีก ดิวิชัน 3 : เอฮิเมะ พบ วายเอสซีซี",
-   "info": " 11:05 ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch5/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "ญี่ปุ่น - เจลีก ดิวิชัน 3 : Azul Claro Numazu พบ Tegevajaro Miyazaki",
-   "info": " 12:00 ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch10/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "ญี่ปุ่น - เจลีก ดิวิชัน 3 : คามาตามาเระ ซานูคิ พบ ปาร์ไซโร่ นางาโนะ",
-   "info": " 12:00 ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch11/playlist.m3u8",
-   "referer": "https://www.aisplay24hd.com/"
-  },
-  {
-   "name": "ญี่ปุ่น - เจลีก ดิวิชัน 3 : มัตซูโมโตะ ยามากะ พบ กิราวานซ์ คิตาคิวชิว",
-   "info": " 12:00 ",
-   "image": "https://lh3.googleusercontent.com/-x76iEXbOp2Q/ZRTyXveYfzI/AAAAAAAAFr8/ySK4Js8i1kgOn3F6RsPKPBNA353SHKWmACNcBGAsYHQ/h120/Click-Tab-rounded-JPEG.jpg",
-   "url": "https://cdn1.aws-live-streaming.com/ais/ch12/playlist.m3u8",
+   "url": "https://cdn1.aws-live-streaming.com/ais/tsp1/playlist.m3u8",
    "referer": "https://www.aisplay24hd.com/"
   }
  ]
