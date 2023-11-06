@@ -1,6 +1,6 @@
 {
  "name": "ละคร",
- "author": "เจียว เจียว อัพวันที่ 05 พฤศจิกายน 2566",
+ "author": "เจียว เจียว อัพวันที่ 06 พฤศจิกายน 2566",
  "info": "Watchlakorn ที่สุดของคนรักละคร",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
@@ -20,6 +20,13 @@
      "info": "วันที่ 4 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1699027628.jpg",
      "url": "https://www.watchlakorn.in/egdeny/4f487c8a80002246dcdca8dc9393087b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "นางฟ้าไร้นาม  ตอนที่ 3",
+     "info": "วันที่ 5 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699027628.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/4452c380f465fbe8f19bb071c723d748/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -163,6 +170,13 @@
      "info": "วันที่ 4 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1698019441.jpg",
      "url": "https://www.watchlakorn.in/egdeny/5250aea77b1bdfe01fa88200a59f25f2/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "หลังคาใบบัว  ตอนที่ 5",
+     "info": "วันที่ 5 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1698019441.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/609bf10ef684665b05e36a8124ef55fc/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -515,6 +529,13 @@
      "info": "วันที่ 29 ตุลาคม 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1696168946.jpg",
      "url": "https://www.watchlakorn.in/egdeny/fc3e1c1cbed3c304e2762bd001fcbe19/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกสองนครา  ตอนที่ 6",
+     "info": "วันที่ 5 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696168946.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/702eeed5b7973e593cf064cb1ecd0283/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1160,7 +1181,7 @@
    ]
   },
   {
-   "name": "ห้ามฟ้าห่มดาว [ยังไม่จบ]",
+   "name": "ห้ามฟ้าห่มดาว [จบแล้ว]",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1694306443.jpg",
    "stations": [
     {
@@ -1224,6 +1245,13 @@
      "info": "วันที่ 28 ตุลาคม 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1694306443.jpg",
      "url": "https://www.watchlakorn.in/egdeny/84dd47f5677f8b9c7f9cfa8b7162de30/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ห้ามฟ้าห่มดาวตอนจบ  ตอนที่ 10",
+     "info": "วันที่ 4 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1694306443.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/b0fdc8317d832b8d35421d72f843dbd2/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -15494,6 +15522,13 @@
      "info": "วันที่ 29 ตุลาคม 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1675610402.jpg",
      "url": "https://www.watchlakorn.in/egdeny/55cb46b42ec28c005507813c8dbc004f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ๊ไฝ ยอดนักสืบ คนที่ใช่ ยังไงก็ไม่เลือก ตอนที่ 38",
+     "info": "วันที่ 5 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1675610402.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f1b1c1284b6052c83b51a9a418b13f7b/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
