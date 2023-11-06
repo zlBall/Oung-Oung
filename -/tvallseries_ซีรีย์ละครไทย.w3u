@@ -1,9 +1,58 @@
 {
   "name": "ซีรีย์ละครไทย",
-  "author": "เจียว เจียว อัพวันที่ 01 พฤศจิกายน 2566",
+  "author": "เจียว เจียว อัพวันที่ 07 พฤศจิกายน 2566",
   "info": "อยู่ในมุมที่ตัวเองมีความสุข ไม่จำเป็นต้องโดดเด่น ไม่จำเป็นต้องเหมือนใคร",
   "image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
   "groups": [
+    {
+      "name": "Shadow (2023) เงา ล่า ตาย EP.1-14 (กำลังรอฉาย)",
+      "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Shadow-2023-185x278.webp",
+      "info": "ซีรีย์ไทย",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Shadow-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/81e46fb2-730a-42bb-acca-bbc593b0f478/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Shadow-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/6d8840c4-ffbd-40a3-9e66-d1f3015c1164/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Shadow-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/1bb463ab-de77-4235-aefd-ef87ba18444b/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Shadow-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/479e091f-167c-4bf4-bf4c-c2e8e088b6d5/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Shadow-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/ab7ff0ab-8c71-4eb8-a62e-8afcd345f8d2/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Shadow-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/4429f51f-f180-4e95-92d0-d472e93b3fc6/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Shadow-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/66f7113b-4ef9-4e1f-92a0-11bfbe1cadcc/_"
+        }
+      ]
+    },
     {
       "name": "Love Destiny 2 (2023) พรหมลิขิต EP.1-26 (กำลังรอฉาย)",
       "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Love-Destiny-2-2023-185x278.webp",
@@ -38,6 +87,18 @@
           "info": "พากย์ไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Love-Destiny-2-2023-185x278.webp",
           "url": "https://playcdn.tvallseries.com/e05bca2d-4991-45fe-bbdc-90e55abbb372/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Love-Destiny-2-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/a7e39492-370a-41e0-a82c-980e184839ec/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Love-Destiny-2-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/5fe50b90-9698-4b52-be98-40abba95167d/_"
         }
       ]
     },
@@ -1186,6 +1247,18 @@
           "info": "พากย์ไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/08/One-Night-Stand-2023-185x278.webp",
           "url": "https://playcdn.tvallseries.com/899fa5c4-d94c-4834-a672-57a8d150f361/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/08/One-Night-Stand-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/9381fbb6-d36d-41ad-aeff-7b65e60a2f0c/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/08/One-Night-Stand-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/4917bdd7-9fbf-4607-9d92-2f79575f5d79/_"
         }
       ]
     },
@@ -4725,6 +4798,12 @@
           "info": "พากย์ไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/03/เป็นต่อ-2023-185x278.jpg",
           "url": "https://playcdn.tvallseries.com/4ae42fa2-608b-4845-b2bf-ed2119aeb3e9/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 43",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/03/เป็นต่อ-2023-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/422a0bf6-523d-4be6-8613-ee3f92bb3e96/_"
         }
       ]
     },
