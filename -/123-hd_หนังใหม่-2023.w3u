@@ -1,9 +1,127 @@
 {
   "name": "หนังใหม่ 2023",
-  "author": "เจียว เจียว อัพวันที่ 03 พฤศจิกายน 2566",
+  "author": "เจียว เจียว อัพวันที่ 06 พฤศจิกายน 2566",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
+    {
+      "name": "Praise This (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Praise-This-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "Praise This (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Praise-This-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/637a99ca569a2bbe47c778e8/637a99ca569a2bbe47c778e8438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Baker (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Baker-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Baker (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Baker-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/93305c8f7a3771339e7ee236/93305c8f7a3771339e7ee236438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/PAW-Patrol-The-Mighty-Movie-2023-ขบวนการเจ้าตูบสี่ขา-เดอะ-ไมตี้-มูฟวี่-300x450.jpg",
+      "stations": [
+        {
+          "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/PAW-Patrol-The-Mighty-Movie-2023-ขบวนการเจ้าตูบสี่ขา-เดอะ-ไมตี้-มูฟวี่-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/5d88e723b748e50b3be0af17/5d88e723b748e50b3be0af17438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/PAW-Patrol-The-Mighty-Movie-2023-ขบวนการเจ้าตูบสี่ขา-เดอะ-ไมตี้-มูฟวี่-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/ca3b118b50df1a5a9a452df9/ca3b118b50df1a5a9a452df9438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Dagger Of Kill Celestial Being (2023) มีดบินสังหารสรรพสิ่ง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Dagger-Of-Kill-Celestial-Being-2023-มีดบินสังหารสรรพสิ่ง-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Dagger Of Kill Celestial Being (2023) มีดบินสังหารสรรพสิ่ง",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Dagger-Of-Kill-Celestial-Being-2023-มีดบินสังหารสรรพสิ่ง-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/ef772b61e71bdc90b97adf7c/ef772b61e71bdc90b97adf7c438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Pet Sematary Bloodlines (2023) กลับจากป่าช้า จุดเริ่มต้น",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Pet-Sematary-Bloodlines-2023-กลับจากป่าช้า-จุดเริ่มต้น-300x450.jpg",
+      "stations": [
+        {
+          "name": "Pet Sematary Bloodlines (2023) กลับจากป่าช้า จุดเริ่มต้น",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Pet-Sematary-Bloodlines-2023-กลับจากป่าช้า-จุดเริ่มต้น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/496dc43c065ff5c6bc539a01/496dc43c065ff5c6bc539a01438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "My Precious (2023) รักแรกโคตรลืมยาก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/My-Precious-2023-รักแรกโคตรลืมยาก-1-300x450.jpg",
+      "stations": [
+        {
+          "name": "My Precious (2023) รักแรกโคตรลืมยาก",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/My-Precious-2023-รักแรกโคตรลืมยาก-1-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/abcdca6fa4edb3710b669644/abcdca6fa4edb3710b669644438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Lost in the Stars (2023) เมียผมหายในหมู่ดาว",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Lost-in-the-Stars-2023-เมียผมหายในหมู่ดาว-300x450.jpg",
+      "stations": [
+        {
+          "name": "Lost in the Stars (2023) เมียผมหายในหมู่ดาว",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Lost-in-the-Stars-2023-เมียผมหายในหมู่ดาว-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/3bf174fe947dff8c3448d1ae/3bf174fe947dff8c3448d1ae438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "M3gan (2023) เมแกน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/01/M3gan-2023-เมแกน-300x450.png",
+      "stations": [
+        {
+          "name": "M3gan (2023) เมแกน",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/01/M3gan-2023-เมแกน-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/7168d221dd2cc3f68aa33aaf/7168d221dd2cc3f68aa33aaf438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "M3gan (2023) เมแกน",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/01/M3gan-2023-เมแกน-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/6d899e9f2e9d688fad7db4df/6d899e9f2e9d688fad7db4df438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
     {
       "name": "Nyad (2023) ว่ายเพื่อฝัน",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Nyad-2023-ว่ายเพื่อฝัน-300x450.jpg",
@@ -743,19 +861,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Devil-on-Trial-2023-พิพากษาปีศาจ-300x450.jpg",
           "url": "https://main.77player.xyz/m3u8/3544d66d84f90be8d2e3d04e/3544d66d84f90be8d2e3d04e438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/PAW-Patrol-The-Mighty-Movie-2023-ขบวนการเจ้าตูบสี่ขา-เดอะ-ไมตี้-มูฟวี่-300x450.jpg",
-      "stations": [
-        {
-          "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/PAW-Patrol-The-Mighty-Movie-2023-ขบวนการเจ้าตูบสี่ขา-เดอะ-ไมตี้-มูฟวี่-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/5d88e723b748e50b3be0af17/5d88e723b748e50b3be0af17438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -7139,26 +7244,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Still-Time-2023-อย่ารอให้เวลาติดปีก-300x450.png",
           "url": "https://main.77player.xyz/m3u8/ebcd2c2ad795a8cda9c6b913/ebcd2c2ad795a8cda9c6b913438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "M3gan (2023) เมแกน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/01/M3gan-2023-เมแกน-300x450.png",
-      "stations": [
-        {
-          "name": "M3gan (2023) เมแกน",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/01/M3gan-2023-เมแกน-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/7168d221dd2cc3f68aa33aaf/7168d221dd2cc3f68aa33aaf438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "M3gan (2023) เมแกน",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/01/M3gan-2023-เมแกน-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/6d899e9f2e9d688fad7db4df/6d899e9f2e9d688fad7db4df438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
