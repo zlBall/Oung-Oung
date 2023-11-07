@@ -2,7 +2,7 @@
 	"name": "(=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)",
 	"author": "เจียว เจียว",
 	"image": "https://i.ibb.co/TWNQhtv/image.png",
-	"url": "https://br14.short.gy/เจียวเจียว",
+	"url": "https://br14.short.gy/ช่องของเจียวเจียว",
 	"groups": [
     {
         "name": "แจกฟรี 100%",
@@ -26,7 +26,7 @@
 	{
 		"name": "กด Refresh เพื่ออัพเดท",
 		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7TR0FDy8YEHn4IqG9TGjNpcnEwB1qubzUEdMduUGsBNVqHPbk_k1pnloPPxNmevypd9dPwRYHtVe7jTjo2HDgK1Nu7xQOeskJ2dTrz94KoRuWqQhZlViZXJQDdThb6tR1khNAS4Kd7mUOVDHjABnGJ513dIf69luaiOpUlLFV6q1KlchDn2R-LZ4VOA/w510-h640/depositphotos_54665347-stock-photo-refresh-rotate-icon-glossy-green.jpg",
-		"url": "https://br14.short.gy/เจียวเจียว",
+		"url": "https://br14.short.gy/ช่องของเจียวเจียว",
 		"import": "true"
 	},
 	{
