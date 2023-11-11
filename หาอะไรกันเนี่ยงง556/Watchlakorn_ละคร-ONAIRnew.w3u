@@ -712,6 +712,41 @@
    ]
   },
   {
+   "name": "สลับรักนักลูกยาง",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1699665737.jpg",
+   "stations": [
+    {
+     "name": "สลับรักนักลูกยาง  ตอนที่ 1",
+     "info": "วันที่ 3 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699665737.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ef0ef6151d3a536636f18c549854f046/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สลับรักนักลูกยาง  ตอนที่ 2",
+     "info": "วันที่ 10 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699665737.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f59c6e55185b8855c5162c3f3afe2936/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "พี่เจตคนกลาง",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1699665673.jpg",
+   "stations": [
+    {
+     "name": "พี่เจตคนกลาง  ตอนที่ 1",
+     "info": "วันที่ 10 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699665673.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a4b146b375965458e977797940149045/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
    "name": "กษัตริยา",
    "info": "Watchlakorn.in",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1688484903.jpg",
@@ -2471,160 +2506,6 @@
      "info": "วันที่ 7 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1699285338.jpg",
      "url": "https://www.watchlakorn.in/egdeny/7af0935495b9c150aa1a3eece91fa6e6/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "ชีวิตภาคสอง",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1699372838.jpg",
-   "stations": [
-    {
-     "name": "ชีวิตภาคสอง  ตอนที่ 1",
-     "info": "วันที่ 7 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1699372838.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/d80c25fa2c4e9e6aff4770f227af964f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "พนมนาคา",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-   "stations": [
-    {
-     "name": "พนมนาคา  ตอนที่ 1",
-     "info": "วันที่ 4 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/59fbad7d46c710398795fbcef5bc6d89/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 2",
-     "info": "วันที่ 5 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/9671886fe47396b8023dc6f5be1f1d0c/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 3",
-     "info": "วันที่ 11 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/df28b698f80e334be5e4046013245e6f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 4",
-     "info": "วันที่ 12 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/543a43328986170b998c6fd8efedf951/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 5",
-     "info": "วันที่ 18 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e4fb35500915d6de5db21fe61f4a233f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 6",
-     "info": "วันที่ 19 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/6d14f0300ea526a8c5d4b8ff8bd6e311/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 7",
-     "info": "วันที่ 25 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/1bd544ea4e2e67607488965c625aa96b/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 8",
-     "info": "วันที่ 26 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/bf516bb26e2e95569ec2d63ab2c1bbc5/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 9",
-     "info": "วันที่ 2 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/616d375f45a9dd62e14f2a387c4de944/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 10",
-     "info": "วันที่ 3 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/b9490061ea32128f60f405d15960c61d/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 11",
-     "info": "วันที่ 9 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/6f84a106a9da2ee38eaf3f383994ccc8/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 12",
-     "info": "วันที่ 10 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/1f57a1d040cdc0779c5446acd527ceab/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 13",
-     "info": "วันที่ 16 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/92542a5eab708f5bef5465020e535d31/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 14",
-     "info": "วันที่ 17 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/872a1f325e1a4f36475825364e6fc4f8/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 15",
-     "info": "วันที่ 23 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/448f6635150d6140fb902ff3bd138ff8/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 16",
-     "info": "วันที่ 24 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/68000d8dc54b5c6e043a415057e6cd4e/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 17",
-     "info": "วันที่ 30 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/49ecd9b787f39504755c6cb44531ed1c/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคา  ตอนที่ 18",
-     "info": "วันที่ 31 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/6829c0b14fa093f28eb9bb130bf356d7/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "พนมนาคาตอนจบ  ตอนที่ 19",
-     "info": "วันที่ 6 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/5c7e12fe4eb690fa857e66d8d7a22fc1/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
