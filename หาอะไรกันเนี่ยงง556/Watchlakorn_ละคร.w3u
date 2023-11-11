@@ -1,9 +1,49 @@
 {
  "name": "ละคร",
- "author": "เจียว เจียว อัพวันที่ 09 พฤศจิกายน 2566",
+ "author": "เจียว เจียว อัพวันที่ 11 พฤศจิกายน 2566",
  "info": "Watchlakorn ที่สุดของคนรักละคร",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
+  {
+   "name": "พี่ว้ากคะรักหนูได้มั้ย [ยังไม่จบ]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1699492092.jpg",
+   "stations": [
+    {
+     "name": "พี่ว้ากคะ รักหนูได้มั้ย  ตอนที่ 1",
+     "info": "วันที่ 8 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699492092.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/5c4ef7e1486331dd6fef10d67382499b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "มนตราฟ้าฟื้น [ยังไม่จบ]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1699456935.jpg",
+   "stations": [
+    {
+     "name": "มนตราฟ้าฟื้น  ตอนที่ 1",
+     "info": "วันที่ 8 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699456935.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/26c9a69498a82abd55e577d3016bf279/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มนตราฟ้าฟื้น  ตอนที่ 2",
+     "info": "วันที่ 9 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699456935.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/d3bc907998aa1262e84168937a2b9fb1/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มนตราฟ้าฟื้น  ตอนที่ 3",
+     "info": "วันที่ 10 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699456935.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/99da5e95e5cdccce469f57d2c76b78f7/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
   {
    "name": "ชีวิตภาคสอง [ยังไม่จบ]",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1699372838.jpg",
@@ -40,6 +80,13 @@
      "info": "วันที่ 8 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1699285448.jpg",
      "url": "https://www.watchlakorn.in/egdeny/44fb606646a52a962490ae73a763ff8a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "แม่โขง  ตอนที่ 4",
+     "info": "วันที่ 9 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699285448.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/0b6d55f8a57384e52fc40929e57eb6d9/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -88,6 +135,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1699027628.jpg",
      "url": "https://www.watchlakorn.in/egdeny/4452c380f465fbe8f19bb071c723d748/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "นางฟ้าไร้นาม  ตอนที่ 4",
+     "info": "วันที่ 10 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699027628.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/dcaf08f3a840d3947dfcc6e024e91b3b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -107,6 +161,20 @@
      "info": "วันที่ 3 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1698941840.jpg",
      "url": "https://www.watchlakorn.in/egdeny/ac751535aa6df891f8367e06d7b68cd3/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "กลเกมรัก  ตอนที่ 3",
+     "info": "วันที่ 9 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1698941840.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/365cb2b6bf24c44a04a51fa4f0610180/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "กลเกมรัก  ตอนที่ 4",
+     "info": "วันที่ 10 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1698941840.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/8b9773a6600927498c9f5bd16ffff96b/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -155,6 +223,20 @@
      "info": "วันที่ 8 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1698940450.jpg",
      "url": "https://www.watchlakorn.in/egdeny/5d125fe3db8fe5b4aa666b5d11d97a94/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ไลลาธิดายักษ์ 2  ตอนที่ 7",
+     "info": "วันที่ 9 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1698940450.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/603472e6aa01a63a2def89fefc32b884/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ไลลาธิดายักษ์ 2  ตอนที่ 8",
+     "info": "วันที่ 10 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1698940450.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/053fc3dc8bd51a38836018a0ae214cd9/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -238,6 +320,13 @@
      "info": "วันที่ 8 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1698062191.webp",
      "url": "https://www.watchlakorn.in/egdeny/37c326e06fba8ca175a8da18455ab96b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เรือนชฎานาง  ตอนที่ 12",
+     "info": "วันที่ 9 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1698062191.webp",
+     "url": "https://www.watchlakorn.in/egdeny/2cc078019767a970f4f320f57ac77882/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -425,6 +514,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1697031176.jpg",
      "url": "https://www.watchlakorn.in/egdeny/8f8735ac8b4195951bb460f925a16520/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "vip รักซ่อนชู้  ตอนที่ 10",
+     "info": "วันที่ 9 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1697031176.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/df93a7efc5d0f66ba2370dcb58ecbd5c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -605,6 +701,20 @@
      "info": "วันที่ 8 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
      "url": "https://www.watchlakorn.in/egdeny/24e7e2f0c7953714e57bd3a0e560b5e6/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 26",
+     "info": "วันที่ 9 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/96627ea8c4462566c8a40a2335a61493/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 27",
+     "info": "วันที่ 10 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/dff4fa8450ed9f59b6055054468838d9/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1369,6 +1479,13 @@
      "info": "วันที่ 3 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1694784078.jpg",
      "url": "https://www.watchlakorn.in/egdeny/5f570067ace427edbed95392e2b5d8f4/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "หมอลำไอดอล  ตอนที่ 9",
+     "info": "วันที่ 10 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1694784078.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/b27734ac62f00e699f0c91e1e820c936/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -2892,6 +3009,68 @@
    ]
   },
   {
+   "name": "รักไม่รู้ภาษา [จบแล้ว]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1692461580.jpg",
+   "stations": [
+    {
+     "name": "รักไม่รู้ภาษา  ตอนที่ 1",
+     "info": "วันที่ 19 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692461580.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/9c55d3a1b1f80887f216495cbca0fd22/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "รักไม่รู้ภาษา  ตอนที่ 2",
+     "info": "วันที่ 26 สิงหาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692461580.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/6e566afee6193de60ff1e5da60ad93c5/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "รักไม่รู้ภาษา  ตอนที่ 3",
+     "info": "วันที่ 2 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692461580.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/155c717588fcbe5499878069bbaaea5f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "รักไม่รู้ภาษา  ตอนที่ 4",
+     "info": "วันที่ 9 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692461580.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/dbcfc22b08d5ffe150c79dc8ee82576c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "รักไม่รู้ภาษา  ตอนที่ 5",
+     "info": "วันที่ 16 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692461580.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/35713cf9819b2735df862651966678e4/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "รักไม่รู้ภาษา  ตอนที่ 6",
+     "info": "วันที่ 23 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692461580.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/5af67d784ee1c30bc5f9534b04af5917/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "รักไม่รู้ภาษา  ตอนที่ 7",
+     "info": "วันที่ 30 กันยายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692461580.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/20f1ba96bf29453cdb4c6f3bfb3482b6/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "รักไม่รู้ภาษาตอนจบ  ตอนที่ 8",
+     "info": "วันที่ 7 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692461580.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/84849511b8ceadcb6c174d90ab8c12e8/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
    "name": "หอมกลิ่นความรัก [จบแล้ว]",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1692403556.jpg",
    "stations": [
@@ -3072,7 +3251,7 @@
    ]
   },
   {
-   "name": "คืนเปลี่ยนชีวิต [ยังไม่จบ]",
+   "name": "คืนเปลี่ยนชีวิต [จบแล้ว]",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1692374471.jpg",
    "stations": [
     {
@@ -3157,6 +3336,13 @@
      "info": "วันที่ 3 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1692374471.jpg",
      "url": "https://www.watchlakorn.in/egdeny/ff32d269406de1d5f7496a266451d383/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คืนเปลี่ยนชีวิตตอนจบ  ตอนที่ 13",
+     "info": "วันที่ 10 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692374471.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/49ba2f7b52eba3e0d130bb3a460fb34d/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -6243,6 +6429,20 @@
      "info": "วันที่ 8 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1688484903.jpg",
      "url": "https://www.watchlakorn.in/egdeny/38ced101b82d55532088438eeec6d9f1/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "กษัตริยา  ตอนที่ 73",
+     "info": "วันที่ 9 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1688484903.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a3e85b8459edd308f68a3875f6b55c91/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "กษัตริยา  ตอนที่ 74",
+     "info": "วันที่ 10 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1688484903.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/604f78796fb0c0c78449144ae51ca76d/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -26199,7 +26399,7 @@
      "name": "ฟ้าเพียงดิน  ตอนที่ 1",
      "info": "วันที่ 6 กรกฏาคม 2565",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1657126928.jpg",
-     "url": "No url m3u8",
+     "url": "https://www.watchlakorn.in/egdeny/3406b36fb7ccb02a3d9a72d266aa8af7/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     },
     {
@@ -62912,403 +63112,6 @@
      "info": "วันที่ 8 กันยายน 2563",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1596473823.jpg",
      "url": "https://www.watchlakorn.in/egdeny/fd754499a62f8482333fc21e79423281/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "ก่อนตะวันแลง [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-   "stations": [
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 1",
-     "info": "วันที่ 30 กรกฏาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/7c6229ec11444e083c6ce0d7984c6c9b/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 2",
-     "info": "วันที่ 31 กรกฏาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e489a36fcf64286b27ec453557da1164/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 3",
-     "info": "วันที่ 3 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/6f56bfd273da7a7098373651f32c0adc/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 4",
-     "info": "วันที่ 4 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/bf502d6881ccfd98a74f51260bbe8f7b/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 5",
-     "info": "วันที่ 5 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/b711b17db3be9c3be9166655d5ef1d20/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 6",
-     "info": "วันที่ 6 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/3f8a762206935dad5792c4a4fc5354e9/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 7",
-     "info": "วันที่ 7 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/98661b91782891386f4f7608e154890f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 8",
-     "info": "วันที่ 10 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/8363bf6f8b1f5279e20df3cf033a2bfb/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 9",
-     "info": "วันที่ 11 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/37c53ae0608690cd09d1b2537f01ae9a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 10",
-     "info": "วันที่ 13 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/82748503c4a73be87192268da414cd66/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 11",
-     "info": "วันที่ 14 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/fef6f41943e90a9084afecb19adc046b/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 12",
-     "info": "วันที่ 17 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/1b1b85e54b9be5b9b2750376223e7f65/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 13",
-     "info": "วันที่ 18 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/0aa89c42e95745595ba49c863e6ee9aa/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 14",
-     "info": "วันที่ 19 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/77c64ecac5e32cc0373ffd06c45cb098/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 15",
-     "info": "วันที่ 20 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/aa1746bc595d5dcc99c6e2931c0aa1a9/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 16",
-     "info": "วันที่ 21 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/7aa3ab82d2a1ae117fdd5bf7543737ee/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 17",
-     "info": "วันที่ 24 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e585649aae002bf6075edc5f77c5d20d/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 18",
-     "info": "วันที่ 25 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/d2d95cea37fcbdb314b8885ef7dddb20/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 19",
-     "info": "วันที่ 26 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/abcfab299211e11a4eb1742ae43f9689/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 20",
-     "info": "วันที่ 27 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/0feec456348352d440da33465172d0ca/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 21",
-     "info": "วันที่ 28 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/b27632cddcb39cb8fbfc9d99f88592d5/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 22",
-     "info": "วันที่ 31 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/90a53776ae25fe12a9de86ee0d929194/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 23",
-     "info": "วันที่ 1 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f2a0c113b4f04002a6549bd940c54a95/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 24",
-     "info": "วันที่ 2 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/01c02b3d324caba3c62ecbddbd728724/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 25",
-     "info": "วันที่ 3 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/1fc6d7312ca87a5c3e6452023e828f90/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 26",
-     "info": "วันที่ 4 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/ff8e69b02eb3c836f0a9bab191cf3011/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 27",
-     "info": "วันที่ 7 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/039d350e04a00f433360ec8999bd91b4/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 28",
-     "info": "วันที่ 8 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/7e164fce1dfbb0568daf226f8f26afa4/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 29",
-     "info": "วันที่ 9 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f06de8c955d67a99a77bde6fc659ee2a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 30",
-     "info": "วันที่ 10 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/42ed50ad55c7e07fef97f75275e00000/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 31",
-     "info": "วันที่ 11 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/aba61858be73dba627638f9a1d2d7b6a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 32",
-     "info": "วันที่ 14 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/62da1c28c708bd1f74c575b11c8818f2/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 33",
-     "info": "วันที่ 15 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/fc27606d14f242782fcad9cdf65d8e5a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 34",
-     "info": "วันที่ 16 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/82dffac495ebfe1a87386fc5da2792fc/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 35",
-     "info": "วันที่ 17 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/346713d833ef2e8645e901caf6ef839d/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ก่อนตะวันแลง  ตอนที่ 36",
-     "info": "วันที่ 18 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1596119833.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/8bde6a0495bd669ae9f1a3c4f5f36b2d/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "ดวงแบบนี้ไม่มีจู๋ [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-   "stations": [
-    {
-     "name": "ดวงแบบนี้ไม่มีจู๋  ตอนที่ 1",
-     "info": "วันที่ 28 กรกฏาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/7060c804b35db9e97334a1522250fba3/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ดวงแบบนี้ไม่มีจู๋  ตอนที่ 2",
-     "info": "วันที่ 3 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f6c8947cc396050c04890a19dc947756/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ดวงแบบนี้ไม่มีจู๋  ตอนที่ 3",
-     "info": "วันที่ 4 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/82af11f13677819dd9a0eb21b0e75a82/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ดวงแบบนี้ไม่มีจู๋  ตอนที่ 4",
-     "info": "วันที่ 10 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/1eeeb8a0ebf42b3e3cb49bb13f20e1c6/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ดวงแบบนี้ไม่มีจู๋  ตอนที่ 5",
-     "info": "วันที่ 11 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/0ae2610f63d08817a7761d246465b5ac/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ดวงแบบนี้ไม่มีจู๋  ตอนที่ 6",
-     "info": "วันที่ 17 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/aa5c599c5f8cca69258bdd6e4442a420/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ดวงแบบนี้ไม่มีจู๋  ตอนที่ 7",
-     "info": "วันที่ 18 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/59da917510d722e6c723907ea0cd88ce/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ดวงแบบนี้ไม่มีจู๋  ตอนที่ 8",
-     "info": "วันที่ 24 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/c954aa8e5050068cff2486fb1f2ab2dc/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ดวงแบบนี้ไม่มีจู๋  ตอนที่ 9",
-     "info": "วันที่ 25 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/1b8eb5fbb49d07a2ec901f8d74a93568/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ดวงแบบนี้ไม่มีจู๋  ตอนที่ 10",
-     "info": "วันที่ 31 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/37a39bc74dd6ec81766fe8075f62de07/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ดวงแบบนี้ไม่มีจู๋  ตอนที่ 11",
-     "info": "วันที่ 1 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/bee4e26ab268e5f6d46e5cc43eb06fe0/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ดวงแบบนี้ไม่มีจู๋  ตอนที่ 12",
-     "info": "วันที่ 7 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/61033eb1feff36b812ba748a0c602eb6/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ดวงแบบนี้ไม่มีจู๋  ตอนที่ 13",
-     "info": "วันที่ 8 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/eb1feb5ab28dec83652dd1e5c673f256/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ดวงแบบนี้ไม่มีจู๋  ตอนที่ 14",
-     "info": "วันที่ 14 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/cf612e3900f2ec66e6cc4af6daf13ecf/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ดวงแบบนี้ไม่มีจู๋  ตอนที่ 15",
-     "info": "วันที่ 15 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/64386f7e6182ce738130e3605d519585/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ดวงแบบนี้ไม่มีจู๋  ตอนที่ 16",
-     "info": "วันที่ 21 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/baa500286f0eb4dc67d8b3c1ec765f27/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ดวงแบบนี้ไม่มีจู๋  ตอนที่ 17",
-     "info": "วันที่ 22 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/240c79faedbb4526732c846d3509180f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ดวงแบบนี้ไม่มีจู๋  ตอนที่ 18",
-     "info": "วันที่ 28 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f22ce9adda5d8bac0f0872e42e7b5bb7/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ดวงแบบนี้ไม่มีจู๋  ตอนที่ 19",
-     "info": "วันที่ 29 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1595960158.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/0d33ceb3d857ac4d13910382c2415ea8/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
